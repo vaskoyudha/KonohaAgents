@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --font-inter: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  transition-property: color, background-color, border-color;
+  transition-duration: 200ms;
+}
