@@ -3,6 +3,7 @@ import rootPackageJson from '../../../package.json' with { type: 'json' }
 import { registerValidateCommand } from './commands/validate'
 import { registerListCommand } from './commands/list'
 import { registerSearchCommand } from './commands/search'
+import { registerSyncCommand } from './commands/sync'
 
 type RootPackage = {
   version?: string
@@ -20,8 +21,7 @@ program
 registerValidateCommand(program)
 registerListCommand(program)
 registerSearchCommand(program)
-
-program.command('sync').description('Sync agents (stub)')
+registerSyncCommand(program)
 
 if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
   void program.parseAsync(process.argv)
