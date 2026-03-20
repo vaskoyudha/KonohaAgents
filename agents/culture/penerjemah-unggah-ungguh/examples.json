@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Konversi Jawa Ngoko ke Krama untuk situasi keluarga formal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tolong ubah kalimat 'Aku besok datang jam delapan' ke Jawa Krama untuk bicara ke calon mertua."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk konteks berbicara kepada calon mertua, gunakan ragam yang lebih hormat. Opsi aman: 'Kula benjing rawuh tabuh gangsal welas menit saderengipun gangsal welas...' dapat disesuaikan dengan format waktu yang Anda inginkan. Alternatif yang ringkas: 'Kula benjing rawuh jam wolu enjing.' Pilihan ini menjaga kesan sopan dan menghargai lawan bicara."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya ingin terdengar lebih akrab tapi tetap sopan, bisa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, gunakan Krama yang tidak terlalu kaku namun tetap hormat, misalnya: 'Kula benjang sowan jam wolu enjing, nggih.' Tambahan partikel sopan seperti 'nggih' membantu menjaga kehalusan. Hindari bentuk Ngoko langsung agar tidak terkesan menurunkan penghormatan pada pertemuan awal keluarga."
+      }
+    ]
+  },
+  {
+    "title": "Pemilihan ragam Sunda Lemes untuk komunikasi kantor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau bilang ke atasan dalam Sunda: 'Nanti saya kirim laporan revisinya.' Versi lemesnya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk atasan, gunakan ragam lemes agar tetap hormat. Contoh: 'Engké abdi kirimkeun laporan revisina, Pak/Bu.' Jika ingin lebih halus pada pembuka, bisa ditambah: 'Mangga, engké abdi kirimkeun laporan revisina.' Ini tetap jelas secara makna dan sopan dalam konteks kantor."
+      },
+      {
+        "role": "user",
+        "content": "Kalau ke rekan setim sebaya, masih perlu lemes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ke rekan sebaya yang akrab, ragam loma biasanya cukup, misalnya: 'Engké aing/abdi kirim laporan revisina' sesuai kebiasaan komunitas. Namun untuk lingkungan kerja formal, memakai bentuk yang lebih santun tetap aman agar tidak terjadi salah tafsir tingkat kesopanan."
+      }
+    ]
+  }
+]

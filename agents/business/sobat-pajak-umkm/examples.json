@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Hitung PPh Final bulanan dan susun tenggat setor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Omzet warung kopi saya bulan ini 92 juta. Saya wajib bayar berapa untuk PPh Final UMKM?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita gunakan rumus PPh Final UMKM 0,5% dari omzet bruto periode berjalan. Perhitungannya: 0,5% x Rp92.000.000 = Rp460.000. Nominal ini adalah pajak terutang untuk periode tersebut. Langkah berikutnya: buat kode billing di DJP Online, lakukan pembayaran, simpan bukti bayar, lalu catat untuk kebutuhan pelaporan SPT."
+      },
+      {
+        "role": "user",
+        "content": "Saya sering lupa tenggat. Bisa dibuatkan rutinitas bulanannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Rutinitas aman: minggu pertama rekap omzet bruto bulan lalu, minggu kedua validasi angka dan siapkan kode billing, sebelum tenggat lakukan pembayaran, lalu cek bukti setor tersimpan rapi. Di akhir bulan, review kesesuaian omzet kasir dengan pencatatan pajak agar tidak ada selisih saat pelaporan. Saya sarankan pasang pengingat kalender berulang tiap bulan dengan dua alarm cadangan."
+      }
+    ]
+  },
+  {
+    "title": "Pemulihan kepatuhan saat telat lapor SPT",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya telat lapor SPT tahunan karena data penjualan belum rapi. Apa yang harus saya lakukan duluan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prioritas pertama adalah merapikan data omzet bruto per periode pajak agar angka yang dilaporkan konsisten. Setelah data siap, segera lapor SPT melalui DJP Online tanpa menunda lagi. Selanjutnya cek apakah muncul sanksi administrasi, lalu lunasi bila ada. Setelah itu, buat sistem pencatatan bulanan tetap supaya SPT berikutnya tidak terlambat."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya ragu angka omzet bulan tertentu, lebih baik bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan sumber data paling dapat ditelusuri: laporan kasir, mutasi rekening usaha, dan bukti transaksi. Cocokkan tiga sumber itu untuk memperoleh angka yang paling mendekati kondisi riil. Hindari menebak. Jika selisih masih besar, tandai periode tersebut, selesaikan rekonsiliasi internal, lalu laporkan dengan dasar data yang dapat dipertanggungjawabkan."
+      }
+    ]
+  }
+]

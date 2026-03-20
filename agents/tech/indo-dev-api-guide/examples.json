@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Desain webhook pembayaran anti duplikasi transaksi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami pakai Midtrans. Bagaimana desain webhook supaya order tidak diproses dua kali?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan empat lapisan. Pertama, verifikasi signature webhook di server. Kedua, simpan event_id dan order_id pada tabel idempotensi dengan unique constraint. Ketiga, proses perubahan status dalam transaksi database atomic. Keempat, kirim acknowledgment cepat lalu jalankan pekerjaan non-kritis via worker antrean. Dengan pola ini, notifikasi ulang dari provider tidak memicu double-processing."
+      },
+      {
+        "role": "user",
+        "content": "Kalau webhook telat atau gagal masuk, bagaimana menjaga konsistensi status?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tambahkan fallback polling terjadwal ke endpoint status transaksi sebagai jalur rekonsiliasi. Tetapkan sumber kebenaran status pada payment service internal, bukan langsung dari UI. Saat ada selisih antara webhook dan polling, tandai anomali, catat audit log, lalu jalankan prosedur koreksi otomatis dengan batas retry terukur."
+      }
+    ]
+  },
+  {
+    "title": "Arsitektur pembayaran multi channel Xendit dan QRIS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin gabungkan virtual account Xendit dan QRIS. Arsitektur minim gagal seperti apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bangun payment orchestration service sebagai lapisan tunggal. Service ini membuat pembayaran, menyimpan status normalisasi lintas channel, dan menerima webhook dari tiap provider. Terapkan circuit breaker untuk pemanggilan API eksternal, idempotency key untuk create payment, serta antrian terpisah untuk proses notifikasi pelanggan."
+      },
+      {
+        "role": "user",
+        "content": "Metrik apa yang wajib dipantau setiap hari?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pantau rasio keberhasilan pembayaran per channel, latency endpoint create payment, jumlah webhook gagal verifikasi, retry queue depth, dan jumlah transaksi berstatus menggantung lebih dari ambang waktu. Tambahkan alarm untuk lonjakan error 5xx provider agar tim bisa cepat mengaktifkan fallback operasional."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Verifikasi legalitas aplikasi pinjaman sebelum pengajuan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada aplikasi pinjaman yang katanya cair 10 menit. Bagaimana cara cek legalitasnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebelum mengajukan, kumpulkan dulu nama aplikasi, nama badan hukum, situs resmi, dan kontak layanan. Lalu cocokkan data itu dengan informasi resmi OJK/SIDeKA. Jika nama aplikasi tidak sesuai dengan badan hukum yang tercatat atau tidak ditemukan di daftar resmi, hentikan proses pengajuan. Jangan unggah data pribadi sebelum legalitasnya jelas."
+      },
+      {
+        "role": "user",
+        "content": "Kalau tidak ketemu di daftar resmi, langkah aman berikutnya apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anggap berisiko tinggi dan jangan lanjut transaksi. Simpan tangkapan layar bukti penawaran, nomor kontak, serta tautan aplikasi. Setelah itu laporkan dugaan pinjol ilegal melalui kanal pengaduan resmi OJK. Langkah ini melindungi Anda dan membantu mencegah korban lain."
+      }
+    ]
+  },
+  {
+    "title": "Analisis beban pinjaman terhadap kemampuan bayar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ditawari pinjaman 4 juta, biaya admin 12% dan bunga harian. Saya gaji bersih 3,2 juta per bulan. Aman tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita hitung dulu total bebannya. Biaya admin 12% dari Rp4.000.000 berarti Rp480.000 sejak awal. Ditambah bunga harian, total pengembalian bisa naik tajam, apalagi jika ada denda keterlambatan. Dengan gaji bersih Rp3,2 juta, skema ini berisiko menekan kebutuhan pokok jika tenor pendek. Keputusan aman biasanya menunda atau mencari opsi biaya lebih rendah yang transparan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya tetap perlu dana cepat, apa yang harus saya cek minimal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pastikan legalitas penyelenggara terverifikasi, total biaya tertulis jelas sampai nominal akhir, tidak ada izin akses data pribadi berlebihan, serta ada kanal pengaduan resmi. Selain itu, pastikan cicilan dan total pengembalian masih bisa dibayar tanpa mengorbankan kebutuhan pokok bulanan. Jika tidak memenuhi syarat itu, lebih aman menolak."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menentukan KBLI utama usaha katering rumahan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau daftar NIB untuk usaha katering rumahan di Sleman, pesanan lewat WhatsApp dan marketplace. KBLI apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita petakan aktivitas inti Anda dulu: produksi makanan siap santap berdasarkan pesanan. Kanal WhatsApp dan marketplace adalah metode pemasaran, bukan inti layanan. Kandidat KBLI yang relevan biasanya berada pada jasa penyediaan makanan/katering. Saya rekomendasikan menjadikan KBLI jasa boga sebagai utama, lalu mencantumkan aktivitas pendukung jika ada. Setelah itu di OSS RBA: isi profil usaha, pilih KBLI utama, verifikasi tingkat risiko, lalu lanjutkan pemenuhan komitmen bila diminta."
+      },
+      {
+        "role": "user",
+        "content": "Dokumen minimum yang harus saya siapkan sebelum isi OSS apa saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Siapkan identitas penanggung jawab usaha, data alamat kegiatan usaha yang konsisten dengan domisili, kontak aktif, dan uraian kegiatan usaha yang spesifik. Pastikan nama usaha, lokasi, dan ruang lingkup kegiatan selaras agar validasi OSS tidak gagal. Setelah NIB terbit, cek apakah sektor Anda memerlukan Sertifikat Standar. Kalau ada ketidaksesuaian alamat, benahi profil terlebih dahulu sebelum ajukan ulang."
+      }
+    ]
+  },
+  {
+    "title": "Perbaikan pengajuan NIB yang ditolak karena data lokasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pengajuan NIB saya ditolak, katanya data lokasi usaha tidak sinkron. Saya bingung mulai perbaikan dari mana."
+      },
+      {
+        "role": "assistant",
+        "content": "Kita lakukan audit data berurutan. Pertama, samakan alamat pada identitas pelaku usaha, profil OSS, dan alamat kegiatan usaha. Kedua, cek penulisan wilayah administrasi agar sesuai kabupaten/kota yang benar. Ketiga, pastikan uraian kegiatan usaha pada KBLI sesuai lokasi operasional nyata. Setelah semua sinkron, simpan pembaruan profil lalu ajukan ulang NIB."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya punya gudang kecil terpisah, perlu KBLI tambahan?"
+      },
+      {
+        "role": "assistant",
+        "content": "KBLI tambahan diperlukan jika gudang menjalankan aktivitas usaha yang berdiri sendiri, bukan sekadar fasilitas internal. Jika gudang hanya mendukung kegiatan utama, biasanya cukup dicatat pada informasi operasional. Namun bila ada layanan pergudangan sebagai jasa tersendiri, pertimbangkan KBLI tambahan yang relevan agar klasifikasi usaha tidak keliru di OSS RBA."
+      }
+    ]
+  }
+]

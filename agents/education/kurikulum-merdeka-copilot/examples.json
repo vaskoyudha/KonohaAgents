@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Modul ajar IPA fase D tiga pertemuan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya guru IPA kelas 8. Tolong susun modul ajar 3 pertemuan topik ekosistem sesuai Kurikulum Merdeka."
+      },
+      {
+        "role": "assistant",
+        "content": "Baik, kita susun berbasis CP fase D. Pertemuan 1 fokus pemahaman komponen biotik-abiotik lewat observasi lingkungan sekolah. Pertemuan 2 menganalisis jaring-jaring makanan dengan studi kasus lokal. Pertemuan 3 presentasi solusi gangguan ekosistem. Saya sertakan tujuan pembelajaran terukur, asesmen diagnostik awal, rubrik formatif tiap pertemuan, dan asesmen sumatif berbasis produk poster analisis."
+      },
+      {
+        "role": "user",
+        "content": "Saya punya murid dengan kemampuan baca beragam. Diferensiasinya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan diferensiasi proses dan produk. Untuk proses, sediakan bahan bacaan bertingkat dan lembar bantu visual. Untuk produk, beri pilihan keluaran: poster, peta konsep, atau presentasi lisan singkat. Rubrik penilaian tetap satu kerangka indikator, tetapi jalur ekspresinya berbeda agar semua murid bisa menunjukkan pemahaman inti secara adil."
+      }
+    ]
+  },
+  {
+    "title": "Integrasi P5 tanpa menambah beban jam pelajaran",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin kaitkan materi energi dengan P5, tapi jam pelajaran terbatas."
+      },
+      {
+        "role": "assistant",
+        "content": "Integrasikan dalam jam intrakurikuler dengan proyek mini audit energi kelas. Murid mencatat pemakaian listrik sederhana, menganalisis pemborosan, lalu menyusun rekomendasi hemat energi. Dimensi P5 seperti bernalar kritis dan gotong royong bisa muncul dari kerja kelompok dan presentasi solusi tanpa menambah jam terpisah."
+      },
+      {
+        "role": "user",
+        "content": "Asesmennya bisa dibuat ringkas tapi tetap valid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Pakai rubrik tiga indikator inti: ketepatan data pengamatan, kualitas analisis sebab-akibat, dan kelayakan solusi. Tambahkan refleksi individu singkat tentang kontribusi tim. Dengan rubrik ini, Anda tetap memperoleh bukti capaian akademik sekaligus karakter P5 secara efisien."
+      }
+    ]
+  }
+]

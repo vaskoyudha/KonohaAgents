@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perbandingan ongkir antar pulau untuk barang menengah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kirim paket 12 kg dari Surabaya ke Ambon. Mau yang hemat tapi jangan terlalu lama."
+      },
+      {
+        "role": "assistant",
+        "content": "Baik, saya bandingkan opsi JNE, J&T, SiCepat, dan Lion Parcel berdasarkan berat tagih dan estimasi SLA rute antarpulau. Setelah dihitung, biasanya akan terlihat satu opsi paling hemat, satu opsi paling cepat, dan satu opsi seimbang. Untuk kebutuhan Anda, saya prioritaskan opsi seimbang: biaya tidak ekstrem tinggi tetapi estimasi waktu masih aman untuk barang umum."
+      },
+      {
+        "role": "user",
+        "content": "Perlu asuransi tidak kalau nilai barang sekitar 7 juta?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk nilai barang Rp7 juta dan rute antarpulau, asuransi sangat disarankan. Tambahkan kemasan berlapis dan dokumentasi foto sebelum serah terima agar proses klaim lebih kuat jika terjadi kerusakan atau kehilangan. Biaya tambahan asuransi biasanya sepadan dengan proteksi nilai barang pada rute dengan banyak titik transit."
+      }
+    ]
+  },
+  {
+    "title": "Strategi pengiriman barang rapuh dengan SLA ketat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kirim keramik dekoratif ke Manado, barang rapuh dan harus sampai maksimal 4 hari. Pilih kurir cepat saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk barang rapuh, kecepatan saja tidak cukup. Kita butuh kombinasi layanan cepat, standar penanganan yang baik, serta kemasan protektif. Saya sarankan pilih layanan prioritas pada kurir dengan rekam jejak rute tersebut, gunakan packing berlapis plus pelindung sudut, dan aktifkan asuransi agar risiko finansial terkelola."
+      },
+      {
+        "role": "user",
+        "content": "Checklist sebelum kirim yang paling penting apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Checklist inti: validasi alamat tujuan detail sampai kecamatan, ukur ulang dimensi untuk antisipasi volumetrik, foto kondisi barang sebelum packing, gunakan label fragil yang jelas, simpan bukti resi dan nilai barang, lalu pantau status kirim harian. Jika ada keterlambatan melewati ambang SLA, segera eskalasi ke layanan pelanggan kurir."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Persiapan awal dokumen sertifikasi halal usaha roti",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha roti rumahan. Dokumen awal apa yang wajib saya rapikan untuk sertifikasi halal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari empat kelompok dokumen. Pertama legalitas usaha dan identitas produk. Kedua daftar bahan lengkap termasuk bahan tambahan dan pemasok beserta bukti pendukung status halal. Ketiga diagram alur proses produksi dari penerimaan bahan sampai distribusi. Keempat kerangka SJPH: kebijakan halal internal, penanggung jawab, SOP titik kritis, dan bukti pelatihan tim."
+      },
+      {
+        "role": "user",
+        "content": "Bahan saya banyak dari toko grosir, tidak semua punya sertifikat jelas. Bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prioritaskan pemetaan bahan kritis terlebih dahulu. Untuk bahan tanpa bukti memadai, lakukan verifikasi ke pemasok atau ganti dengan alternatif yang dokumennya lebih kuat. Jangan menunda perbaikan sampai jadwal audit. Catat perubahan bahan secara tertib agar konsistensi antara dokumen dan praktik produksi tetap terjaga."
+      }
+    ]
+  },
+  {
+    "title": "Penutupan gap SJPH sebelum audit LPH",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Audit internal kami menemukan SOP ada tapi belum dijalankan konsisten. Apa prioritas perbaikannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fokus pada bukti implementasi, bukan hanya dokumen tertulis. Tetapkan PIC tiap SOP kritis, lakukan pelatihan ulang singkat, dan mulai pencatatan harian yang dapat ditelusuri. Jalankan simulasi audit mingguan untuk memastikan tim mengikuti prosedur yang sama antara shift produksi."
+      },
+      {
+        "role": "user",
+        "content": "Agar tidak kewalahan, urutan kerja dua minggu sebelum audit apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Minggu pertama: finalisasi master daftar bahan dan bukti pemasok, lalu uji kecocokan dengan stok gudang. Minggu kedua: verifikasi penerapan SOP di lantai produksi, lengkapi bukti pelatihan, dan lakukan gladi bersih wawancara tim halal. Dengan urutan ini, gap utama biasanya tertutup sebelum auditor datang."
+      }
+    ]
+  }
+]

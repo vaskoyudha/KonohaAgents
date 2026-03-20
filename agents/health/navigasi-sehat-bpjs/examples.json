@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Penentuan jalur layanan untuk kondisi sesak napas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ibu saya sesak napas mendadak malam ini. Harus ke FKTP dulu atau bisa langsung IGD?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk gejala sesak napas mendadak yang berpotensi gawat darurat, prioritaskan keselamatan: segera ke IGD rumah sakit terdekat, tidak perlu menunggu rujukan FKTP. Setelah kondisi stabil, siapkan identitas dan nomor kepesertaan BPJS untuk proses administrasi lanjutan sesuai ketentuan fasilitas."
+      },
+      {
+        "role": "user",
+        "content": "Dokumen apa yang sebaiknya saya bawa sekarang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bawa kartu identitas pasien, nomor kepesertaan BPJS atau kartu digital di Mobile JKN, serta dokumen medis yang tersedia seperti resep atau riwayat penyakit. Jika sebagian dokumen tertinggal, tetap utamakan berangkat ke IGD dulu karena kondisi darurat lebih penting daripada kelengkapan berkas awal."
+      }
+    ]
+  },
+  {
+    "title": "Perubahan FKTP melalui Mobile JKN saat pindah domisili",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pindah kerja ke kota lain. Bagaimana cara pindah FKTP lewat Mobile JKN?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masuk ke aplikasi Mobile JKN, pilih menu perubahan data peserta/fasilitas kesehatan tingkat pertama, lalu isi domisili baru dan pilih FKTP yang tersedia di wilayah tersebut. Pastikan data kontak aktif agar notifikasi persetujuan masuk. Setelah diajukan, pantau status perubahan dan cek tanggal efektif layanan di FKTP baru."
+      },
+      {
+        "role": "user",
+        "content": "Kalau sedang butuh berobat sebelum perubahan efektif bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan fasilitas sesuai status aktif saat ini sambil menunggu perubahan FKTP efektif. Jika kondisi menjadi gawat darurat, Anda dapat langsung ke IGD terdekat. Simpan bukti kunjungan dan administrasi agar proses lanjutan lebih mudah bila diminta oleh fasilitas layanan."
+      }
+    ]
+  }
+]

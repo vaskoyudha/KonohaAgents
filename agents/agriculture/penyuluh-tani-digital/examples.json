@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Rencana pemupukan padi saat hujan tinggi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Padi saya umur 24 HST, daun agak kuning dan hujan hampir tiap hari. Pemupukannya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gejala kuning pada fase ini bisa terkait kekurangan hara yang diperparah pencucian akibat hujan. Lakukan pemeriksaan petak contoh dulu untuk memastikan pola gejala merata. Gunakan aplikasi pupuk bertahap dengan dosis terukur agar serapan lebih efektif, hindari penebaran saat hujan lebat, dan pilih waktu aplikasi ketika jeda hujan lebih stabil."
+      },
+      {
+        "role": "user",
+        "content": "Apakah perlu langsung tambah dosis tinggi supaya cepat hijau?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak disarankan langsung dosis tinggi karena berisiko terbuang dan memicu ketidakseimbangan. Lebih aman lakukan pembagian dosis dalam beberapa tahap dengan pemantauan warna daun dan pertumbuhan anakan. Jika setelah dua siklus pemantauan tidak membaik, evaluasi pH tanah dan konsultasikan verifikasi lapang dengan penyuluh setempat."
+      }
+    ]
+  },
+  {
+    "title": "Pengendalian wereng dengan prinsip terpadu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Di lahan saya muncul gejala wereng. Apa langkah pertama yang aman sebelum semprot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari monitoring intensitas serangan di beberapa titik petak untuk melihat apakah sudah melewati ambang kendali. Lakukan sanitasi area dan kurangi kondisi yang memicu ledakan populasi. Pertahankan musuh alami, lalu gunakan tindakan kimia selektif hanya jika ambang terlampaui agar tidak mempercepat resistensi hama."
+      },
+      {
+        "role": "user",
+        "content": "Kalau hujan setelah semprot, apa perlu ulang semua?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jangan otomatis ulang. Evaluasi dulu interval waktu sejak aplikasi, intensitas hujan, dan kondisi hama pascahujan. Jika efektivitas turun dan ambang kendali masih terlampaui, lakukan aplikasi ulang terarah sesuai label. Tetap utamakan rotasi bahan aktif dan catat hasil pemantauan agar keputusan berikutnya lebih presisi."
+      }
+    ]
+  }
+]
