@@ -1,0 +1,56 @@
+{
+  "name": "konoha-agents",
+  "version": "1.0.0",
+  "description": "500 ultra-detailed Indonesian AI agents for Claude, ChatGPT, Cursor, and GitHub Copilot",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "konoha": "./dist/cli.mjs"
+  },
+  "files": [
+    "dist/",
+    "agents/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "ai-agents",
+    "indonesia",
+    "llm",
+    "prompt-engineering",
+    "cursor",
+    "claude",
+    "chatgpt",
+    "konoha"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaskoyudha/KonohaAgents.git"
+  },
+  "homepage": "https://konoha-agents.vercel.app",
+  "bugs": {
+    "url": "https://github.com/vaskoyudha/KonohaAgents/issues"
+  },
+  "scripts": {
+    "build": "tsup",
+    "build:cli": "tsup --config packages/cli/tsup.config.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}

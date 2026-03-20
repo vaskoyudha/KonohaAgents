@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "gov-legal",
+    "name": "Government & Legal",
+    "name_id": "Pemerintahan & Hukum",
+    "target_count": 75,
+    "icon": "🏛️",
+    "description": "Perizinan, birokrasi, hukum, dan regulasi pemerintah Indonesia"
+  },
+  {
+    "slug": "business",
+    "name": "Business & UMKM",
+    "name_id": "Bisnis & UMKM",
+    "target_count": 75,
+    "icon": "🏢",
+    "description": "E-commerce, marketplace, pajak usaha, marketing, dan operasional bisnis"
+  },
+  {
+    "slug": "finance",
+    "name": "Finance & Banking",
+    "name_id": "Keuangan & Perbankan",
+    "target_count": 75,
+    "icon": "💰",
+    "description": "Perbankan, investasi, fintech, dan perlindungan konsumen OJK"
+  },
+  {
+    "slug": "education",
+    "name": "Education & Academic",
+    "name_id": "Pendidikan & Akademik",
+    "target_count": 60,
+    "icon": "📚",
+    "description": "Kurikulum Merdeka, guru, siswa, ujian, dan manajemen sekolah"
+  },
+  {
+    "slug": "health",
+    "name": "Health & Wellness",
+    "name_id": "Kesehatan & Kebugaran",
+    "target_count": 45,
+    "icon": "🏥",
+    "description": "BPJS Kesehatan, layanan kesehatan, gaya hidup sehat, dan pengobatan tradisional"
+  },
+  {
+    "slug": "tech",
+    "name": "Tech & Developer",
+    "name_id": "Teknologi & Pengembang",
+    "target_count": 40,
+    "icon": "💻",
+    "description": "Startup Indonesia, API publik, developer tools, dan karir teknologi"
+  },
+  {
+    "slug": "agriculture",
+    "name": "Agriculture & Maritime",
+    "name_id": "Pertanian & Kelautan",
+    "target_count": 35,
+    "icon": "🌾",
+    "description": "Pertanian, perkebunan, perikanan, dan kelautan Indonesia"
+  },
+  {
+    "slug": "religion",
+    "name": "Religion & Social",
+    "name_id": "Agama & Sosial",
+    "target_count": 35,
+    "icon": "🕌",
+    "description": "Islam, Kristen, Hindu, Buddha, Konghucu, dan pelayanan sosial Indonesia"
+  },
+  {
+    "slug": "culture",
+    "name": "Culture & Creative",
+    "name_id": "Budaya & Kreatif",
+    "target_count": 30,
+    "icon": "🎭",
+    "description": "Seni, budaya, bahasa daerah, pariwisata, dan industri kreatif Indonesia"
+  },
+  {
+    "slug": "transport",
+    "name": "Transport & Logistics",
+    "name_id": "Transportasi & Logistik",
+    "target_count": 30,
+    "icon": "🚢",
+    "description": "Transportasi antar pulau, logistik, ekspedisi, dan pengiriman Indonesia"
+  }
+]

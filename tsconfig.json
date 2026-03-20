@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "paths": {
+      "@konoha/core": ["./packages/core/src/index.ts"],
+      "@konoha/core/*": ["./packages/core/src/*"]
+    }
+  },
+  "include": ["packages/*/src/**/*.ts", "schemas/**/*.ts"],
+  "exclude": ["node_modules", "dist", "website"]
+}

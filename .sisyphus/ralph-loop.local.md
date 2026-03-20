@@ -1,0 +1,14 @@
+---
+active: true
+iteration: 1
+completion_promise: "DONE"
+initial_completion_promise: "DONE"
+started_at: "2026-03-20T16:16:01.070Z"
+session_id: "ses_2f3f7be61ffeCS2zyd3A97K6wM"
+ultrawork: true
+strategy: "continue"
+message_count_at_start: 1
+---
+I WANT TO CREATE SUPER POWERFUL PROJECT AND SOMETHING THAT WILL MAKES PEOPLE WILL WILLING GIVE START TO THIS REPO, git remote add origin https://github.com/vaskoyudha/KonohaAgents.git
+git branch -M main
+git push -u origin main  please comit and push every single progress you create step by step, and FOR THE IDEA THE PROJECT IS AS LIBRARYH SKILLS SET TARGETING INDONESIA PEOPLE TO HELP BUILD AI AGENTS FOR THE TASKS THAT WILL BE USING BY INDONESIA PEOPLE, I WANT IT CAN BE USED FOR ACHIEVE SKILLS OR AGENTS PERSON AND CAN BE USED BY MANY PLATFORM FOR BETTER USED LIKE CLAUDE, CHATGPT, AND MANY OTHER FACTOR, PLEASE CREATE 500 AGENTS INDONESIA, PLEASE MAKE SURE  YOU JUST NOT GIVE SIMPLE PERSONA BUT VERY DETAILED DESC TO ACHIVE THE TASK OF THE AGENTS,
