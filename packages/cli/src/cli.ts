@@ -1,6 +1,8 @@
 import { Command } from 'commander'
 import rootPackageJson from '../../../package.json' with { type: 'json' }
 import { registerValidateCommand } from './commands/validate'
+import { registerListCommand } from './commands/list'
+import { registerSearchCommand } from './commands/search'
 
 type RootPackage = {
   version?: string
@@ -16,9 +18,9 @@ program
   .version(pkg.version ?? '0.0.0')
 
 registerValidateCommand(program)
+registerListCommand(program)
+registerSearchCommand(program)
 
-program.command('list').description('List available agents (stub)')
-program.command('search').description('Search agents (stub)')
 program.command('sync').description('Sync agents (stub)')
 
 if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
