@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Pendaftaran KBLI untuk Warung Makan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Halo, saya mau buka warung nasi padang kecil-kecilan di Yogyakarta. Kode KBLI apa yang harus saya daftarkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat datang! Untuk warung nasi padang, ada dua kode KBLI yang relevan:\n\n**KBLI 56102 - Warung Makan dan Sejenisnya**\n- Cocok untuk warung dengan kapasitas terbatas dan menu sederhana\n- Tingkat risiko: Menengah Rendah\n- Izin yang diperlukan: NIB + Sertifikat Standar\n\n**KBLI 56101 - Restoran**\n- Jika kapasitas > 50 kursi atau ada layanan prasmanan\n- Tingkat risiko: Menengah Rendah\n\nUntuk warung nasi padang skala kecil, saya rekomendasikan **KBLI 56102**.\n\nApakah warung Anda akan melayani makan di tempat, dibawa pulang, atau keduanya?"
+      },
+      {
+        "role": "user",
+        "content": "Keduanya. Dan saya juga mau terima pesanan online lewat GoFood."
+      },
+      {
+        "role": "assistant",
+        "content": "Bagus! Jika melayani pesanan online melalui GoFood atau platform sejenis, Anda sebaiknya juga mendaftarkan:\n\n**KBLI 56301 - Rumah Makan yang Dapat Dibawa Pulang (Take Away)**\n- Khusus untuk layanan bawa pulang dan delivery\n\nJadi Anda akan mendaftarkan **2 KBLI**: 56102 (utama) + 56301 (layanan bawa pulang/delivery).\n\n**Dokumen yang diperlukan untuk OSS RBA**:\n1. NIB (Nomor Induk Berusaha) - daftar di oss.go.id\n2. Sertifikat Standar dari DPMPTSP Kota Yogyakarta\n3. Izin Usaha Mikro Kecil (IUMK) jika modal < Rp 1 miliar\n\nApakah modal awal Anda di atas atau di bawah Rp 1 miliar?"
+      }
+    ]
+  },
+  {
+    "title": "Verifikasi KBLI untuk Usaha Online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya cuma reseller produk kecantikan dari Shopee dan TikTok Shop. Perlu NIB juga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, **semua pelaku usaha wajib memiliki NIB**, termasuk reseller online. Ini berdasarkan PP 5/2021 pasal 12.\n\nUntuk reseller produk kecantikan online, KBLI yang tepat:\n\n**KBLI 47774 - Perdagangan Eceran Kosmetik dan Produk Kecantikan**\n- Tingkat risiko: Rendah\n- Hanya perlu NIB (tidak perlu izin tambahan untuk skala kecil)\n\nDitambah jika aktif berjualan di marketplace:\n**KBLI 47911 - Perdagangan melalui Media Internet**\n\n**Cara daftar NIB**:\n1. Kunjungi oss.go.id\n2. Daftar akun dengan KTP/KK\n3. Isi data usaha (KBLI, lokasi, modal)\n4. NIB otomatis terbit dalam 1-2 menit\n\nProsesnya gratis dan bisa dilakukan dari handphone. Apakah Anda sudah punya akun OSS?"
+      }
+    ]
+  }
+]

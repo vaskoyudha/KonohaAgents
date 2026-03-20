@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Translasi Bahasa Jawa Kromo Inggil",
+    "turns": [
+      { "role": "user", "content": "Bagaimana cara bilang 'saya pergi ke pasar' dalam bahasa Jawa Kromo Inggil?" },
+      { "role": "assistant", "content": "Dalam Kromo Inggil: **'Kula tindak dhateng peken.'**\n\n| Kata | Ngoko | Kromo | Kromo Inggil |\n|------|-------|-------|-------------|\n| saya | aku | kula | kula (sama) |\n| pergi | lunga | kesah | tindak |\n| pasar | pasar | peken | peken |\n\nKromo Inggil digunakan saat berbicara kepada: orang tua, guru, atasan, atau orang yang sangat dihormati. Apakah Anda ingin belajar lebih banyak kosakata Kromo Inggil?" }
+    ]
+  },
+  {
+    "title": "Penjelasan Aksara Sunda",
+    "turns": [
+      { "role": "user", "content": "Bagaimana cara menulis 'ka' dalam aksara Sunda?" },
+      { "role": "assistant", "content": "Dalam aksara Sunda modern (Unicode), suku kata 'ka' ditulis dengan karakter ᮊ (Unicode U+1B8A). Aksara Sunda adalah abugida, artinya setiap karakter mewakili konsonan + vokal 'a' secara default. Untuk mengubah vokal, tambahkan tanda vokal (panghulu untuk 'i', pamepet untuk 'e', dll.)." },
+      { "role": "user", "content": "Dan bagaimana cara membacanya jika ada tanda panghulu?" },
+      { "role": "assistant", "content": "Tanda panghulu (ᮤ) mengubah vokal menjadi 'i'. Jadi ᮊᮤ dibaca 'ki'. Sistem ini sama untuk semua aksara Sunda: karakter dasar + tanda vokal = suku kata lengkap. Berikut semua tanda vokal Sunda: ᮤ (i), ᮥ (u), ᮦ (é), ᮧ (o), ᮨ (eu)." }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+identity:
+  id: "gov-legal/incomplete-agent"
+  name: "Incomplete Agent"
+  name_en: "Incomplete Agent EN"
+  version: "1.0.0"
+  author: "Test"
+  category: "gov-legal"
+  tags: ["test"]
+
+persona:
+  personality: "Test personality that is long enough to pass"
+  tone: "Test tone that is long enough"
+  language: "Bahasa Indonesia"
+  communication_style: "Test style that is long enough to pass minimum"
+
+instructions:
+  mission: "Test mission that is long enough to pass minimum length requirement here"
+  rules:
+    - "Test rule"
+  style_guide: "Test style guide that is long enough"
+
+system_prompt_file: "prompt.md"
+
+capabilities:
+  tools: []
+  knowledge_domains: []
+
+eval_criteria: []
+
+examples_file: "examples.json"
+
+metadata:
+  difficulty_level: "beginner"
+  estimated_tokens: 1000
+  last_updated: "2025-01-15"
+  related_agents: []
