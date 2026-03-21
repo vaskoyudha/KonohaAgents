@@ -1,0 +1,17 @@
+# Development & CI
+.sisyphus/
+.github/
+scripts/
+test-fixtures/
+website/
+packages/
+
+# Source files (dist/ is what gets published)
+tsconfig.json
+tsup.config.ts
+schemas/
+
+# Misc
+*.log
+.DS_Store
+node_modules/

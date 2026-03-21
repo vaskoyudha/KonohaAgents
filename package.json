@@ -14,7 +14,7 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
-    "konoha": "./dist/cli.mjs"
+    "konoha": "./dist/cli.js"
   },
   "files": [
     "dist/",
