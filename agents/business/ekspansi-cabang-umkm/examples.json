@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Membuka cabang toko kue dari Bandung ke Semarang",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya toko kue di Bandung sudah jalan 3 tahun, bentuk usaha CV. Mau buka cabang di Semarang. Apa langkah pertama dari sisi perizinan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena usaha Anda berbentuk CV dan sudah memiliki NIB, langkah pertama adalah menentukan apakah cabang Semarang cukup ditambahkan sebagai lokasi kegiatan baru dalam NIB yang sama atau perlu NIB terpisah. Untuk CV dengan aktivitas usaha identik, biasanya cukup menambah alamat kegiatan di OSS RBA tanpa membuat NIB baru. Langkahnya: login ke OSS RBA, buka profil usaha, tambahkan alamat lokasi kegiatan baru di Semarang. Sebelum itu, verifikasi dulu kesesuaian lokasi rencana dengan RDTR Kota Semarang — pastikan zona peruntukan di alamat yang Anda incar memperbolehkan kegiatan usaha makanan. Anda bisa mengeceknya melalui layanan DPMPTSP Kota Semarang atau fitur peta zonasi di OSS RBA. Jika lokasi sesuai, proses penambahan alamat kegiatan bisa langsung diajukan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara saya menilai apakah pasar di Semarang cocok untuk toko kue saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan kerangka analisis tiga langkah untuk skala UMKM. Pertama, identifikasi demografi target: berapa kepadatan penduduk di area rencana lokasi, berapa UMR Kota Semarang, dan apakah profil konsumen cocok dengan segmen harga produk Anda. Kedua, petakan kompetitor: kunjungi langsung area tujuan atau riset daring untuk mengetahui berapa banyak toko kue sejenis yang sudah beroperasi, apa kelebihan mereka, dan celah apa yang bisa Anda isi. Ketiga, validasi permintaan: lakukan uji coba penjualan sebelum menyewa lokasi tetap — bisa lewat pre-order daring di Semarang, ikut bazaar, atau titip jual di toko rekanan. Data dari uji coba ini jauh lebih berharga daripada asumsi. Baru setelah tiga langkah ini menunjukkan sinyal positif, lanjutkan ke proses sewa lokasi dan perizinan operasional."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan NIB cabang dan NIB baru untuk ekspansi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kapan saya harus buat NIB baru dan kapan cukup tambah lokasi di NIB lama saat buka cabang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prinsipnya bergantung pada dua faktor: bentuk badan usaha dan jenis kegiatan. Jika Anda usaha perorangan atau CV dan membuka cabang dengan kegiatan identik, biasanya cukup menambahkan lokasi kegiatan baru dalam NIB yang sama melalui OSS RBA. Namun, jika cabang menjalankan kegiatan usaha yang berbeda dari KBLI utama, Anda mungkin perlu menambah KBLI baru atau bahkan mendaftarkan NIB terpisah. Untuk PT, pembukaan cabang di kota lain dengan kegiatan sama umumnya cukup pembaruan data lokasi kegiatan. Tetapi jika Anda mendirikan entitas hukum terpisah untuk cabang tersebut, maka diperlukan NIB baru. Rekomendasi saya: verifikasi ke DPMPTSP daerah tujuan karena beberapa wilayah memiliki persyaratan tambahan yang spesifik."
+      },
+      {
+        "role": "user",
+        "content": "Saya usaha perorangan jualan baju online, mau buka toko fisik di kota lain. Perlu izin apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk usaha perorangan yang sudah punya NIB, pembukaan toko fisik di kota lain memerlukan beberapa langkah. Pertama, tambahkan lokasi kegiatan baru pada NIB Anda di OSS RBA. Kedua, pastikan lokasi toko fisik sesuai dengan peruntukan tata ruang daerah setempat — zona perdagangan dan jasa biasanya aman untuk toko ritel. Ketiga, cek apakah daerah tujuan mensyaratkan izin tambahan seperti IUTM (Izin Usaha Toko Modern) jika format toko Anda memenuhi kriteria tertentu. Keempat, urus izin operasional lokal yang mungkin diperlukan melalui DPMPTSP kabupaten/kota. Kelima, jika Anda akan merekrut karyawan lokal, pastikan kepatuhan terhadap UU Ketenagakerjaan termasuk pendaftaran BPJS. Checklist Anda: pembaruan NIB, verifikasi tata ruang, izin operasional lokal, dan kepatuhan ketenagakerjaan."
+      }
+    ]
+  }
+]

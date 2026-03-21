@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menghitung reorder point untuk bahan baku toko roti",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko roti saya sering kehabisan tepung terigu di akhir minggu. Rata-rata pakai 20 kg per hari, kadang sampai 30 kg saat weekend. Pemasok butuh 3 hari untuk kirim. Bagaimana menentukan kapan harus pesan ulang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita hitung reorder point Anda dengan data yang ada. Pertama, hitung safety stock: (pemakaian harian maksimum - pemakaian harian rata-rata) x lead time pemasok = (30 - 20) x 3 = 30 kg. Ini adalah stok cadangan untuk mengantisipasi lonjakan permintaan selama menunggu kiriman. Kedua, hitung reorder point: (pemakaian harian rata-rata x lead time) + safety stock = (20 x 3) + 30 = 90 kg. Artinya, saat stok tepung terigu Anda menyentuh 90 kg, segera lakukan pemesanan ke pemasok. Dengan cara ini, stok cadangan 30 kg akan menutupi kemungkinan pemakaian di atas rata-rata selama 3 hari menunggu pengiriman. Catat angka 90 kg ini di kartu stok atau papan pengingat di gudang agar mudah dipantau setiap hari."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya pakai metode apa untuk catat stok tepung ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk bahan baku seperti tepung terigu yang bersifat perishable dengan umur simpan terbatas, gunakan metode FIFO (First In First Out). Artinya, tepung yang dibeli lebih dahulu harus dipakai lebih dahulu agar tidak ada stok yang kedaluwarsa. Dari sisi sistem pencatatan, untuk toko roti dengan satu jenis tepung utama, sistem periodik sudah cukup: catat jumlah pembelian setiap kali barang masuk, lalu hitung sisa stok di akhir hari atau akhir minggu. Buat kartu stok sederhana dengan kolom: tanggal, stok awal, masuk, keluar, stok akhir. Lakukan stock opname fisik minimal seminggu sekali dengan menimbang sisa tepung di gudang dan mencocokkannya dengan kartu stok. Jika ada selisih lebih dari 5 persen, investigasi penyebabnya: bisa karena kerusakan, tumpah, atau pencatatan yang terlewat."
+      }
+    ]
+  },
+  {
+    "title": "Menangani dead stock di toko perlengkapan rumah tangga",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada beberapa produk di toko saya yang sudah 6 bulan tidak laku sama sekali. Stoknya masih banyak dan menghabiskan ruang gudang. Bagaimana sebaiknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Produk yang tidak terjual selama 6 bulan dikategorikan sebagai dead stock dan perlu penanganan segera karena mengikat modal dan ruang penyimpanan. Strategi penanganannya bertahap: pertama, identifikasi semua SKU yang tidak bergerak selama 3 bulan atau lebih, catat nilai beli dan jumlah stoknya. Kedua, evaluasi apakah produk tersebut masih relevan — mungkin hanya perlu dipindahkan ke display yang lebih strategis atau dipasarkan ke segmen berbeda. Ketiga, jika tetap tidak bergerak, terapkan strategi bundling: gabungkan produk dead stock dengan produk laris sebagai paket hemat. Keempat, berikan diskon bertahap: mulai dari potongan 20 persen, tingkatkan ke 40 persen jika belum terjual dalam 2 minggu. Kelima, jika masih ada sisa, pertimbangkan retur ke pemasok jika perjanjian memungkinkan, atau jual ke pedagang grosir dengan harga di bawah modal untuk membebaskan ruang dan modal. Pelajaran ke depan: tetapkan batas maksimum stok per SKU dan review perputaran stok setiap bulan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara menghitung inventory turnover ratio agar saya tahu stok mana yang sehat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inventory turnover ratio dihitung dengan rumus: HPP (Harga Pokok Penjualan) dibagi rata-rata persediaan. Contoh: jika HPP toko Anda dalam setahun Rp 600 juta dan rata-rata persediaan Rp 100 juta, maka turnover ratio = 600/100 = 6 kali. Artinya stok Anda berputar 6 kali dalam setahun atau rata-rata habis setiap 2 bulan. Semakin tinggi angkanya, semakin efisien pengelolaan stok Anda. Untuk analisis per produk, hitung turnover masing-masing SKU: HPP produk tersebut dibagi rata-rata stoknya. Produk dengan turnover rendah adalah kandidat dead stock yang perlu diawasi. Sebagai patokan untuk toko perlengkapan rumah tangga, turnover ratio 4 sampai 8 kali per tahun termasuk sehat. Di bawah 2 kali menandakan stok terlalu banyak atau penjualan terlalu lambat."
+      }
+    ]
+  }
+]

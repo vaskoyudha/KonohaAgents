@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Website toko kue tidak muncul di Google",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Website toko kue saya sudah 6 bulan online tapi kalau saya cari di Google tidak muncul sama sekali. Padahal saya sudah punya domain sendiri. Harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada beberapa kemungkinan mengapa website Anda belum muncul. Langkah pertama: cek apakah website sudah terindeks Google. Ketik 'site:namadomainanda.com' di Google. Jika tidak ada hasil, website belum terindeks. Untuk mengatasinya: daftarkan website di Google Search Console, verifikasi kepemilikan domain, lalu submit sitemap (biasanya di URL namadomainanda.com/sitemap.xml). Langkah kedua: pastikan setiap halaman memiliki meta title yang unik dan mengandung keyword. Contoh untuk halaman utama: 'Toko Kue Custom Jakarta — Kue Ulang Tahun dan Wedding Cake'. Meta description: 'Pesan kue ulang tahun custom, wedding cake, dan kue untuk acara spesial di Jakarta. Pengiriman cepat, desain sesuai permintaan.' Langkah ketiga: daftar di Google Business Profile — ini sangat penting untuk bisnis lokal. Isi lengkap: nama, alamat, telepon, jam buka, foto kue terbaik Anda, dan deskripsi bisnis. Langkah keempat: pastikan website mobile-friendly dan loading di bawah 3 detik. Empat langkah ini akan membuat Google mulai mengenali dan mengindeks website Anda."
+      },
+      {
+        "role": "user",
+        "content": "Keyword apa yang harus saya targetkan untuk toko kue di Jakarta Selatan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk toko kue lokal, targetkan long-tail keyword berbahasa Indonesia yang mengandung lokasi dan intent pembelian. Contoh keyword prioritas tinggi: 'pesan kue ulang tahun Jakarta Selatan', 'toko kue custom terdekat Kemang', 'kue ulang tahun anak custom Jakarta', 'wedding cake Jakarta Selatan murah', 'kue tart fondant pesan online Jakarta'. Keyword ini lebih spesifik dan persaingannya lebih rendah dibanding keyword umum seperti 'toko kue'. Strategi implementasi: buat halaman terpisah untuk setiap layanan utama — halaman 'Kue Ulang Tahun Custom', halaman 'Wedding Cake', halaman 'Kue untuk Acara Kantor'. Setiap halaman dioptimasi dengan keyword spesifik di meta title, H1, dan konten halaman. Tambahkan halaman 'Area Layanan' yang menyebutkan wilayah yang Anda layani. Buat juga beberapa artikel blog: 'Tips Memilih Kue Ulang Tahun Anak', 'Tren Desain Wedding Cake Terbaru' — artikel ini menjaring traffic dari orang yang sedang riset sebelum membeli."
+      }
+    ]
+  },
+  {
+    "title": "Optimasi Google Business Profile untuk restoran",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Restoran saya sudah terdaftar di Google Maps tapi informasinya kurang lengkap. Bagaimana cara mengoptimasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Google Business Profile yang teroptimasi bisa mendatangkan pelanggan lokal secara signifikan. Langkah optimasi: pertama, lengkapi semua informasi dasar dengan akurat — nama bisnis resmi (jangan tambahkan keyword berlebihan di nama), alamat lengkap, nomor telepon aktif, dan website. Kedua, pilih kategori bisnis yang paling tepat sebagai kategori utama — misalnya 'Restoran Indonesia' bukan sekadar 'Restoran'. Tambahkan kategori sekunder jika relevan. Ketiga, isi jam operasional lengkap termasuk jam khusus hari libur nasional. Keempat, tulis deskripsi bisnis yang informatif mengandung keyword lokal: 'Restoran masakan Sunda autentik di Bandung sejak 2015. Menyajikan nasi timbel, gurame bakar, dan sayur asem dengan bumbu tradisional. Tersedia ruang VIP untuk rombongan.' Kelima, upload minimal 10 foto berkualitas: eksterior, interior, makanan andalan, dapur bersih, dan suasana ramai. Update foto setiap bulan. Keenam, aktif minta review dari pelanggan yang puas dan selalu balas setiap review — baik positif maupun negatif — dengan profesional."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara mendapatkan lebih banyak review dari pelanggan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Review adalah faktor ranking penting untuk local SEO. Strategi mendapatkan review secara etis: pertama, buat link pendek langsung ke halaman review Google Business Profile Anda — link ini bisa didapatkan dari dashboard GBP. Cetak QR code dari link tersebut. Kedua, taruh QR code di meja kasir, di struk pembayaran, atau di tent card di setiap meja dengan pesan sederhana: 'Puas dengan masakan kami? Bantu kami dengan memberikan ulasan di Google.' Ketiga, kirim pesan WhatsApp follow-up kepada pelanggan yang reservasi atau pesan antar dengan link review — kirim 1-2 jam setelah makanan diterima saat kepuasan masih tinggi. Keempat, latih staf untuk menyebutkan secara sopan: 'Kalau Bapak/Ibu berkenan, kami sangat terbantu jika bisa memberikan ulasan di Google.' Kelima, selalu respons setiap review dalam 24 jam. Untuk review positif, ucapkan terima kasih spesifik. Untuk review negatif, minta maaf, tawarkan solusi, dan ajak komunikasi langsung. Yang tidak boleh dilakukan: membeli review palsu atau memberikan insentif langsung untuk review positif karena melanggar kebijakan Google."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menghitung harga jual produk kue kering",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya produksi kue kering. Bahan baku per toples Rp 18.000, kemasan Rp 3.000, gas dan listrik per toples Rp 2.000. Saya kerja sendiri. Berapa harga jual yang wajar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari hitung HPP dengan benar. Biaya bahan baku: Rp 18.000, kemasan: Rp 3.000, overhead produksi (gas, listrik): Rp 2.000. Meskipun Anda kerja sendiri, biaya tenaga kerja tetap harus dihitung — ini sering terlewat oleh UMKM. Estimasi waktu produksi per toples: jika 15 menit dan Anda menghargai waktu sendiri Rp 25.000 per jam, maka biaya tenaga kerja = Rp 6.250 per toples. Total HPP: 18.000 + 3.000 + 2.000 + 6.250 = Rp 29.250 per toples. Dengan strategi cost-plus pricing dan target margin 50%: harga jual = HPP / (1 - margin) = 29.250 / 0,5 = Rp 58.500. Bulatkan menjadi Rp 59.000 atau Rp 60.000. Validasi: cek harga kue kering sejenis di pasar. Jika kompetitor menjual Rp 50.000-65.000, harga Rp 60.000 sangat kompetitif. Jika Anda non-PKP, harga ini sudah final tanpa tambahan PPN."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya mau untung lebih banyak tanpa naikkan harga, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika harga sudah optimal terhadap pasar, tingkatkan margin dengan menurunkan HPP atau meningkatkan volume. Strategi menurunkan HPP: beli bahan baku dalam jumlah lebih besar untuk dapat harga grosir — jika bahan baku turun dari Rp 18.000 ke Rp 15.000, HPP turun Rp 3.000 per toples dan margin naik signifikan. Efisiensi produksi: jika bisa membuat lebih banyak toples per jam, biaya tenaga kerja per unit turun. Strategi meningkatkan pendapatan tanpa naikkan harga satuan: bundling pricing — jual paket 3 toples Rp 165.000 (diskon Rp 15.000 tapi pembelian lebih besar). Atau tambah varian premium dengan bahan lebih baik dan harga lebih tinggi. Kontribusi margin saat ini: Rp 60.000 - Rp 29.250 = Rp 30.750 per toples (51,3%). Jika HPP turun ke Rp 26.250, contribution margin naik ke Rp 33.750 (56,3%) — perbedaan Rp 3.000 per toples bisa sangat signifikan jika volume penjualan tinggi."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung break-even point untuk usaha baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru buka usaha minuman boba. Sewa tempat 5 juta per bulan, gaji 2 karyawan total 6 juta, biaya lain-lain tetap 2 juta. Harga jual rata-rata Rp 25.000, biaya bahan per cup Rp 8.000. Berapa cup harus saya jual per bulan supaya balik modal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari hitung break-even point Anda. Biaya tetap per bulan: sewa Rp 5.000.000 + gaji Rp 6.000.000 + lain-lain Rp 2.000.000 = Rp 13.000.000. Contribution margin per cup: harga jual Rp 25.000 - biaya variabel Rp 8.000 = Rp 17.000. BEP dalam unit: biaya tetap / contribution margin = 13.000.000 / 17.000 = 765 cup per bulan. Artinya Anda harus menjual minimal 765 cup per bulan atau sekitar 26 cup per hari (asumsi buka 30 hari) untuk menutup semua biaya. Di atas angka itu baru menghasilkan laba. BEP dalam rupiah: 765 x Rp 25.000 = Rp 19.125.000 omzet per bulan. Pertanyaan penting: apakah 26 cup per hari realistis untuk lokasi Anda? Jika rata-rata traffic 100 orang per hari dan conversion rate 30%, berarti 30 cup per hari — sudah di atas BEP. Jika traffic rendah, perlu strategi pemasaran untuk mendongkrak kunjungan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya mau balik modal lebih cepat, lebih baik naikkan harga atau kurangi biaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keduanya berdampak, tapi efeknya berbeda. Simulasi naikkan harga: jika harga naik Rp 3.000 menjadi Rp 28.000, contribution margin naik ke Rp 20.000. BEP baru: 13.000.000 / 20.000 = 650 cup (turun 115 cup). Risiko: volume penjualan bisa turun jika harga terlalu tinggi untuk daya beli pasar. Simulasi kurangi biaya variabel: jika biaya bahan turun Rp 1.500 menjadi Rp 6.500 (negosiasi supplier atau beli grosir), contribution margin naik ke Rp 18.500. BEP baru: 13.000.000 / 18.500 = 703 cup (turun 62 cup). Risiko lebih kecil karena tidak mempengaruhi persepsi pelanggan. Simulasi kurangi biaya tetap: jika berhasil negosiasi sewa turun Rp 1 juta, biaya tetap menjadi Rp 12.000.000. BEP baru: 12.000.000 / 17.000 = 706 cup. Rekomendasi: lakukan ketiganya secara bersamaan dalam skala kecil. Negosiasi bahan baku biasanya paling mudah dan berisiko paling rendah. Kenaikan harga perlu diuji coba bertahap."
+      }
+    ]
+  }
+]

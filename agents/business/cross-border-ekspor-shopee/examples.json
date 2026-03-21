@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Ekspor kerajinan bambu ke Malaysia melalui Shopee",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha kerajinan bambu di Yogyakarta dan ingin mulai ekspor ke Malaysia lewat Shopee. Harus mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama, pastikan produk kerajinan bambu Anda bukan termasuk barang larangan ekspor. Berdasarkan Permendag No. 18/2021, kerajinan bambu jadi (bukan bahan mentah bambu dalam jumlah tertentu) umumnya tidak termasuk barang larangan, jadi aman untuk diekspor. Selanjutnya daftar sebagai Shopee Global Seller: siapkan identitas usaha, NIB, dan rekening yang bisa menerima pembayaran internasional. Setelah akun aktif, identifikasi HS code untuk produk kerajinan bambu Anda berdasarkan BTKI — biasanya masuk kategori barang kerajinan dari bahan nabati. Untuk pengiriman, siapkan commercial invoice yang mencantumkan deskripsi barang, jumlah, nilai FOB, dan negara tujuan Malaysia. Sertakan packing list yang detail. Proses kepabeanan menggunakan formulir BC 3.0 karena ini ekspor definitif. Checklist kesiapan Anda: NIB aktif, akun Shopee Global terverifikasi, HS code teridentifikasi, commercial invoice dan packing list siap, serta koordinasi dengan jasa pengiriman yang mendukung cross-border Shopee."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara menentukan HS code yang tepat untuk produk saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penentuan HS code harus berdasarkan bahan baku utama, proses pengolahan, dan fungsi produk jadi. Untuk kerajinan bambu, lihat BTKI pada bab yang mengatur barang-barang dari bahan anyaman atau bahan nabati. Langkahnya: pertama, tentukan apakah produk Anda berbentuk furnitur, peralatan rumah tangga, atau dekorasi karena masing-masing punya kode berbeda. Kedua, cek deskripsi resmi pada BTKI melalui situs DJBC atau portal INSW. Ketiga, cocokkan deskripsi produk Anda dengan uraian barang di BTKI hingga tingkat pos tarif yang paling spesifik. Jika ragu, konsultasikan ke Kantor Bea Cukai terdekat untuk mendapat Surat Keterangan Tarif sebelum melakukan ekspor pertama."
+      }
+    ]
+  },
+  {
+    "title": "Memahami perbedaan formulir kepabeanan ekspor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru pertama kali ekspor dan bingung soal BC 3.0 dan BC 3.1. Mana yang harus saya pakai untuk kirim produk skincare ke Singapura via Shopee?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk ekspor produk skincare secara definitif ke Singapura melalui Shopee Cross-Border, Anda menggunakan BC 3.0. Formulir ini adalah Pemberitahuan Ekspor Barang standar yang digunakan untuk barang yang diekspor secara permanen tanpa kewajiban diimpor kembali. BC 3.1 digunakan untuk ekspor barang tertentu, misalnya barang yang mendapat fasilitas kepabeanan khusus, ekspor sementara, atau ekspor kembali barang impor. Karena Anda mengirim produk jadi untuk dijual ke konsumen akhir di Singapura, BC 3.0 adalah formulir yang tepat. Namun perlu diperhatikan: produk skincare mungkin memerlukan izin edar dari BPOM sebelum bisa diekspor, dan negara tujuan Singapura juga punya regulasi HSA (Health Sciences Authority) untuk produk kosmetik impor. Pastikan produk Anda sudah memiliki izin edar yang berlaku."
+      },
+      {
+        "role": "user",
+        "content": "Apakah ada biaya bea keluar untuk produk skincare?"
+      },
+      {
+        "role": "assistant",
+        "content": "Secara umum, produk skincare atau kosmetik jadi tidak dikenakan bea keluar. Bea keluar di Indonesia hanya dikenakan pada komoditas tertentu yang ditetapkan pemerintah, seperti kelapa sawit dan produk turunannya, produk mineral tertentu, serta kulit mentah. Produk olahan seperti skincare tidak termasuk dalam daftar tersebut berdasarkan PP No. 29/2021. Meskipun tidak ada bea keluar, Anda tetap perlu membayar biaya pengurusan dokumen kepabeanan dan biaya logistik pengiriman. Pastikan juga untuk mencantumkan nilai FOB yang akurat pada commercial invoice karena data ini menjadi dasar pencatatan ekspor nasional."
+      }
+    ]
+  }
+]

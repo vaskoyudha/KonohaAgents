@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pengajuan halal self-declare untuk keripik rumahan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya produksi keripik singkong di rumah, omzet setahun sekitar 500 juta. Bisa pakai self-declare halal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan omzet Rp 500 juta per tahun, usaha Anda termasuk kategori usaha kecil berdasarkan UU UMKM. Produk keripik singkong merupakan produk olahan pangan yang eligible untuk skema halal self-declare. Langkah pengurusannya: pertama, buat akun di aplikasi SiHalal melalui situs resmi BPJPH. Kedua, isi data pelaku usaha termasuk NIB, NPWP, dan alamat produksi. Ketiga, daftarkan produk keripik singkong dengan mencantumkan seluruh bahan baku yang digunakan — singkong, minyak goreng, bumbu, dan kemasan. Keempat, isi formulir pernyataan mandiri yang menyatakan bahwa bahan baku dan proses produksi Anda halal. Kelima, unggah dokumen pendukung dan submit pengajuan. BPJPH akan memverifikasi data Anda. Pastikan semua bahan baku yang Anda gunakan berasal dari sumber yang jelas kehalalannya, terutama minyak goreng dan bumbu perasa."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama prosesnya dan ada biayanya tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk skema self-declare, proses verifikasi oleh BPJPH relatif lebih cepat dibandingkan sertifikasi penuh karena tidak melibatkan audit lapangan oleh LPH. Estimasi waktu bervariasi tergantung kelengkapan dokumen dan antrean verifikasi, namun umumnya lebih singkat dari sertifikasi reguler. Dari sisi biaya, pemerintah telah menetapkan bahwa sertifikasi halal untuk UMKM mikro dan kecil melalui skema self-declare tidak dikenakan biaya atau gratis sebagai bentuk fasilitasi. Yang perlu Anda investasikan adalah waktu untuk memastikan semua data bahan baku dan proses produksi tercatat dengan benar dan konsisten. Setelah sertifikat terbit, Anda wajib menjaga kehalalan produk secara konsisten — jika ada perubahan bahan baku atau proses produksi, harus segera dilaporkan ke BPJPH."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan self-declare dan sertifikasi halal penuh",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Usaha saya sudah agak besar, omzet 3 miliar setahun. Masih bisa self-declare atau harus sertifikasi penuh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan omzet Rp 3 miliar per tahun, usaha Anda kemungkinan sudah masuk kategori usaha menengah yang tidak eligible untuk skema self-declare. Skema pernyataan mandiri halal ditujukan untuk UMKM mikro dan kecil dengan batasan omzet tertentu sesuai PP No. 7/2021. Untuk usaha dengan skala Anda, jalur yang harus ditempuh adalah sertifikasi halal penuh melalui BPJPH. Prosesnya melibatkan: pengajuan melalui SiHalal, pemeriksaan kehalalan oleh LPH (Lembaga Pemeriksa Halal) terakreditasi yang melakukan audit bahan baku dan proses produksi di lokasi, penetapan fatwa oleh MUI berdasarkan hasil audit LPH, dan penerbitan sertifikat halal oleh BPJPH. Proses ini memerlukan biaya yang dibayarkan ke LPH untuk jasa audit dan pemeriksaan."
+      },
+      {
+        "role": "user",
+        "content": "Apa saja yang diperiksa LPH saat audit?"
+      },
+      {
+        "role": "assistant",
+        "content": "LPH akan memeriksa beberapa aspek kritis saat audit kehalalan. Pertama, bahan baku: semua bahan utama dan penolong harus memiliki bukti kehalalan atau sertifikat halal dari pemasok. Kedua, proses produksi: alur produksi dari penerimaan bahan hingga pengemasan diperiksa untuk memastikan tidak ada kontaminasi dengan bahan haram. Ketiga, fasilitas produksi: kebersihan, pemisahan alat, dan penyimpanan bahan diperiksa kesesuaiannya dengan persyaratan halal. Keempat, sistem jaminan halal: perusahaan harus memiliki Penyelia Halal yang bertanggung jawab mengawasi kehalalan produk secara internal. Kelima, dokumen pendukung: sertifikat halal bahan baku, SOP produksi, dan catatan pelatihan karyawan tentang prinsip halal. Hasil audit ini menjadi dasar rekomendasi LPH kepada MUI untuk penetapan fatwa kehalalan produk Anda."
+      }
+    ]
+  }
+]

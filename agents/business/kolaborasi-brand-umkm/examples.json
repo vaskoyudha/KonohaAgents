@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Co-branding produk kopi dua merek lokal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya merek kopi lokal dan mau kolaborasi co-branding dengan brand keramik lokal untuk bikin set hadiah. Apa yang harus dipersiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kolaborasi co-branding antara merek kopi dan keramik untuk set hadiah adalah konsep yang menarik dan saling melengkapi. Langkah persiapannya: pertama, pastikan kedua merek sudah terdaftar di DJKI Kemenkumham — ini prasyarat mutlak untuk melindungi hak merek masing-masing dalam produk kolaborasi. Kedua, susun co-branding agreement yang mencakup: hak penggunaan logo dan nama merek pada produk dan kemasan, standar kualitas produk kolaborasi, pembagian biaya produksi dan pemasaran, pembagian keuntungan atau royalti, durasi kerjasama, hak eksklusivitas (apakah salah satu pihak boleh kolaborasi serupa dengan brand lain), dan mekanisme penyelesaian sengketa. Ketiga, tentukan branding produk kolaborasi: apakah menggunakan nama baru atau gabungan kedua merek, siapa yang memegang hak atas desain produk kolaborasi, dan bagaimana penempatan logo di kemasan. Keempat, sepakati strategi distribusi dan pemasaran bersama. Perjanjian ini sebaiknya dikonsultasikan ke pengacara sebelum ditandatangani."
+      },
+      {
+        "role": "user",
+        "content": "Apakah perlu mendaftarkan merek baru untuk produk kolaborasi ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tergantung pada bagaimana produk kolaborasi dibranding. Jika produk menggunakan nama baru yang berbeda dari kedua merek asal, disarankan untuk mendaftarkan nama baru tersebut di DJKI atas nama salah satu pihak atau entitas bersama sesuai kesepakatan. Jika produk hanya menampilkan dua logo merek yang sudah terdaftar tanpa nama baru, maka tidak perlu pendaftaran merek tambahan — cukup atur hak penggunaan merek dalam perjanjian co-branding. Yang kritis: pastikan dalam perjanjian disebutkan siapa yang memiliki hak atas desain produk kolaborasi, foto konten pemasaran, dan materi promosi. Setelah kerjasama berakhir, harus jelas apakah produk sisa boleh tetap dijual atau harus ditarik dari peredaran. Klausul transisi ini sering terlewat dan menjadi sumber sengketa di kemudian hari."
+      }
+    ]
+  },
+  {
+    "title": "Perjanjian endorsement dengan influencer",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada influencer food blogger yang mau endorse produk sambal saya dengan sistem barter produk. Apakah tetap perlu perjanjian tertulis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat perlu. Meskipun kolaborasi bersifat barter tanpa uang tunai, perjanjian tertulis melindungi kedua belah pihak. Klausul minimum yang harus ada: deskripsi produk yang dikirim dan estimasi nilainya, jenis konten yang harus dibuat (foto, video, story, reels), jumlah posting dan platform yang digunakan, timeline publikasi konten, hak brand untuk repost atau menggunakan konten tersebut di materi pemasaran, larangan endorsement produk kompetitor dalam periode tertentu (klausul non-compete), dan konsekuensi jika salah satu pihak tidak memenuhi kewajiban. Perjanjian ini bisa berupa kontrak sederhana yang ditandatangani kedua pihak, tidak harus melalui notaris. Namun pastikan ada tanda tangan basah atau digital yang sah. Dalam KUHPerdata, perjanjian yang disepakati kedua pihak memiliki kekuatan mengikat selama memenuhi syarat sahnya perjanjian."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau influencer tersebut membuat review negatif setelah menerima produk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini risiko yang perlu dimitigasi dalam perjanjian. Cantumkan klausul approval konten: sebelum konten dipublikasikan, brand memiliki hak untuk mereview dan memberikan masukan. Namun hati-hati, jangan sampai klausul ini terlalu membatasi sehingga konten terasa tidak autentik — audiens influencer bisa mendeteksi konten yang terlalu scripted. Jika review negatif sudah terlanjur dipublikasikan dan melanggar perjanjian, langkah pertama adalah komunikasi langsung untuk mencari solusi. Jika tidak berhasil, perjanjian tertulis menjadi dasar untuk menuntut ganti rugi atau penghapusan konten. Tanpa perjanjian tertulis, posisi hukum Anda sangat lemah. Untuk pencegahan, pilih influencer yang memang sudah menyukai kategori produk Anda, kirim produk terbaik, dan bangun hubungan yang tulus sebelum minta endorsement resmi."
+      }
+    ]
+  }
+]

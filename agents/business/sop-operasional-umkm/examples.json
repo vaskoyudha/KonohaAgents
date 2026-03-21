@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menyusun SOP produksi untuk usaha katering",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Usaha katering saya punya 5 koki dan sering ada keluhan rasa tidak konsisten. Saya mau bikin SOP produksi tapi tidak tahu mulai dari mana."
+      },
+      {
+        "role": "assistant",
+        "content": "Inkonsistensi rasa adalah masalah klasik yang bisa diselesaikan dengan SOP produksi yang baik. Mari mulai dari proses yang paling berdampak. SOP Produksi Katering harus mencakup tiga dokumen utama. Pertama, SOP Standar Resep: setiap menu harus memiliki resep tertulis dengan takaran bahan dalam gram (bukan 'secukupnya'), waktu memasak dalam menit, suhu api, dan urutan memasak yang spesifik. Kedua, SOP Persiapan Bahan: prosedur pencucian, pemotongan, dan penimbangan bahan sebelum masuk dapur utama — siapa yang bertugas, standar kebersihan, dan checklist bahan per menu. Ketiga, SOP Quality Control: sebelum makanan dikemas, kepala dapur wajib melakukan uji rasa dan tampilan. Jika tidak sesuai standar, ada prosedur perbaikan. Format setiap SOP: nomor dokumen (misal SOP-PROD-001), tujuan, penanggung jawab (kepala dapur), langkah-langkah bernomor, dan indikator keberhasilan (zero complain rasa per batch). Langkah pertama Anda: tulis standar resep 5 menu paling populer bersama koki senior. Ini fondasi dari seluruh sistem SOP produksi."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana memastikan semua koki benar-benar mengikuti SOP ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "SOP yang tidak dijalankan hanyalah dokumen mati. Strategi implementasi: pertama, libatkan koki dalam penyusunan SOP — mereka lebih patuh pada prosedur yang mereka bantu buat daripada yang dipaksakan dari atas. Kedua, sederhanakan format: tempel ringkasan SOP (satu halaman per menu) di dinding dapur tepat di area kerja masing-masing. Gunakan foto langkah kritis. Ketiga, lakukan pelatihan singkat 30 menit per SOP baru — praktik langsung, bukan ceramah. Keempat, tunjuk kepala dapur sebagai pengawas SOP yang bertanggung jawab memastikan kepatuhan harian. Kelima, buat checklist harian yang ditandatangani: 'Apakah resep diikuti sesuai takaran? Apakah quality control dilakukan sebelum kemas?' Keenam, lakukan evaluasi mingguan singkat: diskusikan masalah yang ditemui, apakah ada langkah SOP yang sulit diikuti, dan lakukan penyesuaian jika diperlukan. SOP yang kaku dan tidak pernah diperbaiki akan ditinggalkan. SOP yang hidup dan berkembang bersama tim akan bertahan."
+      }
+    ]
+  },
+  {
+    "title": "Membuat SOP pelayanan pelanggan untuk toko ritel",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya toko baju dengan 3 pramuniaga. Pelayanan mereka tidak seragam — ada yang ramah, ada yang cuek. Bisa bantu buatkan SOP pelayanan pelanggan?"
+      },
+      {
+        "role": "assistant",
+        "content": "SOP pelayanan pelanggan untuk toko ritel harus mencakup seluruh siklus interaksi dengan pelanggan. Berikut kerangka SOP yang bisa Anda adaptasi. Judul: SOP Pelayanan Pelanggan Toko. Nomor: SOP-CS-001. Tujuan: memastikan setiap pelanggan mendapat pengalaman belanja yang positif dan konsisten. Prosedur: Langkah 1 — Penyambutan: sapa pelanggan dalam 10 detik setelah masuk toko dengan senyum dan ucapan 'Selamat datang, ada yang bisa dibantu?' Langkah 2 — Identifikasi kebutuhan: tanyakan apa yang dicari, untuk acara apa, dan preferensi ukuran/warna. Langkah 3 — Rekomendasi produk: tawarkan maksimal 3 pilihan sesuai kebutuhan, jelaskan keunggulan masing-masing. Langkah 4 — Fitting room: antar pelanggan ke ruang ganti, tunggu di dekat area, dan tanyakan apakah ukurannya cocok. Langkah 5 — Transaksi: proses pembayaran dengan cepat, tawarkan kartu member jika ada, dan kemas produk dengan rapi. Langkah 6 — Penutupan: ucapkan terima kasih dan ajak datang kembali. Indikator keberhasilan: rating pelanggan minimal 4 dari 5 dan zero keluhan pelayanan per minggu."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana SOP untuk menangani pelanggan yang komplain?"
+      },
+      {
+        "role": "assistant",
+        "content": "SOP penanganan keluhan harus terpisah dan spesifik. Judul: SOP Penanganan Keluhan Pelanggan. Nomor: SOP-CS-002. Prosedur: Langkah 1 — Dengarkan: biarkan pelanggan menyampaikan keluhan tanpa dipotong, tunjukkan empati dengan kontak mata dan anggukan. Langkah 2 — Konfirmasi: ulangi inti keluhan untuk memastikan pemahaman yang benar: 'Jadi yang terjadi adalah...' Langkah 3 — Minta maaf: sampaikan permintaan maaf atas ketidaknyamanan, terlepas dari siapa yang salah. Langkah 4 — Tentukan solusi berdasarkan level wewenang. Pramuniaga bisa langsung menyelesaikan keluhan kecil (tukar ukuran, ganti warna). Keluhan sedang (tukar produk berbeda, diskon kompensasi) harus eskalasi ke supervisor. Keluhan besar (refund, produk cacat) harus eskalasi ke pemilik toko. Langkah 5 — Eksekusi solusi dalam waktu maksimal yang ditentukan: keluhan kecil 15 menit, keluhan sedang 1 hari kerja, keluhan besar 3 hari kerja. Langkah 6 — Follow-up: hubungi pelanggan 2 hari setelah penyelesaian untuk memastikan kepuasan. Langkah 7 — Dokumentasi: catat setiap keluhan di log book untuk evaluasi bulanan. Tempel flowchart ringkas di area kasir agar pramuniaga mudah mengikuti prosedur saat situasi menekan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Evaluasi supplier bahan baku untuk usaha makanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya produksi keripik dan punya 3 calon supplier singkong. Bagaimana cara pilih yang terbaik secara objektif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan scorecard evaluasi dengan empat kriteria utama. Pertama, kualitas: nilai konsistensi ukuran singkong, kadar air, dan kebersihan. Beri bobot 35% karena kualitas bahan langsung mempengaruhi hasil produk. Kedua, harga: bandingkan harga per kilogram dari ketiga supplier termasuk biaya pengiriman. Beri bobot 25%. Ketiga, ketepatan pengiriman: minta track record atau uji coba tiga kali pemesanan untuk melihat apakah mereka konsisten tepat waktu. Beri bobot 25%. Keempat, kapasitas: tanyakan berapa maksimal volume yang bisa mereka kirim per minggu dan apakah bisa menangani lonjakan saat musim ramai. Beri bobot 15%. Nilai masing-masing supplier dari skala 1-5 di setiap kriteria, kalikan dengan bobot, lalu jumlahkan. Supplier dengan skor total tertinggi menjadi supplier utama, dan peringkat kedua menjadi backup. Jangan andalkan satu supplier saja."
+      },
+      {
+        "role": "user",
+        "content": "Salah satu supplier harganya paling murah tapi sering telat kirim. Tetap pilih yang ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harga murah tidak berarti biaya total rendah. Keterlambatan pengiriman menyebabkan biaya tersembunyi: produksi terhenti, pesanan pelanggan tertunda, dan reputasi bisnis terganggu. Hitung total biaya keterlambatan: berapa omzet yang hilang setiap kali produksi terhenti karena bahan baku telat. Jika kerugian dari keterlambatan melebihi selisih harga dengan supplier lain, maka supplier murah tersebut justru lebih mahal secara total. Rekomendasi saya: gunakan supplier yang harga dan pengirimannya seimbang sebagai supplier utama. Supplier murah yang sering telat bisa diposisikan sebagai backup untuk pesanan tambahan yang tidak mendesak. Atau, negosiasi dengan supplier murah: berikan komitmen volume tertentu dengan syarat penalti keterlambatan. Jika mereka setuju dan kinerja membaik, baru pertimbangkan untuk menaikkan porsi pemesanan."
+      }
+    ]
+  },
+  {
+    "title": "Menyusun SLA dengan pemasok bahan kemasan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau bikin perjanjian resmi dengan supplier kemasan saya supaya ada kejelasan. Apa saja yang harus dicantumkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perjanjian kerja sama pengadaan atau SLA dengan supplier kemasan harus mencakup poin-poin berikut. Pertama, spesifikasi produk: jenis kemasan, ukuran, bahan, warna, ketebalan, dan standar cetak. Lampirkan sampel yang disetujui sebagai referensi. Kedua, harga dan mekanisme penyesuaian: harga per unit, minimal order quantity, dan mekanisme review harga jika ada kenaikan bahan baku — misalnya review setiap 6 bulan dengan batas kenaikan maksimal 10%. Ketiga, jadwal dan syarat pengiriman: lead time produksi, jadwal pengiriman, dan lokasi serah terima. Keempat, penalti keterlambatan: misalnya diskon 2% dari nilai pesanan untuk setiap hari keterlambatan, maksimal 10%. Kelima, syarat pembayaran: tempo pembayaran, misalnya 30 hari setelah barang diterima. Keenam, prosedur retur: mekanisme pengembalian barang yang tidak sesuai spesifikasi. Ketujuh, masa berlaku perjanjian dan cara perpanjangan. Perjanjian ini tidak perlu melalui notaris, cukup ditandatangani kedua pihak dengan materai."
+      },
+      {
+        "role": "user",
+        "content": "Berapa minimal order quantity yang wajar untuk UMKM?"
+      },
+      {
+        "role": "assistant",
+        "content": "MOQ yang wajar tergantung pada jenis kemasan dan kapasitas produksi Anda. Prinsipnya: MOQ harus cukup besar agar supplier memberikan harga kompetitif, tetapi tidak terlalu besar sehingga mengikat modal dan memakan ruang penyimpanan. Untuk kemasan cetak custom, MOQ biasanya mulai dari 1.000 hingga 5.000 lembar tergantung kompleksitas cetak. Untuk kemasan polos atau standar, MOQ bisa lebih kecil. Strategi negosiasi: tawarkan komitmen pembelian bulanan tetap sebagai jaminan bagi supplier, sehingga mereka bersedia menurunkan MOQ per pesanan. Misalnya, komitmen 10.000 lembar per bulan tapi dikirim dalam 2 batch masing-masing 5.000 lembar. Hitung kebutuhan berdasarkan proyeksi penjualan 2-3 bulan ke depan ditambah safety stock kemasan sekitar 20% untuk mengantisipasi lonjakan pesanan."
+      }
+    ]
+  }
+]

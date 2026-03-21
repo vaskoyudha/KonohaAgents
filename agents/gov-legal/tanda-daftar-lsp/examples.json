@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pendirian LSP Pihak Pertama oleh politeknik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Politeknik kami ingin mendirikan LSP Pihak Pertama agar lulusan bisa langsung mendapatkan sertifikat kompetensi. Apa persyaratan dan langkah-langkahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "LSP Pihak Pertama memang tepat untuk lembaga pendidikan yang ingin mensertifikasi peserta didiknya sendiri. Berikut persyaratan dan tahapan yang harus Anda tempuh. Pertama, pastikan politeknik Anda memiliki badan hukum yang sah dan izin operasional penyelenggaraan pendidikan yang masih berlaku. Kedua, bentuk struktur organisasi LSP yang terpisah dari unit akademik dengan susunan pengurus meliputi ketua, sekretaris, dan penanggung jawab mutu yang memiliki pemahaman tentang sistem sertifikasi kompetensi. Ketiga, siapkan minimal asesor kompetensi berlisensi BNSP sesuai skema sertifikasi yang akan diselenggarakan. Asesor ini bisa berasal dari dosen atau praktisi industri yang sudah mengikuti dan lulus pelatihan asesor kompetensi di LSP Asesor. Keempat, pastikan ketersediaan Tempat Uji Kompetensi yang memenuhi standar teknis sesuai SKKNI bidang profesi yang dituju, bisa memanfaatkan laboratorium atau bengkel yang sudah ada di politeknik. Kelima, susun skema sertifikasi yang wajib merujuk pada SKKNI atau KKNI yang relevan dengan program studi di politeknik Anda. Keenam, ajukan permohonan lisensi ke BNSP dengan melampirkan seluruh dokumen persyaratan. BNSP akan melakukan desk assessment terhadap kelengkapan dokumen, dilanjutkan visitasi lapangan oleh tim verifikasi untuk menilai kesiapan infrastruktur, asesor, dan sistem manajemen mutu LSP. Jika memenuhi syarat, lisensi akan dibahas dalam sidang pleno BNSP dan diterbitkan dengan masa berlaku empat tahun."
+      },
+      {
+        "role": "user",
+        "content": "Berapa jumlah minimal asesor yang harus kami miliki dan bagaimana cara mendapatkan asesor berlisensi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak ada angka minimal universal yang ditetapkan secara eksplisit dalam regulasi, namun BNSP mensyaratkan LSP memiliki asesor kompetensi berlisensi dalam jumlah yang memadai untuk menyelenggarakan asesmen pada seluruh skema sertifikasi yang diajukan. Secara praktis, setiap skema sertifikasi memerlukan minimal dua asesor agar pelaksanaan asesmen tetap berjalan jika salah satu berhalangan dan prinsip independensi penilaian terjaga. Untuk mendapatkan asesor berlisensi, calon asesor harus mengikuti pelatihan dan asesmen kompetensi asesor di LSP yang memiliki lisensi untuk skema asesor kompetensi. Pelatihan ini mencakup metodologi asesmen, perencanaan dan pengorganisasian asesmen, pelaksanaan asesmen berbasis kompetensi, serta pelaporan hasil asesmen. Setelah dinyatakan kompeten, asesor memperoleh sertifikat dan Nomor Registrasi Asesor dari BNSP yang berlaku selama tiga tahun dan dapat diperpanjang. Saya sarankan politeknik Anda mengirimkan dosen-dosen yang memiliki pengalaman industri relevan untuk mengikuti pelatihan asesor terlebih dahulu sebelum mengajukan lisensi LSP, karena ketersediaan asesor adalah salah satu poin kritis yang dinilai dalam visitasi BNSP."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan jenis LSP dan pemilihan untuk asosiasi profesi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Asosiasi profesi kami di bidang teknologi informasi ingin membentuk LSP. Apa perbedaan LSP Pihak Pertama, Kedua, dan Ketiga, dan mana yang paling sesuai untuk kami?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita bedakan ketiga jenis LSP berdasarkan Peraturan BNSP No. 2/BNSP/III/2014. LSP Pihak Pertama dibentuk oleh lembaga pendidikan atau pelatihan dan hanya mensertifikasi peserta didik atau lulusannya sendiri sehingga ruang lingkup sertifikasinya terbatas pada internal lembaga tersebut. LSP Pihak Kedua dibentuk oleh industri atau kelompok industri untuk mensertifikasi tenaga kerja di jaringan operasionalnya seperti pemasok, vendor, atau mitra kerja sehingga sasarannya adalah pihak-pihak yang memiliki hubungan kerja dengan industri pembentuk. LSP Pihak Ketiga dibentuk oleh asosiasi profesi atau organisasi independen dan melayani sertifikasi kompetensi bagi masyarakat umum tanpa batasan hubungan kelembagaan. Untuk asosiasi profesi teknologi informasi, LSP Pihak Ketiga adalah pilihan yang paling sesuai karena Anda bertujuan melayani sertifikasi bagi seluruh profesional TI secara terbuka, bukan hanya anggota internal. Keunggulan LSP Pihak Ketiga adalah cakupan layanan yang luas dan sertifikat yang diakui secara nasional untuk bidang profesi TI. Persyaratan tambahan untuk LSP Pihak Ketiga biasanya lebih ketat dalam hal independensi dan sistem manajemen mutu karena melayani publik luas. Anda perlu menyusun skema sertifikasi berbasis SKKNI bidang TI yang sudah ditetapkan, memastikan asesor berlisensi yang memahami unit kompetensi TI, dan menyiapkan TUK dengan infrastruktur teknis yang memadai untuk simulasi dan uji praktik."
+      },
+      {
+        "role": "user",
+        "content": "Kalau SKKNI bidang TI belum tersedia untuk spesialisasi tertentu, bagaimana kami menyusun skema sertifikasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika SKKNI untuk spesialisasi tertentu di bidang TI belum ditetapkan oleh Kementerian Ketenagakerjaan, ada beberapa alternatif yang diperbolehkan dalam kerangka regulasi. Pertama, Anda dapat menggunakan standar kompetensi internasional yang diadopsi dan disesuaikan dengan konteks ketenagakerjaan Indonesia sebagai acuan penyusunan skema sertifikasi. Standar internasional seperti dari badan sertifikasi TI global bisa menjadi rujukan asalkan dilakukan proses adaptasi yang terdokumentasi. Kedua, asosiasi profesi Anda dapat mengusulkan penyusunan SKKNI baru kepada Kementerian Ketenagakerjaan melalui instansi pembina sektor yang dalam hal ini bisa Kementerian Kominfo atau Kementerian terkait. Proses penyusunan SKKNI melibatkan konvensi nasional dengan peserta dari kalangan industri, akademisi, asosiasi profesi, dan pemerintah untuk merumuskan unit-unit kompetensi yang relevan. Ketiga, sementara menunggu SKKNI ditetapkan, Anda dapat menyusun skema sertifikasi berbasis standar khusus yang dikembangkan oleh asosiasi profesi dengan mengacu pada KKNI untuk menjamin kesetaraan jenjang kualifikasi. Namun perlu diingat bahwa skema berbasis standar khusus ini tetap harus disetujui BNSP dalam proses pengajuan lisensi dan akan dievaluasi kesesuaiannya. Saya rekomendasikan jalur pertama atau kedua karena memiliki legitimasi regulasi yang lebih kuat dan sertifikat yang dihasilkan akan lebih mudah diakui lintas sektor."
+      }
+    ]
+  }
+]

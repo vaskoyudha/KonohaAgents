@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Diagnosis penurunan omzet restoran dan opsi pivot",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Restoran saya di kawasan perkantoran omzetnya turun 40% sejak 6 bulan lalu. Banyak kantor yang WFH permanen. Apakah saya harus pivot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penurunan 40% selama 6 bulan yang terkait perubahan struktural (WFH permanen) adalah sinyal serius yang memerlukan respons strategis. Mari diagnosis dulu. Pertanyaan kunci: apakah penurunan merata di semua waktu atau hanya makan siang hari kerja? Apakah weekend masih ramai? Apakah ada tren pemesanan online yang meningkat? Jika penurunan hanya di segmen makan siang hari kerja sementara weekend stabil, ini bukan masalah produk Anda — ini masalah perubahan pola konsumsi di lokasi. Opsi pivot yang bisa dipertimbangkan: pertama, channel pivot — perkuat layanan delivery dan cloud kitchen untuk menjangkau pelanggan WFH di rumah. Kedua, market pivot — ubah target dari pekerja kantoran ke komunitas residensial sekitar. Ketiga, product pivot — tambah menu frozen food yang bisa dikirim ke area lebih luas. Sebelum pivot total, lakukan eksperimen: coba delivery dan frozen food selama 1 bulan, ukur respons pasar, baru putuskan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya mau coba channel pivot ke delivery, bagaimana cara validasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan prinsip lean startup untuk validasi: build-measure-learn dalam siklus pendek. Tahap build: daftarkan restoran di 2 platform delivery utama, buat menu khusus delivery yang kemasan-friendly dan tahan perjalanan 30 menit, tentukan radius layanan optimal. Tahap measure: tetapkan metrik keberhasilan sebelum mulai — misalnya target 15 pesanan per hari dalam 2 minggu pertama, rating pelanggan minimal 4,5, dan food cost tidak melebihi 35%. Tahap learn: setelah 4 minggu, evaluasi data. Jika target tercapai, perbesar investasi di delivery. Jika tidak tercapai, analisis mengapa — apakah masalah menu, harga, kemasan, atau jangkauan. Iterasi perbaikan lalu uji ulang. Kunci: jangan langsung renovasi restoran menjadi cloud kitchen. Jalankan delivery sebagai kanal tambahan dulu. Jika terbukti menguntungkan, baru alokasikan sumber daya lebih besar."
+      }
+    ]
+  },
+  {
+    "title": "Pivot dari toko fisik ke model online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko baju saya di mal sepi karena traffic pengunjung turun drastis. Saya mau pivot ke online tapi bingung mulai dari mana karena sudah terlanjur sewa lokasi 2 tahun."
+      },
+      {
+        "role": "assistant",
+        "content": "Situasi Anda memerlukan transisi bertahap, bukan pivot mendadak, terutama karena ada komitmen sewa 2 tahun. Mari petakan menggunakan Business Model Canvas. Saat ini: value proposition Anda adalah pengalaman belanja langsung, customer segment adalah pengunjung mal, channel adalah toko fisik, revenue stream dari penjualan langsung. Setelah pivot: value proposition diperluas ke kemudahan belanja dari rumah, customer segment diperluas ke seluruh Indonesia, channel bergeser ke marketplace dan media sosial, revenue stream dari penjualan online plus toko fisik. Rencana transisi: bulan pertama, buat toko di marketplace dan mulai konten media sosial menggunakan stok yang ada. Bulan kedua-ketiga, optimalkan listing dan iklan digital, ukur konversi. Jika omzet online tumbuh konsisten, ubah fungsi toko fisik menjadi showroom dan gudang fulfillment. Toko fisik tetap berfungsi selama masa sewa, tapi porsi fokus bergeser ke online."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara memutuskan apakah toko fisiknya ditutup saat kontrak habis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buat keputusan berdasarkan data, bukan perasaan. Tetapkan titik keputusan go/no-go 3 bulan sebelum kontrak sewa habis. Metrik yang harus Anda kumpulkan: pertama, bandingkan kontribusi omzet toko fisik vs. online terhadap total pendapatan — jika online sudah melebihi 60%, sinyal kuat untuk tidak perpanjang sewa. Kedua, hitung profitabilitas toko fisik secara terpisah: pendapatan toko dikurangi sewa, gaji staf toko, listrik, dan biaya operasional — jika rugi bersih, pertanyaannya hanya soal kapan ditutup, bukan apakah. Ketiga, evaluasi fungsi showroom: apakah kehadiran toko fisik meningkatkan kepercayaan pelanggan online? Jika iya, mungkin buka showroom yang lebih kecil dan murah. Keempat, hitung opportunity cost: biaya sewa dan operasional toko fisik bisa dialokasikan untuk apa di online — lebih banyak iklan, lebih banyak stok, atau ekspansi ke marketplace baru. Keputusan yang baik adalah yang didukung data, bukan emosi."
+      }
+    ]
+  }
+]

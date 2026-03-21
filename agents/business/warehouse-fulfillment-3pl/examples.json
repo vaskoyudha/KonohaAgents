@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Evaluasi perpindahan dari fulfillment rumahan ke 3PL",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jualan di Shopee dan Tokopedia, kirim rata-rata 600 paket per bulan dari rumah. Sudah mulai kewalahan. Apakah sudah saatnya pakai 3PL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 600 paket per bulan, Anda sudah berada di zona di mana 3PL biasanya mulai cost-effective. Mari bandingkan. Biaya in-house saat ini: hitung total pengeluaran bulanan untuk ruang penyimpanan (jika sewa atau opportunity cost ruang rumah), gaji asisten packing (jika ada), material kemasan, dan yang sering terlupakan — nilai waktu Anda sendiri. Estimasi: jika Anda menghabiskan 4 jam per hari untuk packing dan pengiriman, itu 120 jam per bulan yang bisa dialokasikan untuk pengembangan bisnis. Biaya 3PL estimasi: storage fee rata-rata Rp 50.000-100.000 per CBM per bulan, fulfillment fee Rp 3.000-8.000 per order (termasuk picking, packing, labeling). Untuk 600 paket: estimasi fulfillment cost = 600 x Rp 5.000 = Rp 3.000.000 per bulan plus storage fee. Jika total biaya 3PL setara atau sedikit lebih tinggi dari biaya in-house tetapi membebaskan 120 jam waktu Anda, itu investasi yang layak. Rekomendasi: minta quotation dari 2-3 provider 3PL, bandingkan biaya dan SLA, lalu uji coba dengan sebagian produk dulu."
+      },
+      {
+        "role": "user",
+        "content": "Provider 3PL mana yang cocok untuk volume saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk volume 600 paket per bulan, beberapa opsi yang bisa Anda pertimbangkan: Shipper yang menawarkan layanan fulfillment terintegrasi dengan berbagai marketplace dan memiliki gudang di beberapa kota besar. iSeller yang menyediakan solusi fulfillment plus integrasi POS dan inventory management. Layanan fulfillment dari ekspedisi besar seperti JNE atau SiCepat yang mulai menawarkan jasa warehousing dan fulfillment. Kriteria perbandingan yang harus Anda gunakan: lokasi gudang (idealnya dekat dengan mayoritas pelanggan Anda untuk menekan ongkir), integrasi API dengan Shopee dan Tokopedia (agar order langsung masuk sistem), fulfillment fee per order dan minimum commitment, storage fee per CBM, SLA pengiriman (berapa jam dari order masuk sampai paket diserahkan ke kurir), dan kebijakan retur. Minta quotation dari minimal tiga provider, kunjungi gudang mereka jika memungkinkan, dan mulai dengan trial period 1-3 bulan sebelum komitmen jangka panjang."
+      }
+    ]
+  },
+  {
+    "title": "Menata gudang kecil untuk UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya ruang 4x6 meter untuk gudang toko online. Produknya aksesoris HP bermacam-macam ukuran kecil. Bagaimana tata letaknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ruang 4x6 meter (24 m2) cukup efisien untuk gudang UMKM produk kecil jika dizonasi dengan benar. Bagi menjadi empat zona. Zona 1 — Penerimaan (dekat pintu masuk, 1x4 meter): area untuk menerima dan memeriksa barang dari supplier sebelum disimpan. Sediakan meja kecil untuk quality check dan pencatatan. Zona 2 — Penyimpanan utama (tengah ruang, 3x4 meter): pasang rak bertingkat 4-5 level karena produk aksesoris HP berukuran kecil. Gunakan kotak plastik bening berlabel per kategori: casing, screen protector, charger, kabel, aksesoris lain. Beri kode lokasi setiap rak: A1, A2, B1, B2, dst. Produk fast-moving (paling laris) di level mata — mudah dijangkau tanpa tangga. Zona 3 — Packing (dekat pintu keluar, 1x4 meter): meja kerja panjang untuk packing, material kemasan tertata di rak samping. Zona 4 — Siap kirim (sudut dekat pintu, 1x2 meter): area khusus paket yang sudah dipacking dan menunggu pickup kurir. Pisahkan berdasarkan ekspedisi. Kunci efisiensi: setiap produk punya kode SKU dan kode lokasi di rak, sehingga siapa pun bisa melakukan picking tanpa bertanya."
+      },
+      {
+        "role": "user",
+        "content": "WMS apa yang cocok untuk skala saya tanpa biaya mahal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk skala UMKM dengan gudang kecil, Anda tidak perlu WMS berbayar yang mahal. Mulai dari yang sederhana dan gratis. Opsi pertama: Google Sheets terstruktur — buat spreadsheet dengan kolom: kode SKU, nama produk, lokasi rak, stok masuk, stok keluar, stok saat ini, dan tanggal terakhir update. Ini gratis dan bisa diakses dari HP. Opsi kedua: aplikasi inventory gratis atau freemium seperti Stockpile, InFlow, atau fitur inventory bawaan dari platform e-commerce yang Anda gunakan (Shopee dan Tokopedia sudah punya sistem stok). Opsi ketiga: jika volume meningkat ke 1.000+ paket per bulan, pertimbangkan WMS berbayar yang terintegrasi dengan marketplace seperti Jubelio, Ginee, atau Bukukas yang harganya relatif terjangkau untuk UMKM. Prinsipnya: sistem apapun yang Anda pilih harus bisa menjawab tiga pertanyaan setiap saat — berapa stok saat ini, di mana lokasinya, dan kapan harus restock. Mulai dari yang paling sederhana, dan upgrade ketika volume sudah tidak bisa ditangani oleh sistem yang ada."
+      }
+    ]
+  }
+]

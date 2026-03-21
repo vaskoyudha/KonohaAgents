@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Proses pendirian radio komunitas di desa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dari organisasi masyarakat di desa dan ingin mendirikan radio komunitas. Bagaimana proses perizinannya dan apa saja persyaratan yang harus dipenuhi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Radio komunitas termasuk dalam kategori Lembaga Penyiaran Komunitas sebagaimana diatur dalam PP No. 13 Tahun 2005. Ada beberapa persyaratan fundamental yang harus Anda penuhi. Pertama, radio komunitas harus didirikan oleh komunitas tertentu yang memiliki kepentingan bersama dan bersifat independen serta tidak komersial. Artinya tidak boleh menerima iklan komersial dan sumber pendanaan utama berasal dari kontribusi komunitas, hibah, dan sumber non-komersial lainnya. Kedua, daya pancar radio komunitas dibatasi maksimal sesuai ketentuan teknis yang berlaku dan jangkauan siarannya terbatas pada wilayah komunitas yang dilayani. Langkah pengajuan IPP dimulai dengan menyusun proposal pendirian yang mencakup profil komunitas, visi dan misi penyiaran, rencana program siaran, struktur organisasi, dan rencana pendanaan. Setelah itu, ajukan permohonan ke KPI Daerah setempat dengan melampirkan akta pendirian organisasi, surat keterangan domisili, dan dokumen teknis pemancar. KPI Daerah akan melakukan verifikasi administratif dan teknis, kemudian proses berlanjut ke Forum Rapat Bersama antara KPI dan Kementerian Kominfo untuk evaluasi kelayakan frekuensi. Jika lolos FRB, Anda akan menjalani masa uji coba siaran selama dua tahun sebelum IPP tetap diterbitkan. Selama masa uji coba, pastikan kepatuhan penuh terhadap P3SPS dan lakukan pelaporan berkala ke KPI Daerah."
+      },
+      {
+        "role": "user",
+        "content": "Apakah radio komunitas boleh menerima sponsor dari perusahaan lokal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan UU No. 32 Tahun 2002 dan PP No. 13 Tahun 2005, lembaga penyiaran komunitas dilarang menerima siaran iklan dan siaran komersial. Namun perlu dibedakan antara iklan komersial dengan dukungan operasional. Radio komunitas diperbolehkan menerima hibah, donasi, atau bantuan operasional dari pihak ketiga termasuk perusahaan lokal, asalkan tidak dalam bentuk siaran iklan komersial yang mempromosikan produk atau jasa tertentu. Dukungan tersebut boleh disebutkan sebagai ucapan terima kasih secara singkat tanpa unsur ajakan membeli atau promosi harga. Jika Anda ragu apakah bentuk dukungan tertentu melanggar ketentuan, konsultasikan langsung ke KPI Daerah setempat untuk mendapatkan klarifikasi resmi sebelum menayangkannya. Pastikan juga hal ini tercatat dalam laporan keuangan dan pelaporan berkala Anda ke KPI agar transparansi pendanaan terjaga."
+      }
+    ]
+  },
+  {
+    "title": "Pengurusan IPP televisi swasta regional",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami berencana mendirikan stasiun televisi swasta dengan jangkauan siaran regional di Jawa Timur. Apa langkah-langkah untuk mendapatkan IPP dan berapa lama prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendirian stasiun televisi swasta regional diatur dalam PP No. 12 Tahun 2005 tentang Lembaga Penyiaran Swasta. Berikut langkah-langkah yang perlu Anda tempuh secara berurutan. Pertama, pastikan badan usaha Anda berbentuk Perseroan Terbatas yang memenuhi ketentuan kepemilikan dan permodalan sesuai regulasi. Kedua, siapkan dokumen perizinan meliputi akta pendirian PT beserta perubahannya, NPWP badan usaha, NIB yang sudah terbit dari OSS, proposal penyelenggaraan penyiaran yang memuat rencana program siaran minimal 10 persen konten lokal, studi kelayakan teknis dan finansial, serta data infrastruktur pemancar. Ketiga, ajukan permohonan IPP ke KPI Pusat karena jangkauan siaran Anda bersifat lintas kabupaten atau kota di dalam satu provinsi. KPI akan melakukan evaluasi proposal, verifikasi administratif, dan penilaian kelayakan program siaran. Keempat, proses dilanjutkan ke Forum Rapat Bersama antara KPI Pusat dan Kementerian Kominfo untuk membahas alokasi kanal frekuensi dan kelayakan teknis infrastruktur pemancar. Kelima, jika lolos FRB, Anda memperoleh IPP sementara dan wajib menjalani masa uji coba siaran selama dua tahun. Selama uji coba, KPI akan mengevaluasi kepatuhan konten terhadap P3SPS, realisasi program siaran dibandingkan proposal, dan aspek teknis penyiaran. Total durasi dari pengajuan hingga IPP tetap terbit bisa mencapai tiga hingga empat tahun tergantung ketersediaan frekuensi dan kelengkapan dokumen Anda. Siapkan juga anggaran untuk infrastruktur studio dan pemancar yang memenuhi standar teknis Kementerian Kominfo."
+      },
+      {
+        "role": "user",
+        "content": "Apa kewajiban konten lokal yang harus kami penuhi selama uji coba siaran?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selama masa uji coba dan seterusnya, lembaga penyiaran swasta wajib memenuhi beberapa ketentuan konten siaran sesuai UU No. 32 Tahun 2002 dan P3SPS. Pertama, Anda wajib menyiarkan konten siaran lokal minimal sesuai persentase yang ditetapkan dalam rencana program siaran yang sudah disetujui dalam proses IPP. Konten lokal mencakup program yang diproduksi di wilayah layanan siaran dan menampilkan budaya, informasi, serta kebutuhan masyarakat setempat di Jawa Timur. Kedua, komposisi program siaran harus memperhatikan keseimbangan antara informasi, pendidikan, hiburan, dan kontrol sosial sesuai fungsi penyiaran yang diamanatkan undang-undang. Ketiga, patuhi klasifikasi program siaran berdasarkan kelompok usia penonton dan tempatkan program pada jam tayang yang sesuai. Program dengan klasifikasi dewasa tidak boleh ditayangkan pada jam tayang anak-anak. Keempat, laporkan realisasi program siaran secara berkala ke KPI sebagai bahan evaluasi. Kegagalan memenuhi komitmen konten lokal dan pelanggaran P3SPS selama uji coba dapat mengakibatkan IPP tetap tidak diterbitkan atau bahkan pencabutan IPP sementara. Saya sarankan Anda membuat tim kepatuhan internal yang secara rutin mengevaluasi konten sebelum ditayangkan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Merekrut karyawan pertama untuk toko UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru mau rekrut karyawan pertama untuk toko pakaian saya di Jakarta. Gaji rencana 5 juta per bulan. Kontrak seperti apa yang harus saya buat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena usaha toko pakaian bersifat operasional berkelanjutan, saya sarankan menggunakan PKWTT (Perjanjian Kerja Waktu Tidak Tertentu) agar hubungan kerja lebih stabil. Dengan PKWTT, Anda bisa menetapkan masa percobaan maksimal 3 bulan. Kontrak minimum harus memuat: identitas Anda sebagai pemberi kerja dan identitas karyawan, jabatan (misal: pramuniaga), deskripsi pekerjaan, tempat kerja, besaran upah Rp 5.000.000 per bulan — pastikan ini sudah memenuhi UMP DKI Jakarta yang berlaku, cara pembayaran (bulanan, transfer), jam kerja (40 jam/minggu untuk 5 hari kerja atau 6 hari kerja), hak cuti tahunan minimal 12 hari, dan ketentuan PHK. Setelah kontrak ditandatangani, Anda wajib mendaftarkan karyawan ke BPJS Ketenagakerjaan dan BPJS Kesehatan dalam waktu 30 hari. Ini bukan opsional — ini kewajiban hukum yang jika dilanggar bisa dikenakan sanksi."
+      },
+      {
+        "role": "user",
+        "content": "Berapa total biaya yang harus saya keluarkan selain gaji pokok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selain gaji pokok Rp 5 juta, Anda menanggung iuran BPJS sebagai pemberi kerja. Rinciannya: BPJS Ketenagakerjaan — JKK sebesar 0,24-1,74% dari upah tergantung risiko pekerjaan (ritel biasanya 0,24%), JKM 0,30%, JHT 3,70%, dan JP 2%. Total BPJS Ketenagakerjaan yang Anda tanggung sekitar 6,24% dari upah = Rp 312.000. BPJS Kesehatan: pemberi kerja menanggung 4% dari upah = Rp 200.000. Jadi total biaya tambahan per karyawan per bulan sekitar Rp 512.000. Karyawan juga dipotong dari gajinya: JHT 2%, JP 1%, dan BPJS Kesehatan 1%. Total biaya Anda per karyawan: Rp 5.000.000 + Rp 512.000 = Rp 5.512.000 per bulan. Angka ini belum termasuk THR yang wajib dibayarkan satu kali setahun sebesar satu bulan gaji."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung upah lembur karyawan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Karyawan saya yang gajinya 5 juta per bulan kerja lembur 3 jam di hari Senin. Berapa upah lemburnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perhitungan upah lembur di hari kerja menggunakan formula berdasarkan PP No. 35/2021. Pertama, hitung upah per jam: 1/173 x upah sebulan = 1/173 x Rp 5.000.000 = Rp 28.902 per jam. Untuk lembur di hari kerja: jam pertama dibayar 1,5 x upah per jam = 1,5 x Rp 28.902 = Rp 43.353. Jam kedua dan seterusnya dibayar 2 x upah per jam = 2 x Rp 28.902 = Rp 57.804 per jam. Jadi untuk lembur 3 jam di hari Senin: jam pertama Rp 43.353 + jam kedua Rp 57.804 + jam ketiga Rp 57.804 = Rp 158.961. Penting: lembur harus atas perintah tertulis atau persetujuan pemberi kerja, bukan inisiatif karyawan sendiri. Maksimal lembur adalah 4 jam per hari dan 18 jam per minggu. Catat setiap lembur dalam buku lembur dan cantumkan dalam slip gaji."
+      },
+      {
+        "role": "user",
+        "content": "Kalau lemburnya di hari Minggu atau hari libur nasional, berbeda hitungannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berbeda dan lebih tinggi. Untuk lembur di hari istirahat mingguan atau hari libur nasional dengan sistem 6 hari kerja: 7 jam pertama dibayar 2 x upah per jam, jam kedelapan dibayar 3 x upah per jam, dan jam kesembilan serta seterusnya dibayar 4 x upah per jam. Untuk sistem 5 hari kerja: 8 jam pertama dibayar 2 x upah per jam, jam kesembilan dibayar 3 x upah per jam, dan jam kesepuluh serta seterusnya dibayar 4 x upah per jam. Contoh: karyawan Anda kerja 5 jam di hari Minggu dengan sistem 6 hari kerja. Hitungannya: 5 jam x 2 x Rp 28.902 = Rp 289.020. Jika kerja 8 jam: 7 jam x 2 x Rp 28.902 = Rp 404.628 ditambah 1 jam x 3 x Rp 28.902 = Rp 86.706, total Rp 491.334. Perhitungan lembur hari libur memang lebih mahal, jadi pertimbangkan apakah benar-benar perlu sebelum memerintahkan lembur di hari istirahat."
+      }
+    ]
+  }
+]

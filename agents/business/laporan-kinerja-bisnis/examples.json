@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menyusun KPI untuk toko online tahap awal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko online saya baru 8 bulan jalan, jual aksesoris handphone. Omzet bulan lalu 45 juta, biaya iklan 8 juta, HPP 25 juta. KPI apa yang harus saya pantau?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk toko online tahap awal, fokus pada empat KPI utama yang langsung bisa dihitung dari data Anda. Pertama, gross profit margin: (omzet - HPP) / omzet x 100% = (45 juta - 25 juta) / 45 juta x 100% = 44,4%. Ini menunjukkan seberapa besar margin kotor yang tersisa setelah biaya produk. Kedua, ROAS (Return on Ad Spend): omzet / biaya iklan = 45 juta / 8 juta = 5,6x. Artinya setiap Rp 1 biaya iklan menghasilkan Rp 5,6 pendapatan. Ketiga, jika Anda tahu jumlah transaksi bulan lalu, hitung average order value: omzet / jumlah transaksi. Keempat, customer acquisition cost: biaya iklan / jumlah pelanggan baru. Empat metrik ini sudah cukup untuk tahap awal. Pantau setiap bulan dan lihat tren naik atau turunnya. Jika gross margin turun di bawah 35%, evaluasi ulang harga jual atau cari pemasok lebih murah. Jika ROAS turun di bawah 3x, optimalkan strategi iklan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana format laporan bulanan yang bisa saya kerjakan sendiri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buat laporan satu halaman dengan empat bagian. Bagian pertama, Ringkasan Eksekutif: tulis tiga poin utama bulan ini, misalnya 'omzet naik 15% dari bulan lalu, margin stabil, biaya iklan meningkat'. Bagian kedua, Tabel KPI: buat tabel dengan kolom Metrik, Bulan Ini, Bulan Lalu, dan Perubahan. Isi dengan gross margin, ROAS, average order value, dan jumlah transaksi. Bagian ketiga, Produk Terlaris dan Bermasalah: cantumkan tiga produk penjualan tertinggi dan tiga produk yang tidak bergerak. Bagian keempat, Tiga Aksi Bulan Depan: berdasarkan data, tentukan tiga tindakan prioritas. Contoh: 'optimasi iklan produk A karena ROAS di bawah target, negosiasi harga ke pemasok B untuk perbaiki margin, clearance produk C yang tidak bergerak'. Kerjakan di akhir setiap bulan, konsisten selama enam bulan, dan Anda akan mulai melihat pola bisnis yang sebelumnya tidak terlihat."
+      }
+    ]
+  },
+  {
+    "title": "Menetapkan target OKR untuk UMKM kuliner",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pemilik restoran kecil dan ingin pakai sistem target yang jelas untuk kuartal depan. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan kerangka OKR: tetapkan satu Objective utama dan dua hingga tiga Key Results yang terukur. Contoh untuk restoran kecil: Objective kuartal depan adalah 'Meningkatkan profitabilitas restoran secara berkelanjutan'. Key Result pertama: naikkan gross profit margin dari 40% menjadi 48% dengan optimasi menu dan negosiasi pemasok. Key Result kedua: tingkatkan average transaction value dari Rp 75.000 menjadi Rp 90.000 melalui upselling dan paket menu. Key Result ketiga: turunkan food waste dari 12% menjadi 7% dengan perbaikan manajemen stok bahan. Setiap key result harus punya angka spesifik yang bisa diukur di akhir kuartal. Review mingguan untuk pantau progres: apakah setiap key result on track, at risk, atau off track. Di akhir kuartal, nilai pencapaian setiap key result — skor ideal 70-80% menunjukkan target yang ambisius tapi realistis."
+      },
+      {
+        "role": "user",
+        "content": "Food waste 12% itu artinya apa dan bagaimana cara hitungnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Food waste rate dihitung dengan formula: nilai bahan makanan yang terbuang / total nilai bahan makanan yang dibeli x 100%. Jika bulan ini Anda membeli bahan senilai Rp 30 juta dan ada Rp 3,6 juta yang terbuang karena kedaluwarsa, rusak, atau tidak terpakai, maka food waste rate = 3,6 juta / 30 juta x 100% = 12%. Angka ini berarti setiap Rp 100 yang Anda belanjakan untuk bahan baku, Rp 12 terbuang sia-sia. Industri restoran umumnya menargetkan food waste di bawah 5-8%. Untuk menurunkannya: pertama, catat semua bahan yang terbuang setiap hari beserta alasannya. Kedua, identifikasi bahan mana yang paling sering terbuang. Ketiga, sesuaikan volume pembelian berdasarkan data penjualan aktual, bukan perkiraan. Keempat, terapkan FIFO ketat di dapur: bahan yang datang lebih dulu harus dipakai lebih dulu. Pengurangan food waste dari 12% ke 7% berarti penghematan Rp 1,5 juta per bulan berdasarkan data di atas."
+      }
+    ]
+  }
+]

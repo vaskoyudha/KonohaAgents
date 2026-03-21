@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Mewaralabakan bisnis ayam goreng lokal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bisnis ayam goreng saya sudah punya 5 outlet sendiri dan banyak yang minta franchise. Apa langkah pertama untuk mewaralabakan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas minat pasar terhadap bisnis Anda. Sebagai calon pemberi waralaba, langkah pertama adalah menyusun prospektus penawaran waralaba sesuai PP No. 42/2007. Prospektus ini harus memuat: identitas pemberi waralaba, legalitas usaha, sejarah kegiatan usaha, struktur organisasi, laporan keuangan dua tahun terakhir, jumlah outlet, daftar penerima waralaba yang sudah ada, serta hak dan kewajiban masing-masing pihak. Prospektus ini wajib diserahkan kepada calon penerima waralaba minimal dua minggu sebelum penandatanganan perjanjian. Setelah prospektus siap, daftarkan STPW-Pemberi Waralaba ke Kementerian Perdagangan melalui Direktorat Bina Usaha dan Pelaku Distribusi. Dokumen pendukung: akta pendirian, NIB, NPWP, prospektus, dan bukti kepemilikan HKI atas merek dagang Anda. Pastikan juga merek ayam goreng Anda sudah terdaftar di DJKI Kemenkumham."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama minimal perjanjian waralaba yang harus saya buat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan PP No. 42/2007 Pasal 5, perjanjian waralaba harus dibuat untuk jangka waktu paling sedikit 10 tahun. Perjanjian ini wajib mengutamakan penggunaan hukum Indonesia dan disusun dalam bahasa Indonesia. Isi perjanjian minimal mencakup: nama dan alamat para pihak, jenis dan lingkup kegiatan usaha, hak dan kewajiban masing-masing, bantuan dan fasilitas yang diberikan, wilayah usaha, jangka waktu perjanjian, tata cara pembayaran imbalan, kepemilikan dan perubahan kepemilikan, serta penyelesaian sengketa. Perjanjian waralaba harus didaftarkan di Kemendag paling lambat 30 hari kerja sejak tanggal berlakunya perjanjian. Saya sarankan penyusunan perjanjian dilakukan bersama notaris dan pengacara yang memahami hukum waralaba Indonesia."
+      }
+    ]
+  },
+  {
+    "title": "Menjadi penerima waralaba merek asing",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tertarik membeli franchise merek kopi dari Korea. Apa yang harus saya perhatikan dari sisi regulasi Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk waralaba asing, ada beberapa ketentuan tambahan yang perlu diperhatikan. Pertama, pemberi waralaba asing wajib memiliki STPW-Pemberi Waralaba yang terdaftar di Kemendag Indonesia — pastikan mereka sudah mengurusnya atau Anda perlu menunggu proses pendaftarannya selesai. Kedua, berdasarkan Permendag No. 71/2019, waralaba asing wajib bermitra dengan pelaku UMKM lokal dan menggunakan bahan baku produksi dalam negeri sesuai ketentuan. Ketiga, perjanjian waralaba tetap harus tunduk pada hukum Indonesia dengan jangka waktu minimal 10 tahun. Keempat, Anda sebagai penerima harus mendaftarkan STPW-Penerima dalam waktu yang ditentukan setelah perjanjian ditandatangani. Kelima, evaluasi prospektus dari pemberi secara teliti — periksa laporan keuangan, jumlah outlet global, dukungan operasional, dan skema royalti sebelum menandatangani apa pun."
+      },
+      {
+        "role": "user",
+        "content": "Apa bedanya STPW-Pemberi dan STPW-Penerima?"
+      },
+      {
+        "role": "assistant",
+        "content": "STPW-Pemberi diterbitkan untuk pihak yang memiliki merek dan sistem bisnis yang diwaralabakan. Kewajiban utamanya: menyerahkan prospektus sebelum perjanjian, menyediakan pembinaan operasional, dan memastikan kualitas produk terjaga. STPW-Penerima diterbitkan untuk pihak yang menjalankan usaha berdasarkan perjanjian waralaba yang telah disepakati. Kewajiban utamanya: menjalankan usaha sesuai standar pemberi waralaba, membayar royalti dan biaya waralaba tepat waktu, serta melaporkan perkembangan usaha. Keduanya harus terdaftar di Kemendag. Jika pemberi waralaba belum memiliki STPW, maka secara hukum ia belum berhak menawarkan waralaba di Indonesia. Ini penting untuk melindungi Anda sebagai calon penerima waralaba dari penawaran yang tidak sah."
+      }
+    ]
+  }
+]
