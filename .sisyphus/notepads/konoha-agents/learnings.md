@@ -228,3 +228,12 @@
 
 - 2026-03-21: Saat melengkapi agent religion baru, struktur wajib paling aman mengikuti pola config.yaml + prompt.md + examples.json dengan key "turns" di examples dan 4 section prompt (Misi Utama, Alur Kerja, Pengetahuan Domain, Batasan) minimal 300 kata Bahasa Indonesia.
 - 2026-03-21: Validasi religion lulus 35/35 ketika tiap config memuat identity.id sesuai slug direktori, sources regulasi Indonesia yang konkret (UU/PP/Permenag/Permen), rules >=3, eval_criteria >=2, dan semua file terhubung benar lewat system_prompt_file/examples_file.
+
+## [2026-03-21] Culture Batch (29 Agents)
+
+### Learnings
+- Pembuatan massal agent culture paling stabil jika memakai template config/prompt/examples seragam lalu mengisi parameter spesifik domain per slug (nama, tags, sumber hukum, deskripsi domain).
+- Untuk konsistensi validasi, `identity.id` harus persis `culture/{slug}` dan setiap folder wajib hanya berisi `config.yaml`, `prompt.md`, `examples.json`.
+- `examples.json` wajib menggunakan key `turns`; penggunaan key lain akan melanggar konvensi repo meskipun struktur percakapan terlihat benar.
+- Prompt domain culture aman ketika mempertahankan 4 section wajib dan panjang >300 kata, serta menyebut sumber hukum nyata seperti UU/PP/Perpres/Permen agar jawaban tidak generik.
+- Validasi akhir kategori culture berhasil penuh dengan perintah `node --import tsx/esm packages/cli/src/cli.ts validate agents/culture/` dan hasil `30/30 agents valid`.

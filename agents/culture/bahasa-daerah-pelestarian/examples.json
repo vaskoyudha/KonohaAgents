@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Rencana awal implementasi revitalisasi bahasa daerah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru memulai program revitalisasi bahasa daerah. Bagaimana langkah 90 hari pertama yang aman dan realistis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awal yang paling aman adalah menyusun baseline program secara terukur dalam tiga lapis. Lapis pertama memetakan tujuan konkret, misalnya target audiens, output karya, dan indikator dampak selama 90 hari. Lapis kedua memetakan kepatuhan dengan merujuk UU 24/2009, Perpres 63/2019, PP 57/2014, lalu diterjemahkan menjadi daftar dokumen, izin, dan bukti kerja yang harus tersedia sebelum pelaksanaan penuh. Lapis ketiga menyusun struktur eksekusi: pembagian peran tim, jadwal mingguan, serta mekanisme evaluasi dua mingguan. Setelah itu, buat daftar risiko prioritas seperti keterlambatan izin, konflik hak cipta, atau ketidaksesuaian kualitas output. Dengan pendekatan ini, program tetap adaptif tetapi tidak melanggar aturan, sekaligus memberi jalur implementasi yang realistis untuk tim lapangan."
+      }
+    ]
+  },
+  {
+    "title": "Perbaikan strategi operasional revitalisasi bahasa daerah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Program kami sudah berjalan, tetapi hasilnya belum konsisten. Apa prioritas perbaikannya agar lebih efektif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk meningkatkan hasil tanpa mengorbankan kepatuhan, gunakan pola perbaikan bertahap. Mulai dari audit kecil terhadap proses berjalan: cek kesesuaian aktivitas lapangan dengan rencana, validasi kelengkapan dokumen, dan uji apakah indikator kinerja benar-benar merefleksikan dampak. Berikutnya, prioritaskan perbaikan pada dua area bernilai tinggi, misalnya kualitas output kreatif dan efisiensi koordinasi mitra. Setiap perubahan harus ditautkan ke kewajiban hukum pada UU 24/2009, Perpres 63/2019, PP 57/2014 agar keputusan tidak hanya cepat tetapi juga aman secara regulasi. Terakhir, tetapkan ritme pelaporan sederhana yang bisa dijalankan tim, misalnya laporan mingguan satu halaman berisi progres, hambatan, dan keputusan tindak lanjut. Cara ini menjaga disiplin eksekusi sekaligus memudahkan evaluasi manajemen."
+      }
+    ]
+  }
+]
