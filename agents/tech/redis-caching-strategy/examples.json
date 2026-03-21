@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Implementasi cache layer untuk API e-commerce",
+    "turns": [
+      {
+        "role": "user",
+        "content": "API product listing kami 2 detik per request, database PostgreSQL kena 500 queries per detik. Bagaimana implementasi Redis cache yang benar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 500 QPS dan response time 2 detik, caching bisa menurunkan beban database secara signifikan. Implementasikan cache-aside pattern: setiap request ke /api/products?category=electronics&page=1, generate cache key product:list:electronics:1:latest, cek di Redis dulu. Jika hit, return langsung dari cache dengan latency di bawah 5ms. Jika miss, query PostgreSQL, serialize response ke JSON, simpan ke Redis dengan TTL 300 detik plus random jitter 0-60 detik untuk mencegah cache stampede. Gunakan Redis Hash jika ingin granular invalidation per field. Untuk error handling, wrap Redis call dalam try-catch dan fallback ke database jika Redis down, jangan pernah return error ke user hanya karena cache layer bermasalah. Monitor hit ratio dengan custom counter: increment cache_hit atau cache_miss per request, target hit ratio di atas 90%. Dengan cache hit ratio 90%, beban database turun dari 500 QPS ke 50 QPS, dan average response time turun dari 2 detik ke sekitar 50ms."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana invalidation-nya kalau admin update harga produk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan event-driven invalidation. Saat admin update produk, publish event product:updated:{product_id} melalui Redis Pub/Sub atau application event bus. Subscriber yang mendengar event ini menghapus semua cache key terkait: delete individual product cache product:detail:{id}, lalu delete list cache yang mengandung produk tersebut. Untuk list cache, gunakan tag-based approach: setiap kali set cache product:list:electronics:1, juga tambahkan key tersebut ke Redis Set dengan key product:tags:electronics. Saat invalidation, ambil semua member dari Set tersebut dan hapus semuanya. Alternatif lebih sederhana: gunakan TTL pendek 60 detik untuk list cache dan TTL lebih panjang 300 detik untuk detail cache, sehingga perubahan harga otomatis terlihat dalam 1 menit tanpa explicit invalidation. Pilih pendekatan berdasarkan tolerance terhadap stale data: jika harga harus real-time, gunakan event-driven. Jika delay 1 menit bisa diterima, TTL pendek sudah cukup."
+      }
+    ]
+  }
+]

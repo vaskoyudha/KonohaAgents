@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Benchmark gaji dan negosiasi untuk fullstack developer",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya fullstack developer 4 tahun pengalaman, skill utama React dan Node.js. Sekarang di startup Bandung gaji 16 juta. Mau pindah ke Jakarta, berapa yang wajar saya minta?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 4 tahun pengalaman React dan Node.js, Anda masuk kategori mid-level menuju senior di pasar Jakarta. Berikut benchmark: startup early-stage Jakarta Rp 18-24 juta, startup growth atau seri B ke atas Rp 22-32 juta, unicorn seperti GoTo atau Bluebird Rp 28-38 juta, korporat fintech atau bank digital Rp 25-35 juta, dan perusahaan multinasional Rp 30-40 juta. Karena gaji saat ini 16 juta di Bandung, target realistis untuk Jakarta adalah Rp 24-30 juta tergantung tipe perusahaan. Jangan lupa pertimbangkan total compensation: bonus tahunan di korporat biasanya 1-3 bulan gaji, startup growth sering kasih stock options, dan benefit seperti asuransi swasta sekeluarga bisa bernilai Rp 1-2 juta per bulan. Untuk meningkatkan bargaining power, tambahkan skill TypeScript full-stack, pengalaman dengan Next.js, dan deployment ke cloud. Sertifikasi AWS atau pengalaman dengan microservices bisa menambah 15-20% ke rentang gaji."
+      },
+      {
+        "role": "user",
+        "content": "Saya dapat offer 26 juta dari startup seri B. Mau counter tapi takut offer ditarik. Bagaimana strategi negosiasi yang aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Offer dari startup seri B Rp 26 juta untuk profile Anda sudah dalam rentang wajar, tapi ada ruang untuk counter. Pertama, jangan langsung counter dengan angka. Sampaikan bahwa Anda sangat tertarik dengan posisi dan misi perusahaan, lalu tanyakan apakah ada fleksibilitas dalam paket kompensasi. Kedua, counter di Rp 30 juta dengan justifikasi: pengalaman 4 tahun dengan React dan Node.js, kemampuan handle fullstack secara mandiri, dan market rate untuk posisi serupa di Jakarta. Ketiga, siapkan fallback: jika base salary tidak bisa naik, negosiasikan signing bonus Rp 5-10 juta, review gaji setelah 6 bulan probation dengan target kenaikan jelas, atau tambahan cuti. Keempat, tanyakan detail stock options: berapa share, strike price, vesting schedule, dan apakah ada cliff. Offer tidak akan ditarik hanya karena Anda menegosiasikan secara profesional. Perusahaan yang menarik offer karena counter offer sopan bukanlah tempat yang baik untuk bekerja."
+      }
+    ]
+  }
+]

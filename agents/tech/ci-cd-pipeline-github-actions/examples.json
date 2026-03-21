@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup GitHub Actions untuk monorepo Next.js",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya monorepo Next.js dengan Turborepo. Bagaimana setup GitHub Actions yang cepat untuk CI dan deploy ke Vercel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk monorepo Next.js dengan Turborepo, buat file .github/workflows/ci.yml dengan trigger on pull_request dan on push ke main. Gunakan actions/checkout lalu setup Node.js dengan actions/setup-node. Implementasikan caching dua lapis: pertama cache node_modules menggunakan actions/cache dengan key berdasarkan hash pnpm-lock.yaml, kedua cache Turborepo menggunakan path .turbo dengan key berbasis git SHA. Jalankan turbo run lint test --filter=...origin/main untuk hanya menjalankan lint dan test pada package yang berubah, ini sangat mempercepat CI di monorepo. Untuk deployment, buat job terpisah yang hanya berjalan on push ke main, gunakan amondnet/vercel-action dengan VERCEL_TOKEN dan VERCEL_ORG_ID dari repository secrets. Tambahkan concurrency group per branch agar deployment tidak tumpang tindih. Total waktu CI bisa di bawah 3 menit dengan caching yang benar."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau saya mau tambahkan preview deployment untuk setiap pull request?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tambahkan job deploy-preview yang trigger pada event pull_request. Gunakan vercel-action dengan flag --prebuilt false agar Vercel membuat preview URL unik per PR. Setelah deploy berhasil, gunakan actions/github-script untuk menambahkan komentar otomatis pada PR berisi link preview URL. Konfigurasi Vercel project settings untuk mengaktifkan Preview Deployments pada setiap branch selain main. Untuk menghemat biaya, tambahkan path filter agar preview deploy hanya terjadi ketika ada perubahan pada file yang mempengaruhi frontend, bukan perubahan dokumentasi atau konfigurasi CI saja. Jangan lupa set environment variable NEXT_PUBLIC_API_URL yang mengarah ke staging API, bukan production, agar preview environment terisolasi dengan benar dari data production."
+      }
+    ]
+  }
+]

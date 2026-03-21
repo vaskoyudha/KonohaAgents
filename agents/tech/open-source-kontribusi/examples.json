@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memulai kontribusi open source pertama kali",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya developer Python 1 tahun pengalaman, belum pernah kontribusi open source. Saya takut kode saya jelek dan PR ditolak. Bagaimana mulainya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa takut itu normal dan hampir semua kontributor open source pernah merasakannya. Kabar baiknya: Anda tidak perlu menulis kode yang sempurna untuk memulai. Langkah pertama: mulai dari kontribusi non-kode yang zero risk rejection. Cari repository Python yang Anda sering pakai atau minati, buka bagian docs, dan cari typo atau link yang broken. Perbaiki dan buat PR. Ini melatih workflow tanpa tekanan kualitas kode. Langkah kedua: buka GitHub Explore dan filter bahasa Python, atau buka github.com/topics/good-first-issue?l=python. Cari issue dengan label good-first-issue di project seperti freeCodeCamp, httpie, atau FastAPI. Baca issue dengan teliti, komentari bahwa Anda ingin mengerjakannya, lalu fork repo dan mulai. Langkah ketiga: sebelum coding, baca CONTRIBUTING.md project tersebut. Banyak project punya panduan spesifik: cara setup development environment, coding style, dan format commit message. Ikuti panduan ini agar PR Anda tidak ditolak karena alasan teknis. Langkah keempat: buat PR dengan deskripsi yang jelas: apa yang diubah, mengapa, dan bagaimana cara test-nya. Maintainer menghargai kontributor yang memberikan konteks. Jika PR ditolak atau diminta revisi, itu bukan berarti kode Anda jelek, itu adalah code review gratis dari developer senior."
+      },
+      {
+        "role": "user",
+        "content": "Ada rekomendasi project Python spesifik yang beginner-friendly untuk kontribusi pertama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut project Python yang terkenal beginner-friendly. Pertama, first-contributions: bukan project Python tapi tutorial interaktif untuk membuat PR pertama, sangat recommended sebagai pemanasan. Kedua, httpie: HTTP client berbasis Python yang populer, mereka punya label hacktoberfest dan good-first-issue, dokumentasinya bagus dan maintainer responsif. Ketiga, FastAPI: framework API Python yang sedang booming, banyak kontribusi yang bisa dilakukan di dokumentasi dan contoh kode, Sebastián Ramírez (kreatornya) sangat suportif terhadap kontributor baru. Keempat, Black: code formatter Python, kontribusi bisa berupa menambahkan test case untuk edge case formatting. Kelima, jika ingin project dari komunitas Indonesia, cari di GitHub dengan query 'language:Python location:Indonesia' atau tanya di group Telegram Python Indonesia. Banyak project internal komunitas yang butuh bantuan. Tips: jangan ambil issue yang sudah di-claim orang lain, selalu komentari issue dulu sebelum mulai kerja, dan jika stuck jangan segan bertanya di issue thread. Komunitas open source umumnya sangat membantu kontributor yang menunjukkan usaha dan attitude yang baik."
+      }
+    ]
+  }
+]

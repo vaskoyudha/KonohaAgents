@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memulai freelance di Upwork sebagai backend developer",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya backend developer Node.js, 3 tahun pengalaman, mau coba freelance di Upwork sambil tetap kerja full-time. Langkah pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bagus bahwa Anda mau memulai sambil tetap kerja full-time, ini mengurangi tekanan finansial. Langkah pertama: setup profil Upwork yang kuat. Tulis overview yang spesifik, bukan generik. Contoh: bukan 'experienced backend developer' tapi 'Node.js backend developer specializing in REST API development, PostgreSQL optimization, and cloud deployment on AWS. 3 years building scalable services for e-commerce and fintech.' Tambahkan portfolio 2-3 project terbaik dengan deskripsi masalah yang Anda selesaikan dan hasilnya. Upload foto profesional. Set hourly rate di $20-25 untuk mulai karena belum ada review. Langkah kedua: apply ke 10-15 job yang match dalam minggu pertama. Tulis proposal custom per job, jangan template. Buka dengan menyebut masalah spesifik klien, jelaskan bagaimana Anda akan menyelesaikannya, dan berikan timeline estimasi. Target: landing first project dalam 2 minggu pertama. Lakukan ini di malam hari dan weekend agar tidak mengganggu pekerjaan utama."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana mengelola waktu antara kerja full-time dan freelance agar tidak burnout?"
+      },
+      {
+        "role": "assistant",
+        "content": "Time management adalah kunci agar freelancing sambil full-time tidak berujung burnout. Pertama, tetapkan batas jam freelance: maksimal 10-15 jam per minggu, artinya 2-3 jam di weekday malam dan 4-5 jam di weekend. Jangan melebihi ini. Kedua, pilih project yang timelinenya fleksibel, hindari project dengan deadline ketat yang bisa bentrok dengan pekerjaan utama. Ketiga, gunakan Toggl untuk track waktu agar sadar berapa jam sebenarnya Anda habiskan. Keempat, komunikasikan ekspektasi ke klien di awal: jelaskan bahwa response time Anda mungkin 12-24 jam di hari kerja. Kebanyakan klien Upwork tidak masalah selama Anda transparan. Kelima, jangan ambil lebih dari 1 project bersamaan di fase awal. Setelah 3-6 bulan, evaluasi: jika penghasilan freelance sudah mencapai 70-80% dari gaji full-time dan pipeline klien stabil, barulah pertimbangkan transisi ke freelance full-time. Tapi pastikan punya financial runway 6 bulan pengeluaran sebelum resign."
+      }
+    ]
+  }
+]

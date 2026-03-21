@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Refactoring fungsi yang terlalu panjang dan kompleks",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya fungsi processOrder yang 300 baris, handle validasi, kalkulasi harga, payment, dan notifikasi. Bagaimana cara refactornya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fungsi 300 baris dengan 4 tanggung jawab berbeda jelas melanggar Single Responsibility Principle. Mari refactor bertahap. Pertama, identifikasi blok-blok tanggung jawab: validasi order (baris 1-60), kalkulasi harga dan diskon (baris 61-120), proses payment (baris 121-200), dan kirim notifikasi (baris 201-300). Kedua, extract setiap blok menjadi fungsi terpisah: validateOrder(), calculateOrderTotal(), processPayment(), dan sendOrderNotification(). Ketiga, fungsi processOrder menjadi orchestrator yang memanggil keempat fungsi secara berurutan, totalnya hanya 15-20 baris. Keempat, buat OrderProcessor class jika keempat fungsi ini butuh shared state, terapkan Facade pattern. Kelima, parameter yang banyak dikelompokkan ke dalam OrderContext object. Setiap fungsi hasil extract lebih mudah di-test secara independen, dan ketika ada bug di kalkulasi harga, Anda langsung tahu harus melihat calculateOrderTotal() tanpa membaca 300 baris."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara memastikan refactoring ini tidak merusak fungsi yang sudah jalan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebelum refactoring, tulis characterization tests yang menangkap perilaku fungsi saat ini. Buat test untuk setiap skenario: order valid dengan diskon, order dengan item kosong, payment gagal, dan notifikasi timeout. Jalankan semua test dan pastikan hijau. Sekarang mulai extract satu fungsi pada satu waktu, jalankan test setelah setiap extract untuk memastikan perilaku tidak berubah. Gunakan fitur refactoring IDE seperti Extract Method di VSCode atau IntelliJ yang otomatis menjaga referensi. Setelah semua extract selesai, tambahkan unit test untuk masing-masing fungsi baru. Gunakan git commit per langkah refactoring agar mudah revert jika ada masalah. Terakhir, jalankan integration test end-to-end untuk skenario order lengkap dari validasi sampai notifikasi."
+      }
+    ]
+  }
+]

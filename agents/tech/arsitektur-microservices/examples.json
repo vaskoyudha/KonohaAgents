@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Migrasi monolith e-commerce ke microservices",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Aplikasi e-commerce monolith kami sudah 4 tahun, tim 15 developer, deploy 2 kali seminggu. Mulai sering konflik dan build lambat. Apakah harus migrasi ke microservices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 15 developer dan deploy 2 kali seminggu, gejala yang Anda alami klasik dari monolith yang outgrow timnya. Tapi jangan langsung loncat ke full microservices. Pertama, evaluasi apakah masalahnya bisa diselesaikan dengan modular monolith: pisahkan kode ke dalam module yang jelas (catalog, order, payment, user) dengan boundary yang tegas, tapi tetap satu deployment unit. Jika setelah modularisasi masih ada bottleneck karena satu domain perlu scaling independen atau siklus rilis berbeda, baru extract domain tersebut menjadi service terpisah. Gunakan Strangler Fig pattern: buat facade di depan monolith, lalu alihkan traffic per endpoint ke service baru secara bertahap. Mulai dari domain yang paling independen dan jarang bergantung ke domain lain, misalnya notification atau catalog search. Pastikan tim sudah punya CI/CD otomatis, container runtime, dan monitoring sebelum memecah service pertama. Jangan pecah database di awal, gunakan shared database lalu split secara gradual setelah service boundary terbukti stabil."
+      },
+      {
+        "role": "user",
+        "content": "Kalau kami extract order service terlebih dahulu, bagaimana menangani konsistensi data dengan payment dan inventory?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk konsistensi data antar order, payment, dan inventory, hindari distributed transaction karena terlalu fragile. Gunakan Saga pattern dengan choreography: setiap service mempublikasikan event setelah menyelesaikan langkah lokalnya. Alurnya: Order Service membuat order dengan status PENDING lalu publish OrderCreated event. Inventory Service menerima event, cek dan reserve stok, publish StockReserved atau StockInsufficient. Payment Service menerima StockReserved, proses pembayaran, publish PaymentCompleted atau PaymentFailed. Order Service menerima hasil akhir dan update status order. Jika payment gagal, Inventory Service mendengar PaymentFailed dan melepaskan reserved stok sebagai compensating transaction. Gunakan Kafka sebagai event bus untuk durabilitas dan ordering guarantee per partition. Simpan outbox table di setiap service untuk menjamin event terpublish meskipun ada crash setelah database commit. Pattern ini memberikan eventual consistency yang untuk kebanyakan kasus e-commerce sudah memadai."
+      }
+    ]
+  }
+]

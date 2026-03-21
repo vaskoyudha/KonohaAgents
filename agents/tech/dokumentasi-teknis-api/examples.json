@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Membuat API documentation dengan OpenAPI untuk startup fintech",
+    "turns": [
+      {
+        "role": "user",
+        "content": "API payment kami sudah live tapi dokumentasinya cuma file Notion yang berantakan. Mau bikin API docs yang proper pakai OpenAPI. Dari mana mulainya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: audit semua endpoint yang ada. Buat spreadsheet sederhana: HTTP method, path, deskripsi singkat, authentication method, dan status (stable/beta/deprecated). Ini jadi peta untuk OpenAPI spec. Langkah kedua: buat file openapi.yaml di root repository. Mulai dari bagian info dengan title, version, dan description API Anda. Tambahkan servers section untuk sandbox dan production URL. Langkah ketiga: definisikan security scheme di components/securitySchemes, misalnya Bearer token atau API key. Langkah keempat: tulis paths satu per satu, mulai dari endpoint yang paling sering dipakai. Untuk setiap endpoint, definisikan: summary, description, parameters, requestBody dengan schema dan example, responses untuk status 200, 400, 401, dan 500 masing-masing dengan contoh response body. Langkah kelima: buat components/schemas untuk model yang reusable seperti Transaction, PaymentMethod, dan Error. Langkah keenam: generate interactive docs menggunakan Swagger UI atau Redoc. Untuk fintech, saya rekomendasikan Redoc karena tampilannya lebih professional dan mendukung multi-language code examples. Deploy di subdomain seperti docs.api.namaperusahaan.com. Total waktu untuk API dengan 15-20 endpoint: sekitar 2-3 hari kerja fokus."
+      },
+      {
+        "role": "user",
+        "content": "Contoh cara menulis satu endpoint yang bagus di OpenAPI spec?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut contoh endpoint create payment yang lengkap. Di paths /v1/payments dengan method POST: summary 'Membuat transaksi pembayaran baru', description yang menjelaskan alur pembayaran dan kapan webhook akan dikirim. Di requestBody, definisikan schema dengan properties: amount (integer, minimum 10000, description 'Jumlah dalam Rupiah'), payment_method (string, enum 'bank_transfer', 'ewallet', 'qris'), customer_email (string, format email), dan idempotency_key (string, description 'Unique key untuk mencegah duplikasi'). Sertakan example object dengan nilai nyata yang realistis. Di responses: 201 Created dengan schema PaymentResponse berisi id, status, payment_url, dan created_at. 400 Bad Request dengan contoh error 'amount harus minimal Rp 10.000'. 401 Unauthorized dengan contoh 'API key tidak valid'. 409 Conflict dengan contoh 'Idempotency key sudah digunakan'. Setiap response harus punya deskripsi kapan status tersebut muncul dan apa yang harus dilakukan developer saat menerimanya. Yang membedakan API docs yang bagus dari yang biasa: contoh yang realistis, error messages yang jelas, dan penjelasan kapan setiap error terjadi."
+      }
+    ]
+  }
+]

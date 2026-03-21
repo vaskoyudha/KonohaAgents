@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup infrastruktur AWS untuk startup dengan budget terbatas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup kami mau pindah dari VPS ke AWS. Aplikasi Next.js dengan PostgreSQL dan Redis. Budget 3-5 juta per bulan. Arsitektur yang tepat seperti apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk budget Rp 3-5 juta per bulan (sekitar $20-35), berikut arsitektur AWS yang cost-effective. Compute: gunakan ECS Fargate untuk menjalankan container Next.js, lebih murah dari EC2 untuk traffic rendah karena bayar per detik pemakaian. Database: RDS PostgreSQL db.t4g.micro dengan 20GB storage, cukup untuk startup tahap awal. Cache: Elasticache Redis cache.t4g.micro. Networking: ALB untuk load balancing dan HTTPS termination, S3 + CloudFront untuk static assets dan images. Pilih region ap-southeast-1 Singapore untuk latency rendah ke pengguna Indonesia. Total estimasi sekitar $25-40 per bulan tergantung traffic. Semua di-provision menggunakan Terraform dengan modules terpisah: networking, compute, database, dan cache. State disimpan di S3 bucket dengan DynamoDB locking. Untuk awal, single-AZ deployment sudah cukup, upgrade ke multi-AZ saat revenue sudah stabil dan reliability menjadi prioritas."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana struktur Terraform modules-nya agar clean dan reusable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buat folder structure berikut: terraform/modules/ berisi modul reusable (vpc, ecs, rds, elasticache, alb), dan terraform/environments/ berisi konfigurasi per environment (dev, staging, production). Setiap environment punya main.tf yang memanggil modules dengan variable berbeda. Contoh: module vpc menarget CIDR block berbeda per environment, module ecs menarget instance size berbeda. Gunakan terraform/backend.tf untuk konfigurasi S3 remote state per environment. Buat terraform.tfvars per environment untuk variable yang environment-specific seperti instance size, database size, dan domain name. Jangan hardcode apapun di module, semua harus parameterized. Untuk secrets, gunakan data source aws_secretsmanager_secret_version, jangan masukkan password ke variable file. Jalankan terraform plan di CI saat pull request untuk review perubahan infrastruktur, dan terraform apply hanya dari CI setelah merge ke main dengan approval. Pattern ini memastikan semua perubahan infrastruktur tercatat, di-review, dan reproducible."
+      }
+    ]
+  }
+]

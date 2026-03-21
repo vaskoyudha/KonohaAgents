@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mencari komunitas tech yang aktif untuk developer React di Jakarta",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya frontend developer React di Jakarta, baru pindah dari Semarang. Mau cari komunitas yang aktif untuk networking dan belajar. Rekomendasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat datang di Jakarta! Berikut komunitas yang paling relevan untuk Anda. Pertama, JakartaJS adalah komunitas wajib untuk developer JavaScript dan React di Jakarta. Mereka mengadakan meetup bulanan biasanya di kantor tech company, topiknya sangat relevan: React, Next.js, TypeScript, dan Node.js. Join Telegram group mereka untuk info event terbaru. Kedua, ReactJS Indonesia di Telegram, lebih fokus ke Q&A teknis sehari-hari tentang React, banyak developer dari perusahaan besar yang aktif menjawab. Ketiga, Google Developer Group Jakarta (GDG Jakarta) yang mengadakan event tech general termasuk web development, bisa ketemu developer dari berbagai bidang untuk memperluas network. Keempat, untuk online daily discussion, join Discord server ID-Frontend yang aktif 24/7 dan banyak sharing tentang tooling dan framework terbaru. Kelima, ikuti Frontend Indonesia di LinkedIn untuk artikel dan lowongan kerja. Tips networking: di setiap meetup, kenalkan diri ke minimal 3 orang baru, tukar LinkedIn, dan follow up dengan pesan singkat setelah event. Network dari komunitas sering kali menjadi jalur referral kerja yang paling efektif."
+      },
+      {
+        "role": "user",
+        "content": "Saya tertarik jadi speaker tapi belum pernah. Bagaimana mulainya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bagus sekali! Komunitas Indonesia sangat suportif terhadap speaker baru. Langkah pertama: pilih satu topik spesifik yang Anda sudah implementasikan di production, misalnya 'Optimasi Performa React dengan React.lazy dan Suspense' atau 'Migrasi dari CRA ke Vite: Pengalaman dan Benchmark'. Topik dari pengalaman nyata lebih menarik daripada tutorial umum. Langkah kedua: hubungi organizer JakartaJS melalui Telegram, sampaikan bahwa Anda ingin memberikan lightning talk 10 menit. Mereka hampir selalu membuka slot untuk speaker baru. Langkah ketiga: persiapkan slide yang simpel dengan banyak kode dan demo, bukan text panjang. Latih presentasi 3 kali di depan cermin atau rekam diri sendiri. Langkah keempat: setelah presentasi, tulis blog post tentang topik yang sama di dev.to atau Medium. Ini memperkuat personal brand Anda sebagai expert di topik tersebut. Setelah 2-3 lightning talks, Anda bisa submit proposal ke conference seperti JSConf Indonesia atau Deep Tech Conference. Banyak speaker terkenal di Indonesia juga memulai dari lightning talk di meetup lokal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memilih bootcamp untuk career switch dari akuntansi ke web developer",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya akuntan 28 tahun, mau career switch ke web development. Budget 20 juta. Bootcamp mana yang cocok? Atau mending self-learning saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk career switch dari akuntansi dengan budget 20 juta, bootcamp bisa jadi pilihan yang tepat karena memberikan struktur yang jelas, deadline yang memaksa disiplin, dan networking yang penting saat mencari kerja pertama di tech. Background akuntansi Anda sebenarnya keuntungan: logika berpikir terstruktur dan familiar dengan sistem adalah skill yang transferable. Rekomendasi berdasarkan budget: Hacktiv8 Full Stack JavaScript (Rp 22-30 juta, bisa cicilan) adalah pilihan terkuat untuk job placement tapi sedikit di atas budget. RevoU Software Engineering (Rp 15-25 juta, ada ISA) cocok karena part-time sehingga Anda bisa tetap kerja selama belajar, bayar setelah dapat kerja. Binar Academy (Rp 5-15 juta) lebih terjangkau tapi kurang intensif. Saran saya: sebelum commit ke bootcamp, coba self-learning 1 bulan dulu dengan freeCodeCamp atau Dicoding kelas gratis. Jika Anda enjoy coding dan bisa konsisten belajar 2 jam per hari, lanjutkan ke bootcamp untuk akselerasi. Ini juga memberi fondasi agar tidak tertinggal di minggu pertama bootcamp."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya pilih RevoU karena bisa sambil kerja, bagaimana memaksimalkan pengalamannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk memaksimalkan RevoU sambil kerja, berikut strategi yang proven dari alumni sukses. Pertama, persiapan sebelum mulai: belajar HTML, CSS, dan dasar JavaScript selama 2-4 minggu di freeCodeCamp. Ini membuat Anda tidak struggle di minggu-minggu awal. Kedua, alokasi waktu yang ketat: minimal 15-20 jam per minggu selain jam kerja. Blok waktu di kalender: 2 jam setiap malam weekday dan 5-6 jam weekend. Komunnikasikan ke keluarga bahwa Anda akan sibuk selama 6 bulan. Ketiga, aktif di kelompok belajar: RevoU biasanya membagi peserta ke dalam study group, jadilah yang paling aktif. Bantu teman yang kesulitan karena mengajar adalah cara belajar terbaik. Keempat, mulai bangun portfolio dari bulan ke-3: setiap assignment, treat sebagai portfolio piece. Deploy ke Vercel atau Netlify, tulis README yang profesional. Kelima, networking agresif: add semua mentor dan sesama peserta di LinkedIn, ikut setiap sesi sharing alumni. Banyak alumni RevoU yang merekrut sesama alumni. Keenam, mulai apply kerja dari bulan ke-5, jangan tunggu lulus. Manfaatkan career support RevoU untuk review resume dan mock interview."
+      }
+    ]
+  }
+]

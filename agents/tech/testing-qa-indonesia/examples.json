@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi testing untuk aplikasi e-commerce Node.js",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Aplikasi e-commerce kami belum punya test sama sekali. Dari mana mulainya? Stack kami Node.js Express dengan PostgreSQL."
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari area bisnis paling kritis: payment processing dan order management. Jangan langsung menulis test untuk semua kode, prioritaskan berdasarkan risiko. Pertama, install Jest sebagai test runner dan supertest untuk HTTP testing. Tulis integration test untuk endpoint checkout dan payment callback karena bug di sini langsung berdampak pada revenue. Gunakan testcontainers-node untuk menjalankan PostgreSQL dalam Docker container saat test agar tidak perlu mock database. Kedua, tambahkan unit test untuk business logic seperti kalkulasi diskon, validasi stok, dan perhitungan ongkos kirim. Mock external service seperti payment gateway dan logistik API. Ketiga, setup coverage reporting dengan jest --coverage dan pasang threshold minimal 50% sebagai starting point yang naik bertahap setiap sprint. Integrasikan ke GitHub Actions agar setiap pull request harus pass test sebelum bisa di-merge."
+      },
+      {
+        "role": "user",
+        "content": "Contoh unit test untuk fungsi kalkulasi diskon yang ada minimum purchase dan maksimum diskon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut contoh lengkap dengan Jest. Buat file calculateDiscount.test.js. Gunakan describe block untuk mengelompokkan skenario. Test pertama: pembelian di bawah minimum seharusnya return diskon 0. Test kedua: pembelian tepat di minimum seharusnya return persentase diskon yang benar. Test ketiga: diskon yang dihitung melebihi maksimum seharusnya di-cap pada nilai maksimum. Test keempat: amount negatif seharusnya throw ValidationError. Test kelima: persentase diskon nol seharusnya return 0 tanpa error. Gunakan pattern it('should return 0 when purchase below minimum', () => { expect(calculateDiscount(50000, { minPurchase: 100000, percentage: 10, maxDiscount: 50000 })).toBe(0) }). Setiap test case punya satu assertion yang jelas, dan nama test menjelaskan perilaku yang diharapkan sehingga ketika gagal langsung tahu apa yang salah."
+      }
+    ]
+  }
+]

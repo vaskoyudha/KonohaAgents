@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Persiapan system design interview di startup unicorn",
+    "turns": [
+      {
+        "role": "user",
+        "content": "2 minggu lagi saya interview untuk posisi senior backend di salah satu unicorn Indonesia. Ada tahap system design. Bagaimana persiapannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dua minggu cukup untuk persiapan system design yang solid. Berikut rencana hariannya. Minggu pertama: pelajari building blocks fundamental: load balancer, CDN, database (SQL vs NoSQL), caching (Redis), message queue (Kafka/RabbitMQ), dan API gateway. Setiap hari latih satu topik system design dengan timer 45 menit: hari 1 design URL shortener, hari 2 design notification service, hari 3 design payment system (ini sangat relevan untuk unicorn Indonesia), hari 4 design chat messaging, hari 5 design rate limiter. Gunakan framework: mulai dari functional requirements dan non-functional requirements, lalu capacity estimation, high-level design dengan diagram, deep dive ke komponen paling kritis, dan tutup dengan trade-offs. Minggu kedua: fokus pada mock interview. Minta teman atau gunakan platform seperti Pramp untuk simulasi. Rekam diri Anda menjelaskan desain dan review apakah komunikasinya jelas. Yang dinilai di system design bukan jawaban benar atau salah, tapi cara Anda berpikir, menganalisis trade-off, dan berkomunikasi."
+      },
+      {
+        "role": "user",
+        "content": "Kalau diminta design payment system, bagaimana framework menjawabnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk payment system, mulai dengan klarifikasi scope: apakah ini payment gateway, atau payment orchestration yang integrasikan beberapa provider seperti Midtrans dan Xendit? Berapa transaksi per detik yang harus di-handle? Requirements utama: idempotency (satu transaksi tidak boleh double charge), consistency (balance harus akurat), dan reliability (sistem harus available 99.99%). High-level design: API gateway menerima request, Payment Service mengatur alur, Payment Provider Adapter berkomunikasi dengan Midtrans atau Xendit, dan Notification Service mengirim konfirmasi. Database: PostgreSQL untuk transactional data dengan ACID compliance. Cache: Redis untuk idempotency key check. Message queue: Kafka untuk event-driven notification dan reconciliation. Deep dive: jelaskan bagaimana Anda menangani webhook dari payment provider, bagaimana idempotency key bekerja untuk mencegah double payment, dan bagaimana reconciliation job memastikan data konsisten antara sistem Anda dan provider. Tutup dengan monitoring: track success rate per provider, latency per endpoint, dan alert untuk failed transactions. Interviewer akan terkesan jika Anda menunjukkan awareness terhadap failure scenarios dan bagaimana sistem recover."
+      }
+    ]
+  }
+]

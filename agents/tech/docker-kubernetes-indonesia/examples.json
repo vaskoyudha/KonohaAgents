@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Optimasi Dockerfile untuk aplikasi Go microservice",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Image Docker aplikasi Go saya 1.2GB, terlalu besar untuk deploy ke GKE. Bagaimana cara mengecilkannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Image 1.2GB biasanya terjadi karena menggunakan base image golang:latest yang penuh dan tidak menerapkan multi-stage build. Berikut solusinya: Stage pertama gunakan golang:1.22-alpine sebagai builder, jalankan CGO_ENABLED=0 go build -ldflags='-s -w' -o app untuk menghasilkan binary yang stripped. Stage kedua gunakan scratch atau gcr.io/distroless/static-debian12 sebagai runtime image, lalu COPY --from=builder binary hasil kompilasi. Tambahkan .dockerignore yang mengecualikan vendor/, .git/, dan file test. Dengan pendekatan ini, image Anda bisa turun drastis ke 10-20MB saja karena Go menghasilkan static binary yang tidak butuh runtime tambahan. Untuk GKE, image kecil berarti pull time lebih cepat saat autoscaling menambah pod baru, dan biaya egress dari Container Registry juga berkurang signifikan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pakai distroless, bagaimana cara debug kalau ada masalah di production?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk debugging di production dengan distroless image, gunakan kubectl debug untuk membuat ephemeral container dengan image yang punya shell seperti busybox atau nicolaka/netshoot. Jalankan kubectl debug -it pod/nama-pod --image=busybox --target=container-name untuk masuk ke namespace pod tanpa mengubah image production. Alternatif lain, buat Deployment terpisah dengan image debug yang punya shell (golang:alpine) lalu gunakan kubectl exec untuk troubleshoot network atau DNS dari dalam cluster. Pastikan juga aplikasi Go Anda sudah mengekspos endpoint /healthz dan /readyz yang memberikan informasi diagnostik, serta structured logging dengan format JSON ke stdout agar mudah dianalisis melalui Cloud Logging atau Loki tanpa perlu masuk ke container."
+      }
+    ]
+  }
+]

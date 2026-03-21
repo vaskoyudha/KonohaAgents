@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Roadmap karir backend developer fresh graduate",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru lulus S1 Informatika dari universitas swasta di Bandung. Mau jadi backend developer tapi bingung mulai dari mana. Skill saya baru Java dan sedikit PHP dari kuliah."
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas kelulusannya! Dengan background Java dan PHP, Anda punya fondasi yang bagus. Berikut roadmap 6 bulan. Bulan 1-2: pilih satu bahasa backend utama. Saya sarankan tetap di Java dengan Spring Boot karena banyak perusahaan enterprise dan fintech di Indonesia menggunakan Java, atau pindah ke Go yang demand-nya sedang naik pesat di startup. Buat project REST API lengkap: CRUD, authentication JWT, database PostgreSQL, dan Docker. Bulan 3-4: pelajari fundamental yang sering ditanyakan interview: data structures, SQL query optimization, dan desain API yang baik. Deploy project Anda ke cloud (Railway atau Fly.io gratis untuk project kecil). Aktifkan GitHub dengan minimal 3 repository berkualitas dan README yang jelas. Bulan 5-6: mulai apply. Daftar di Glints, Kalibrr, LinkedIn, dan Dealls. Target 5-10 lamaran per minggu. Bandung punya ekosistem tech yang bagus: Telkom, Kata.ai, dan beberapa startup. Untuk remote, Jakarta-based companies juga banyak yang terima remote. Target gaji awal Rp 5-8 juta untuk Bandung area, bisa lebih tinggi jika dapat posisi remote Jakarta."
+      },
+      {
+        "role": "user",
+        "content": "Apakah perlu ikut bootcamp dulu atau langsung self-learning saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena Anda sudah punya background informatika, self-learning sudah cukup asalkan disiplin. Bootcamp lebih berguna untuk career switcher yang belum punya dasar programming sama sekali. Uang bootcamp 10-25 juta lebih baik diinvestasikan untuk beli course berkualitas di Udemy atau mengikuti program Dicoding yang jauh lebih terjangkau dan sertifikatnya diakui perusahaan Indonesia. Yang lebih penting dari bootcamp adalah membangun portfolio nyata dan aktif di komunitas. Join Discord GopherID jika pilih Go, atau Java User Group Indonesia jika tetap di Java. Ikut meetup bulanan, tanya-jawab di forum, dan mulai menulis artikel teknis di Medium atau dev.to. Network dari komunitas sering kali menjadi jalur mendapat referral kerja yang lebih efektif daripada cold apply. Satu lagi: manfaatkan program magang atau internship jika masih dalam 6 bulan setelah lulus, banyak perusahaan tech Indonesia punya program intern yang bisa convert ke full-time."
+      }
+    ]
+  }
+]

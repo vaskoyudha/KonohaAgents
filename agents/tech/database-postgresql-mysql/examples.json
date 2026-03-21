@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Optimasi query lambat pada tabel transaksi 50 juta baris",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Query report bulanan kami di PostgreSQL butuh 30 detik, tabel transactions punya 50 juta baris. SELECT sum(amount), count(*) FROM transactions WHERE merchant_id = 123 AND created_at BETWEEN '2026-01-01' AND '2026-01-31' AND status = 'completed'."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk query ini pada tabel 50 juta baris, pertama jalankan EXPLAIN (ANALYZE, BUFFERS) pada query tersebut. Kemungkinan besar terjadi sequential scan karena belum ada composite index yang tepat. Buat composite index: CREATE INDEX idx_transactions_merchant_date_status ON transactions(merchant_id, created_at, status) WHERE status = 'completed'. Ini partial index yang hanya mengindeks transaksi completed sehingga ukuran index lebih kecil. Urutan kolom di composite index mengikuti selectivity: merchant_id paling selektif di depan, lalu created_at untuk range scan. Selain itu, pertimbangkan table partitioning berdasarkan created_at dengan range partitioning per bulan. Dengan partitioning, query report bulanan hanya akan scan satu partition, bukan seluruh 50 juta baris. Kombinasi partial index dan partitioning bisa menurunkan query time dari 30 detik ke di bawah 500 milisekon. Jangan lupa naikkan work_mem untuk session yang menjalankan aggregation berat."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara implementasi partitioning pada tabel yang sudah ada tanpa downtime?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk PostgreSQL 14 ke atas, gunakan pendekatan berikut. Pertama, buat tabel partitioned baru dengan schema yang sama: CREATE TABLE transactions_partitioned (LIKE transactions INCLUDING ALL) PARTITION BY RANGE (created_at). Kedua, buat partisi per bulan: CREATE TABLE transactions_2026_01 PARTITION OF transactions_partitioned FOR VALUES FROM ('2026-01-01') TO ('2026-02-01'). Ketiga, migrate data secara batch menggunakan INSERT INTO transactions_partitioned SELECT * FROM transactions WHERE created_at BETWEEN ... dengan batch per bulan agar tidak lock tabel terlalu lama. Keempat, setelah semua data ter-migrate dan tervalidasi konsisten, gunakan ALTER TABLE dalam transaksi: rename tabel lama, rename tabel baru ke nama asli. Downtime hanya beberapa detik saat rename. Pastikan aplikasi menggunakan connection retry agar transparant. Setup pg_partman untuk auto-create partisi bulan depan secara otomatis."
+      }
+    ]
+  }
+]

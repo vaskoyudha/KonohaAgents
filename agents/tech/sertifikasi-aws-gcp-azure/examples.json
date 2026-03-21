@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Persiapan AWS Solutions Architect Associate untuk pemula cloud",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya backend developer 2 tahun pengalaman, belum pernah pakai cloud services langsung. Mau ambil sertifikasi AWS pertama. Mulai dari mana dan berapa lama persiapannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan background backend developer tapi belum hands-on cloud, saya sarankan mulai langsung dari AWS Solutions Architect Associate (SAA-C03), skip Cloud Practitioner karena itu terlalu basic untuk developer. SAA-C03 adalah sertifikasi dengan ROI tertinggi: paling banyak dicari recruiter Indonesia dan memvalidasi kemampuan merancang arsitektur cloud. Persiapan realistis 8-10 minggu dengan 1.5-2 jam per hari. Minggu 1-2: IAM (users, roles, policies), VPC (subnets, security groups, NAT gateway), dan EC2 (instance types, AMI, Auto Scaling). Praktik langsung di AWS Free Tier. Minggu 3-4: S3 (storage classes, lifecycle policies, cross-region replication), RDS (Multi-AZ, read replicas), dan DynamoDB. Minggu 5-6: Lambda, API Gateway, SQS, SNS, dan EventBridge. Ini domain serverless dan messaging yang sering muncul di exam. Minggu 7-8: Route 53, CloudFront, ELB, dan high availability patterns. Minggu 9-10: practice exams dari Tutorials Dojo (Jon Bonso), kerjakan minimal 4 set full exam. Target score 80% di practice sebelum ambil exam sungguhan. Kursus utama: Stephane Maarek di Udemy, harga promo Rp 150.000. Total biaya: kursus Rp 150rb, practice exams Rp 150rb, ujian $150 (sekitar Rp 2.4 juta)."
+      },
+      {
+        "role": "user",
+        "content": "Setelah dapat SAA, sertifikasi apa selanjutnya yang paling berguna?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setelah SAA, pilihan tergantung jalur karir yang Anda inginkan. Jika mau fokus development: ambil AWS Developer Associate (DVA-C02), fokus pada Lambda, DynamoDB, API Gateway, CI/CD dengan CodePipeline, dan containerisasi ECS/EKS. Ini melengkapi SAA dengan skill implementasi. Jika mau ke arah DevOps/SRE: ambil AWS SysOps Administrator Associate lalu AWS DevOps Professional. Ini membuka posisi cloud engineer dan DevOps engineer dengan gaji premium. Jika mau multi-cloud: setelah SAA, ambil Google Cloud Professional Cloud Architect. Perusahaan besar di Indonesia sering menggunakan multi-cloud, dan memiliki sertifikasi dari dua provider sangat dihargai. Alternatif non-AWS: CKA (Certified Kubernetes Administrator) sangat bernilai jika perusahaan target menggunakan Kubernetes, dan Terraform Associate jika banyak bekerja dengan infrastructure as code. Rekomendasi personal untuk backend developer: SAA sudah di tangan, lanjut ke Developer Associate dalam 6-8 minggu, lalu Terraform Associate. Tiga sertifikasi ini membuat profile Anda sangat kompetitif untuk posisi senior developer atau cloud engineer di Indonesia."
+      }
+    ]
+  }
+]

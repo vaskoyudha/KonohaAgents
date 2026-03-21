@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup monitoring stack untuk microservices di Kubernetes",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami punya 8 microservices di GKE, belum ada monitoring. Mau setup Grafana dan Prometheus. Dari mana mulainya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dengan deploy kube-prometheus-stack menggunakan Helm: helm install monitoring prometheus-community/kube-prometheus-stack --namespace monitoring --create-namespace. Helm chart ini otomatis menginstall Prometheus, Grafana, Alertmanager, node-exporter, dan kube-state-metrics. Setelah terinstall, Anda langsung punya dashboard bawaan untuk cluster health: CPU/memory per node, pod status, dan Kubernetes component health. Langkah selanjutnya, tambahkan instrumentasi di setiap microservice. Untuk Node.js gunakan prom-client, untuk Go gunakan prometheus/client_golang, expose metrics di endpoint /metrics. Buat ServiceMonitor custom resource agar Prometheus otomatis scrape endpoint metrics dari setiap service. Buat dashboard Grafana pertama yang menampilkan golden signals: request rate per service, error rate percentage, latency p50/p95/p99, dan memory/CPU usage per pod. Ini bisa selesai dalam 1-2 hari dan langsung memberi visibilitas yang sebelumnya tidak ada."
+      },
+      {
+        "role": "user",
+        "content": "Alert apa saja yang harus saya setup pertama kali? Jangan terlalu banyak supaya tidak noise."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk awal, setup hanya 5 alert kritis yang langsung berdampak pada user. Pertama: error rate di atas 5% selama 5 menit berturut-turut per service, ini menandakan ada masalah serius. Kedua: latency p99 di atas 3 detik selama 5 menit, user experience terdampak. Ketiga: pod restart count lebih dari 3 dalam 15 menit, menandakan crash loop. Keempat: CPU usage di atas 85% selama 10 menit per node, mendekati resource exhaustion. Kelima: disk usage di atas 80% pada persistent volumes. Setiap alert harus punya severity label: critical kirim ke Slack channel dan PagerDuty, warning hanya ke Slack. Yang paling penting, buat runbook untuk setiap alert berisi langkah diagnosis pertama yang harus dilakukan on-call engineer. Contoh: untuk error rate alert, langkah pertama adalah cek Grafana dashboard error breakdown per endpoint, lalu cek Loki log untuk error message. Setelah 2-4 minggu observasi, adjust threshold berdasarkan baseline normal sistem Anda."
+      }
+    ]
+  }
+]

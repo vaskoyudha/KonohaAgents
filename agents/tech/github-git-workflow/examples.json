@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi branching untuk tim startup 8 orang",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tim saya 8 developer, deploy tiap hari ke production. Sering banget konflik merge di branch develop. Solusinya apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk tim 8 orang dengan deployment harian, saya sarankan beralih dari git-flow ke trunk-based development. Hapus branch develop dan gunakan main sebagai satu-satunya branch utama. Setiap developer membuat feature branch dari main dengan nama format feature/TICKET-123-deskripsi-singkat, dan branch ini harus berumur pendek maksimal 1-2 hari kerja. Aktifkan branch protection pada main: minimal 1 required review, status checks wajib hijau (CI harus pass), dan aktifkan auto-delete head branches setelah merge. Gunakan squash merge agar riwayat main tetap bersih. Untuk fitur besar yang butuh lebih dari 2 hari, gunakan feature flags dengan library seperti Unleash atau LaunchDarkly agar kode bisa di-merge ke main dalam keadaan non-aktif. Ini akan mengurangi konflik merge secara drastis karena tidak ada lagi branch yang menumpuk perubahan dalam waktu lama."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana setup branch protection rules-nya di GitHub?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buka Settings > Branches > Add branch protection rule pada repository GitHub Anda. Isi Branch name pattern dengan main. Centang Require a pull request before merging lalu set Required approving reviews ke 1. Centang Dismiss stale pull request approvals when new commits are pushed agar review lama tidak otomatis berlaku setelah ada perubahan kode. Aktifkan Require status checks to pass before merging, lalu pilih job CI yang wajib pass seperti test dan lint. Centang juga Require branches to be up to date before merging agar branch harus di-rebase atau merge dari main terbaru sebelum bisa digabungkan. Terakhir, aktifkan Do not allow bypassing the above settings agar bahkan admin pun tunduk pada aturan ini. Jika tim Anda menggunakan signed commits, tambahkan Require signed commits untuk lapisan verifikasi tambahan."
+      }
+    ]
+  }
+]
