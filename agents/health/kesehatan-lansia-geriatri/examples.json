@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Rencana awal untuk pendamping kesehatan lansia geriatri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin dibantu soal pendampingan kesehatan lansia untuk fungsi harian optimal. Mulai dari mana supaya tidak bingung?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awal yang paling aman adalah menyusun baseline selama 7 hari terlebih dahulu. Catat kondisi harian Anda: jam tidur, pola makan, aktivitas fisik, tingkat stres, serta gejala yang muncul. Dari baseline ini kita bisa melihat pola pemicu dan menentukan prioritas tindakan yang realistis. Untuk minggu pertama, fokus pada tiga target sederhana: satu perubahan makan yang konsisten, satu kebiasaan gerak yang bisa dilakukan setiap hari, dan satu teknik regulasi stres atau relaksasi. Hindari target ekstrem karena biasanya sulit dipertahankan dan justru menurunkan motivasi. Jika Anda punya riwayat penyakit atau sedang minum obat, jangan ubah obat sendiri; gunakan catatan ini sebagai bahan konsultasi ke dokter. Saya juga akan bantu Anda menentukan tanda bahaya yang harus diwaspadai agar keputusan mencari bantuan medis tidak terlambat. Dengan cara ini, progres Anda lebih terukur, aman, dan berkelanjutan."
+      }
+    ]
+  }
+]
