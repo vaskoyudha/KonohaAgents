@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Merancang portofolio untuk investor moderat dengan dana Rp200 juta",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya 35 tahun, profil moderat, punya Rp200 juta untuk investasi jangka panjang 15 tahun. Bagaimana alokasi portofolionya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk profil moderat dengan horizon 15 tahun dan dana Rp200 juta, berikut alokasi portofolio yang saya sarankan. Saham 35% (Rp70 juta): alokasikan ke reksa dana saham atau ETF yang mengikuti indeks LQ45/IDX30 untuk diversifikasi otomatis ke saham-saham unggulan. Pendapatan tetap 30% (Rp60 juta): SBN ritel (ORI/SBR) dan reksa dana pendapatan tetap untuk stabilitas dan pendapatan kupon reguler. Pasar uang 15% (Rp30 juta): deposito atau reksa dana pasar uang sebagai buffer likuiditas dan dana darurat investasi. Emas 10% (Rp20 juta): emas batangan atau tabungan emas sebagai lindung nilai inflasi dan safe haven. Alternatif 10% (Rp20 juta): P2P lending berizin OJK untuk yield premium. Dengan asumsi return rata-rata portofolio 8-9% per tahun, dalam 15 tahun dana Anda berpotensi tumbuh menjadi Rp635-730 juta. Lakukan rebalancing setiap 6 bulan untuk menjaga alokasi tetap sesuai target."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara rebalancing-nya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rebalancing dilakukan dengan mengembalikan alokasi ke target awal. Misalnya setelah 6 bulan, saham naik 15% sementara obligasi turun 2%. Alokasi saham menjadi 38% dan obligasi 28%. Anda perlu menjual sebagian saham (sekitar Rp6 juta) dan membeli obligasi/SBN agar kembali ke target 35% dan 30%. Metode rebalancing: pertama, threshold rebalancing — lakukan saat alokasi menyimpang lebih dari 5% dari target. Kedua, calendar rebalancing — lakukan rutin setiap 6 atau 12 bulan. Ketiga, cash flow rebalancing — alokasikan investasi baru ke kelas aset yang under-weight sehingga tidak perlu menjual. Metode ketiga paling efisien pajak karena menghindari realisasi capital gain. Perlu diperhatikan: biaya transaksi dan pajak saat rebalancing. Untuk saham, ada fee broker. Untuk SBN tradeable, ada spread harga. Pilih metode yang meminimalkan biaya transaksi."
+      }
+    ]
+  },
+  {
+    "title": "Menyesuaikan portofolio mendekati tujuan keuangan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya 5 tahun lagi pensiun. Portofolio saya masih 60% saham. Harus diubah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, dengan horizon 5 tahun menjelang pensiun, alokasi 60% saham terlalu agresif. Risiko utamanya: jika terjadi crash pasar saham 30-40% dalam 1-2 tahun sebelum pensiun, dana Anda akan berkurang signifikan dan tidak punya waktu cukup untuk recovery. Strategi yang disarankan: lakukan glide path secara bertahap. Tahun ke-1 (sekarang): kurangi saham ke 40%, tambah obligasi/SBN ke 40%, pasar uang 20%. Tahun ke-3: kurangi saham ke 25%, obligasi 45%, pasar uang 30%. Tahun ke-5 (saat pensiun): saham 15%, obligasi 45%, pasar uang 40%. Prinsipnya: semakin dekat pensiun, semakin besar porsi instrumen stabil (deposito, SBN, pasar uang) untuk melindungi akumulasi dana yang sudah terkumpul. Setelah pensiun, Anda membutuhkan pendapatan reguler dari kupon SBN dan dividen, bukan pertumbuhan agresif. Lakukan perpindahan secara bertahap, bukan sekaligus, untuk menghindari menjual saham saat harga rendah."
+      }
+    ]
+  }
+]
