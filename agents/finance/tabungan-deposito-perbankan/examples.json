@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Perbandingan tabungan dan deposito untuk dana menganggur",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya dana Rp200 juta yang tidak terpakai 6 bulan ke depan. Lebih baik taruh di tabungan atau deposito?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk dana Rp200 juta yang tidak terpakai selama 6 bulan, deposito berjangka adalah pilihan lebih optimal dibanding tabungan reguler. Tabungan reguler hanya memberikan bunga sekitar 0,5-1% per tahun, sementara deposito 6 bulan bisa memberikan bunga 4-5% per tahun. Simulasi: deposito Rp200 juta dengan bunga 4,5% per tahun selama 6 bulan, bunga kotor Rp4,5 juta. Setelah dipotong pajak bunga 20% sesuai PPh final Pasal 4 ayat 2, bunga bersih Anda sekitar Rp3,6 juta. Dana Rp200 juta masih jauh di bawah batas penjaminan LPS Rp2 miliar, sehingga dijamin penuh asalkan bunga tidak melebihi tingkat bunga penjaminan LPS yang berlaku. Pastikan Anda tidak akan membutuhkan dana tersebut sebelum jatuh tempo karena pencairan lebih awal biasanya dikenakan penalti berupa pengurangan bunga."
+      }
+    ]
+  },
+  {
+    "title": "Strategi diversifikasi simpanan untuk penjaminan LPS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Dana saya Rp5 miliar dari hasil jual properti. Bagaimana cara menyimpan agar semuanya dijamin LPS?"
+      },
+      {
+        "role": "assistant",
+        "content": "Batas penjaminan LPS adalah Rp2 miliar per nasabah per bank berdasarkan PP No. 66 Tahun 2008. Dengan dana Rp5 miliar, strategi paling aman adalah membagi ke minimal 3 bank berbeda agar seluruh dana terlindungi. Misalnya: Bank A deposito Rp1,9 miliar, Bank B deposito Rp1,9 miliar, dan Bank C deposito Rp1,2 miliar. Sisakan margin dari batas Rp2 miliar untuk mengakomodasi bunga yang terakumulasi. Pilih bank dengan peringkat BUKU 3 atau 4 yang memiliki rasio kecukupan modal kuat. Perhatikan juga bahwa bunga deposito harus tidak melebihi tingkat bunga penjaminan LPS yang ditetapkan secara berkala."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Prosedur cerai gugat oleh istri yang diterlantarkan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Suami saya pergi meninggalkan rumah sudah 3 tahun tanpa kabar dan nafkah. Saya ingin cerai tapi tidak tahu caranya."
+      },
+      {
+        "role": "assistant",
+        "content": "Saya memahami situasi yang berat ini. Anda berhak mengajukan cerai gugat di Pengadilan Agama wilayah tempat tinggal Anda. Berdasarkan KHI Pasal 116 huruf b, suami yang meninggalkan istri selama 2 tahun berturut-turut tanpa izin dan alasan yang sah merupakan dasar hukum yang kuat untuk perceraian. Langkah pertama, siapkan dokumen: surat gugatan cerai (bisa dibantu pos bantuan hukum di Pengadilan Agama), KTP asli dan fotokopi, KK, buku nikah asli, dan surat keterangan dari kelurahan bahwa suami sudah tidak berdomisili. Daftarkan gugatan di meja pendaftaran Pengadilan Agama dan bayar biaya panjar perkara sekitar Rp300.000-600.000. Jika Anda tidak mampu, ajukan permohonan berperkara secara prodeo (gratis). Karena suami tidak diketahui alamatnya, pengadilan akan memanggil melalui pengumuman di media dan proses bisa berjalan tanpa kehadiran suami (verstek)."
+      },
+      {
+        "role": "user",
+        "content": "Kalau sudah cerai, apakah saya berhak atas rumah yang kami beli bersama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, rumah yang dibeli selama pernikahan termasuk harta bersama (gono-gini) dan Anda berhak atas bagiannya. Berdasarkan KHI Pasal 97, harta bersama dibagi sama rata yaitu masing-masing mendapat separuh. Anda bisa mengajukan gugatan pembagian harta bersama bersamaan dengan gugatan cerai atau secara terpisah setelah putusan cerai berkekuatan hukum tetap. Untuk membuktikan bahwa rumah adalah harta bersama, siapkan bukti pembelian seperti sertifikat, kwitansi, rekening KPR, atau saksi yang mengetahui. Jika rumah atas nama suami, itu tidak mengurangi hak Anda selama bisa dibuktikan dibeli selama masa pernikahan. Hakim akan mempertimbangkan bukti dan memutuskan pembagian yang adil."
+      }
+    ]
+  },
+  {
+    "title": "Cerai talak dan kewajiban nafkah iddah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya suami dan ingin mengajukan cerai talak. Apa kewajiban saya terhadap istri setelah cerai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dalam cerai talak yang diajukan suami, ada beberapa kewajiban yang ditetapkan pengadilan. Pertama, nafkah iddah yaitu nafkah selama masa iddah istri (3 bulan untuk cerai biasa, sampai melahirkan jika istri hamil). Besarnya ditentukan hakim berdasarkan kemampuan suami dan kebutuhan istri. Kedua, mut'ah yaitu pemberian dari suami sebagai penghibur, bisa berupa uang atau barang yang nilainya disesuaikan dengan lama pernikahan dan kemampuan suami. Ketiga, nafkah anak jika ada anak di bawah umur, suami tetap wajib menanggung biaya hidup dan pendidikan anak meskipun hak asuh jatuh ke ibu. Keempat, pembagian harta bersama sesuai ketentuan. Semua kewajiban ini akan ditetapkan dalam putusan pengadilan. Saran saya, persiapkan kemampuan finansial sebelum mengajukan permohonan karena hakim akan mempertanyakan kesanggupan Anda memenuhi kewajiban-kewajiban tersebut."
+      }
+    ]
+  }
+]

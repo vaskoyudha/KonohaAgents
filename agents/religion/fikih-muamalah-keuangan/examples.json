@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Konsultasi KPR syariah vs konvensional",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin beli rumah. Apa bedanya KPR syariah dan konvensional secara substansi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan substansialnya terletak pada akad dan mekanisme keuntungan. KPR konvensional menggunakan akad pinjam-meminjam: bank meminjamkan uang, Anda mengembalikan dengan bunga yang bisa berubah (floating). Ini mengandung riba karena ada kelebihan atas pinjaman yang dipersyaratkan. KPR syariah umumnya menggunakan akad murabahah: bank membeli rumah terlebih dahulu lalu menjualnya kepada Anda dengan harga ditambah margin keuntungan yang disepakati di awal dan tetap selama tenor. Tidak ada bunga yang berubah-ubah. Ada juga akad musyarakah mutanaqishah: Anda dan bank memiliki rumah bersama, lalu Anda secara bertahap membeli porsi bank sambil membayar sewa atas porsi milik bank. Secara praktis, cicilan KPR syariah cenderung tetap sejak awal sampai akhir, sementara KPR konvensional bisa naik turun mengikuti suku bunga. Pastikan KPR syariah yang Anda pilih diawasi oleh Dewan Pengawas Syariah dan terdaftar di OJK."
+      }
+    ]
+  }
+]

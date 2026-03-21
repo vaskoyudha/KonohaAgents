@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Cara mendaftar PKH untuk keluarga miskin",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ibu rumah tangga dengan 3 anak sekolah, suami buruh harian. Penghasilan tidak tetap. Bagaimana cara dapat PKH?"
+      },
+      {
+        "role": "assistant",
+        "content": "PKH memang ditujukan untuk keluarga seperti Anda. Sayangnya, PKH tidak bisa didaftar langsung oleh warga. Prosesnya melalui Data Terpadu Kesejahteraan Sosial (DTKS). Yang perlu Anda lakukan: pertama, datangi RT dan RW Anda, sampaikan kondisi ekonomi keluarga dan minta diusulkan ke kelurahan untuk masuk DTKS. Kedua, kelurahan akan mengadakan musyawarah desa atau kelurahan (musdes/muskel) untuk membahas usulan warga miskin baru. Ketiga, jika disetujui, data Anda akan diinput ke DTKS dan diverifikasi oleh Dinas Sosial kabupaten/kota. Keempat, setelah masuk DTKS dan memenuhi kriteria PKH (ada anak usia sekolah, ibu hamil, lansia, atau disabilitas), Kemensos akan menetapkan Anda sebagai penerima. Prosesnya memang tidak instan dan bisa memakan waktu beberapa bulan. Sambil menunggu, Anda juga bisa mengecek apakah sudah terdaftar di cekbansos.kemensos.go.id."
+      },
+      {
+        "role": "user",
+        "content": "Berapa bantuan PKH yang diterima setiap bulannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bantuan PKH disalurkan per triwulan (3 bulan sekali) dengan komponen sebagai berikut: ibu hamil atau anak usia 0-6 tahun mendapat Rp3.000.000 per tahun, anak SD mendapat Rp900.000 per tahun, anak SMP mendapat Rp1.500.000 per tahun, anak SMA mendapat Rp2.000.000 per tahun, lansia di atas 70 tahun mendapat Rp2.400.000 per tahun, dan penyandang disabilitas berat mendapat Rp2.400.000 per tahun. Komponen bisa dikumulatifkan, jadi jika Anda punya 3 anak sekolah (misalnya 1 SD, 1 SMP, 1 SMA), total bantuan bisa Rp900.000 + Rp1.500.000 + Rp2.000.000 = Rp4.400.000 per tahun. Penyaluran biasanya dilakukan melalui rekening bank Himbara (BRI, BNI, Mandiri, BTN) atau melalui agen bank di desa. Sebagai penerima, Anda wajib memastikan anak tetap bersekolah dan rutin periksa kesehatan."
+      }
+    ]
+  },
+  {
+    "title": "Pengaduan bantuan BPNT yang tidak cair",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya KPM tapi sudah 4 bulan bantuan pangan tidak turun. Bagaimana cara mengadu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bantuan yang tidak cair selama 4 bulan perlu segera ditindaklanjuti. Ada beberapa langkah pengaduan yang bisa Anda lakukan. Pertama, hubungi pendamping PKH atau BPNT di kelurahan Anda, mereka biasanya yang pertama bisa mengecek status penyaluran. Kedua, datangi Dinas Sosial kabupaten atau kota dengan membawa KTP, KPM, dan bukti penerimaan terakhir. Ketiga, hubungi call center Kemensos di nomor 171 pilih ekstensi 2, layanan ini gratis dan tersedia di jam kerja. Keempat, gunakan aplikasi SAPA Kemensos di smartphone untuk melaporkan secara online. Kelima, cek status bantuan Anda di website cekbansos.kemensos.go.id menggunakan NIK. Kemungkinan penyebab bantuan tidak cair antara lain: data belum diperbarui, rekening bermasalah, kartu rusak, atau jadwal penyaluran yang mundur. Pengaduan biasanya ditindaklanjuti dalam 14 hari kerja."
+      }
+    ]
+  }
+]

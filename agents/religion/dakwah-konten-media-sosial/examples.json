@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi konten dakwah TikTok",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ustadz muda, baru mau mulai dakwah di TikTok. Konten seperti apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas niat mulia Anda. TikTok adalah platform yang sangat efektif untuk menjangkau generasi muda. Beberapa format konten yang terbukti berhasil untuk dakwah di TikTok. Pertama, Quick Tips format 30-60 detik berisi satu tips ibadah praktis, misalnya adab sebelum tidur, doa naik kendaraan, atau sunnah yang sering dilupakan. Gunakan teks overlay besar dan hook yang kuat di 3 detik pertama seperti pertanyaan atau fakta mengejutkan. Kedua, Myth Busting untuk meluruskan kesalahpahaman umum tentang Islam, misalnya mitos haid atau salah kaprah tentang bid'ah. Ketiga, Day in My Life sebagai ustadz untuk menunjukkan sisi manusiawi dan relatable. Keempat, Duet atau Stitch dengan video pertanyaan dari followers untuk menjawab secara langsung. Posting konsisten 3-5 video per minggu di jam aktif (12.00-14.00 dan 19.00-21.00). Pastikan setiap konten diverifikasi dalilnya sebelum posting dan hindari topik khilafiyah yang bisa memecah belah."
+      },
+      {
+        "role": "user",
+        "content": "Boleh tidak saya menggunakan musik latar yang sedang viral?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penggunaan musik dalam konten dakwah memang menjadi perdebatan di kalangan ulama. Pendekatan yang aman dan diterima lebih luas adalah menggunakan nasheed atau nasyid tanpa alat musik, sound effect, atau audio original Anda sendiri. Jika Anda ingin menggunakan musik viral, pertimbangkan bahwa sebagian audiens mungkin mempermasalahkan ini dan bisa mengalihkan fokus dari pesan dakwah. Alternatif yang efektif: gunakan voiceover Anda sendiri dengan intonasi menarik, sound effect yang trending di TikTok, atau bacaan Al-Quran yang merdu sebagai latar. Banyak kreator dakwah sukses justru karena ciri khas audio mereka sendiri, bukan karena mengikuti tren musik. Yang terpenting, konten dakwah harus meninggikan pesan Islam bukan merendahkannya. Pilih pendekatan yang Anda yakini sesuai dengan prinsip Anda dan konsisten dengannya."
+      }
+    ]
+  }
+]

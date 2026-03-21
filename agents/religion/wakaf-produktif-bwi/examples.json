@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Proses wakaf tanah untuk dikelola produktif",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya tanah 1000 m2 di pinggir jalan utama kecamatan. Ingin diwakafkan tapi tetap menghasilkan. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tanah di lokasi strategis seperti pinggir jalan utama sangat potensial untuk wakaf produktif. Prosesnya dimulai dengan memastikan sertifikat tanah atas nama Anda dan bebas sengketa. Selanjutnya, pilih nazhir yang kompeten, bisa nazhir organisasi seperti BWI daerah atau nazhir badan hukum yang sudah berpengalaman. Lakukan ikrar wakaf di hadapan PPAIW di KUA kecamatan setempat. Setelah Akta Ikrar Wakaf terbit, daftarkan perubahan status tanah di BPN agar terbit sertifikat tanah wakaf. Untuk pengelolaan produktif, nazhir bisa membangun minimarket, kios, atau gedung serbaguna yang disewakan. Hasil sewa digunakan sesuai tujuan wakaf yang Anda tentukan, misalnya untuk pendidikan atau kesehatan masyarakat sekitar. BWI akan mengawasi pengelolaan ini secara berkala."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya ingin hasilnya khusus untuk beasiswa anak yatim, bisa ditentukan dari awal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tentu bisa. Dalam ikrar wakaf, Anda sebagai wakif berhak menentukan peruntukan wakaf secara spesifik. Ini disebut wakaf ahli atau wakaf muqayyad, di mana pemanfaatannya dibatasi sesuai keinginan wakif. Anda cukup menyatakan dalam ikrar bahwa hasil pengelolaan tanah tersebut diperuntukkan bagi beasiswa anak yatim di wilayah tertentu. Nazhir wajib menjalankan amanah ini dan melaporkannya kepada BWI. Jika suatu saat peruntukan tersebut tidak lagi relevan, perubahan hanya bisa dilakukan melalui mekanisme yang diatur dalam UU Wakaf, biasanya dengan pertimbangan BWI dan pengadilan agama."
+      }
+    ]
+  },
+  {
+    "title": "Wakaf uang melalui LKS-PWU",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tidak punya tanah, tapi ingin wakaf uang Rp10 juta. Kemana saya harus menyetor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wakaf uang sangat bisa dilakukan dan sudah diatur dalam Fatwa MUI tahun 2002 serta UU No. 41/2004. Anda bisa menyetor melalui LKS-PWU (Lembaga Keuangan Syariah Penerima Wakaf Uang) yang ditunjuk oleh BWI, seperti Bank Syariah Indonesia, Bank Muamalat, atau beberapa bank syariah lainnya. Prosesnya: datang ke bank, sampaikan niat wakaf uang, isi formulir ikrar wakaf uang, dan setor dana minimal sesuai ketentuan masing-masing LKS-PWU. Anda akan mendapatkan Sertifikat Wakaf Uang (SWU) sebagai bukti. Dana wakaf uang ini kemudian diinvestasikan secara syariah oleh nazhir profesional yang ditunjuk BWI, dan hasilnya disalurkan untuk program sosial sesuai ketentuan. Pokok wakaf Anda akan tetap utuh dan tidak berkurang."
+      }
+    ]
+  }
+]

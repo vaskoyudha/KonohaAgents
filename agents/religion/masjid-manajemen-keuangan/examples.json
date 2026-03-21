@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Template laporan keuangan masjid sederhana",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru jadi bendahara masjid. Bagaimana cara mencatat keuangan yang benar tapi tidak ribet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas amanah yang diberikan. Sistem pencatatan keuangan masjid tidak perlu rumit. Saya sarankan menggunakan buku kas sederhana atau spreadsheet dengan kolom: tanggal, keterangan, pemasukan, pengeluaran, dan saldo. Setiap hari catat: jumlah kotak amal yang dibuka (buka bersama minimal 2 orang dan catat nominal), infaq yang diterima, dan pengeluaran apapun dengan bukti kwitansi. Untuk laporan Jumat, cukup umumkan: saldo awal minggu, total pemasukan minggu ini (dirinci infaq Jumat lalu, kotak amal harian, donasi), total pengeluaran (listrik, kebersihan, dll), dan saldo akhir. Format ini sudah cukup transparan untuk jamaah. Simpan semua bukti transaksi dalam map per bulan. Di akhir bulan, buat rekapitulasi dan tempelkan di papan informasi masjid. Yang terpenting: selalu ada saksi saat membuka kotak amal dan jangan pernah mencampur keuangan pribadi dengan keuangan masjid."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Memilih asuransi jiwa untuk kepala keluarga",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya 35 tahun, istri tidak bekerja, 2 anak kecil, gaji Rp15 juta. Asuransi jiwa apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan kondisi Anda sebagai pencari nafkah utama, asuransi jiwa adalah kebutuhan kritis. Uang pertanggungan ideal dengan metode income replacement 10x penghasilan tahunan = Rp1,8 miliar. Rekomendasi: term life dengan tenor 20-25 tahun sampai anak mandiri. Premi term life Rp1,8 miliar untuk usia 35 tahun berkisar Rp300-500 ribu per bulan, jauh lebih murah dari whole life atau unit link. Selisih premi bisa diinvestasikan di reksa dana atau SBN. Pastikan RBC perusahaan asuransi di atas 120% dan baca seluruh pengecualian dalam polis."
+      }
+    ]
+  },
+  {
+    "title": "Prosedur klaim asuransi jiwa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Suami saya meninggal dan punya asuransi jiwa. Bagaimana prosedur klaimnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turut berduka cita. Dokumen yang perlu disiapkan: polis asli atau nomor polis, surat keterangan kematian dari rumah sakit, akta kematian dari Dinas Kependudukan dan Catatan Sipil, KTP pemegang polis dan ahli waris, buku nikah, dan formulir klaim dari perusahaan asuransi. Hubungi perusahaan asuransi sesegera mungkin karena biasanya ada batas waktu 30-60 hari. Proses klaim memakan waktu 14-30 hari kerja. Perhatikan contestability period: jika polis berusia kurang dari 2 tahun, perusahaan berhak menyelidiki data kesehatan saat pengajuan. Jika klaim ditolak, ajukan keberatan ke LAPS SJK atau mediasi OJK."
+      }
+    ]
+  }
+]

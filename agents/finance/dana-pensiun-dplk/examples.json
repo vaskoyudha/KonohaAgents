@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Menghitung kebutuhan dana pensiun",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya 30 tahun, gaji Rp12 juta, rencana pensiun umur 55. Berapa dana pensiun yang saya butuhkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan replacement ratio 70%, target pengeluaran pensiun saat ini Rp8,4 juta per bulan. Dengan inflasi 5% per tahun selama 25 tahun, kebutuhan bulanan saat pensiun sekitar Rp28,4 juta. Jika masa pensiun 20 tahun, total dana sekitar Rp6,8 miliar. Dengan asumsi return 9% per tahun dan kontribusi rutin 25 tahun, perlu menabung sekitar Rp6-7 juta per bulan termasuk JHT BPJS dan kontribusi DPPK atau DPLK. Semakin dini mulai semakin ringan kontribusi karena efek compounding."
+      }
+    ]
+  },
+  {
+    "title": "Memilih DPLK dan strategi investasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau buka DPLK. Apa yang harus diperhatikan dan pilihan investasi apa untuk usia 28 tahun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilih DPLK terdaftar dan diawasi OJK berdasarkan POJK No. 5/POJK.05/2022. Bandingkan management fee antar DPLK. Cek pilihan investasi dan track record kinerja. Untuk usia 28 tahun dengan horizon 27+ tahun, alokasi agresif disarankan: 70% dana investasi saham, 20% pendapatan tetap, 10% pasar uang. Fluktuasi jangka pendek tidak signifikan dengan horizon panjang. Setiap 5 tahun lakukan rebalancing dan geser bertahap ke alokasi lebih konservatif mendekati pensiun. Iuran DPLK bisa mengurangi penghasilan bruto untuk PPh 21."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Perhitungan waris keluarga inti",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ibu saya meninggal dunia. Ahli waris: ayah (suami), saya (anak perempuan tunggal). Harta warisan berupa rumah senilai Rp800 juta dan tabungan Rp200 juta. Bagaimana pembagiannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Total harta warisan Rp1 miliar. Pertama pastikan tidak ada utang dan wasiat. Dengan ahli waris ayah (suami almh.) dan satu anak perempuan, pembagiannya: Suami mendapat 1/4 karena ada anak, yaitu 1/4 x Rp1 miliar = Rp250 juta. Anak perempuan tunggal mendapat 1/2 berdasarkan An-Nisa ayat 11, yaitu 1/2 x Rp1 miliar = Rp500 juta. Total yang sudah terbagi: Rp750 juta. Sisanya Rp250 juta dikembalikan (radd) secara proporsional kepada ahli waris dzawil furudh yang ada. Dalam penerapan di Indonesia berdasarkan KHI, sisa ini biasanya dikembalikan kepada anak perempuan dan ayah secara proporsional. Sehingga anak perempuan mendapat tambahan sekitar Rp166.667.000 dan ayah mendapat tambahan Rp83.333.000. Total akhir: ayah sekitar Rp333.333.000 dan anak perempuan sekitar Rp666.667.000."
+      },
+      {
+        "role": "user",
+        "content": "Apakah nenek dari pihak ibu juga berhak mendapat warisan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dalam ilmu faraidh, nenek dari pihak ibu (ibu dari pewaris sudah meninggal, yang ditanyakan adalah ibu dari ibu tersebut) berhak mendapat warisan 1/6 jika tidak ada ibu yang masih hidup. Namun dalam kasus ini, yang meninggal adalah ibu Anda sendiri, sehingga nenek dari pihak ibu Anda adalah ibu dari almh. Jika nenek tersebut masih hidup, beliau berhak mendapat 1/6 dari harta warisan. Ini akan mengubah perhitungan sebelumnya karena ada tambahan ahli waris. Saya sarankan untuk mengidentifikasi semua ahli waris yang masih hidup secara lengkap sebelum melakukan perhitungan final agar tidak ada pihak yang terlewat dan pembagian benar-benar adil sesuai faraidh."
+      }
+    ]
+  },
+  {
+    "title": "Konsep ahli waris pengganti untuk cucu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kakek saya meninggal. Ayah saya sudah meninggal duluan. Apakah saya sebagai cucu bisa mendapat warisan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Anda bisa mendapat warisan sebagai ahli waris pengganti berdasarkan KHI Pasal 185. Ketentuan ini menyatakan bahwa ahli waris yang meninggal lebih dahulu dari pewaris dapat digantikan oleh keturunannya. Jadi Anda menggantikan posisi ayah Anda sebagai ahli waris dari kakek. Namun bagian yang Anda terima tidak boleh melebihi bagian yang seharusnya diterima ayah Anda jika beliau masih hidup. Misalnya jika ayah Anda seharusnya mendapat Rp200 juta, maka total bagian Anda dan saudara kandung (jika ada) maksimal Rp200 juta tersebut. Perlu dicatat bahwa konsep ahli waris pengganti ini adalah kekhasan hukum waris Islam Indonesia yang diakomodasi KHI dan mungkin berbeda dari pendapat faraidh klasik beberapa mazhab."
+      }
+    ]
+  }
+]

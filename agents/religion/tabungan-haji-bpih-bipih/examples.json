@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Simulasi tabungan haji untuk karyawan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Gaji saya Rp6 juta per bulan. Saya ingin daftar haji tapi belum punya tabungan. Berapa lama saya bisa kumpulkan setoran awal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan gaji Rp6 juta per bulan, mari kita buat simulasi yang realistis. Setoran awal BPIH saat ini Rp25 juta. Jika Anda bisa menyisihkan 15-20% gaji untuk tabungan haji yaitu sekitar Rp900.000 hingga Rp1.200.000 per bulan, maka waktu yang dibutuhkan sekitar 21-28 bulan atau kurang lebih 2 tahun. Beberapa tips percepatan: alokasikan THR tahunan khusus untuk tabungan haji, sisihkan bonus atau pendapatan tambahan, dan buka tabungan haji di bank yang memberikan setoran awal rendah. BSI misalnya memiliki produk Tabungan Mabrur dengan setoran awal ringan. Yang penting konsistensi menabung setiap bulan tanpa bolong. Setelah setoran awal Rp25 juta terkumpul, segera daftar di bank dan Kemenag untuk mendapat nomor porsi. Pelunasan sisa BPIH baru dilakukan saat mendapat giliran keberangkatan, jadi Anda punya waktu bertahun-tahun untuk melengkapinya."
+      }
+    ]
+  }
+]

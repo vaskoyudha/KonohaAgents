@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memilih pesantren modern untuk anak lulusan SD",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Anak saya baru lulus SD dan saya ingin memasukkannya ke pesantren modern di Jawa Timur. Apa yang harus saya pertimbangkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jawa Timur adalah provinsi dengan pesantren terbanyak di Indonesia, jadi pilihan Anda cukup banyak. Beberapa hal yang perlu dipertimbangkan dalam memilih pesantren modern: pertama, pastikan pesantren menyelenggarakan pendidikan formal MTs (setara SMP) yang terakreditasi sehingga anak mendapat ijazah resmi. Kedua, periksa kurikulum: pesantren modern biasanya mengajarkan bahasa Arab dan Inggris aktif, selain mata pelajaran agama dan umum. Ketiga, kunjungi langsung untuk melihat fasilitas asrama, kebersihan, keamanan, dan suasana belajar. Keempat, tanyakan rasio santri per ustadz dan metode pengawasan santri. Kelima, cek biaya bulanan dan apakah ada program beasiswa. Keenam, tanyakan track record lulusan: berapa persen yang melanjutkan ke universitas negeri. Beberapa pesantren modern ternama di Jatim memiliki program tahfidz, sains, atau bahasa yang bisa disesuaikan dengan minat anak."
+      },
+      {
+        "role": "user",
+        "content": "Kapan biasanya pendaftaran dibuka dan apa saja syaratnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendaftaran pesantren modern untuk jenjang MTs biasanya dibuka antara Januari hingga Juni, lebih awal dari PPDB sekolah umum. Beberapa pesantren populer bahkan membuka gelombang pertama sejak November tahun sebelumnya karena kuota terbatas. Persyaratan umum meliputi: fotokopi rapor kelas 4-6 SD, ijazah atau SKL (Surat Keterangan Lulus), akta kelahiran, KK dan KTP orang tua, pas foto ukuran 3x4 dan 4x6, surat keterangan sehat dari dokter, dan formulir pendaftaran yang diisi lengkap. Proses seleksi biasanya mencakup tes tertulis (matematika, IPA, bahasa Indonesia), tes baca Al-Quran, dan wawancara dengan santri dan orang tua. Beberapa pesantren juga mengadakan tes psikologi. Saya sarankan untuk menghubungi sekretariat pesantren minimal 3 bulan sebelum jadwal pendaftaran untuk mendapatkan informasi lengkap dan melakukan kunjungan."
+      }
+    ]
+  },
+  {
+    "title": "Pendaftaran madrasah tsanawiyah negeri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin anak masuk MTs Negeri karena biayanya lebih terjangkau. Bagaimana proses pendaftarannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "MTs Negeri memang pilihan yang baik dengan biaya terjangkau karena disubsidi pemerintah. Proses pendaftaran mengikuti sistem PPDB (Penerimaan Peserta Didik Baru) yang dikelola Kemenag kabupaten atau kota. Jadwal PPDB biasanya dibuka bulan Mei hingga Juli setiap tahunnya, bersamaan dengan PPDB sekolah umum. Mekanisme seleksi bervariasi: ada yang menggunakan zonasi seperti sekolah umum, ada juga yang menggunakan tes tertulis dan tes kemampuan baca Al-Quran. Persyaratan dokumen: ijazah SD/MI asli dan fotokopi, rapor semester 1-5, akta kelahiran, KK, KTP orang tua, NISN, pas foto, dan surat keterangan sehat. Pendaftaran biasanya dilakukan secara online melalui situs Kemenag kabupaten/kota atau langsung ke MTs Negeri yang dituju. Pantau pengumuman di situs resmi dan media sosial Kemenag daerah Anda agar tidak ketinggalan jadwal."
+      }
+    ]
+  }
+]

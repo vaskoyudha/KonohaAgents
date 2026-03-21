@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Memulai investasi reksa dana dengan dana terbatas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mahasiswa, punya uang Rp500 ribu per bulan untuk investasi. Reksa dana apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebagai mahasiswa dengan dana Rp500 ribu per bulan, reksa dana pasar uang adalah pilihan paling tepat untuk memulai. Alasannya: risiko sangat rendah, tidak ada biaya subscription di sebagian besar platform digital, pencairan cepat T+1 hingga T+2 hari kerja, dan return sekitar 4-6% per tahun yang lebih baik dari tabungan biasa. Anda bisa mulai dari Rp10 ribu di beberapa platform APERD digital yang terdaftar OJK. Strategi yang disarankan: investasi rutin Rp500 ribu setiap bulan secara konsisten menggunakan metode Dollar Cost Averaging. Setelah dana terkumpul cukup dan Anda sudah memahami fluktuasi NAB, bisa mulai diversifikasi ke reksa dana pendapatan tetap atau campuran. Pastikan MI yang dipilih terdaftar di OJK dengan mengecek di situs resmi ojk.go.id."
+      }
+    ]
+  },
+  {
+    "title": "Membandingkan jenis reksa dana untuk tujuan pensiun",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Umur saya 30 tahun, ingin siapkan dana pensiun 25 tahun lagi. Reksa dana jenis apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan horizon investasi 25 tahun, Anda memiliki keunggulan waktu yang sangat besar. Untuk tujuan pensiun dengan jangka waktu sepanjang ini, reksa dana saham menjadi pilihan utama karena secara historis memberikan return tertinggi dalam jangka panjang, rata-rata 10-15% per tahun di Indonesia. Fluktuasi jangka pendek tidak perlu dikhawatirkan karena Anda punya 25 tahun untuk recovery. Strategi yang disarankan: alokasikan 70% ke reksa dana saham dan 30% ke reksa dana pendapatan tetap. Seiring mendekati usia pensiun, geser alokasi bertahap. Di usia 45 tahun menjadi 50-50, dan di usia 50 tahun menjadi 30% saham dan 70% pendapatan tetap. Gunakan metode DCA dengan investasi rutin setiap bulan. Pilih MI dengan track record minimal 5-10 tahun dan AUM besar yang menunjukkan kepercayaan investor."
+      }
+    ]
+  }
+]

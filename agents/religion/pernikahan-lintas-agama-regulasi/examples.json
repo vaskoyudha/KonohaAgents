@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Konsultasi pernikahan Muslim dan Kristen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pacar saya Kristen dan saya Muslim. Kami sudah 5 tahun bersama dan ingin menikah. Apa opsi kami?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya memahami situasi Anda. Di Indonesia, ada beberapa opsi yang bisa dipertimbangkan. Pertama, salah satu pihak melakukan konversi agama sehingga pernikahan bisa dilakukan sesuai hukum satu agama dan dicatatkan di KUA (jika Islam) atau Catatan Sipil (jika Kristen). Ini opsi yang paling umum tapi memerlukan keyakinan dan keikhlasan. Kedua, menikah di luar negeri di negara yang mengakui pernikahan beda agama (seperti Singapura, Australia, atau Jepang), kemudian mencatatkan di Catatan Sipil Indonesia dengan melampirkan akta nikah yang dilegalisir KBRI. Ketiga, mengajukan penetapan ke pengadilan negeri berdasarkan yurisprudensi MA No. 1400 K/Pdt/1986, namun ini tidak selalu berhasil dan bergantung pada hakim. Setiap opsi memiliki konsekuensi hukum dan sosial yang berbeda. Saya sarankan diskusikan bersama secara terbuka dan konsultasikan dengan pengacara keluarga untuk memahami implikasi masing-masing opsi."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Perbandingan investasi emas batangan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya Rp10 juta untuk investasi emas. Lebih baik beli emas batangan Antam atau tabungan emas Pegadaian?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kedua opsi memiliki kelebihan berbeda. Emas batangan Antam cocok jika ingin memiliki fisik langsung. Dengan Rp10 juta bisa membeli sekitar 6-7 gram. Biaya tambahan: pajak PPh 22 sebesar 0,45% (sekitar Rp45 ribu). Spread buyback Antam sekitar 2-3%. Perlu penyimpanan aman. Tabungan emas Pegadaian cocok untuk mencicil tanpa repot penyimpanan. Biaya pembukaan Rp10-30 ribu, biaya titip Rp30 ribu per bulan. Bisa beli mulai 0,01 gram. Kelemahannya spread buyback lebih besar dan ada biaya cetak jika ingin emas fisik. Untuk dana Rp10 juta sekaligus, emas batangan Antam lebih efisien. Untuk investasi bertahap bulanan, tabungan emas Pegadaian lebih praktis."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung biaya riil investasi emas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya beli emas Antam 10 gram 2 tahun lalu di harga Rp900 ribu per gram. Sekarang Rp1,1 juta per gram. Berapa keuntungan bersih?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harga beli: 10 gram x Rp900.000 = Rp9.000.000. Pajak PPh 22 saat beli: 0,45% x Rp9.000.000 = Rp40.500. Total biaya beli Rp9.040.500. Yang relevan adalah harga buyback bukan harga jual. Jika harga jual Rp1.100.000 per gram, harga buyback sekitar Rp1.067.000 per gram dengan spread 3%. Nilai buyback 10 gram x Rp1.067.000 = Rp10.670.000. Keuntungan kotor Rp1.629.500. Jika simpan di safe deposit box 2 tahun dengan biaya Rp500.000 per tahun, total biaya simpan Rp1.000.000. Keuntungan bersih Rp629.500 atau return sekitar 7% selama 2 tahun atau 3,5% per tahun. Ini menunjukkan pentingnya menghitung total biaya kepemilikan."
+      }
+    ]
+  }
+]

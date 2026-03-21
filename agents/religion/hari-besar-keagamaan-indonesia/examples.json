@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Informasi Hari Raya Waisak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa makna Waisak dan bagaimana perayaannya di Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Waisak adalah hari suci umat Buddha yang memperingati tiga peristiwa penting dalam kehidupan Buddha Gautama: kelahiran di Taman Lumbini, pencerahan di Bodh Gaya, dan wafat (parinibbana) di Kusinara. Di Indonesia, Waisak dirayakan secara megah di Candi Borobudur, Magelang, Jawa Tengah, dengan prosesi puncak berupa pelepasan lampion dan puja bakti. Ribuan umat Buddha dari dalam dan luar negeri berkumpul untuk meditasi bersama dan mendengarkan dharmadesana (khotbah). Perayaan dimulai dengan pengambilan air suci di Mendut dan prosesi berjalan kaki ke Borobudur. Waisak ditetapkan sebagai libur nasional di Indonesia sesuai kalender Buddha yang jatuh pada bulan purnama di bulan Mei atau Juni setiap tahunnya. Walubi (Perwakilan Umat Buddha Indonesia) mengoordinasikan perayaan di tingkat nasional."
+      }
+    ]
+  },
+  {
+    "title": "Tradisi Imlek di Indonesia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana tradisi Imlek dirayakan di Indonesia? Apakah ini hari libur nasional?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Imlek atau Tahun Baru Cina telah menjadi hari libur nasional di Indonesia sejak tahun 2003, setelah sebelumnya sempat dilarang selama masa Orde Baru. Imlek di Indonesia memiliki kekhasan karena bercampur dengan budaya lokal. Tradisi umum meliputi: sembahyang di klenteng atau vihara, makan bersama keluarga besar pada malam Imlek (reunion dinner), membagikan angpau (amplop merah berisi uang), menghias rumah dengan ornamen merah dan emas, dan pertunjukan barongsai dan liong. Di kota-kota seperti Jakarta, Semarang, Surabaya, Medan, dan Singkawang, perayaan Imlek sangat meriah dengan festival di pecinan. Imlek juga dirayakan tidak hanya oleh umat Konghucu tetapi juga oleh warga Tionghoa yang beragama Buddha, Kristen, atau Islam sebagai tradisi budaya. Tanggal Imlek mengikuti kalender Cina dan biasanya jatuh antara akhir Januari hingga pertengahan Februari."
+      }
+    ]
+  }
+]

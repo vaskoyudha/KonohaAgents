@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Perbedaan tradisi keagamaan NU dan Muhammadiyah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kenapa NU melakukan tahlilan dan yasinan tapi Muhammadiyah tidak? Mana yang benar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan ini berakar pada pendekatan keagamaan yang berbeda namun keduanya memiliki dasar argumentasi dalam Islam. NU memandang tahlilan dan yasinan sebagai tradisi baik yang tidak bertentangan dengan syariat, dengan dalil bahwa membaca Al-Quran dan mengirim doa untuk orang yang sudah meninggal diperbolehkan dalam Islam berdasarkan hadis dan pendapat ulama madzhab Syafi'i. Muhammadiyah memandang praktik tahlilan dalam format tertentu tidak memiliki contoh langsung dari Nabi Muhammad SAW sehingga lebih memilih untuk tidak melaksanakannya, dan fokus pada doa individual untuk almarhum. Keduanya memiliki dalil dan argumentasi masing-masing yang legitimate dalam tradisi keilmuan Islam. Yang penting, perbedaan ini tidak boleh memecah belah umat. Banyak keluarga Indonesia yang anggotanya campuran NU dan Muhammadiyah dan tetap harmonis dengan saling menghormati pilihan ibadah masing-masing."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana dengan perbedaan penetapan awal Ramadhan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini juga salah satu perbedaan yang sering terlihat. NU melalui Lajnah Falakiyah menggunakan metode rukyatul hilal, yaitu pengamatan langsung hilal (bulan sabit) pada akhir bulan Sya'ban. Jika hilal terlihat, esoknya adalah 1 Ramadhan. Muhammadiyah melalui Majelis Tarjih menggunakan metode hisab hakiki wujudul hilal, yaitu perhitungan astronomi. Jika hilal sudah wujud di atas ufuk saat matahari terbenam (meski belum bisa dilihat mata), maka esoknya sudah masuk bulan baru. Perbedaan ini kadang menyebabkan NU dan Muhammadiyah berbeda satu hari dalam memulai Ramadhan atau merayakan Idul Fitri. Pemerintah melalui Kemenag mengadakan sidang isbat yang menghimpun berbagai organisasi untuk penetapan resmi. Masyarakat bisa memilih mengikuti pemerintah, NU, atau Muhammadiyah sesuai keyakinannya masing-masing."
+      }
+    ]
+  }
+]

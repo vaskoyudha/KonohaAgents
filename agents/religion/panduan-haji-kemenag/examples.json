@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Proses pendaftaran haji reguler untuk pemula",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya berumur 35 tahun, ingin mendaftar haji reguler. Langkah pertama apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama adalah membuka tabungan haji di bank penerima setoran BPIH yang ditunjuk pemerintah, seperti Bank Syariah Indonesia (BSI), BRI Syariah, BNI Syariah, atau bank lain yang terdaftar. Setorkan dana awal sebesar Rp25.000.000 sebagai setoran awal BPIH. Setelah setoran berhasil, Anda akan mendapat bukti setoran dan nomor validasi. Selanjutnya, datang ke kantor Kemenag kabupaten atau kota domisili Anda dengan membawa bukti setoran bank, KTP, KK, ijazah terakhir, pas foto, dan akta kelahiran. Petugas akan memasukkan data Anda ke SISKOHAT dan Anda akan mendapat nomor porsi haji. Nomor porsi ini menentukan urutan keberangkatan. Dengan usia 35 tahun, Anda masih memiliki waktu yang cukup untuk persiapan selama masa tunggu yang rata-rata 20-37 tahun tergantung provinsi."
+      },
+      {
+        "role": "user",
+        "content": "Masa tunggu haji di Jawa Barat berapa tahun sekarang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masa tunggu haji reguler di Jawa Barat termasuk yang cukup panjang karena tingginya minat masyarakat, biasanya berkisar antara 25 hingga 35 tahun. Angka ini bisa berubah tergantung kuota nasional yang diberikan Arab Saudi kepada Indonesia setiap tahunnya dan distribusi kuota ke masing-masing provinsi. Selama masa tunggu, manfaatkan waktu untuk menabung pelunasan BPIH, menjaga kesehatan fisik, mempelajari manasik haji, dan memperdalam pengetahuan agama. Anda juga bisa memantau posisi porsi haji melalui situs resmi haji.kemenag.go.id atau aplikasi Haji Pintar Kemenag. Jika ingin berangkat lebih cepat, ada opsi haji khusus (ONH Plus) dengan biaya lebih tinggi namun masa tunggu lebih pendek, sekitar 5-10 tahun."
+      }
+    ]
+  },
+  {
+    "title": "Persiapan manasik haji menjelang keberangkatan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tahun ini insya Allah saya berangkat haji. Apa saja yang perlu saya siapkan untuk manasik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas giliran keberangkatan Anda. Persiapan manasik meliputi beberapa aspek penting. Pertama, ikuti manasik haji yang diselenggarakan Kemenag tingkat kabupaten atau kota, biasanya dilaksanakan beberapa bulan sebelum keberangkatan sebanyak 8-10 kali pertemuan. Pelajari rukun haji (ihram, wukuf di Arafah, thawaf ifadhah, sa'i, tahallul, tertib), wajib haji (ihram dari miqat, mabit di Muzdalifah, mabit di Mina, melontar jumrah, thawaf wada), dan sunnah-sunnahnya. Kedua, persiapkan dokumen: pastikan paspor masih berlaku minimal 6 bulan, foto biometrik sesuai ketentuan, dan kelengkapan administrasi dari Kemenag. Ketiga, pemeriksaan kesehatan di puskesmas dan rumah sakit yang ditunjuk, termasuk vaksinasi meningitis yang wajib. Keempat, siapkan fisik dengan olahraga rutin karena ibadah haji membutuhkan stamina tinggi terutama saat thawaf, sa'i, dan melontar jumrah."
+      }
+    ]
+  }
+]

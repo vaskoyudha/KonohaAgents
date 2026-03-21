@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Persiapan dokumen pernikahan di KUA",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dan calon istri mau menikah 2 bulan lagi. Kami berdua lajang dan tinggal di kecamatan berbeda di Jakarta. Apa yang harus kami siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas rencana pernikahan Anda. Karena Anda dan calon istri tinggal di kecamatan berbeda, pernikahan akan didaftarkan di KUA kecamatan domisili calon istri sesuai ketentuan. Dokumen yang perlu disiapkan: KTP dan KK asli beserta fotokopi kedua mempelai, akta kelahiran asli, surat pengantar nikah dari RT/RW dan kelurahan (formulir N1, N2, N4), surat persetujuan mempelai, surat keterangan untuk menikah dari kelurahan, pas foto bersama ukuran 2x3 dan 3x4 berlatar biru, dan fotokopi KTP saksi nikah minimal 2 orang. Karena Anda berdua lajang, tidak perlu akta cerai. Daftarkan di KUA minimal 10 hari kerja sebelum tanggal nikah. Anda juga wajib mengikuti kursus calon pengantin (suscatin) yang biasanya diselenggarakan KUA selama satu hari."
+      },
+      {
+        "role": "user",
+        "content": "Kami ingin akad nikah di gedung resepsi, bukan di KUA. Apakah bisa dan berapa biayanya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Akad nikah di luar kantor KUA diperbolehkan dengan mengajukan permohonan saat pendaftaran. Berdasarkan PP No. 48 Tahun 2014, nikah di luar KUA dikenakan biaya PNBP sebesar Rp600.000 yang disetor ke kas negara melalui bank. Biaya ini sudah termasuk jasa penghulu yang akan hadir ke lokasi gedung resepsi Anda. Jika nikah dilakukan di KUA pada jam kerja, biayanya gratis (Rp0). Prosedur tambahan untuk nikah di luar KUA: sertakan alamat lengkap lokasi akad saat pendaftaran, pastikan lokasi mudah dijangkau, dan koordinasikan jadwal dengan penghulu KUA. Selain biaya PNBP, tidak ada biaya resmi lain yang boleh dipungut. Jika ada pihak yang meminta biaya tambahan di luar ketentuan, Anda berhak melaporkan ke Kemenag kabupaten/kota."
+      }
+    ]
+  },
+  {
+    "title": "Pernikahan dengan wali hakim karena ayah meninggal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ayah saya sudah meninggal dan saya tidak punya kakek atau saudara laki-laki. Siapa yang jadi wali nikah saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dalam Islam dan KHI (Kompilasi Hukum Islam), wali nikah mengikuti urutan nasab: ayah, kakek dari ayah, saudara laki-laki kandung, saudara laki-laki seayah, anak laki-laki dari saudara kandung, anak laki-laki dari saudara seayah, paman kandung, paman seayah, dan seterusnya. Jika semua wali nasab tidak ada, tidak diketahui keberadaannya, atau berhalangan, maka Kepala KUA kecamatan bertindak sebagai wali hakim berdasarkan Peraturan Menag No. 20/2019. Anda perlu menyiapkan surat kematian ayah, surat keterangan tidak adanya wali nasab dari kelurahan, dan bukti pendukung lainnya. Sampaikan kondisi ini saat pendaftaran di KUA agar penghulu bisa memproses penetapan wali hakim. Prosesnya tidak rumit selama dokumen lengkap."
+      }
+    ]
+  }
+]

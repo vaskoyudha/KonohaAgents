@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Memilih SBN ritel yang sesuai",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya Rp50 juta dan ingin investasi aman dijamin pemerintah. SBN apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan dana Rp50 juta dan preferensi keamanan, SBN ritel adalah pilihan tepat karena dijamin penuh pemerintah RI berdasarkan UU No. 24 Tahun 2002. Jika ingin kepastian pendapatan dan fleksibilitas jual: pilih ORI dengan kupon tetap sekitar 6-6,5% per tahun dibayar bulanan. Untuk Rp50 juta kupon kotor sekitar Rp270 ribu per bulan, setelah pajak PPh final 10% menjadi sekitar Rp243 ribu. Jika ingin proteksi dari kenaikan suku bunga: pilih SBR dengan kupon mengambang dan floor rate. Keduanya bisa dibeli minimal Rp1 juta melalui mitra distribusi Kemenkeu. Perhatikan jadwal penawaran di situs kemenkeu.go.id."
+      }
+    ]
+  },
+  {
+    "title": "Perbandingan SBN konvensional dan sukuk ritel",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin investasi sesuai syariah. Apa bedanya SR dan ST?"
+      },
+      {
+        "role": "assistant",
+        "content": "SR dan ST keduanya merupakan SBSN yang diterbitkan berdasarkan UU No. 19 Tahun 2008 dan sesuai prinsip syariah dengan fatwa DSN-MUI. SR memiliki kupon tetap dan bisa diperdagangkan di pasar sekunder setelah holding period, cocok jika ingin fleksibilitas jual. ST memiliki kupon mengambang dengan floor rate dan non-tradeable tetapi tersedia early redemption, cocok untuk proteksi dari kenaikan suku bunga. Akad yang digunakan umumnya ijarah atau wakalah. Keduanya membayar kupon bulanan, minimum Rp1 juta, dan pajak PPh final 10%. Keduanya dijamin pemerintah RI dengan keamanan yang sama."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Verifikasi legalitas travel umrah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada travel umrah yang menawarkan paket Rp18 juta semua termasuk. Apakah ini wajar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harga Rp18 juta untuk paket umrah lengkap sangat perlu diwaspadai. Berdasarkan komponen biaya standar, tiket pesawat PP ke Arab Saudi saja biasanya berkisar Rp8-15 juta tergantung maskapai dan musim. Ditambah visa, hotel di Makkah dan Madinah, makan, transportasi bus, muthawwif, dan asuransi, total biaya wajar minimal Rp25-30 juta. Jika ditawarkan Rp18 juta, ada kemungkinan beberapa skenario: hotel sangat jauh dari Masjidil Haram, fasilitas dipotong, atau lebih buruk lagi ini bisa jadi modus penipuan. Langkah pertama, minta nomor izin PPIU dari Kemenag dan cek di sisuluh.kemenag.go.id. Kedua, pastikan kontrak tertulis menyebutkan detail hotel, maskapai, dan fasilitas. Ketiga, jangan pernah bayar ke rekening pribadi, harus ke rekening perusahaan."
+      },
+      {
+        "role": "user",
+        "content": "Mereka bilang izinnya sedang dalam proses perpanjangan. Apakah tetap aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini adalah red flag serius. PPIU yang izinnya sedang dalam proses perpanjangan secara hukum tidak boleh menerima pendaftaran jemaah baru sampai izin perpanjangan keluar. Berdasarkan regulasi Kemenag, PPIU harus memiliki izin aktif dan valid untuk beroperasi. Jika mereka tetap menerima pendaftaran tanpa izin aktif, ini melanggar UU No. 8/2019. Saran saya: jangan setor uang apapun sampai izin perpanjangan benar-benar terbit dan bisa diverifikasi di database Kemenag. Cari alternatif PPIU lain yang izinnya jelas aktif. Jika mereka mendesak untuk bayar segera dengan alasan kuota terbatas, ini semakin menguatkan indikasi ketidakamanan. Anda bisa melapor ke kantor Kemenag provinsi jika merasa ada indikasi penipuan."
+      }
+    ]
+  },
+  {
+    "title": "Persiapan dokumen dan ibadah umrah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sudah pilih travel resmi dan mau berangkat 2 bulan lagi. Dokumen apa saja yang perlu disiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Persiapan dokumen untuk umrah meliputi beberapa hal penting. Pertama, paspor yang masih berlaku minimal 6 bulan dari tanggal keberangkatan dengan nama sesuai KTP. Jika belum punya paspor, segera urus di kantor imigrasi karena prosesnya bisa memakan waktu 2-4 minggu. Kedua, pas foto terbaru dengan latar belakang putih ukuran 4x6 sebanyak 10 lembar. Ketiga, fotokopi KTP, KK, dan akta nikah jika berpasangan. Keempat, surat keterangan sehat dari dokter dan bukti vaksinasi meningitis dari Kantor Kesehatan Pelabuhan (KKP). Kelima, bagi wanita di bawah 45 tahun, siapkan dokumen yang menunjukkan mahram (suami atau kerabat laki-laki sedarah) yang ikut dalam rombongan. Keenam, tanda terima kontrak dan bukti pembayaran dari travel. Serahkan semua dokumen ini ke travel minimal 1 bulan sebelum keberangkatan untuk pengurusan visa."
+      }
+    ]
+  }
+]

@@ -30,7 +30,7 @@ const ConversationTurnSchema = z.object({
 // Handoff to another agent
 const HandoffSchema = z.object({
   condition: z.string().min(10),
-  target_agent_id: z.string().regex(/^[a-z-]+\/[a-z-]+$/),
+  target_agent_id: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/, 'target_agent_id must be in format category/agent-slug'),
   description: z.string().min(10),
 })
 
@@ -54,7 +54,7 @@ const PlatformConfigsSchema = z.object({
 // The main Agent schema
 export const AgentSchema = z.object({
   identity: z.object({
-    id: z.string().regex(/^[a-z-]+\/[a-z-]+$/, 'ID must be in format category-slug/agent-slug'),
+    id: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/, 'ID must be in format category-slug/agent-slug'),
     name: z.string().min(3, 'Agent name must be at least 3 characters'),
     name_en: z.string().min(3, 'English name must be at least 3 characters'),
     version: z.string().regex(/^\d+\.\d+\.\d+$/, 'Version must be semver'),

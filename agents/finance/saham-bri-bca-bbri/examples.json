@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Analisis fundamental saham BBRI untuk investor dividen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tertarik investasi saham BRI untuk dividen. Bagaimana cara analisisnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk menganalisis BBRI sebagai saham dividen, lakukan beberapa langkah. Pertama, cek laporan keuangan terakhir di situs BEI idx.co.id: perhatikan pertumbuhan laba bersih tahunan, NIM yang menunjukkan profitabilitas bisnis inti perbankan, dan NPL netto yang menunjukkan kualitas kredit. Kedua, analisis kebijakan dividen: BRI sebagai BUMN biasanya membagikan dividen dengan payout ratio 40-60% dari laba bersih sesuai keputusan RUPS. Hitung dividend yield dengan membagi dividen per saham dengan harga saham saat ini. Ketiga, bandingkan valuasi PER dan PBV BBRI dengan rata-rata sektor perbankan BUKU 4. Jika PER di bawah rata-rata sektor namun ROE di atas rata-rata, ini bisa mengindikasikan valuasi menarik. Keempat, perhatikan faktor makro: suku bunga BI mempengaruhi NIM bank, pertumbuhan kredit nasional mempengaruhi revenue."
+      }
+    ]
+  },
+  {
+    "title": "Perbandingan valuasi saham perbankan BUMN",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana membandingkan saham BBRI, BMRI, dan BBNI dari sisi valuasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk membandingkan ketiga bank BUMN ini gunakan pendekatan relative valuation. Pertama PBV: bandingkan PBV masing-masing dengan ROE-nya, bank dengan ROE lebih tinggi wajar diperdagangkan di PBV lebih tinggi. Kedua PER: bandingkan dengan pertumbuhan laba melalui PEG ratio. PER harus dilihat relatif terhadap growth. Ketiga rasio spesifik perbankan: NIM menunjukkan profitabilitas, NPL menunjukkan kualitas aset, CAR kecukupan modal, CASA ratio kemampuan menghimpun dana murah. Bank dengan CASA tinggi cenderung memiliki NIM lebih baik. Keempat dividend yield dan payout ratio. Sajikan data dalam tabel perbandingan. Ingat valuasi murah tidak selalu berarti bagus karena bisa ada risiko fundamental yang membenarkan diskon tersebut."
+      }
+    ]
+  }
+]

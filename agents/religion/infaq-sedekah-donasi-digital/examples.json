@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Memilih platform donasi online yang aman",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin donasi untuk korban bencana alam tapi takut uangnya tidak sampai. Platform mana yang terpercaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kekhawatiran Anda sangat wajar mengingat banyaknya kasus penipuan donasi online. Untuk donasi bencana alam, beberapa lembaga terpercaya yang bisa Anda pertimbangkan: pertama, BAZNAS (Badan Amil Zakat Nasional) yang merupakan lembaga pemerintah dan memiliki audit rutin. Kedua, Dompet Dhuafa yang sudah berpengalaman puluhan tahun dalam penanganan bencana dan memiliki laporan keuangan transparan. Ketiga, ACT (Aksi Cepat Tanggap) yang fokus pada respon bencana. Keempat, PMI (Palang Merah Indonesia) yang menjadi mitra resmi pemerintah. Jika menggunakan platform crowdfunding seperti Kitabisa, pastikan campaign donasi diverifikasi oleh platform (ada tanda centang verifikasi), penggalang dana adalah lembaga resmi bukan individu, dan ada update berkala penggunaan dana. Selalu simpan bukti donasi dan pantau laporan penyaluran yang biasanya dipublikasikan di website lembaga."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan infaq dan sedekah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Infaq dan sedekah itu bedanya apa? Saya sering bingung."
+      },
+      {
+        "role": "assistant",
+        "content": "Infaq dan sedekah memang sering digunakan bergantian tapi secara syariah ada perbedaan. Infaq secara bahasa berarti mengeluarkan atau membelanjakan. Dalam istilah fiqih, infaq adalah mengeluarkan sebagian harta untuk kepentingan yang diperintahkan Allah. Infaq bisa wajib seperti nafkah keluarga dan bisa sunnah seperti menyumbang untuk masjid. Infaq selalu terkait harta atau materi. Sedekah lebih luas cakupannya. Sedekah mencakup segala bentuk kebaikan, baik berupa harta maupun non-harta. Tersenyum kepada sesama, menyingkirkan batu dari jalan, memberi nasihat yang baik, semua itu termasuk sedekah berdasarkan hadis Nabi. Jadi setiap infaq adalah sedekah, tetapi tidak setiap sedekah adalah infaq. Yang penting dari keduanya adalah niat yang ikhlas dan konsistensi dalam berbuat baik sesuai kemampuan."
+      }
+    ]
+  }
+]

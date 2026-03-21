@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Perhitungan zakat maal gabungan tabungan dan emas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya tabungan Rp200 juta di bank, emas batangan 30 gram, dan cicilan mobil sisa Rp50 juta. Apakah saya wajib zakat dan berapa jumlahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita hitung langkah demi langkah. Pertama, kita konversi semua aset ke rupiah. Tabungan Rp200 juta sudah dalam rupiah. Emas 30 gram, dengan asumsi harga emas terkini sekitar Rp1.100.000 per gram, nilainya sekitar Rp33 juta. Total harta bruto: Rp233 juta. Untuk utang, cicilan mobil Rp50 juta adalah utang konsumtif. Menurut pendapat yang dianut BAZNAS, utang yang menjadi pengurang adalah utang jatuh tempo dalam setahun ke depan. Jika cicilan tahunan Anda sekitar Rp12 juta, maka total harta bersih sekitar Rp221 juta. Nisab zakat maal setara 85 gram emas, yaitu sekitar Rp93,5 juta. Karena harta bersih Anda jauh di atas nisab dan sudah dimiliki selama satu tahun, maka wajib zakat sebesar 2,5% x Rp221 juta = Rp5.525.000. Saya sarankan menyalurkan melalui BAZNAS atau LAZ resmi agar tercatat dan tersalurkan kepada mustahik yang berhak."
+      },
+      {
+        "role": "user",
+        "content": "Kalau emas saya belum setahun, apakah tetap dihitung?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emas yang belum mencapai haul (satu tahun hijriah kepemilikan) memang belum wajib dizakati secara terpisah menurut jumhur ulama. Namun dalam praktik perhitungan gabungan yang digunakan BAZNAS, jika Anda menghitung zakat maal secara komprehensif pada satu titik waktu tertentu, seluruh harta yang dimiliki saat itu bisa dihitung bersama. Pendekatan ini menyederhanakan dan memastikan tidak ada harta yang terlewat. Jika Anda ingin mengikuti pendapat yang lebih ketat, Anda bisa mengeluarkan emas tersebut dari perhitungan tahun ini dan menghitungnya tahun depan setelah genap haul. Dengan tabungan Rp200 juta saja, Anda sudah melebihi nisab, sehingga kewajiban zakat tetap berlaku minimal 2,5% dari Rp200 juta dikurangi utang jatuh tempo."
+      }
+    ]
+  },
+  {
+    "title": "Zakat penghasilan karyawan bulanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Gaji saya Rp18 juta per bulan sebelum pajak. Bagaimana cara menghitung zakat penghasilannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan Fatwa MUI No. 3 Tahun 2003 dan pedoman BAZNAS, zakat penghasilan dikenakan sebesar 2,5% dari penghasilan bruto jika telah mencapai nisab. Nisab zakat penghasilan setara dengan 525 kg beras per tahun, yang jika dihitung dengan harga beras sekitar Rp12.000 per kilogram menjadi sekitar Rp6.300.000 per bulan. Penghasilan Anda Rp18 juta per bulan sudah jauh melampaui nisab tersebut. Anda bisa memilih dua cara pembayaran: pertama, bayar bulanan sebesar 2,5% x Rp18 juta = Rp450.000 per bulan. Kedua, bayar tahunan sebesar 2,5% x Rp216 juta = Rp5.400.000. Cara bulanan lebih ringan dan membiasakan kedisiplinan berzakat. Banyak BAZNAS daerah dan LAZ resmi menyediakan layanan autodebet bulanan untuk kemudahan muzakki."
+      }
+    ]
+  }
+]

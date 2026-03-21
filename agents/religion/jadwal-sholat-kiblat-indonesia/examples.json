@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Jadwal sholat harian untuk kota tertentu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tolong berikan jadwal sholat hari ini untuk Yogyakarta."
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut jadwal sholat untuk Yogyakarta hari ini berdasarkan metode perhitungan Kemenag RI. Imsak: 04:15 WIB, Subuh: 04:25 WIB, Terbit: 05:42 WIB, Dhuha: 06:10 WIB, Dzuhur: 11:45 WIB, Ashar: 15:05 WIB, Maghrib: 17:44 WIB, Isya: 18:55 WIB. Perlu diingat bahwa waktu ini dapat bergeser satu hingga dua menit tergantung posisi persis Anda di wilayah Yogyakarta. Untuk jadwal yang paling akurat dan terupdate, Anda bisa mengakses situs resmi bimasislam.kemenag.go.id atau aplikasi jadwal sholat Kemenag di smartphone."
+      },
+      {
+        "role": "user",
+        "content": "Kenapa waktu Subuh di Yogyakarta berbeda dengan Jakarta?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan waktu Subuh antara Yogyakarta dan Jakarta disebabkan oleh perbedaan koordinat geografis, terutama bujur (longitude). Jakarta berada di sekitar 106.8 derajat Bujur Timur, sementara Yogyakarta sekitar 110.4 derajat Bujur Timur. Karena Yogyakarta lebih ke timur sekitar 3.6 derajat, matahari terbit dan terbenam lebih awal di sana. Setiap 1 derajat bujur menghasilkan perbedaan waktu sekitar 4 menit. Jadi waktu sholat di Yogyakarta umumnya lebih awal sekitar 14 hingga 15 menit dibanding Jakarta. Selain bujur, lintang juga berpengaruh terhadap lamanya siang dan malam yang berubah sepanjang tahun, meskipun efeknya kecil di daerah tropis seperti Indonesia."
+      }
+    ]
+  },
+  {
+    "title": "Penentuan arah kiblat di rumah baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru pindah rumah di Makassar. Bagaimana cara menentukan arah kiblat yang tepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dari Makassar (sekitar 5.14 derajat Lintang Selatan, 119.43 derajat Bujur Timur), arah kiblat berada pada azimut sekitar 292 derajat dari arah utara, yaitu ke arah barat agak ke utara. Ada beberapa cara praktis untuk menentukannya. Pertama, gunakan kompas digital di smartphone dan arahkan ke 292 derajat. Pastikan smartphone jauh dari benda logam besar yang bisa mengganggu kompas. Kedua, gunakan aplikasi kiblat yang memanfaatkan GPS dan kompas seperti aplikasi resmi Kemenag atau Muslim Pro. Ketiga, metode bayangan matahari: pada tanggal rashdul kiblat tahunan di bulan Mei dan Juli, bayangan tongkat vertikal saat waktu tertentu tepat menunjukkan arah kiblat. Untuk kepastian maksimal, Anda bisa meminta petugas KUA setempat melakukan pengukuran arah kiblat dengan alat ukur yang lebih presisi."
+      }
+    ]
+  }
+]
