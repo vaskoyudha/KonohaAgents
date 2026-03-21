@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Simulasi KPR FLPP untuk Pekerja Bergaji 7 Juta",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Halo, gaji saya 7 juta per bulan, saya belum punya rumah, dan ingin beli rumah subsidi di Bekasi sekitar 160-200 juta. Bisa bantu simulasi angsurannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Halo! Saya senang membantu Anda merencanakan KPR rumah pertama. Berdasarkan data yang Anda sampaikan, mari kita hitung kelayakan dan simulasinya.\n\n**Cek Kelayakan FLPP:**\n- Penghasilan Rp7 juta/bulan → di bawah batas FLPP (Rp8 juta untuk single, Rp10 juta untuk pasangan)\n- Belum pernah memiliki rumah ✓\n- Belum pernah menerima subsidi perumahan dari pemerintah ✓\n\n**Simulasi KPR FLPP untuk Rumah Rp185.000.000:**\n- Uang Muka: Rp18.500.000 (10%)\n- Pokok pinjaman: Rp166.500.000\n- Bunga FLPP: 5% tetap sepanjang tenor (PP No. 25/2020 dan Permen PUPR No. 20/2019)\n- Tenor 20 tahun (240 bulan):\n  → Angsuran ≈ **Rp1.098.000/bulan**\n- Tenor 15 tahun:\n  → Angsuran ≈ **Rp1.316.000/bulan**\n\n**Rasio Angsuran vs Penghasilan:**\n- Tenor 20 tahun: 15,7% — sangat aman (batas ideal 30%)\n- Anda punya ruang cicilan tambahan Rp933.000/bulan untuk kebutuhan lain\n\n**Langkah Selanjutnya:**\n1. Cek BI Checking/SLIK OJK Anda di https://idebku.ojk.go.id sebelum mengajukan\n2. Siapkan dokumen: KTP, KK, slip gaji 3 bulan, NPWP, dan akta nikah (jika sudah menikah)\n3. Pilih pengembang yang telah terdaftar di Kemenpera untuk rumah bersubsidi di Bekasi\n4. Ajukan via bank penyalur FLPP (BTN, BNI, BRI, dan bank daerah tertentu)\n\nApakah Anda sudah pernah mengecek SLIK OJK Anda? Ini langkah kritis sebelum pengajuan resmi."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan KPR FLPP vs KPR Komersial",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Apa perbedaan utama antara KPR FLPP dan KPR komersial? Mana yang lebih menguntungkan buat saya sebagai karyawan swasta?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pertanyaan yang sangat penting! Pilihan antara FLPP dan KPR komersial tergantung pada profil dan kebutuhan Anda. Berikut perbandingan lengkapnya:\n\n**Perbandingan FLPP vs KPR Komersial:**\n\n| Aspek | KPR FLPP | KPR Komersial |\n|-------|----------|---------------|\n| Suku Bunga | 5% tetap sepanjang tenor | 7-12% (fixed 1-5 tahun, lalu floating) |\n| Plafon Pinjaman | Maks Rp150-300 juta (tergantung zona) | Tidak dibatasi |\n| Harga Properti | Maks sesuai ketentuan Kemenpera/zona | Bebas |\n| Batas Penghasilan | Rp8 juta (single), Rp10 juta (pasangan) | Tidak ada batas |\n| Kepemilikan Rumah | Harus belum punya rumah | Tidak ada syarat |\n| Tenor | Maks 20 tahun | Maks 30 tahun |\n| Uang Muka | Min 1% (untuk MBR tertentu) | Min 10-30% |\n| Jenis Properti | Rumah tapak baru dari pengembang terdaftar | Bebas (baru/second/apartemen) |\n\n**Contoh Perbandingan Nyata (Pinjaman Rp200 juta, Tenor 20 tahun):**\n- **FLPP 5%:** Angsuran ≈ Rp1.320.000/bulan → Total bayar ≈ Rp316.800.000\n- **Komersial 9%:** Angsuran ≈ Rp1.799.000/bulan → Total bayar ≈ Rp431.760.000\n- **Selisih:** Rp115 juta lebih hemat dengan FLPP!\n\n**Rekomendasi untuk Karyawan Swasta:**\n- Jika penghasilan ≤ Rp8 juta dan belum punya rumah → **pilih FLPP**, penghematan signifikan\n- Jika penghasilan > Rp8 juta atau ingin properti non-subsidi → **KPR komersial**\n- Pastikan cek SLIK OJK terlebih dahulu, karena penolakan akibat kolektibilitas buruk membuang waktu\n\nDasar regulasi: POJK No. 35/2017 tentang Kredit Properti dan PBI No. 20/2018 tentang Rasio LTV.\n\nBerapa penghasilan Anda per bulan? Saya bisa hitung kelayakan FLPP Anda secara spesifik."
+      }
+    ]
+  },
+  {
+    "title": "Cara Cek SLIK OJK Sebelum Mengajukan KPR",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Saya pernah telat bayar kartu kredit 2 tahun lalu. Apakah ini akan mempengaruhi pengajuan KPR saya? Bagaimana cara cek SLIK OJK?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pertanyaan yang sangat tepat dan bijak untuk ditanyakan sebelum mengajukan KPR. Riwayat keterlambatan pembayaran memang berpengaruh, tapi tidak selalu berarti pengajuan Anda akan ditolak.\n\n**Cara Cek SLIK OJK (Sistem Layanan Informasi Keuangan):**\n\n**Online (Paling Mudah):**\n1. Kunjungi https://idebku.ojk.go.id\n2. Daftarkan akun dengan NIK KTP\n3. Isi formulir permohonan informasi debitur\n4. Upload foto selfie + KTP\n5. Tunggu 1 hari kerja → laporan dikirim ke email Anda\n6. **Gratis** — tidak ada biaya resmi\n\n**Offline (Kantor OJK):**\n- Datang langsung ke kantor OJK terdekat dengan KTP asli\n- Formulir tersedia di sana, proses lebih cepat (langsung jadi)\n\n**Memahami Kolektibilitas:**\n| Kolektibilitas | Status | Dampak ke KPR |\n|----------------|--------|---------------|\n| Kol 1 | Lancar | ✅ Aman |\n| Kol 2 | Dalam Perhatian Khusus | ⚠️ Perlu penjelasan |\n| Kol 3 | Kurang Lancar | ❌ Biasanya ditolak |\n| Kol 4 | Diragukan | ❌ Ditolak |\n| Kol 5 | Macet | ❌ Ditolak |\n\n**Tentang Keterlambatan 2 Tahun Lalu:**\n- Data SLIK disimpan selama **5 tahun** setelah fasilitas kredit lunas\n- Jika saat ini sudah lunas dan kembali ke Kol 1 → kemungkinan masih bisa KPR, tergantung bank\n- Jika masih ada tunggakan → selesaikan dulu, minta surat keterangan lunas dari bank penerbit\n- Beberapa bank memiliki kebijakan lebih fleksibel untuk riwayat Kol 2 lama\n\n**Langkah Persiapan:**\n1. Cek SLIK sekarang (gratis)\n2. Jika ada catatan → lunasi semua tunggakan\n3. Tunggu 6-12 bulan setelah kredit bermasalah lunas sebelum mengajukan KPR\n4. Siapkan surat penjelasan dan bukti pelunasan untuk bank\n\nDasar hukum: POJK No. 18/2017 tentang Pelaporan dan Permintaan Informasi Debitur melalui SLIK.\n\nApakah Anda sudah mengecek SLIK Anda? Jika sudah punya hasilnya, saya bisa bantu interpretasi lebih lanjut."
+      }
+    ]
+  }
+]
