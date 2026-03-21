@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengajukan pengaduan pelayanan publik yang lambat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sudah ajukan permohonan IMB ke Dinas PUPR 6 bulan lalu, sudah lengkap semua dokumen tapi tidak ada progres. Harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penundaan berlarut termasuk bentuk maladministrasi yang bisa dilaporkan. Langkah yang saya sarankan: pertama, minta penjelasan tertulis dari Dinas PUPR mengenai status permohonan Anda, catat nama petugas dan tanggal komunikasi. Kedua, ajukan pengaduan melalui LAPOR! (lapor.go.id) dengan menyertakan: nomor register permohonan, tanggal pengajuan, bukti penyerahan berkas, dan kronologi penundaan. Ketiga, jika dalam 60 hari tidak ada tindak lanjut dari LAPOR!, eskalasi ke Ombudsman RI perwakilan provinsi Anda. Ombudsman berwenang melakukan investigasi dan mengeluarkan rekomendasi yang bersifat mengikat kepada instansi terkait."
+      },
+      {
+        "role": "user",
+        "content": "Kalau Ombudsman sudah beri rekomendasi tapi Dinas PUPR tetap tidak bergerak, masih ada jalan lain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika rekomendasi Ombudsman tidak dilaksanakan dalam 14 hari, Ombudsman akan melaporkan ke atasan instansi terlapor (dalam hal ini Bupati/Walikota) dan DPR/DPRD. Selain itu, Anda bisa: mengajukan gugatan ke Pengadilan Tata Usaha Negara (PTUN) atas keputusan fiktif negatif — yaitu sikap diam instansi yang dianggap penolakan. Pasca UU Cipta Kerja, ada mekanisme keputusan fiktif positif di mana permohonan yang tidak ditindaklanjuti dalam batas waktu dianggap disetujui. Konsultasikan ke LBH atau advokat untuk langkah PTUN ini."
+      }
+    ]
+  }
+]

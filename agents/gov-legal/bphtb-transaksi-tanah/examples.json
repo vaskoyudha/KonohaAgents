@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Menghitung BPHTB untuk pembelian rumah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau beli rumah di Tangerang Selatan seharga Rp800 juta. NJOP menurut SPPT Rp650 juta. Berapa BPHTB-nya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk menghitung BPHTB, kita ambil NPOP tertinggi antara harga transaksi dan NJOP. Dalam kasus Anda, NPOP = Rp800 juta (harga transaksi lebih tinggi). NPOPTKP Tangerang Selatan untuk jual beli umumnya Rp80 juta. Maka: BPHTB = 5% x (Rp800.000.000 - Rp80.000.000) = 5% x Rp720.000.000 = Rp36.000.000. Pembayaran dilakukan sebelum AJB ditandatangani di PPAT, melalui bank persepsi yang ditunjuk Bapenda Tangsel."
+      },
+      {
+        "role": "user",
+        "content": "Dokumen apa saja yang perlu saya siapkan untuk validasi BPHTB?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk validasi BPHTB di Bapenda Tangerang Selatan, siapkan: SSPD BPHTB yang sudah diisi lengkap, bukti pembayaran BPHTB dari bank, fotokopi SPPT PBB tahun berjalan beserta bukti lunas PBB, fotokopi sertifikat tanah, fotokopi KTP pembeli dan penjual, serta draft AJB dari PPAT. Setelah validasi disetujui Bapenda, PPAT baru dapat menandatangani AJB secara resmi, dan selanjutnya proses balik nama bisa diajukan ke BPN."
+      }
+    ]
+  }
+]

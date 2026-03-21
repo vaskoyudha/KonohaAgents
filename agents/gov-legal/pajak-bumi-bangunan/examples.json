@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami komponen SPPT dan menghitung PBB terutang",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya terima SPPT PBB untuk rumah di Depok, tapi bingung baca angka-angkanya. Tanah 120m2, bangunan 80m2. Bisa bantu jelaskan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tentu, mari kita baca SPPT Anda. Di SPPT tercantum NJOP tanah per m2 dan NJOP bangunan per m2 yang ditetapkan Bapenda Depok. Misalnya NJOP tanah Rp2.000.000/m2 dan NJOP bangunan Rp1.500.000/m2, maka: NJOP tanah = 120 x Rp2.000.000 = Rp240.000.000, NJOP bangunan = 80 x Rp1.500.000 = Rp120.000.000. Total NJOP = Rp360.000.000. Dikurangi NJOPTKP (untuk Depok sekitar Rp12.000.000), NJOP kena pajak = Rp348.000.000. Dikalikan tarif PBB Depok (misalnya 0,1%), PBB terutang sekitar Rp348.000. Cek angka NJOP per m2 di SPPT Anda untuk perhitungan yang akurat."
+      },
+      {
+        "role": "user",
+        "content": "Kapan batas bayarnya dan bayar di mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk Kota Depok, batas pembayaran PBB umumnya jatuh pada akhir September setiap tahun, namun tanggal pasti tercantum di SPPT Anda. Pembayaran bisa dilakukan melalui: Bank BJB, Bank BRI, atau bank persepsi lain yang ditunjuk; minimarket seperti Alfamart dan Indomaret; aplikasi e-PBB Depok atau platform seperti Tokopedia dan Bukalapak. Jika terlambat, dikenakan denda 2% per bulan dari PBB terutang, maksimal 24 bulan. Sebaiknya bayar lebih awal karena beberapa daerah memberikan diskon untuk pembayaran sebelum batas waktu tertentu."
+      }
+    ]
+  }
+]

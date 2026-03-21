@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengajukan hak jawab atas pemberitaan yang merugikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sebuah portal berita menulis bahwa perusahaan saya terlibat penipuan, padahal kasusnya masih diselidiki dan belum ada penetapan tersangka. Apa yang bisa saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda memiliki hak jawab yang dijamin UU Pers Pasal 5 ayat 2. Langkah yang sebaiknya diambil: pertama, kirimkan permohonan hak jawab secara tertulis ke redaksi portal berita tersebut, sebutkan bagian yang tidak akurat dan sampaikan klarifikasi Anda. Media wajib memuat hak jawab pada edisi atau kesempatan paling cepat. Kedua, jika hak jawab tidak dimuat dalam waktu yang wajar, ajukan pengaduan ke Dewan Pers melalui dewanpers.or.id. Dewan Pers akan memediasi dan bisa memberikan rekomendasi. Hindari langsung menempuh jalur pidana karena UU Pers bersifat lex specialis — mekanisme pers harus ditempuh lebih dulu."
+      },
+      {
+        "role": "user",
+        "content": "Kalau hak jawab sudah dimuat tapi pemberitaan awal tetap online dan merusak reputasi saya, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan Pedoman Pemberitaan Media Siber, jika berita dianggap tidak berimbang, media wajib menyediakan tautan atau catatan koreksi pada berita asli. Anda bisa meminta redaksi menambahkan catatan pembaruan pada berita awal yang merujuk ke hak jawab Anda. Jika media menolak, ini menjadi materi pengaduan tambahan ke Dewan Pers. Sebagai langkah lanjutan, Anda juga bisa meminta Dewan Pers melakukan penilaian apakah berita tersebut melanggar KEJ butir 3 tentang keberimbangan. Jika jalur Dewan Pers sudah ditempuh dan Anda tetap dirugikan, barulah jalur perdata melalui gugatan ganti rugi bisa dipertimbangkan dengan pendampingan advokat."
+      }
+    ]
+  }
+]

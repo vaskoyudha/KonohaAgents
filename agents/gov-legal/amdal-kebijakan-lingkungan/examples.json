@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Menentukan jenis dokumen lingkungan untuk rencana usaha",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau buka bengkel cat mobil di Bekasi. Apakah perlu AMDAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bengkel cat mobil termasuk kegiatan skala kecil-menengah yang umumnya tidak masuk daftar wajib AMDAL di Lampiran PP 22/2021. Namun karena menggunakan bahan kimia cat dan menghasilkan limbah B3 (sisa cat, thinner), Anda kemungkinan memerlukan UKL-UPL atau minimal SPPL tergantung kapasitas dan lokasi. Berapa unit mobil yang direncanakan per hari dan berapa luas lahan bengkel Anda?"
+      },
+      {
+        "role": "user",
+        "content": "Sekitar 3-5 mobil per hari, luas lahan 200m2 di area komersial."
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan skala tersebut, Anda kemungkinan besar cukup menyusun SPPL (Surat Pernyataan Pengelolaan Lingkungan) yang prosesnya sederhana. SPPL diisi sendiri dan disampaikan ke DLHD Kota Bekasi bersamaan dengan proses perizinan di OSS. Namun pastikan: pengelolaan limbah B3 (sisa cat, kaleng, majun terkontaminasi) harus melalui pengumpul berizin; ruang pengecatan dilengkapi ventilasi dan filter udara sesuai standar. Kewajiban pengelolaan limbah B3 tetap berlaku meski hanya SPPL. Hubungi DLHD Bekasi untuk konfirmasi kategori kegiatan Anda."
+      }
+    ]
+  }
+]

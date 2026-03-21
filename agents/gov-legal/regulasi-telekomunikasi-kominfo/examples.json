@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sertifikasi Perangkat WiFi Impor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya importir perangkat jaringan. Mau impor access point WiFi 6 dari Taiwan untuk dijual ke perusahaan di Indonesia. Apa saja yang perlu diurus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Access point WiFi 6 termasuk perangkat telekomunikasi yang **wajib memiliki sertifikat** dari Direktorat Jenderal SDPPI Kementerian Kominfo sebelum dapat dipasarkan di Indonesia. Berikut panduan lengkapnya:\n\n## 1. Sertifikasi Perangkat Telekomunikasi\n\nBerdasarkan **Permen Kominfo Nomor 16 Tahun 2018** tentang Ketentuan Operasional Sertifikasi Alat dan Perangkat Telekomunikasi:\n\n### Dokumen yang Diperlukan\n- Surat permohonan sertifikasi\n- Identitas pemohon (SIUP, NIB, NPWP perusahaan)\n- Spesifikasi teknis perangkat (datasheet, manual)\n- Deklarasi kesesuaian dari pabrikan\n- Laporan hasil uji dari laboratorium terakreditasi (jika sudah ada)\n\n### Prosedur Sertifikasi\n1. **Daftarkan permohonan** melalui sistem e-Sertifikasi SDPPI di situs resmi\n2. **Kirim sampel perangkat** ke Balai Besar Pengujian Perangkat Telekomunikasi (BBPPT) atau laboratorium uji terakreditasi\n3. **Pengujian teknis** meliputi: emisi radio, kompatibilitas elektromagnetik (EMC), keselamatan listrik, dan kesesuaian standar WiFi 6 (802.11ax)\n4. **Evaluasi hasil uji** oleh SDPPI\n5. **Penerbitan sertifikat** — berlaku selama 5 tahun\n\n### Estimasi Waktu dan Biaya\n- Waktu pengujian: 2–4 minggu (tergantung antrean BBPPT)\n- Biaya PNBP sertifikasi sesuai **PP 80/2015** — bervariasi per jenis perangkat\n- Total proses: sekitar 1–2 bulan dari pengajuan hingga sertifikat terbit\n\n## 2. Kewajiban TKDN\n\nPeriksa apakah access point WiFi masuk dalam daftar perangkat dengan kewajiban TKDN minimum berdasarkan **Permen Kominfo Nomor 29 Tahun 2021**. Jika ya, Anda perlu memastikan skor TKDN perangkat memenuhi ambang batas yang ditetapkan, atau bermitra dengan produsen lokal untuk meningkatkan komponen dalam negeri.\n\n## 3. Izin Impor\n\nSelain sertifikasi Kominfo, pastikan Anda memiliki:\n- **API-U (Angka Pengenal Importir Umum)** atau API-P\n- Dokumen kepabeanan standar (invoice, packing list, B/L)\n\nApakah Anda ingin saya bantu mengenai detail pengujian teknis atau perhitungan TKDN?"
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya sudah punya laporan uji dari laboratorium di Taiwan yang terakreditasi, apakah masih harus uji ulang di Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pertanyaan yang bagus. Kebijakan mengenai pengakuan laporan uji luar negeri diatur dalam ketentuan SDPPI:\n\n## Pengakuan Laporan Uji Luar Negeri\n\n### Dapat Diterima Jika:\n1. **Laboratorium terakreditasi** oleh lembaga akreditasi yang diakui dalam kerangka **APLAC MRA** atau **ILAC MRA** — laboratorium di Taiwan yang terakreditasi TAF (Taiwan Accreditation Foundation) umumnya termasuk\n2. **Metode pengujian sesuai** dengan standar teknis yang ditetapkan SDPPI untuk perangkat WiFi di Indonesia\n3. **Parameter uji lengkap** — seluruh parameter yang dipersyaratkan tercakup dalam laporan uji tersebut\n\n### Prosedur dengan Laporan Uji Luar Negeri\n1. Lampirkan laporan uji asli beserta sertifikat akreditasi laboratorium\n2. SDPPI akan **mengevaluasi kecukupan** laporan uji tersebut\n3. Jika dianggap memadai, **tidak perlu uji ulang** — sertifikat dapat langsung diproses\n4. Jika ada parameter yang kurang atau metode uji tidak sesuai, SDPPI dapat meminta **pengujian tambahan** hanya untuk parameter yang belum tercakup\n\n### Tips Praktis\n- Pastikan laporan uji mencakup **pita frekuensi yang diizinkan di Indonesia** — alokasi frekuensi WiFi bisa berbeda antar negara\n- Sertakan **deklarasi kesesuaian** dari pabrikan yang menyatakan perangkat memenuhi standar Indonesia\n- Komunikasikan terlebih dahulu dengan SDPPI sebelum mengajukan permohonan untuk mengonfirmasi bahwa laporan uji Anda akan diterima\n\nDengan laporan uji yang memadai, proses sertifikasi bisa **lebih cepat** karena tahap pengujian di laboratorium Indonesia dapat dilewati atau diminimalkan."
+      }
+    ]
+  }
+]

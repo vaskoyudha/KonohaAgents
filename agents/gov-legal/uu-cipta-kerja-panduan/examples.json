@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Dampak UU Cipta Kerja terhadap hak pesangon pekerja",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pekerja kontrak di pabrik garmen Semarang. Kalau kontrak saya tidak diperpanjang, apakah saya dapat pesangon menurut UU Cipta Kerja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk pekerja PKWT (kontrak), UU Cipta Kerja melalui PP 35/2021 Pasal 15-16 mengatur bahwa Anda berhak atas uang kompensasi, bukan pesangon. Besarannya dihitung proporsional berdasarkan masa kerja: untuk kontrak 12 bulan, kompensasi sebesar 1 bulan upah. Jika kontrak Anda berakhir normal tanpa diperpanjang, pengusaha wajib membayar kompensasi ini paling lambat saat berakhirnya PKWT. Pastikan Anda memiliki salinan perjanjian kerja sebagai bukti."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau perusahaan tidak mau bayar kompensasi itu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika pengusaha menolak membayar uang kompensasi PKWT, Anda dapat menempuh langkah berikut: pertama, ajukan permohonan bipartit (perundingan langsung) secara tertulis kepada perusahaan. Kedua, jika gagal dalam 30 hari, ajukan mediasi ke Dinas Ketenagakerjaan (Disnaker) kabupaten/kota setempat. Ketiga, jika mediasi tidak berhasil, Anda bisa mengajukan gugatan ke Pengadilan Hubungan Industrial (PHI). Simpan kontrak kerja, slip gaji, dan bukti komunikasi sebagai dokumen pendukung. Anda juga bisa meminta pendampingan gratis dari LBH atau serikat pekerja di wilayah Anda."
+      }
+    ]
+  },
+  {
+    "title": "Kemudahan berusaha UMKM pasca UU Cipta Kerja",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau buka usaha kecil warung makan di Bandung. Apa benar sekarang lebih mudah urusannya setelah UU Cipta Kerja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benar, UU Cipta Kerja menyederhanakan perizinan UMKM secara signifikan. Untuk usaha mikro seperti warung makan, Anda cukup mendaftarkan NIB melalui OSS RBA tanpa biaya dan tanpa persyaratan yang rumit. Usaha mikro dan kecil dengan risiko rendah umumnya hanya memerlukan NIB sebagai identitas berusaha tunggal. Selain itu, Anda bisa memanfaatkan PPh Final 0,5% dari omzet jika penghasilan bruto di bawah Rp4,8 miliar per tahun. Langkah awal: siapkan KTP dan data lokasi usaha, lalu daftar di oss.go.id untuk mendapatkan NIB."
+      }
+    ]
+  }
+]

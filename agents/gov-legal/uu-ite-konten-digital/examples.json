@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami risiko hukum posting kritik di media sosial",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau tulis review negatif tentang restoran di Google Maps karena pelayanannya buruk. Bisa kena UU ITE tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Review jujur berdasarkan pengalaman nyata umumnya dilindungi sebagai kebebasan berekspresi. Setelah revisi UU 1/2024, delik pencemaran nama baik memerlukan unsur niat jahat yang jelas dan bukan sekadar keluhan konsumen. Kunci agar aman: tuliskan fakta yang Anda alami, hindari tuduhan tanpa bukti, gunakan bahasa yang proporsional, dan fokus pada pengalaman layanan bukan menyerang pribadi. Review seperti 'pelayanan lambat, makanan dingin, dan tidak sesuai menu' adalah kritik konsumen yang sah. Namun hindari klaim seperti 'restoran ini penipu' tanpa bukti yang cukup."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pemilik restoran mengancam mau laporkan saya, apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jangan panik. Langkah yang perlu dilakukan: pertama, simpan bukti review asli dan bukti pengalaman Anda (struk pembayaran, foto, pesan). Kedua, jangan hapus review karena itu bisa melemahkan posisi Anda jika sudah masuk proses hukum. Ketiga, jika benar-benar dilaporkan, hak Anda untuk mendapat pendampingan hukum dijamin. Konsultasikan ke LBH atau advokat yang memahami hukum digital. Setelah UU 1/2024, pengadilan harus mempertimbangkan kepentingan umum dan kewajaran kritik. Banyak kasus review konsumen yang dihentikan di tahap penyelidikan karena tidak memenuhi unsur pidana."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memilih perlindungan HKI yang tepat untuk produk UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya bikin sambal kemasan dengan resep unik dan label sendiri. HKI apa yang perlu saya daftarkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produk sambal kemasan Anda, ada beberapa lapisan perlindungan HKI: pertama, daftarkan merek dagang (nama dan logo sambal Anda) di DJKI agar tidak bisa ditiru kompetitor, biaya UMKM sekitar Rp500.000. Kedua, desain label kemasan bisa dilindungi hak cipta (otomatis) dan desain industri jika bentuk kemasannya unik. Ketiga, resep rahasia bisa dilindungi sebagai rahasia dagang — tidak perlu didaftarkan, tapi Anda harus menjaga kerahasiaannya secara aktif (NDA dengan karyawan, akses terbatas). Prioritas utama: daftarkan merek terlebih dahulu karena proses memakan waktu 6-12 bulan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara daftar merek secara online?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendaftaran merek online melalui portal DJKI (dgip.go.id): pertama, buat akun di portal. Kedua, pilih menu pendaftaran merek dan isi formulir: nama merek, kelas barang/jasa (untuk sambal kemasan: kelas 30 — bumbu dan saus), dan upload logo dalam format yang diminta. Ketiga, upload KTP dan bukti UMKM jika ingin tarif UMKM. Keempat, bayar biaya resmi melalui SIMPAKI. Kelima, proses pemeriksaan formalitas (1-2 bulan), publikasi (2 bulan untuk oposisi), dan pemeriksaan substantif (hingga 6 bulan). Jika lolos, sertifikat merek diterbitkan dengan masa berlaku 10 tahun yang bisa diperpanjang. Pastikan cek terlebih dahulu di database DJKI bahwa merek yang Anda pilih belum terdaftar."
+      }
+    ]
+  }
+]

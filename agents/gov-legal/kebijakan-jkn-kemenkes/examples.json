@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami prosedur rujukan berjenjang BPJS Kesehatan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya peserta BPJS Kelas 2, mau periksa ke dokter spesialis jantung tapi Puskesmas bilang harus lewat mereka dulu. Kenapa tidak bisa langsung?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sistem JKN menerapkan rujukan berjenjang: Anda harus berobat ke FKTP (Puskesmas/klinik) terlebih dahulu, baru dirujuk ke FKRTL (rumah sakit spesialis) jika diperlukan. Ini diatur Permenkes 28/2014. Namun ada pengecualian: kondisi gawat darurat bisa langsung ke IGD rumah sakit mana pun tanpa rujukan. Untuk kasus Anda, kunjungi Puskesmas, sampaikan keluhan jantung, dan minta rujukan ke dokter spesialis. Jika Puskesmas menilai perlu pemeriksaan lanjut, rujukan diterbitkan dan Anda bisa ke poli jantung rumah sakit yang bekerja sama dengan BPJS."
+      },
+      {
+        "role": "user",
+        "content": "Kalau Puskesmas tidak mau kasih rujukan padahal saya merasa butuh spesialis, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika Anda merasa keputusan FKTP tidak tepat, ada beberapa langkah: pertama, minta penjelasan tertulis alasan tidak dirujuk. Kedua, hubungi BPJS Care Center 165 untuk mediasi. Ketiga, ajukan keluhan melalui aplikasi Mobile JKN di menu pengaduan. Keempat, kunjungi kantor cabang BPJS terdekat dengan membawa rekam medis. Anda juga bisa meminta second opinion di FKTP lain yang terdaftar. Ingat, keputusan medis ada di tangan dokter, tapi hak Anda untuk mendapat penjelasan dan pengaduan dijamin regulasi."
+      }
+    ]
+  }
+]

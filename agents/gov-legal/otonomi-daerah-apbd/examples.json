@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami struktur APBD dan hak warga mengawasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya warga Kabupaten Bogor. Jalan desa kami rusak parah tapi tidak pernah diperbaiki. Bagaimana caranya tahu apakah anggaran perbaikan jalan sudah dialokasikan di APBD?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda berhak mengetahui alokasi anggaran tersebut. Langkah yang bisa dilakukan: pertama, akses dokumen APBD Kabupaten Bogor melalui website resmi Pemkab atau ajukan permohonan informasi ke PPID. Kedua, cek apakah ada alokasi belanja modal untuk infrastruktur jalan di kecamatan Anda. Ketiga, pantau apakah desa Anda sudah mengajukan usulan perbaikan jalan melalui Musrenbang desa. Keempat, jika sudah dialokasikan tapi tidak terealisasi, laporkan ke inspektorat daerah atau melalui LAPOR!. Perbaikan jalan desa juga bisa dibiayai dari Dana Desa (DD) atau Alokasi Dana Desa (ADD), tergantung status jalannya."
+      },
+      {
+        "role": "user",
+        "content": "Apa bedanya Dana Desa dan ADD? Siapa yang mengelolanya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dana Desa (DD) berasal dari APBN yang ditransfer melalui APBD kabupaten/kota ke rekening desa, besarannya ditetapkan berdasarkan formula alokasi dasar, afirmasi, dan kinerja. ADD (Alokasi Dana Desa) berasal dari APBD kabupaten/kota, minimal 10% dari DAU dan DBH yang diterima kabupaten. Keduanya dikelola pemerintah desa melalui APBDesa yang disusun melalui Musyawarah Desa. Anda berhak menghadiri Musyawarah Desa untuk mengusulkan prioritas penggunaan dana, termasuk perbaikan jalan. Transparansi penggunaan dipantau oleh BPD (Badan Permusyawaratan Desa) dan harus dipublikasikan di papan informasi desa."
+      }
+    ]
+  }
+]

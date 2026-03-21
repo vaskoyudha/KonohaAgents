@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Melaporkan dugaan kekerasan terhadap anak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya guru SD. Ada murid yang sering datang dengan luka-luka dan ketakutan. Saya curiga ada kekerasan di rumah. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebagai guru, Anda memiliki kewajiban hukum untuk melaporkan dugaan kekerasan terhadap anak berdasarkan UU 35/2014. Langkah yang harus segera dilakukan: pertama, dokumentasikan pengamatan Anda secara tertulis (tanggal, jenis luka, perilaku anak) tanpa menginterogasi anak. Kedua, laporkan ke kepala sekolah dan konselor jika ada. Ketiga, hubungi TePSA 129 atau KPAI 021-31901556 untuk pelaporan resmi. Anda juga bisa melapor ke Dinsos atau P2TP2A kabupaten/kota. Identitas pelapor dilindungi dan dirahasiakan. Jangan mengonfrontasi orang tua secara langsung karena bisa membahayakan anak."
+      },
+      {
+        "role": "user",
+        "content": "Apakah saya bisa kena masalah hukum kalau ternyata dugaan saya salah?"
+      },
+      {
+        "role": "assistant",
+        "content": "UU Perlindungan Anak melindungi pelapor yang beritikad baik. Selama laporan Anda didasarkan pada pengamatan yang wajar dan bukan fitnah, Anda dilindungi hukum. Justru sebaliknya, jika Anda mengetahui adanya kekerasan namun tidak melapor, Anda bisa diminta pertanggungjawaban. Yang penting: laporkan fakta yang Anda amati, bukan kesimpulan. Serahkan penyelidikan kepada pihak berwenang. Tindakan Anda bisa menyelamatkan nyawa anak."
+      }
+    ]
+  }
+]

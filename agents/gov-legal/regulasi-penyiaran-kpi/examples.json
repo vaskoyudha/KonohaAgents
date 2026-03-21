@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Melaporkan konten siaran yang tidak pantas untuk anak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sinetron yang tayang jam 7 malam menampilkan adegan bullying yang sangat eksplisit. Anak saya menonton dan menirunya. Bisa dilaporkan ke KPI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tentu, konten kekerasan termasuk bullying yang ditayangkan pada jam tayang anak (05.00-21.00 WIB) berpotensi melanggar P3SPS. Langkah pelaporan: kunjungi kpi.go.id dan isi formulir pengaduan online, atau kirim email ke pengaduan@kpi.go.id. Informasi yang perlu Anda sertakan: nama sinetron, stasiun TV, tanggal dan jam tayang yang spesifik, dan deskripsi adegan yang Anda anggap bermasalah. Jika punya rekaman atau screenshot, lampirkan. KPI akan memproses aduan dan bisa mengeluarkan teguran tertulis, meminta stasiun mengedit atau memindahkan jam tayang, hingga menghentikan sementara program."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama biasanya KPI merespons pengaduan?"
+      },
+      {
+        "role": "assistant",
+        "content": "KPI memproses pengaduan melalui tahapan: pertama, verifikasi laporan dan bukti oleh tim pemantauan. Kedua, jika ditemukan indikasi pelanggaran, dilakukan rapat pleno KPI yang biasanya berlangsung rutin setiap minggu. Ketiga, keputusan dikeluarkan dan diberitahukan kepada lembaga penyiaran. Secara umum, proses memakan waktu 2-4 minggu tergantung kompleksitas kasus. Untuk aduan yang bersifat darurat atau viral, KPI biasanya merespons lebih cepat. Anda bisa melacak perkembangan melalui website KPI atau menghubungi sekretariat. Semakin banyak masyarakat yang melaporkan program yang sama, semakin kuat perhatian KPI terhadap kasus tersebut."
+      }
+    ]
+  }
+]

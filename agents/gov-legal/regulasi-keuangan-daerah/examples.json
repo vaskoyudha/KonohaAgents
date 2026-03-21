@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami sumber pendanaan dan pengawasan keuangan desa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sekretaris desa baru. Bisa jelaskan perbedaan Dana Desa dan ADD? Masing-masing untuk apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dana Desa (DD) berasal dari APBN dan ditransfer melalui RKUD kabupaten ke RKD (Rekening Kas Desa). Penggunaannya diprioritaskan untuk pembangunan desa dan pemberdayaan masyarakat sesuai Permendes yang diterbitkan setiap tahun. ADD (Alokasi Dana Desa) berasal dari APBD kabupaten/kota, minimal 10% dari DAU dan DBH yang diterima kabupaten. ADD utamanya untuk operasional pemerintah desa, tunjangan perangkat desa, dan penyelenggaraan pemerintahan. Selain keduanya, desa juga menerima bagi hasil pajak/retribusi daerah dan bisa menghasilkan PADes (Pendapatan Asli Desa) dari BUMDes dan aset desa. Semua harus tercatat dalam APBDesa yang disusun melalui Musyawarah Desa."
+      },
+      {
+        "role": "user",
+        "content": "Laporan keuangan desa yang wajib itu apa saja dan kapan batas waktunya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan Permendagri 20/2018, kewajiban pelaporan keuangan desa meliputi: pertama, Laporan Realisasi APBDesa semester pertama (paling lambat Juli tahun berjalan) yang disampaikan ke Bupati melalui camat. Kedua, Laporan Realisasi APBDesa semester akhir (paling lambat Januari tahun berikutnya). Ketiga, Laporan Pertanggungjawaban Realisasi Pelaksanaan APBDesa (paling lambat 3 bulan setelah akhir tahun anggaran) yang disampaikan kepada Bupati dan diinformasikan ke masyarakat. Gunakan aplikasi Siskeudes untuk pencatatan yang terstandar. Pastikan juga papan informasi desa diperbarui dengan laporan realisasi agar masyarakat bisa mengawasi. BPD berhak meminta penjelasan atas laporan pertanggungjawaban ini."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengurus Sertifikat Tanah Warisan dari Girik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ayah saya meninggal dan mewariskan sebidang tanah di Bogor. Bukti kepemilikannya cuma girik dan PBB atas nama kakek. Bagaimana cara mengurus sertifikatnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Terima kasih atas pertanyaan Anda. Kasus ini melibatkan dua proses sekaligus: **peralihan hak waris** dan **pendaftaran tanah pertama kali** dari girik menjadi Sertifikat Hak Milik (SHM). Berikut panduan lengkapnya:\n\n## Tahap 1: Persiapan Dokumen Waris\n\n1. **Surat Keterangan Waris** — dibuat oleh ahli waris dan diketahui oleh Lurah/Kepala Desa serta Camat\n2. **Akta Kematian** pewaris dari Disdukcapil\n3. **KTP dan KK** seluruh ahli waris\n4. **Surat Pernyataan Ahli Waris** yang disaksikan dua orang saksi dan diketahui Lurah\n\n## Tahap 2: Pendaftaran Tanah Pertama Kali\n\nBerdasarkan **PP 24/1997 jo. PP 18/2021**, prosedur pendaftaran tanah dari girik:\n\n1. **Ajukan permohonan** ke Kantor Pertanahan Kabupaten Bogor dengan membawa:\n   - Girik asli atau fotokopi yang dilegalisir kelurahan\n   - Surat keterangan tidak sengketa dari kelurahan\n   - Bukti pembayaran PBB tahun berjalan\n   - Seluruh dokumen waris di atas\n2. **Pengukuran bidang tanah** oleh petugas ukur BPN — biaya PNBP pengukuran dihitung berdasarkan luas tanah\n3. **Pemeriksaan data yuridis** oleh Panitia A — memverifikasi riwayat tanah dan keabsahan bukti kepemilikan\n4. **Pengumuman selama 60 hari kerja** — jika tidak ada keberatan dari pihak lain\n5. **Penerbitan SHM** atas nama ahli waris\n\n## Estimasi Biaya\n\n- PNBP pengukuran dan pendaftaran sesuai **PP 128/2015** (bergantung luas tanah)\n- Biaya BPHTB waris biasanya mendapat pengurangan 50% dari tarif normal (cek Perda Kabupaten Bogor)\n- PBB harus lunas sampai tahun berjalan\n\n## Alternatif: Program PTSL\n\nJika desa lokasi tanah Anda termasuk dalam program **PTSL (Pendaftaran Tanah Sistematis Lengkap)** berdasarkan Permen ATR/BPN 6/2018, biaya pendaftaran bisa sangat ringan atau gratis. Cek ke kantor kelurahan atau BPN Bogor apakah desa Anda termasuk kuota PTSL tahun ini.\n\nApakah Anda ingin saya jelaskan lebih detail mengenai perhitungan BPHTB waris atau prosedur PTSL?"
+      },
+      {
+        "role": "user",
+        "content": "Ada 3 ahli waris termasuk saya. Bisakah sertifikat langsung atas nama saya saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, tetapi ada syarat yang harus dipenuhi terlebih dahulu. Berikut penjelasannya:\n\n## Prinsip Hukum Waris atas Tanah\n\nBerdasarkan hukum waris Indonesia, seluruh ahli waris memiliki hak yang sama atas harta warisan. Sertifikat **tidak dapat langsung diterbitkan atas nama satu ahli waris** tanpa persetujuan ahli waris lainnya.\n\n## Opsi yang Tersedia\n\n### Opsi 1: Sertifikat Atas Nama Bersama\nSHM diterbitkan atas nama ketiga ahli waris. Ini cara paling cepat dan tidak memerlukan akta tambahan.\n\n### Opsi 2: Pembagian Waris + Pelepasan Hak (Rekomendasi jika ingin atas nama Anda)\n1. Buat **Akta Pembagian Hak Bersama (APHB)** di hadapan PPAT yang mencakup:\n   - Persetujuan seluruh ahli waris bahwa tanah diserahkan kepada Anda\n   - Kompensasi kepada ahli waris lain (jika ada kesepakatan)\n2. Dua ahli waris lainnya menandatangani **Surat Pelepasan Hak** atas bagian mereka\n3. APHB ini menjadi dasar penerbitan SHM atas nama Anda seorang\n\n### Opsi 3: Pemecahan Bidang\nJika tanah cukup luas, bisa dipecah menjadi tiga bidang dan masing-masing ahli waris mendapat SHM sendiri.\n\n## Dokumen Tambahan untuk Opsi 2\n\n- KTP dan KK seluruh ahli waris\n- Surat Keterangan Waris\n- APHB yang dibuat oleh PPAT\n- Bukti pembayaran BPHTB (jika ada nilai peralihan)\n\n## Penting untuk Diperhatikan\n\nPastikan proses ini dilakukan secara transparan dengan seluruh ahli waris untuk menghindari sengketa di kemudian hari. Semua tanda tangan harus dilakukan di hadapan PPAT sebagai pejabat yang berwenang berdasarkan **PP 24/1997 Pasal 37**.\n\nApakah ada hal lain yang ingin Anda tanyakan mengenai proses ini?"
+      }
+    ]
+  }
+]

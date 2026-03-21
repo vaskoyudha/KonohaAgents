@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami hak rehabilitasi untuk pengguna narkotika",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Adik saya tertangkap memiliki shabu 0,5 gram untuk pemakaian sendiri. Apakah bisa direhab bukan dipenjara?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan kepemilikan 0,5 gram shabu, adik Anda masuk dalam kategori yang dapat dipertimbangkan untuk rehabilitasi berdasarkan SEMA 4/2010 (batas shabu untuk asesmen adalah 1 gram). Langkah yang perlu dilakukan: pertama, minta penyidik untuk merujuk ke Tim Asesmen Terpadu (TAT) BNN kabupaten/kota. TAT akan menilai apakah adik Anda berstatus pengguna atau pengedar. Kedua, jika TAT merekomendasikan rehabilitasi, rekomendasi ini menjadi pertimbangan hakim. Ketiga, pastikan adik Anda didampingi advokat yang memahami hukum narkotika untuk memperjuangkan putusan rehabilitasi alih-alih pidana penjara. Pasal 54 UU 35/2009 mewajibkan rehabilitasi bagi pecandu dan korban penyalahgunaan."
+      },
+      {
+        "role": "user",
+        "content": "Rehabilitasinya seperti apa dan berapa lama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Program rehabilitasi terdiri dari dua tahap: rehabilitasi medis dan rehabilitasi sosial. Rehabilitasi medis (detoksifikasi dan pemulihan fisik) berlangsung 1-6 bulan di fasilitas kesehatan atau Loka Rehabilitasi BNN. Rehabilitasi sosial (pemulihan psikososial dan reintegrasi) berlangsung 1-6 bulan tambahan. Total durasi tergantung hasil asesmen dan perkembangan pasien. Fasilitas yang bisa dituju: Loka Rehabilitasi BNN (gratis), RS Ketergantungan Obat, atau lembaga rehabilitasi terakreditasi Kemenkes. Selama menjalani rehabilitasi berdasarkan putusan pengadilan, masa rehabilitasi dihitung sebagai masa menjalani hukuman."
+      }
+    ]
+  }
+]

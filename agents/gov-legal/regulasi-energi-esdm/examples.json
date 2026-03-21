@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami golongan tarif listrik dan hak konsumen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Daya listrik rumah saya 1300 VA. Apakah saya masih dapat subsidi listrik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Golongan tarif R1 1300 VA saat ini termasuk kelompok yang tarifnya disesuaikan secara berkala (non-subsidi). Subsidi listrik saat ini difokuskan pada pelanggan R1 450 VA dan sebagian R1 900 VA yang masuk DTKS (Data Terpadu Kesejahteraan Sosial). Untuk 1300 VA, tarif per kWh mengikuti penyesuaian triwulanan berdasarkan Permen ESDM. Anda bisa mengecek golongan tarif dan tarif per kWh terkini di aplikasi PLN Mobile atau hubungi 123. Jika merasa keberatan dengan tagihan, Anda berhak meminta rincian pemakaian dan melakukan audit meter."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya mau turun daya dari 1300 ke 900 VA, prosesnya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk penurunan daya, ajukan permohonan ke PLN melalui: aplikasi PLN Mobile (menu Perubahan Daya), website pln.co.id, atau kantor rayon PLN terdekat. Syarat: KTP pemilik rekening listrik, ID pelanggan (nomor meter), dan tidak ada tunggakan. Biaya penurunan daya umumnya gratis atau dengan biaya administrasi minimal. PLN akan mensurvei kelayakan instalasi sebelum persetujuan. Pertimbangkan bahwa dengan 900 VA, total daya peralatan yang menyala bersamaan tidak boleh melebihi kapasitas. Proses penyelesaian biasanya 5-7 hari kerja."
+      }
+    ]
+  }
+]

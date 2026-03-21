@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengajukan permohonan informasi APBD ke pemerintah daerah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya aktivis lingkungan di Kalimantan. Mau tahu berapa anggaran Dinas Lingkungan Hidup kabupaten untuk penanganan kebakaran lahan. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anggaran dinas daerah termasuk informasi publik yang wajib tersedia. Langkah mengaksesnya: pertama, cek website resmi Pemkab atau PPID kabupaten, karena dokumen APBD seharusnya sudah dipublikasikan secara berkala. Jika tidak ditemukan, ajukan permohonan tertulis ke PPID Pemkab dengan format: identitas pemohon (nama, alamat, nomor kontak), informasi yang diminta (rincian anggaran DLH untuk program penanganan kebakaran lahan TA tertentu), dan format yang diinginkan (softcopy/hardcopy). Anda tidak perlu menyebutkan alasan permohonan — ini dijamin Pasal 4 UU KIP. PPID wajib merespons dalam 10 hari kerja."
+      },
+      {
+        "role": "user",
+        "content": "Kalau PPID bilang informasinya dikecualikan, apa yang bisa saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anggaran dinas bukan kategori informasi dikecualikan menurut UU KIP, kecuali jika menyangkut operasi intelijen atau pertahanan negara. Jika PPID menolak dengan alasan dikecualikan, langkah Anda: pertama, minta alasan tertulis penolakan beserta dasar hukumnya. Kedua, ajukan keberatan ke atasan PPID dalam 30 hari kerja. Ketiga, jika tetap ditolak, ajukan sengketa ke Komisi Informasi Provinsi dalam 14 hari kerja. Komisi Informasi akan memediasi dan bisa memerintahkan badan publik membuka informasi. Keputusan Komisi Informasi mengikat dan bisa dieksekusi. Banyak preseden di mana Komisi Informasi memenangkan pemohon untuk akses data anggaran."
+      }
+    ]
+  }
+]

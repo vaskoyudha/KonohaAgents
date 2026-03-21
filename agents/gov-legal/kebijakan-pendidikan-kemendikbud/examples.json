@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memahami implementasi Kurikulum Merdeka di sekolah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kepala sekolah SMP di Lombok. Tahun ajaran depan harus pakai Kurikulum Merdeka sepenuhnya. Langkah awal apa yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awal implementasi Kurikulum Merdeka di SMP Anda: pertama, pastikan seluruh guru terdaftar di Platform Merdeka Mengajar (PMM) dan menyelesaikan pelatihan mandiri terkait Kurikulum Merdeka. Kedua, bentuk tim pengembang kurikulum sekolah yang menyusun Kurikulum Operasional Satuan Pendidikan (KOSP) sesuai konteks lokal. Ketiga, lakukan asesmen diagnostik awal untuk memetakan kemampuan peserta didik. Keempat, siapkan modul ajar atau adopsi dari PMM yang disesuaikan dengan kebutuhan sekolah. Kelima, sosialisasikan perubahan kepada orang tua terkait model pembelajaran dan penilaian baru. Gunakan pendekatan Mandiri Berubah jika sekolah sudah menerapkan sebagian elemen Kurikulum Merdeka sebelumnya."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana dengan sistem penilaiannya? Masih ada ujian semester seperti biasa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dalam Kurikulum Merdeka, penilaian mengalami pergeseran signifikan. Tidak ada lagi Ujian Nasional; diganti dengan Asesmen Nasional (AN) yang terdiri dari AKM (Asesmen Kompetensi Minimum), Survei Karakter, dan Survei Lingkungan Belajar. Untuk penilaian di tingkat sekolah, guru memiliki fleksibilitas: bisa menggunakan asesmen formatif (penilaian harian untuk perbaikan pembelajaran) dan asesmen sumatif (penilaian akhir untuk mengukur capaian). Ujian semester tetap bisa dilakukan namun formatnya diserahkan ke satuan pendidikan. Rapor menggunakan format deskriptif berbasis Capaian Pembelajaran (CP), bukan sekadar angka. Pastikan guru memahami perbedaan CP dengan KI-KD di kurikulum sebelumnya."
+      }
+    ]
+  }
+]

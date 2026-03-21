@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sertifikasi SNI Wajib untuk Produk Elektronik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau impor charger handphone dari China untuk dijual online di Indonesia. Apakah perlu SNI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Charger handphone (adaptor daya) termasuk produk elektronik yang **wajib memenuhi SNI**. Berikut penjelasan lengkapnya:\n\n## Status SNI Wajib\n\nAdaptor daya/charger termasuk dalam pemberlakuan SNI wajib berdasarkan **Permenperin Nomor 84 Tahun 2019** tentang SNI Wajib untuk Produk Elektronika. SNI yang relevan adalah **SNI IEC 60950-1:2014** (keselamatan peralatan teknologi informasi) atau standar pengganti yang berlaku.\n\n## Konsekuensi Tanpa SPPT SNI\n\nProduk impor tanpa SPPT SNI **tidak boleh beredar** di Indonesia. Pelanggaran dapat mengakibatkan:\n- Penolakan di pelabuhan oleh Bea Cukai\n- Penarikan produk dari pasar oleh kementerian terkait\n- Sanksi administratif hingga pidana sesuai UU 20/2014\n\n## Langkah yang Perlu Anda Lakukan\n\n1. **Pilih LSPro terakreditasi KAN** untuk lingkup produk elektronik\n2. **Ajukan permohonan sertifikasi** dengan dokumen: invoice, packing list, spesifikasi teknis produk, dan laporan uji dari pabrik\n3. **Kirim sampel** untuk pengujian di laboratorium terakreditasi KAN di Indonesia\n4. **Audit pabrik** — LSPro dapat melakukan audit ke pabrik di China atau menerima laporan audit dari lembaga terakreditasi di negara asal\n5. **Terbitkan SPPT SNI** — setelah semua persyaratan terpenuhi, SPPT SNI berlaku tiga tahun dengan surveilans berkala\n\nApakah Anda ingin saya bantu mencari LSPro terakreditasi untuk produk elektronik di wilayah Anda?"
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama biasanya proses sertifikasi dari awal sampai SPPT SNI terbit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Durasi proses sertifikasi SNI untuk produk impor bervariasi, namun berikut estimasi umum:\n\n## Estimasi Waktu per Tahapan\n\n| Tahapan | Durasi Estimasi |\n|---|---|\n| Persiapan dokumen dan pengajuan ke LSPro | 1–2 minggu |\n| Review kelengkapan berkas oleh LSPro | 1–2 minggu |\n| Pengiriman dan pengujian sampel di lab | 3–6 minggu |\n| Audit pabrik (jika diperlukan kunjungan ke China) | 2–4 minggu |\n| Evaluasi hasil dan penerbitan SPPT SNI | 1–2 minggu |\n| **Total estimasi** | **2–4 bulan** |\n\n## Faktor yang Memengaruhi Durasi\n\n- **Kelengkapan dokumen awal** — dokumen tidak lengkap menyebabkan revisi berulang\n- **Ketersediaan jadwal laboratorium** — laboratorium terakreditasi kadang memiliki antrean panjang\n- **Kompleksitas pengujian** — parameter uji keselamatan listrik memerlukan beberapa siklus pengujian\n- **Lokasi audit pabrik** — audit ke China memerlukan koordinasi jadwal dan biaya perjalanan tambahan\n\n## Tips Mempercepat Proses\n\n1. Siapkan **laporan uji dari laboratorium terakreditasi di negara asal** (misalnya CB Test Report dari skema IECEE CB) karena dapat diakui sebagai data pendukung\n2. Pastikan **spesifikasi teknis produk lengkap** sebelum mengajukan permohonan\n3. Pilih LSPro yang memiliki **pengalaman dengan produk sejenis** agar proses review lebih efisien\n\nPerlu saya jelaskan lebih detail mengenai estimasi biaya sertifikasi?"
+      }
+    ]
+  }
+]

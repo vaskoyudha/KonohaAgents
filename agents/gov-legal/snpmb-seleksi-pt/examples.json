@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi memilih jalur seleksi masuk PTN",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya siswa kelas 12 SMA di Jakarta. Nilai rapor cukup bagus rata-rata 85, tapi saya juga mau ikut UTBK. Sebaiknya fokus di mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan rata-rata rapor 85, Anda punya peluang di jalur SNBP asalkan sekolah Anda memiliki kuota dan track record alumni yang diterima di PTN tujuan. Rekomendasi saya: ikuti keduanya. SNBP diumumkan lebih dulu, jadi daftarkan diri melalui sekolah saat pembukaan. Sambil menunggu hasil, persiapkan UTBK untuk SNBT. Jika diterima SNBP, Anda otomatis tidak bisa ikut SNBT. Jika belum diterima, Anda masih punya kesempatan di SNBT dan seleksi mandiri. Kunci: pilih program studi di SNBP yang realistis sesuai rapor Anda, dan di SNBT Anda bisa menembak lebih tinggi."
+      },
+      {
+        "role": "user",
+        "content": "Berapa pilihan prodi yang bisa saya ambil di SNBP dan SNBT?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di SNBP, Anda bisa memilih maksimal 2 program studi dari 2 PTN berbeda. Pilihan pertama menjadi prioritas utama. Di SNBT, Anda bisa memilih maksimal 4 program studi dari berbagai PTN. Strateginya: urutkan dari yang paling diminati ke pilihan cadangan. Untuk SNBP, pilih prodi dengan passing grade yang sesuai dengan profil rapor Anda. Untuk SNBT, kombinasikan pilihan ambisius dan realistis. Pastikan cek kuota daya tampung masing-masing prodi di website SNPMB resmi (snpmb.bppp.kemdikbud.go.id) untuk perhitungan peluang."
+      }
+    ]
+  }
+]

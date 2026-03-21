@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memastikan hak pilih di lokasi domisili baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mahasiswa dari Medan, sekarang kuliah di Yogyakarta. Pemilu sebentar lagi, bagaimana cara saya bisa nyoblos di Yogya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda bisa menggunakan mekanisme pindah memilih. Langkahnya: datangi PPS (Panitia Pemungutan Suara) di kelurahan tempat Anda tinggal di Yogyakarta paling lambat 30 hari sebelum hari pemungutan suara. Bawa KTP-el dan surat keterangan domisili atau keterangan dari kampus. Isi formulir pindah memilih (Model A5-KPU). PPS akan mencatat Anda dalam DPTb (Daftar Pemilih Tambahan) di TPS terdekat. Jika sudah melewati batas waktu pendaftaran, pada hari H bawa KTP-el ke TPS terdekat dan Anda bisa masuk DPK (Daftar Pemilih Khusus)."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pakai DPK, apakah saya bisa memilih semua surat suara atau terbatas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika menggunakan DPK di luar daerah pemilihan asal, Anda bisa memilih Presiden-Wapres dan DPD RI (untuk provinsi tempat Anda terdaftar di KTP). Namun untuk DPR RI dan DPRD, surat suara yang tersedia menyesuaikan daerah pemilihan TPS tersebut, bukan daerah asal Anda. Oleh karena itu, lebih ideal mengurus pindah memilih jauh hari agar tercatat di DPTb dan mendapat semua surat suara sesuai daerah pemilihan tujuan. Pastikan cek data Anda di sidalih.kpu.go.id untuk verifikasi status DPT."
+      }
+    ]
+  }
+]

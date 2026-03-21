@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Hak kerja penyandang disabilitas dan kuota perusahaan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pengguna kursi roda dan lulusan S1. Sudah melamar ke banyak perusahaan tapi selalu ditolak. Apakah ada regulasi yang melindungi saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "UU No. 8/2016 Pasal 53 mewajibkan perusahaan swasta mempekerjakan paling sedikit 1% penyandang disabilitas dari total karyawan. Penolakan semata karena disabilitas merupakan diskriminasi yang dilarang Pasal 145. Hak Anda meliputi: akomodasi yang layak di tempat kerja, upah yang setara untuk pekerjaan yang sama, dan perlindungan dari diskriminasi dalam rekrutmen. Langkah yang bisa diambil: pertama, dokumentasikan penolakan yang Anda alami. Kedua, laporkan ke Disnaker kabupaten/kota. Ketiga, hubungi Komnas Disabilitas atau organisasi advokasi seperti PPDI. Anda juga bisa mengeksplorasi lowongan yang terbuka bagi disabilitas di portal kerjabilitas.com."
+      },
+      {
+        "role": "user",
+        "content": "Apa yang dimaksud akomodasi yang layak di tempat kerja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Akomodasi yang layak adalah penyesuaian yang dilakukan pemberi kerja agar penyandang disabilitas dapat melaksanakan tugas secara produktif, tanpa beban biaya yang tidak proporsional bagi perusahaan. Contohnya untuk pengguna kursi roda: jalur landai dan lift aksesibel, meja kerja dengan ketinggian yang sesuai, toilet aksesibel, dan fleksibilitas pengaturan ruang kerja. Untuk disabilitas netra: software pembaca layar dan dokumen dalam format aksesibel. Untuk disabilitas rungu: interpreter isyarat dalam rapat penting. Pemberi kerja wajib menyediakan akomodasi ini berdasarkan UU 8/2016 Pasal 50, dan penolakan tanpa alasan yang sah merupakan pelanggaran."
+      }
+    ]
+  }
+]
