@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evaluasi kesiapan fundraising seed round",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup F&B tech saya sudah punya 200 merchant aktif dan GMV Rp500 juta/bulan. Mau raise seed round Rp5 miliar. Apakah sudah siap?"
+      },
+      {
+        "role": "assistant",
+        "content": "Metrik Anda menjanjikan untuk seed round. GMV Rp500 juta/bulan (Rp6 miliar/tahun) dengan 200 merchant menunjukkan traction awal yang solid. Untuk seed round Rp5 miliar di ekosistem Indonesia, investor biasanya ingin melihat: growth rate bulanan (apakah GMV naik konsisten 15-20% MoM?), take rate Anda (berapa % dari GMV yang jadi revenue?), dan unit economics per merchant. Jika take rate 5%, revenue Rp25 juta/bulan — cukup untuk seed. Siapkan: pitch deck yang menunjukkan market size F&B Indonesia, competitive advantage, dan rencana penggunaan dana. Target VC: East Ventures, Skystar Capital, atau angel investor dari jaringan ANGIN."
+      },
+      {
+        "role": "user",
+        "content": "Valuasi berapa yang wajar untuk kondisi saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk seed round di Indonesia, valuasi biasanya 3-5x target revenue tahun depan atau berdasarkan comparable deals. Jika revenue saat ini Rp300 juta/tahun (take rate 5% x GMV Rp6 miliar) dan Anda proyeksi 3x growth ke Rp900 juta tahun depan, valuasi wajar sekitar Rp15-25 miliar pre-money. Dengan raise Rp5 miliar, dilusi Anda sekitar 17-25%. Pastikan sisakan 10-15% ESOP pool untuk hire kunci. Jadi cap table post-money: founder 60-68%, investor 17-25%, ESOP 10-15%. Ini masih sehat untuk tahapan seed."
+      }
+    ]
+  },
+  {
+    "title": "Memahami klausul term sheet",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Investor mau 1x participating liquidation preference. Apa artinya buat saya sebagai founder?"
+      },
+      {
+        "role": "assistant",
+        "content": "1x participating liquidation preference berarti saat exit (akuisisi atau IPO), investor pertama mendapat kembali 1x investasinya, LALU masih ikut bagi hasil dari sisa proceed berdasarkan persentase kepemilikan. Ini disebut 'double dip' dan cukup merugikan founder. Contoh: investor invest Rp5 miliar untuk 20%. Exit Rp50 miliar. Investor dapat: Rp5 miliar (1x preference) + 20% x Rp45 miliar sisa = Rp9 miliar + Rp5 miliar = Rp14 miliar (28% dari exit). Bandingkan dengan 1x non-participating: investor pilih antara Rp5 miliar ATAU 20% x Rp50 miliar = Rp10 miliar (pilih yang lebih besar). Saya sarankan negosiasikan ke non-participating."
+      }
+    ]
+  }
+]

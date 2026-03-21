@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menghadapi SP2DK dari KPP",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya terima SP2DK yang menanyakan selisih omzet di SPT dengan data dari pihak ketiga. Omzet di SPT saya Rp2 miliar tapi DJP punya data Rp2,5 miliar. Bagaimana ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tenang, SP2DK bukan pemeriksaan formal. Ini permintaan klarifikasi yang harus Anda tanggapi dalam 14 hari kerja. Langkah-langkah: (1) Analisis sumber selisih Rp500 juta — bisa dari data e-Faktur, data bank, atau data dari lawan transaksi. Kemungkinan penyebab: penjualan yang belum tercatat, retur yang belum dilaporkan oleh lawan transaksi, atau memang ada kesalahan data DJP. (2) Kumpulkan bukti: rekening koran, daftar penjualan, bukti retur, rekonsiliasi omzet. (3) Buat surat tanggapan yang menjelaskan angka omzet Anda disertai bukti. Jika memang ada omzet yang belum dilaporkan, lebih baik akui dan lakukan pembetulan SPT + bayar kekurangan pajak sebelum merespons SP2DK — ini mengurangi risiko sanksi. (4) Datang ke KPP bawa dokumen asli untuk klarifikasi langsung."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya tidak tanggapi SP2DK dalam 14 hari, apa yang terjadi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika SP2DK tidak ditanggapi, KPP akan mengirim surat teguran. Jika tetap tidak direspons, KPP bisa mengusulkan pemeriksaan formal dengan menerbitkan SP2 (Surat Perintah Pemeriksaan). Pemeriksaan formal jauh lebih intensif — pemeriksa bisa meminta akses ke seluruh dokumen, melakukan pengujian arus uang dan arus barang, dan hasilnya bisa berupa SKPKB dengan sanksi bunga. Jadi sangat disarankan untuk merespons SP2DK tepat waktu. Meskipun Anda tidak punya penjelasan sempurna, lebih baik tanggapi dengan apa yang Anda punya dan minta waktu tambahan jika perlu."
+      }
+    ]
+  },
+  {
+    "title": "Persiapan menghadapi pemeriksaan formal PPh Badan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya dapat SP2 untuk pemeriksaan PPh Badan tahun 2024. Apa saja yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut checklist dokumen untuk pemeriksaan PPh Badan: (1) Laporan keuangan audited (atau internal jika tidak wajib audit) tahun 2024, (2) SPT Tahunan PPh Badan 2024 beserta seluruh lampiran, (3) Buku besar (general ledger) seluruh akun, (4) Rekening koran seluruh rekening bank perusahaan Januari-Desember 2024, (5) Bukti potong PPh yang diterima (PPh 22, 23, Final), (6) Daftar aset tetap dan perhitungan penyusutan, (7) Kontrak-kontrak penting (sewa, jasa, penjualan), (8) Faktur pajak masukan dan keluaran, (9) Daftar hutang-piutang, (10) Bukti pembayaran pajak (SSP/BPN). Tips penting: susun dokumen dalam folder terpisah per kategori. Berikan hanya dokumen yang diminta pemeriksa — jangan sukarela memberikan dokumen yang tidak diminta. Anda berhak hadir saat pemeriksa datang dan meminta tanda pengenal serta SP2 asli. Catat setiap dokumen yang diserahkan dengan tanda terima."
+      }
+    ]
+  }
+]

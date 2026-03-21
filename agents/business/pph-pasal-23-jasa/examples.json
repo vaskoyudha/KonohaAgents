@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Pemotongan PPh 23 atas jasa konsultan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya bayar jasa konsultan hukum Rp30 juta untuk pendirian PT. PPh 23-nya berapa dan bagaimana cara memotongnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jasa konsultan hukum termasuk objek PPh 23 dengan tarif 2% dari jumlah bruto. PPh 23 = 2% x Rp30.000.000 = Rp600.000. Langkahnya: pertama, potong Rp600.000 dari pembayaran ke konsultan (Anda bayar Rp29.400.000 neto). Kedua, setor PPh 23 Rp600.000 melalui e-Billing DJP Online dengan kode akun 411124 dan kode jenis setoran 104 paling lambat tanggal 10 bulan berikutnya. Ketiga, buat bukti potong melalui e-Bupot Unifikasi dan serahkan ke konsultan tersebut."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau konsultan itu tidak punya NPWP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika penerima penghasilan tidak memiliki NPWP, tarif PPh 23 dinaikkan 100% lebih tinggi. Untuk jasa dengan tarif normal 2%, menjadi 4%. PPh 23 = 4% x Rp30.000.000 = Rp1.200.000. Anda bayar neto Rp28.800.000. Namun dengan integrasi NIK-NPWP, pastikan dulu apakah NIK konsultan sudah diaktivasi sebagai NPWP. Jika sudah, gunakan tarif normal 2%."
+      }
+    ]
+  },
+  {
+    "title": "Perlakuan PPh atas pembayaran dividen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya mau bagikan dividen Rp200 juta ke pemegang saham yang merupakan orang pribadi. Apakah kena PPh 23?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk dividen kepada orang pribadi dalam negeri, ketentuannya berubah pasca UU HPP. Dividen dikecualikan dari pajak penghasilan jika penerima menginvestasikan kembali dividen tersebut di Indonesia dalam jangka waktu 3 tahun sesuai PMK 18/2021. Jika tidak diinvestasikan, dividen dikenai PPh Final 10% (bukan PPh 23). Anda perlu memastikan pemegang saham menyampaikan surat pernyataan investasi. Jika pemegang saham memilih tidak investasi, potong PPh Final 10% = Rp20.000.000 dan setor melalui e-Billing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Perbandingan PPh Final vs tarif normal untuk UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Usaha catering saya omzet Rp3 miliar, laba bersih sekitar Rp600 juta. Saya masih pakai PPh Final 0,5%. Tahun depan habis masa berlakunya. Harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita bandingkan. Saat ini: PPh Final 0,5% x Rp3 miliar = Rp15 juta per tahun. Setelah masa PPh Final habis (tarif normal WP OP): PKP = laba Rp600 juta - PTKP Rp54 juta = Rp546 juta. PPh terutang: 5% x Rp60 juta = Rp3 juta, 15% x Rp190 juta = Rp28,5 juta, 25% x Rp296 juta = Rp74 juta. Total PPh = sekitar Rp105,5 juta — jauh lebih besar dari Rp15 juta. Strategi yang bisa dipertimbangkan: (1) Ubah bentuk usaha menjadi PT sebelum masa PPh Final habis — PT baru mendapat fasilitas PPh Final UMKM selama 3 tahun lagi. (2) Jika tetap WP OP, maksimalkan biaya yang bisa dikurangkan: gaji karyawan termasuk diri sendiri jika punya NPWP, penyusutan peralatan catering, biaya bahan baku, sewa tempat, dll. (3) Pastikan pembukuan rapi agar semua biaya deductible bisa diakui DJP."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya ubah jadi PT, bagaimana perhitungan pajaknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika mendirikan PT baru: (1) PT baru berhak PPh Final UMKM 0,5% selama 3 tahun (karena omzet di bawah Rp4,8 miliar). Jadi Rp3 miliar x 0,5% = Rp15 juta per tahun selama 3 tahun. (2) Setelah 3 tahun habis, PT dikenai PPh Badan 22%. Tapi ada fasilitas Pasal 31E: karena omzet di bawah Rp4,8 miliar, seluruh PKP mendapat diskon 50%. Jadi tarif efektif = 11%. PPh Badan = 11% x Rp600 juta = Rp66 juta. (3) Dividen yang Anda terima dari PT bisa dikecualikan dari PPh jika diinvestasikan kembali (UU HPP). Total beban: Rp66 juta vs Rp105,5 juta jika tetap WP OP. Penghematan sekitar Rp39,5 juta per tahun. Tapi perhatikan biaya compliance PT: biaya notaris pendirian, biaya audit (jika wajib), dan administrasi lebih kompleks. Konsultasikan dengan konsultan pajak untuk implementasi yang tepat."
+      }
+    ]
+  },
+  {
+    "title": "Strategi deductible expenses untuk menekan pajak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya laba Rp1 miliar tahun ini. Ada cara legal untuk mengurangi beban pajak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beberapa strategi deductible expenses yang legal: (1) Penyusutan aset: jika ada peralatan atau kendaraan operasional yang belum dicatat, lakukan inventarisasi dan penyusutan sesuai kelompok aset UU PPh. Kendaraan operasional masuk kelompok 2 (umur 8 tahun, tarif 12,5% garis lurus). (2) Biaya pelatihan karyawan: seluruh biaya training, sertifikasi, dan pengembangan SDM bisa jadi pengurang. (3) Sumbangan ke BAZNAS: zakat atas laba usaha bisa mengurangi penghasilan bruto jika disalurkan melalui badan resmi. (4) Program CSR yang memenuhi syarat pengurangan (Pasal 6 UU PPh). (5) Biaya riset dan pengembangan dalam negeri. (6) Pastikan seluruh biaya operasional sudah tercatat: sewa, utilitas, asuransi karyawan, BPJS yang ditanggung perusahaan, perjalanan dinas, dan marketing. Kunci utamanya: semua biaya harus didukung bukti transaksi yang sah (invoice, kwitansi, kontrak) dan berhubungan dengan kegiatan usaha. Biaya tanpa bukti atau untuk keperluan pribadi pemegang saham tidak bisa dikurangkan."
+      }
+    ]
+  }
+]

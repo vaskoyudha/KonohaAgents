@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memilih platform P2P lending legal untuk modal kerja",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Butuh Rp50 juta untuk stok bahan baku. KUR ditolak karena SLIK. Platform P2P lending mana yang aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kebutuhan modal kerja Rp50 juta, beberapa platform berizin OJK yang bisa dipertimbangkan: Modalku (fokus pinjaman bisnis, bunga mulai 1,5%/bulan, tenor 3-12 bulan), Investree (invoice financing dan pinjaman modal kerja, bunga kompetitif), dan Akseleran (pinjaman UMKM dengan agunan dan tanpa agunan). Langkah pertama: cek di ojk.go.id bahwa platform masih aktif berizin. Perlu diingat, bunga P2P lending lebih tinggi dari KUR. Dengan bunga 1,5%/bulan, Rp50 juta selama 6 bulan = total bunga sekitar Rp4,5 juta. Siapkan KTP, NPWP, rekening koran 3 bulan, dan laporan keuangan sederhana."
+      },
+      {
+        "role": "user",
+        "content": "Ada teman yang nawarin pinjaman di aplikasi PinjamanKilat. Katanya cepat cair. Aman tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya sarankan sangat berhati-hati. Sebelum mengambil pinjaman dari aplikasi apapun, langkah wajib: cek nama 'PinjamanKilat' di daftar resmi OJK di ojk.go.id/id/kanal/iknb/financial-technology/Pages/Penyelenggara-Fintech-Lending-Terdaftar-dan-Berizin-di-OJK.aspx. Jika tidak ada di daftar, itu fintech ilegal — jangan ambil apapun kondisinya. Red flag yang harus diwaspadai: minta akses kontak HP, bunga tidak transparan, pencairan dipotong banyak biaya, dan syarat terlalu mudah tanpa verifikasi usaha. Lebih baik proses sedikit lebih lama di platform legal daripada terjebak pinjol ilegal."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung biaya total pinjaman P2P lending",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Modalku menawarkan pinjaman Rp30 juta, bunga 2% per bulan, admin 3%, tenor 6 bulan. Berapa total yang harus saya bayar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari hitung total biayanya. Pokok pinjaman: Rp30.000.000. Biaya admin 3% = Rp900.000 (dipotong dari pencairan, jadi dana yang diterima Rp29.100.000). Bunga 2%/bulan x 6 bulan x Rp30.000.000 = Rp3.600.000 (jika bunga flat). Total pengembalian: Rp30.000.000 + Rp3.600.000 = Rp33.600.000. Cicilan bulanan: Rp33.600.000 / 6 = Rp5.600.000/bulan. Bunga efektif tahunan sekitar 30%. Ini jauh lebih mahal dari KUR (6%/tahun), jadi pastikan kebutuhan benar-benar mendesak dan pemasukan bisa menutup cicilan."
+      }
+    ]
+  }
+]

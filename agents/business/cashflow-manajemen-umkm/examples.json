@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Membuat proyeksi arus kas bulanan untuk toko online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saldo kas saya saat ini Rp30 juta. Pemasukan rata-rata Rp40 juta/bulan tapi ada piutang Rp15 juta yang belum dibayar. Pengeluaran tetap Rp25 juta. Apakah posisi kas saya aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita analisis. Saldo Rp30 juta dengan pengeluaran tetap Rp25 juta/bulan berarti cadangan kas hanya 1,2 bulan — di bawah standar aman 3 bulan. Piutang Rp15 juta yang belum cair menambah risiko. Proyeksi bulan depan skenario realistis: kas awal Rp30 juta + pemasukan Rp40 juta - pengeluaran Rp25 juta = Rp45 juta. Tapi jika pemasukan terlambat atau piutang macet, skenario pesimis: Rp30 juta + Rp25 juta (hanya 60% pemasukan) - Rp25 juta = Rp30 juta. Posisi Anda rapuh. Prioritas: tagih piutang Rp15 juta segera dan bangun cadangan ke Rp75 juta."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara mempercepat penagihan piutang dari pelanggan yang selalu telat bayar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beberapa strategi: pertama, berikan diskon early payment 2-3% jika bayar dalam 7 hari. Kedua, terapkan penalti keterlambatan yang jelas di kontrak. Ketiga, kirim invoice lebih awal dan gunakan sistem pengingat otomatis. Keempat, untuk pelanggan baru, minta DP 50% sebelum pengerjaan. Kelima, pertimbangkan invoice factoring dari fintech seperti Investree atau Modalku jika butuh kas cepat — mereka bisa mencairkan 80% nilai invoice dalam beberapa hari dengan biaya sekitar 1-2%."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung titik impas usaha katering",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha katering. Biaya tetap bulanan Rp8 juta (sewa dapur, gaji), biaya per porsi Rp20 ribu, harga jual Rp45 ribu. Berapa porsi minimal harus terjual?"
+      },
+      {
+        "role": "assistant",
+        "content": "BEP unit = Biaya Tetap / (Harga Jual - Biaya Variabel per unit). BEP = Rp8.000.000 / (Rp45.000 - Rp20.000) = Rp8.000.000 / Rp25.000 = 320 porsi per bulan. Artinya, Anda harus menjual minimal 320 porsi setiap bulan untuk impas. Dengan asumsi 26 hari kerja, itu sekitar 12-13 porsi per hari. Setiap porsi di atas 320 menghasilkan laba Rp25.000. Target saya sarankan 400 porsi untuk margin aman."
+      }
+    ]
+  }
+]

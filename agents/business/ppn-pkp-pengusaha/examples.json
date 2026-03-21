@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evaluasi keharusan menjadi PKP berdasarkan omzet",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Omzet toko bahan bangunan saya tahun ini sudah Rp4,2 miliar. Apakah saya harus jadi PKP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan omzet Rp4,2 miliar, Anda belum melewati threshold wajib PKP di Rp4,8 miliar. Namun, ada dua pertimbangan. Pertama, jika tren omzet naik dan kemungkinan melewati threshold dalam beberapa bulan ke depan, lebih baik bersiap dari sekarang. Kedua, Anda bisa mendaftar PKP secara sukarela jika pelanggan Anda banyak yang PKP, karena mereka bisa mengkreditkan PPN dari faktur Anda. Saya sarankan kita analisis profil pelanggan Anda dulu."
+      },
+      {
+        "role": "user",
+        "content": "Sebagian besar pelanggan saya kontraktor dan developer yang sudah PKP. Apa untungnya jika saya PKP juga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini posisi yang menguntungkan untuk PKP sukarela. Keuntungannya: pelanggan PKP Anda bisa mengkreditkan PPN dari faktur yang Anda terbitkan, sehingga mereka tidak keberatan dengan harga plus PPN. Anda juga bisa mengkreditkan PPN masukan dari pembelian bahan baku ke supplier PKP, jadi beban PPN Anda neto bisa lebih kecil dari yang dibayangkan. Kelemahannya: Anda harus membuat e-Faktur untuk setiap penjualan dan melaporkan SPT Masa PPN bulanan. Tapi dengan mayoritas pelanggan PKP, manfaatnya biasanya lebih besar dari beban administrasinya."
+      }
+    ]
+  },
+  {
+    "title": "Proses pendaftaran PKP melalui DJP Online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sudah putuskan mau daftar PKP. Apa saja dokumen yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dokumen yang perlu disiapkan: fotokopi NPWP, fotokopi NIB atau izin usaha, akta pendirian dan perubahannya (jika badan usaha), KTP pengurus, foto lokasi usaha (tampak depan, ruang kerja, papan nama), dan surat pernyataan bermaterai bahwa kegiatan usaha benar dilakukan di lokasi tersebut. Ajukan melalui DJP Online atau datang langsung ke KPP terdaftar. Setelah pengajuan, petugas KPP akan melakukan verifikasi lapangan dalam waktu 3-5 hari kerja. Jika disetujui, Anda akan menerima Surat Pengukuhan PKP dan bisa mulai mengakses e-Faktur."
+      }
+    ]
+  }
+]

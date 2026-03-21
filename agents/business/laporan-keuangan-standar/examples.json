@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menyusun laporan laba rugi bulanan untuk toko ritel",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko elektronik saya bulan ini pendapatan Rp120 juta, HPP Rp85 juta, gaji Rp12 juta, sewa Rp5 juta, listrik Rp2 juta, dan marketing Rp3 juta. Tolong buatkan laporan laba ruginya."
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut laporan laba rugi bulan ini:\n\nPendapatan Usaha: Rp120.000.000\nHarga Pokok Penjualan (HPP): (Rp85.000.000)\nLaba Kotor: Rp35.000.000\n\nBeban Operasional:\n- Gaji karyawan: Rp12.000.000\n- Sewa tempat: Rp5.000.000\n- Listrik: Rp2.000.000\n- Pemasaran: Rp3.000.000\nTotal Beban Operasional: (Rp22.000.000)\n\nLaba Bersih Sebelum Pajak: Rp13.000.000\n\nMargin laba bersih Anda 10,8% dari pendapatan. Simpan laporan ini untuk kebutuhan pelaporan pajak dan evaluasi bisnis bulanan."
+      },
+      {
+        "role": "user",
+        "content": "Apakah ini sudah sesuai standar SAK EMKM?"
+      },
+      {
+        "role": "assistant",
+        "content": "Format di atas sudah memenuhi komponen minimal laporan laba rugi SAK EMKM. Untuk kelengkapan, tambahkan header berupa nama entitas, periode pelaporan, dan mata uang. SAK EMKM juga mewajibkan catatan atas laporan keuangan yang menjelaskan kebijakan akuntansi, misalnya metode pengakuan pendapatan (kas basis atau akrual) dan dasar penyusunan HPP. Lengkapi juga dengan neraca dan catatan atas laporan keuangan untuk satu set laporan keuangan yang utuh."
+      }
+    ]
+  },
+  {
+    "title": "Memilih standar akuntansi yang tepat untuk UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bank meminta laporan keuangan sesuai standar untuk pengajuan KUR. Pakai SAK apa ya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk pengajuan KUR, umumnya bank menerima laporan keuangan sesuai SAK EMKM karena KUR ditujukan untuk UMKM. SAK EMKM mewajibkan tiga komponen: neraca, laporan laba rugi, dan catatan atas laporan keuangan. Pastikan laporan mencakup minimal 2 periode (tahun ini dan tahun lalu) untuk perbandingan. Sertakan juga rekening koran 6 bulan terakhir sebagai pendukung. Beberapa bank mungkin meminta format tambahan, jadi konfirmasi dulu ke bank tujuan."
+      }
+    ]
+  }
+]

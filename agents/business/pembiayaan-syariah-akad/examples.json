@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memilih akad syariah untuk pembelian mesin produksi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau beli mesin produksi Rp300 juta. Di bank syariah pakai akad apa dan bagaimana hitungannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk pembelian aset spesifik seperti mesin produksi, akad yang tepat adalah murabahah. Mekanismenya: bank syariah membeli mesin tersebut dari supplier, lalu menjual kembali kepada Anda dengan harga pokok ditambah margin keuntungan yang disepakati di awal. Simulasi: harga mesin Rp300 juta, margin bank 9% per tahun, tenor 5 tahun (60 bulan). Total margin = Rp300 juta x 9% x 5 = Rp135 juta. Total harga jual = Rp300 juta + Rp135 juta = Rp435 juta. Angsuran bulanan = Rp435 juta / 60 = Rp7.250.000. Keunggulan murabahah: angsuran fixed selama tenor, tidak ada perubahan margin seperti bunga floating di bank konvensional. Harga sudah final saat akad ditandatangani."
+      },
+      {
+        "role": "user",
+        "content": "Kalau dibandingkan kredit konvensional dengan bunga 10% per tahun, mana yang lebih murah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbandingan sederhana: Murabahah margin 9% flat = total biaya Rp135 juta. Kredit konvensional bunga 10% efektif (anuitas): total bunga sekitar Rp82 juta (karena bunga dihitung dari sisa pokok yang menurun). Jadi secara nominal, kredit konvensional terlihat lebih murah. Tapi perhatikan: (1) Bunga konvensional bisa floating — naik sewaktu-waktu, murabahah fixed. (2) Jika bank syariah menawarkan margin efektif (bukan flat), totalnya bisa lebih kompetitif. (3) Dari sisi syariah, murabahah adalah jual-beli yang halal, bukan pinjaman berbunga. Minta bank syariah menjelaskan apakah margin-nya dihitung flat atau efektif, dan bandingkan total angsuran selama tenor. Beberapa bank syariah juga menawarkan KUR Syariah dengan margin lebih rendah (sekitar 6% efektif) untuk UMKM."
+      }
+    ]
+  },
+  {
+    "title": "Memahami perbedaan mudharabah dan musyarakah untuk modal kerja",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh tambahan modal kerja Rp500 juta untuk usaha restoran. Saya sudah punya modal Rp200 juta sendiri. Akad apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena Anda sudah punya modal sendiri Rp200 juta dan butuh tambahan Rp500 juta, akad yang paling cocok adalah musyarakah (kemitraan modal). Dalam musyarakah: Anda setor Rp200 juta (28,6%), bank setor Rp500 juta (71,4%). Total modal usaha Rp700 juta. Keuntungan dibagi sesuai nisbah yang disepakati — misalnya 40% untuk Anda, 60% untuk bank (nisbah tidak harus sama dengan proporsi modal, karena Anda juga berkontribusi tenaga dan keahlian). Kerugian ditanggung sesuai proporsi modal: Anda 28,6%, bank 71,4%. Berbeda dengan mudharabah di mana modal 100% dari bank dan kerugian finansial 100% ditanggung bank. Musyarakah lebih fleksibel dan bank biasanya lebih mudah menyetujui karena Anda juga menanggung risiko."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menghitung PPh Final dengan fasilitas Rp500 juta UU HPP",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya WP orang pribadi, omzet toko Januari-Juni sudah Rp480 juta. Bulan Juli omzetnya Rp80 juta. Berapa PPh Final Juli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan fasilitas UU HPP, omzet kumulatif hingga Rp500 juta bebas pajak. Akumulasi Januari-Juni: Rp480 juta (belum kena pajak). Di bulan Juli, akumulasi menjadi Rp560 juta. Yang kena PPh Final hanya kelebihan di atas Rp500 juta: Rp560 juta - Rp500 juta = Rp60 juta. PPh Final Juli = 0,5% x Rp60.000.000 = Rp300.000. Mulai Agustus dan seterusnya, seluruh omzet bulan tersebut dikenai PPh Final 0,5% karena threshold Rp500 juta sudah terlampaui."
+      },
+      {
+        "role": "user",
+        "content": "Kapan masa pakai tarif 0,5% saya habis? Saya WP OP terdaftar UMKM sejak 2022."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk WP orang pribadi, masa berlaku PPh Final 0,5% adalah 7 tahun sejak berlakunya PP 55/2022 (yang menggantikan PP 23/2018 untuk WP OP). Jika Anda terdaftar UMKM sejak 2022, masa berlaku sampai akhir tahun pajak 2028. Anda masih punya waktu cukup lama. Namun, saya sarankan mulai belajar pembukuan dan memahami tarif progresif PPh Pasal 17 dari sekarang agar transisi nanti tidak kaget. Jika margin laba Anda di bawah 10%, tarif normal bisa jadi lebih murah dari 0,5% omzet."
+      }
+    ]
+  },
+  {
+    "title": "Persiapan transisi PT dari PPh Final ke tarif normal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya mulai pakai PPh Final dari 2018, berarti 2025 sudah harus pakai tarif normal ya? Apa yang harus dipersiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benar, masa berlaku 7 tahun PT Anda habis di akhir 2024. Mulai tahun pajak 2025, Anda menggunakan tarif PPh Badan normal 22% dari penghasilan kena pajak (laba fiskal). Persiapan yang harus dilakukan: pertama, transisi dari pencatatan ke pembukuan lengkap (neraca, laba rugi, perubahan ekuitas). Kedua, pahami koreksi fiskal positif dan negatif. Ketiga, siapkan sistem untuk menghitung PPh Pasal 25 (angsuran bulanan). Keempat, pertimbangkan hire akuntan atau gunakan software akuntansi. Sisi baiknya: jika margin laba di bawah 10% dari omzet, beban pajak 22% x laba bisa lebih kecil dari 0,5% x omzet."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Mengajukan keberatan atas SKPKB",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya terima SKPKB PPh Badan senilai Rp300 juta. Pemeriksa koreksi biaya operasional Rp1 miliar yang katanya tidak ada bukti. Tapi saya punya semua fakturnya. Bagaimana cara keberatan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika Anda memiliki bukti faktur lengkap, posisi Anda cukup kuat untuk keberatan. Langkah-langkah: (1) Pastikan masih dalam batas 3 bulan sejak SKPKB diterima — cek tanggal di tanda terima SKPKB. (2) Bayar pajak minimal sebesar yang Anda setujui — jika Anda setuju sebagian koreksi, bayar bagian itu dulu. (3) Siapkan surat keberatan: sebutkan nomor dan tanggal SKPKB, jumlah pajak menurut Anda, dan uraikan alasan keberatan per poin koreksi. Untuk koreksi biaya Rp1 miliar, lampirkan: daftar rincian biaya, faktur/invoice, bukti pembayaran (transfer bank), kontrak jika ada, dan penjelasan keterkaitan biaya dengan kegiatan usaha. (4) Ajukan ke Kanwil DJP melalui KPP terdaftar, minta tanda terima. Kanwil akan memutuskan dalam 12 bulan."
+      },
+      {
+        "role": "user",
+        "content": "Apa risikonya kalau keberatan ditolak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika keberatan ditolak seluruhnya: Anda dikenai sanksi kenaikan 30% dari selisih antara jumlah pajak di SKPKB dengan jumlah yang Anda setujui. Contoh: SKPKB Rp300 juta, Anda setuju Rp100 juta, selisih Rp200 juta. Sanksi = 30% x Rp200 juta = Rp60 juta. Total yang harus dibayar: Rp300 juta + Rp60 juta = Rp360 juta. Namun jika Anda punya bukti faktur yang kuat, peluang dikabulkan cukup baik. Anda juga bisa mengajukan banding ke Pengadilan Pajak jika keberatan ditolak — tapi risiko sanksi naik menjadi 60% jika banding juga ditolak. Pertimbangkan matang-matang kekuatan bukti Anda sebelum melanjutkan setiap tahap."
+      }
+    ]
+  },
+  {
+    "title": "Mempertimbangkan banding ke Pengadilan Pajak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Keberatan saya ditolak. Sengketa pajak Rp500 juta. Apakah saya harus banding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari analisis risiko-manfaat. Manfaat: jika banding dikabulkan, Anda tidak perlu bayar Rp500 juta + sanksi 30% (Rp150 juta) dari keberatan dikembalikan. Risiko: jika banding ditolak, sanksi menjadi 60% dari selisih (60% x Rp500 juta = Rp300 juta) menggantikan sanksi 30%. Biaya: bea banding Rp2,5 juta + biaya kuasa hukum (bervariasi, bisa Rp50-200 juta untuk sengketa besar). Waktu: 12-18 bulan. Pertanyaan kunci: (1) Apakah ada bukti baru yang tidak dipertimbangkan saat keberatan? (2) Apakah koreksi DJP bertentangan dengan regulasi yang berlaku? (3) Apakah ada putusan Pengadilan Pajak terdahulu untuk kasus serupa yang mendukung posisi Anda? Jika jawaban ya untuk salah satu, banding layak dipertimbangkan. Dengan sengketa Rp500 juta, saya sangat menyarankan menunjuk kuasa hukum pajak berpengalaman untuk mendampingi di Pengadilan Pajak."
+      }
+    ]
+  }
+]

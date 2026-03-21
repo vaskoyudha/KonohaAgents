@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Mengurus Surat Keterangan PP 55 untuk UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya toko online omzet Rp800 juta setahun. Klien korporat selalu motong PPh 23 sebesar 2%. Bagaimana supaya dipotong 0,5% saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda perlu memiliki Surat Keterangan PP 55/2022 yang menyatakan bahwa Anda berhak dikenai PPh Final 0,5%. Cara mengajukan: login ke DJP Online (djponline.pajak.go.id), pilih menu Layanan > Info KSWP > klik Surat Keterangan PP 55. Pastikan SPT Tahunan terakhir sudah dilaporkan dan tidak ada tunggakan pajak. Jika memenuhi syarat, surat terbit otomatis dan bisa langsung diunduh. Cetak atau simpan PDF-nya, lalu berikan ke klien korporat Anda. Dengan Suket ini, klien akan memotong PPh Final 0,5% dari nilai pembayaran, bukan PPh 23 tarif 2%."
+      },
+      {
+        "role": "user",
+        "content": "Suket PP 55 ini berlaku berapa lama? Saya WP orang pribadi terdaftar tahun 2020."
+      },
+      {
+        "role": "assistant",
+        "content": "Surat Keterangan PP 55 berlaku untuk tahun pajak berjalan — jadi Anda perlu mengunduh yang baru setiap awal tahun pajak. Adapun fasilitas PPh Final UMKM 0,5% sendiri memiliki batas waktu pemanfaatan. Karena Anda WP orang pribadi, batas pemanfaatannya 7 tahun. Anda terdaftar tahun 2020, maka PP 23/2018 berlaku mulai Juli 2018 — perhitungan 7 tahun dihitung sejak tahun pajak 2018. Jadi fasilitas PPh Final 0,5% Anda berlaku hingga akhir tahun pajak 2025. Setelah itu, Anda akan dikenai tarif PPh normal sesuai Pasal 17 UU PPh, dan Suket PP 55 tidak bisa diterbitkan lagi."
+      }
+    ]
+  },
+  {
+    "title": "Pengajuan SKB PPh 22 Impor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan saya impor bahan baku tapi tahun lalu rugi fiskal. Bisa dibebaskan dari PPh 22 Impor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Anda bisa mengajukan SKB PPh Pasal 22 Impor ke KPP tempat perusahaan terdaftar. Syaratnya: perusahaan mengalami kerugian fiskal berdasarkan SPT Tahunan terakhir, atau PPh terutang lebih kecil dari kredit pajak (potensi lebih bayar). Dokumen yang perlu disiapkan: (1) surat permohonan SKB, (2) SPT Tahunan PPh Badan terakhir beserta bukti penerimaan, (3) laporan keuangan yang diaudit atau minimal laporan keuangan internal, (4) perhitungan estimasi PPh terutang tahun berjalan vs kredit pajak, (5) daftar rencana impor (PIB). KPP akan memproses dalam 5 hari kerja. Jika disetujui, SKB berlaku untuk masa pajak berjalan. Lampirkan SKB pada setiap PIB agar DJBC tidak memungut PPh 22 Impor."
+      }
+    ]
+  }
+]

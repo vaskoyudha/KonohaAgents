@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memulai pencatatan keuangan warung dari nol",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru buka toko kelontong. Belum pernah catat keuangan sama sekali. Harus mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: pisahkan uang toko dan uang pribadi. Buka rekening bank terpisah untuk usaha. Langkah kedua: sediakan buku tulis atau buka spreadsheet, buat kolom Tanggal, Keterangan, Uang Masuk, Uang Keluar, dan Saldo. Setiap kali ada transaksi, langsung catat. Contoh: '21 Maret - Jual sembako - Masuk Rp350.000' atau '21 Maret - Beli stok minyak goreng - Keluar Rp500.000'. Di akhir hari, hitung saldo dan cocokkan dengan uang di kasir."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya pakai uang toko untuk keperluan pribadi, dicatat bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Catat sebagai 'prive' atau penarikan pemilik di kolom uang keluar. Contoh: '21 Maret - Prive pemilik - Keluar Rp200.000'. Ini penting agar Anda tahu berapa laba sebenarnya dari usaha versus berapa yang sudah ditarik untuk keperluan pribadi. Idealnya, tetapkan gaji bulanan untuk diri sendiri agar penarikan teratur dan toko tetap punya modal kerja yang cukup."
+      }
+    ]
+  },
+  {
+    "title": "Menyusun laporan laba rugi bulanan sederhana",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bulan ini total pemasukan toko Rp18 juta, pengeluaran bahan Rp10 juta, sewa Rp2 juta, listrik Rp500 ribu, gaji karyawan Rp3 juta. Berapa laba saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita susun laporan laba rugi sederhana. Pendapatan: Rp18.000.000. Beban usaha: Bahan baku Rp10.000.000 + Sewa Rp2.000.000 + Listrik Rp500.000 + Gaji Rp3.000.000 = Rp15.500.000. Laba bersih sebelum pajak: Rp18.000.000 - Rp15.500.000 = Rp2.500.000. Jika Anda menggunakan PPh Final 0,5%, pajak bulanan = 0,5% x Rp18.000.000 = Rp90.000. Laba setelah pajak = Rp2.410.000. Simpan laporan ini setiap bulan sebagai dasar evaluasi dan pelaporan pajak."
+      }
+    ]
+  }
+]

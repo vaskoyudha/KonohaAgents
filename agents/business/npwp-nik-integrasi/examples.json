@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Validasi NIK sebagai NPWP melalui DJP Online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sudah punya NPWP dari 2015. Dengar-dengar harus validasi NIK. Gimana caranya dan apa konsekuensinya kalau tidak validasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Caranya: login ke djponline.pajak.go.id menggunakan NPWP 15 digit Anda, masuk ke menu Profil, di bagian Data Utama akan ada kolom NIK. Masukkan NIK 16 digit dari KTP, lalu klik Validasi. Jika data cocok dengan Dukcapil, status berubah menjadi Valid. Prosesnya hanya beberapa menit. Jika tidak divalidasi, ke depannya Anda mungkin mengalami kendala dalam transaksi perpajakan karena sistem DJP berangsur beralih ke NPWP 16 digit. Selama masa transisi, NPWP 15 digit masih diterima, tapi sebaiknya validasi sekarang untuk menghindari masalah di kemudian hari."
+      },
+      {
+        "role": "user",
+        "content": "Saat validasi muncul pesan 'NIK sudah digunakan'. Padahal saya hanya punya satu NPWP."
+      },
+      {
+        "role": "assistant",
+        "content": "Pesan ini bisa terjadi karena beberapa kemungkinan: NIK Anda pernah didaftarkan NPWP oleh pemberi kerja tanpa sepengetahuan Anda, ada duplikasi data di sistem, atau kesalahan input NIK. Langkah penyelesaian: hubungi Kring Pajak 1500200 atau datang ke KPP terdaftar dengan membawa KTP asli dan kartu NPWP. Petugas akan melakukan pengecekan dan penggabungan data jika terjadi duplikasi. Jangan coba mendaftar NPWP baru — selesaikan data yang sudah ada terlebih dahulu."
+      }
+    ]
+  },
+  {
+    "title": "Memahami NPWP format baru dan Coretax",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa itu Coretax DJP dan bagaimana pengaruhnya ke usaha saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Coretax DJP adalah sistem administrasi perpajakan baru yang menggantikan sistem lama DJP. Coretax mengintegrasikan seluruh layanan pajak dalam satu platform: pendaftaran NPWP, pelaporan SPT, pembayaran, e-Faktur, dan layanan lainnya. Pengaruh ke usaha Anda: proses administrasi pajak lebih terpusat, NIK langsung terhubung dengan data pajak, dan pelaporan diharapkan lebih mudah. Namun di masa transisi, mungkin ada gangguan teknis. Pastikan data NIK-NPWP Anda sudah valid dan akun DJP Online aktif agar migrasi ke Coretax berjalan lancar."
+      }
+    ]
+  }
+]

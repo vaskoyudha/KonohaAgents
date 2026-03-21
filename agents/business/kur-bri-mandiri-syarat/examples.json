@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evaluasi kelayakan dan pemilihan jenis KUR",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha laundry sudah 1,5 tahun, omzet Rp30 juta/bulan. Butuh modal Rp40 juta untuk beli mesin baru. KUR apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan usaha sudah 1,5 tahun dan omzet Rp30 juta/bulan, Anda memenuhi syarat dasar KUR. Untuk kebutuhan Rp40 juta, KUR Mikro paling cocok — plafonnya hingga Rp50 juta dengan bunga hanya 6% per tahun (flat), tanpa jaminan tambahan. Jangka waktu bisa sampai 3 tahun untuk modal kerja atau 5 tahun untuk investasi (mesin termasuk investasi). Cicilan kasar: Rp40 juta + bunga 6% x 3 tahun = total Rp47,2 juta / 36 bulan = sekitar Rp1,3 juta/bulan. Angsuran ini masih terjangkau dengan omzet Rp30 juta/bulan."
+      },
+      {
+        "role": "user",
+        "content": "Dokumen apa saja yang harus saya siapkan untuk KUR Mikro di BRI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk KUR Mikro BRI, siapkan: KTP asli dan fotokopi, Kartu Keluarga, Surat Keterangan Usaha dari kelurahan atau RT/RW (gratis, minta ke kelurahan), foto usaha laundry (tampak depan dan dalam), dan bukti kepemilikan tempat usaha (sewa atau milik sendiri). NPWP tidak wajib untuk KUR Mikro tapi disarankan punya. Kunjungi BRI Unit terdekat, sampaikan kebutuhan KUR Mikro, dan mantri BRI akan melakukan survei ke lokasi laundry Anda dalam beberapa hari. Tips: pastikan tempat usaha rapi dan mesin yang ada terawat saat survei."
+      }
+    ]
+  },
+  {
+    "title": "Alternatif saat KUR ditolak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "KUR saya ditolak BRI karena pernah telat cicilan kredit motor 2 tahun lalu. Padahal sudah lunas. Ada saran?"
+      },
+      {
+        "role": "assistant",
+        "content": "Riwayat kredit bermasalah di SLIK memang jadi hambatan utama. Meskipun sudah lunas, catatan kolektibilitas masih tercatat. Langkah pertama: minta update SLIK ke bank pemberi kredit motor agar status berubah menjadi kolektibilitas 1 (lancar/lunas). Proses ini bisa 1-3 bulan. Sambil menunggu, Anda bisa coba opsi lain: mengajukan ke bank lain (BSI atau BPD yang mungkin lebih fleksibel), mencoba P2P lending legal OJK seperti Modalku atau Investree, atau mengajukan pinjaman koperasi. Setelah SLIK bersih, ajukan kembali KUR."
+      }
+    ]
+  }
+]

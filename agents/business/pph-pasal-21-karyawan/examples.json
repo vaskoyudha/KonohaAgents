@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menghitung PPh 21 bulanan dengan metode TER",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Karyawan tetap saya gajinya Rp10 juta per bulan, belum menikah tanpa tanggungan. Berapa PPh 21 bulanannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan status TK/0, karyawan Anda masuk kategori TER A. Penghasilan bruto bulanan Rp10.000.000. Untuk rentang penghasilan Rp9,2 juta - Rp10,75 juta di kategori A, tarif TER sekitar 2,5%. PPh 21 bulanan = 2,5% x Rp10.000.000 = Rp250.000. Tarif TER ini diterapkan dari Januari sampai November. Di bulan Desember, kita lakukan penghitungan ulang dengan tarif progresif untuk menentukan apakah ada selisih kurang atau lebih bayar."
+      },
+      {
+        "role": "user",
+        "content": "Kalau dia dapat THR di bulan April senilai satu kali gaji, bagaimana perhitungannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di bulan April, penghasilan bruto menjadi gaji Rp10 juta + THR Rp10 juta = Rp20 juta. Tarif TER untuk kategori A di rentang penghasilan Rp20 juta berbeda dari bulan biasa, sekitar 7%. PPh 21 bulan April = 7% x Rp20.000.000 = Rp1.400.000. Bulan-bulan lain tetap menggunakan tarif TER sesuai penghasilan bruto bulanan normal. Di Desember, seluruh penghasilan setahun direkonsiliasi dengan tarif progresif Pasal 17."
+      }
+    ]
+  },
+  {
+    "title": "Menyiapkan bukti potong tahunan karyawan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kapan saya harus memberikan bukti potong 1721-A1 ke karyawan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bukti potong 1721-A1 untuk karyawan tetap harus diberikan paling lambat satu bulan setelah tahun kalender berakhir, yaitu akhir Januari tahun berikutnya, atau saat karyawan berhenti bekerja. Buat bukti potong melalui e-Bupot 21/26 di DJP Online. Pastikan data sudah akurat: total penghasilan bruto setahun, PPh 21 yang dipotong setiap bulan, dan status PTKP. Karyawan membutuhkan 1721-A1 ini untuk mengisi SPT Tahunan PPh Orang Pribadi mereka."
+      }
+    ]
+  }
+]

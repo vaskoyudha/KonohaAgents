@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Pajak sewa ruko kepada perusahaan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau sewakan gudang ke PT logistik senilai Rp200 juta/tahun. Pajak apa saja yang harus diurus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk sewa gudang (tanah dan bangunan), PPh Final 10% berlaku. Nilai sewa Rp200 juta, PPh Final = 10% x Rp200.000.000 = Rp20.000.000. Karena penyewa adalah PT (badan usaha), PT tersebut wajib memotong PPh Final Rp20 juta dari pembayaran. Anda menerima Rp180 juta neto. PT menyetor pajak ke kas negara dan memberikan bukti potong kepada Anda. Di SPT Tahunan, cantumkan penghasilan sewa Rp200 juta sebagai penghasilan PPh Final. Selain itu, pastikan PBB gudang Anda sudah dibayar — ini kewajiban terpisah."
+      },
+      {
+        "role": "user",
+        "content": "Kalau penyewanya orang pribadi bukan perusahaan, siapa yang bayar pajaknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika penyewa orang pribadi (bukan pemotong pajak), maka Anda sebagai pemilik yang wajib menyetor sendiri PPh Final 10%. Buat kode billing di DJP Online dengan kode MAP 411128 dan KJS 403, lalu bayar Rp20 juta paling lambat tanggal 15 bulan setelah menerima pembayaran sewa. Simpan bukti bayar untuk pelaporan SPT. Anda menerima sewa penuh Rp200 juta dari penyewa, tapi harus sisihkan Rp20 juta untuk pajak."
+      }
+    ]
+  },
+  {
+    "title": "Pajak penghasilan dari kos-kosan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya kos-kosan 15 kamar di Jogja, masing-masing sewa Rp1,5 juta/bulan. Bagaimana perlakuan pajaknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penghasilan sewa kos: 15 kamar x Rp1.500.000 x 12 bulan = Rp270.000.000/tahun. PPh Final 10% = Rp27.000.000/tahun atau Rp2.250.000/bulan. Karena penyewa orang pribadi, Anda setor sendiri tiap bulan. Tambahan: karena Jogja mengenakan pajak daerah kos-kosan untuk lebih dari 10 kamar, cek perda Kota Jogja — tarifnya biasanya 5-10% dari nilai sewa. Jadi total beban pajak Anda: PPh Final 10% + pajak daerah kos-kosan. Alternatif: jika omzet Anda (termasuk kos) di bawah Rp4,8 miliar, Anda bisa memilih PPh Final UMKM 0,5% dari omzet yang jauh lebih murah dibanding 10%."
+      }
+    ]
+  }
+]

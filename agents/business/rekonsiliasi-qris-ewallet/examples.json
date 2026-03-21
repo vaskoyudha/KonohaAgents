@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Rekonsiliasi settlement QRIS dengan catatan penjualan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bulan ini total penjualan via QRIS menurut POS saya Rp8.500.000 tapi uang yang masuk ke rekening hanya Rp8.474.500. Kemana selisihnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selisih Rp25.500 kemungkinan besar adalah potongan MDR QRIS. Mari kita hitung: jika MDR Anda 0,3% (tarif UMKM mikro sesuai regulasi BI), maka MDR = 0,3% x Rp8.500.000 = Rp25.500. Pas sekali dengan selisihnya. Jadi tidak ada masalah — uang Anda lengkap. Cara pencatatannya: catat Pendapatan Penjualan Rp8.500.000 (bruto), Biaya MDR QRIS Rp25.500, dan Kas Masuk Rp8.474.500. Untuk pelaporan pajak, omzet yang dilaporkan tetap Rp8.500.000."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya gabung QRIS, GoPay, dan tunai, bagaimana caranya rekonsiliasi yang benar setiap bulan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buat tabel rekonsiliasi bulanan dengan kolom per kanal. Baris: total penjualan per POS, potongan MDR, refund jika ada, dan neto yang seharusnya diterima. Cocokkan neto ini dengan mutasi bank (untuk QRIS) dan saldo merchant dashboard (untuk GoPay). Untuk tunai, cocokkan dengan setor tunai ke bank. Total semua kanal harus sama dengan total penjualan di catatan POS. Lakukan rekonsiliasi ini setiap minggu agar selisih cepat terdeteksi. Saya sarankan gunakan spreadsheet sederhana dengan satu sheet per bulan."
+      }
+    ]
+  },
+  {
+    "title": "Pencatatan jurnal pembayaran digital untuk pajak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Untuk pajak UMKM PPh Final 0,5%, yang dihitung omzet bruto atau neto setelah potong MDR?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yang dihitung adalah omzet bruto — yaitu nilai transaksi sebelum dipotong MDR. Jadi jika penjualan via QRIS Rp10 juta dan MDR 0,3% (Rp30.000), omzet untuk pajak tetap Rp10 juta, bukan Rp9.970.000. PPh Final 0,5% x Rp10.000.000 = Rp50.000. MDR Rp30.000 masuk sebagai biaya usaha di laporan laba rugi, tapi tidak mengurangi dasar pengenaan PPh Final karena PPh Final dihitung dari peredaran bruto sesuai PP 23/2018."
+      }
+    ]
+  }
+]

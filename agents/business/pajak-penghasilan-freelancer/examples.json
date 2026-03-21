@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Strategi pajak untuk freelance content creator",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya content creator YouTube dan freelance video editor. Penghasilan AdSense $500/bulan dan fee edit video Rp80 juta/tahun dari 3 klien lokal. Bagaimana cara urus pajaknya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda punya dua sumber penghasilan. AdSense ~$500/bulan = ~Rp7,5 juta/bulan = ~Rp90 juta/tahun. Fee editing Rp80 juta/tahun. Total omzet ~Rp170 juta/tahun. Karena di bawah Rp500 juta dan Anda WP OP, sesuai UU HPP Anda bebas PPh Final 0,5%. Tapi Anda tetap wajib lapor SPT. Untuk fee editing dari klien lokal, minta bukti potong jika mereka memotong PPh 21/23. Penghasilan AdSense dari Google Singapura tidak dipotong pajak Indonesia, jadi masuk sebagai penghasilan luar negeri yang Anda laporkan di SPT 1770. Karena total di bawah Rp500 juta, pajaknya nihil dengan fasilitas UU HPP."
+      },
+      {
+        "role": "user",
+        "content": "Kalau tahun depan penghasilan saya naik jadi Rp600 juta, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika omzet Rp600 juta, PPh Final 0,5% hanya dikenakan pada kelebihan di atas Rp500 juta = Rp100 juta. PPh Final = 0,5% x Rp100 juta = Rp500.000 per tahun. Namun, pertimbangkan juga opsi tarif normal dengan NPPN. Jika jenis usaha Anda (jasa produksi konten) norma netonya 50%, maka penghasilan neto Rp300 juta. Kurangi PTKP TK/0 Rp54 juta = PKP Rp246 juta. PPh tarif progresif: 5% x Rp60 juta + 15% x Rp186 juta = Rp3 juta + Rp27,9 juta = Rp30,9 juta. Jadi PPh Final 0,5% (Rp500.000) jauh lebih hemat. Tetap gunakan PPh Final selama masih eligible."
+      }
+    ]
+  },
+  {
+    "title": "Mengisi SPT 1770 untuk freelancer",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau isi SPT tahunan. Form mana yang harus saya pakai sebagai freelancer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebagai freelancer dengan penghasilan dari pekerjaan bebas, Anda menggunakan Form 1770 (bukan 1770S atau 1770SS yang untuk karyawan). Login ke DJP Online, pilih e-Filing, lalu pilih SPT 1770. Isi bagian penghasilan dari usaha/pekerjaan bebas dengan total omzet Anda. Jika pakai PPh Final 0,5%, masukkan di bagian PPh Final. Jika pakai tarif normal dengan NPPN, masukkan norma sesuai jenis usaha. Jangan lupa masukkan kredit pajak dari bukti potong PPh 21/23. Lampirkan daftar bukti potong. Selesaikan sebelum 31 Maret."
+      }
+    ]
+  }
+]

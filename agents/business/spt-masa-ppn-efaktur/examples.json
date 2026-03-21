@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Membuat faktur pajak keluaran dan upload ke server DJP",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru jadi PKP bulan lalu. Mau buat faktur pajak untuk penjualan barang Rp50 juta ke pelanggan. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas pengukuhan PKP Anda. Pertama, pastikan sertifikat elektronik sudah terinstal di e-Faktur Desktop dan Anda sudah memiliki NSFP dari e-Nofa Online. Buka e-Faktur, pilih menu Faktur > Pajak Keluaran > Administrasi Faktur > Rekam Faktur. Masukkan NPWP pembeli, pilih kode transaksi 01 (penyerahan BKP/JKP kepada pihak biasa). Input detail barang dengan DPP Rp50.000.000, PPN 11% = Rp5.500.000. Setelah direkam, klik Management Upload > Upload dan tunggu status Approval Success dari server DJP."
+      },
+      {
+        "role": "user",
+        "content": "Kalau status-nya Reject, apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cek keterangan reject di kolom keterangan. Beberapa penyebab umum: NPWP lawan transaksi tidak valid (ETAX-API-00003), NSFP sudah digunakan (ETAX-20017), atau tanggal faktur tidak sesuai rentang NSFP. Perbaiki data sesuai error, rekam ulang, lalu upload kembali. Jika error terkait koneksi server (ETAX-API-10001), coba di jam non-peak (pagi hari) dan pastikan internet stabil. Jangan lupa backup database e-Faktur secara berkala."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung PPN terutang dan melaporkan SPT Masa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bulan ini PPN keluaran saya Rp22 juta dan PPN masukan Rp15 juta. Berapa yang harus saya setor?"
+      },
+      {
+        "role": "assistant",
+        "content": "PPN yang harus disetor adalah selisih PPN Keluaran dikurangi PPN Masukan: Rp22.000.000 - Rp15.000.000 = Rp7.000.000. Buat kode billing melalui e-Billing DJP Online dengan kode akun pajak 411211 dan kode jenis setoran 100 (setoran masa PPN dalam negeri). Bayar sebelum akhir bulan berikutnya, lalu laporkan SPT Masa PPN Form 1111 melalui e-Filing. Pastikan data di SPT sudah konsisten dengan faktur yang ter-upload di e-Faktur."
+      }
+    ]
+  }
+]

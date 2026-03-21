@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Membuat faktur pengganti karena salah NPWP pembeli",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya salah input NPWP pembeli di faktur pajak yang sudah di-upload dan approve. Bagaimana cara memperbaikinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda perlu membuat faktur pengganti. Di e-Faktur Desktop: buka Faktur > Pajak Keluaran > Administrasi Faktur, cari faktur yang salah menggunakan filter tanggal atau NSFP, klik kanan pada faktur tersebut > pilih 'Buat Faktur Pengganti'. Sistem akan membuat salinan faktur dengan kode status berubah dari 0 (normal) menjadi 1 (pengganti), jadi kode faktur berubah dari 010 menjadi 011. Perbaiki NPWP pembeli yang benar, pastikan data lainnya sudah sesuai, lalu klik Simpan dan Upload. Tunggu hingga status Approval Success. Faktur normal lama otomatis menjadi 'Diganti'. Laporkan faktur pengganti ini di SPT Masa PPN pada masa pajak faktur pengganti dibuat."
+      },
+      {
+        "role": "user",
+        "content": "Kalau sudah pernah buat pengganti sekali, lalu ternyata masih salah lagi, bisa buat pengganti kedua?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Anda buat faktur pengganti lagi dari faktur pengganti pertama. Kode status akan berubah menjadi 012 (pengganti kedua). Prosedurnya sama: cari faktur pengganti pertama (kode 011) di Administrasi Faktur, klik kanan > Buat Faktur Pengganti. Tidak ada batasan berapa kali Anda bisa membuat faktur pengganti, tapi setiap pengganti baru menggantikan yang sebelumnya. Pastikan faktur pengganti terakhir yang berlaku sudah benar dan di-upload dengan status Approval Success."
+      }
+    ]
+  },
+  {
+    "title": "Menangani nota retur dari pembeli",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pembeli saya mengembalikan sebagian barang senilai Rp20 juta plus PPN Rp2,2 juta. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pembeli harus membuat Nota Retur sesuai PMK 65/2010 dengan mencantumkan: nomor urut nota retur, nomor dan tanggal faktur pajak yang diretur, nama dan NPWP PKP penjual (Anda) dan pembeli, deskripsi BKP yang dikembalikan beserta kuantitas, DPP Rp20 juta, dan PPN Rp2,2 juta. Nota retur dibuat rangkap 3: untuk pembeli, penjual, dan KPP pembeli. Setelah Anda menerima nota retur, input di e-Faktur Desktop melalui Faktur > Retur Pajak Keluaran > Administrasi Retur. Masukkan data sesuai nota retur, lalu upload. PPN Keluaran Anda akan berkurang Rp2,2 juta pada masa pajak nota retur dibuat. Di sisi pembeli, PPN Masukan yang sudah dikreditkan juga berkurang Rp2,2 juta."
+      }
+    ]
+  }
+]

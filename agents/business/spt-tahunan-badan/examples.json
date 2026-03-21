@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Panduan pengisian Form 1771 untuk PT kecil",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya omzetnya 2.5 miliar tahun lalu. Saya bingung mulai dari mana mengisi SPT Tahunan Badan."
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita mulai secara berurutan. Pertama, pastikan laporan keuangan (neraca dan laba rugi) sudah final. Kemudian kita isi lampiran dari belakang: Lampiran V (daftar pemegang saham dan pengurus), Lampiran VI (penyertaan modal jika ada), lalu maju ke Lampiran II (rincian HPP), Lampiran I (penghitungan penghasilan neto fiskal setelah koreksi), Lampiran IV (PPh Final yang sudah disetor), dan Lampiran III (kredit pajak). Setelah semua lampiran lengkap, isi induk SPT 1771. Karena omzet di bawah Rp4,8 miliar, Anda mungkin masih bisa memanfaatkan tarif PPh Final 0,5% jika belum melewati batas 7 tahun penggunaan PP 23/2018."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara koreksi fiskal untuk biaya entertainment yang tidak punya daftar nominatif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biaya entertainment tanpa daftar nominatif merupakan koreksi fiskal positif. Artinya, biaya tersebut tidak boleh dikurangkan dari penghasilan bruto secara fiskal meskipun secara komersial sudah dicatat sebagai beban. Misalnya, jika biaya entertainment Rp50 juta tanpa nominatif, maka laba fiskal bertambah Rp50 juta dari laba komersial. Masukkan koreksi ini di Lampiran I Form 1771 pada kolom koreksi positif. Untuk ke depannya, buat daftar nominatif sesuai SE-27/PJ.22/1986 agar biaya entertainment bisa dibiayakan."
+      }
+    ]
+  },
+  {
+    "title": "Menghitung sanksi keterlambatan pelaporan SPT Badan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya terlambat lapor SPT Badan tahun lalu. Apa konsekuensinya dan bagaimana cara memperbaiki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keterlambatan pelaporan SPT Tahunan PPh Badan dikenai sanksi administrasi sebesar Rp1.000.000 sesuai Pasal 7 UU KUP. Langkah perbaikan: segera siapkan laporan keuangan dan lakukan pengisian Form 1771 seperti biasa, lalu laporkan melalui e-Filing DJP Online. Setelah lapor, Anda akan menerima STP untuk sanksi keterlambatan yang harus dilunasi. Pastikan juga tidak ada kurang bayar pajak, karena kurang bayar akan dikenai bunga 2% per bulan sesuai Pasal 9 ayat 2a UU KUP. Saya sarankan pasang pengingat untuk tenggat 30 April tahun depan."
+      }
+    ]
+  }
+]

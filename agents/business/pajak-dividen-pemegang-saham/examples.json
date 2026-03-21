@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Pengecualian pajak dividen dengan reinvestasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya mau bagi dividen Rp500 juta ke saya pribadi sebagai pemegang saham. Bagaimana supaya bebas pajak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk mendapatkan pengecualian PPh atas dividen Rp500 juta, Anda harus menginvestasikan kembali seluruh dividen di Indonesia. Syarat sesuai PMK 18/2021: investasikan paling lambat akhir bulan ketiga setelah tahun pajak dividen diterima, pertahankan investasi minimal 3 tahun kalender, dan sampaikan laporan realisasi investasi melalui DJP Online. Bentuk investasi yang diakui: deposito bank, saham di BEI, obligasi, SBN, reksadana, atau investasi langsung di sektor riil. Jika hanya sebagian yang diinvestasikan, yang tidak diinvestasikan tetap dikenai PPh Final 10%."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya investasikan ke deposito saja, apakah cukup?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, deposito termasuk bentuk investasi yang diakui oleh PMK 18/2021. Tempatkan Rp500 juta di deposito bank dalam negeri, jangan dicairkan selama 3 tahun kalender (tapi bunga deposito boleh ditarik). Bunga deposito tetap dikenai PPh Final 20% — itu terpisah dari perlakuan dividen. Jangan lupa laporkan realisasi investasi di DJP Online setiap tahun selama 3 tahun. Jika Anda mencairkan deposito sebelum 3 tahun, dividen yang tadinya dikecualikan akan dikenai PPh Final 10% + sanksi bunga."
+      }
+    ]
+  },
+  {
+    "title": "Pajak atas penjualan saham di bursa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tahun ini saya aktif trading saham di BEI, total transaksi jual Rp2 miliar. Berapa pajak yang sudah dipotong?"
+      },
+      {
+        "role": "assistant",
+        "content": "PPh Final atas penjualan saham di bursa adalah 0,1% dari nilai bruto transaksi penjualan. Jadi pajak yang sudah dipotong oleh broker: 0,1% x Rp2.000.000.000 = Rp2.000.000. Pajak ini sudah final dan dipotong otomatis setiap kali Anda melakukan transaksi jual. Anda tidak perlu bayar tambahan. Di SPT Tahunan, laporkan penghasilan dari transaksi saham ini di bagian PPh Final. Jangan lupa juga melaporkan portofolio saham yang masih Anda pegang per 31 Desember di daftar harta."
+      }
+    ]
+  }
+]

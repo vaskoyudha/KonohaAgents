@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Identifikasi risiko transfer pricing pada penjualan ke afiliasi luar negeri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "PT saya menjual bahan baku ke pabrik afiliasi di Vietnam dengan margin 5%, tapi ke pelanggan non-afiliasi margin 15%. Apakah ini aman dari sisi transfer pricing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan margin 5% vs 15% ini akan menarik perhatian DJP saat pemeriksaan. Pertanyaan kuncinya: apakah ada justifikasi bisnis yang wajar untuk perbedaan ini? Misalnya, volume pembelian afiliasi Vietnam jauh lebih besar (volume discount), afiliasi menanggung biaya logistik sendiri, atau afiliasi membayar di muka (mengurangi risiko kredit Anda). Jika tidak ada justifikasi yang kuat, DJP bisa mengoreksi harga ke afiliasi mendekati harga ke pihak ketiga. Anda perlu menyusun Local File yang mendokumentasikan analisis fungsional (FAR) dan pemilihan metode TP — kemungkinan CUP Method jika ada data pembanding langsung."
+      },
+      {
+        "role": "user",
+        "content": "Metode TP apa yang paling cocok untuk kasus saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk jual beli barang berwujud dengan data pembanding internal (harga ke pihak ketiga tersedia), metode CUP (Comparable Uncontrolled Price) adalah pilihan utama dan paling disukai DJP. Bandingkan harga ke afiliasi Vietnam dengan harga ke pelanggan non-afiliasi setelah melakukan penyesuaian atas perbedaan kondisi: volume, termin pembayaran, biaya pengiriman, dan risiko. Jika setelah penyesuaian harga masih berbeda signifikan tanpa justifikasi, Anda perlu menaikkan harga ke afiliasi atau menyiapkan argumen yang kuat dalam dokumentasi TP."
+      }
+    ]
+  },
+  {
+    "title": "Memahami kewajiban dokumentasi transfer pricing",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan saya omzet Rp80 miliar dan ada transaksi jasa manajemen ke induk perusahaan Rp3 miliar. Wajib buat dokumen TP tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan PMK 213/PMK.03/2016, Anda wajib membuat dokumentasi TP karena memenuhi setidaknya satu kriteria: peredaran bruto Rp80 miliar (di atas threshold Rp50 miliar). Meskipun transaksi jasa Rp3 miliar di bawah threshold Rp5 miliar untuk jasa, kewajiban tetap terpicu dari omzet. Dokumentasi yang diperlukan: Master File (gambaran grup secara global) dan Local File (analisis TP khusus untuk PT Anda). Untuk jasa manajemen, pastikan: jasa benar-benar diberikan (benefit test), biaya wajar dibandingkan pasar, dan ada dokumentasi pendukung seperti kontrak, deliverables, dan time sheet."
+      }
+    ]
+  }
+]

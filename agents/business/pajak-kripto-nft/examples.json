@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Perhitungan pajak jual-beli kripto di exchange terdaftar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bulan ini saya beli Ethereum Rp50 juta dan jual Bitcoin senilai Rp80 juta di Indodax. Berapa total pajak saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indodax terdaftar di Bappebti, jadi berlaku tarif exchange terdaftar. Untuk pembelian Ethereum Rp50 juta: Anda dikenai PPN Final 0,11% = Rp55.000. Untuk penjualan Bitcoin Rp80 juta: Anda dikenai PPh Final 0,1% = Rp80.000. Total pajak bulan ini: Rp55.000 (PPN atas pembelian) + Rp80.000 (PPh atas penjualan) = Rp135.000. Semua pajak ini sudah dipungut otomatis oleh Indodax saat transaksi — Anda tidak perlu bayar terpisah. Di SPT Tahunan nanti, laporkan penghasilan dari penjualan kripto di bagian PPh Final dan kepemilikan Ethereum di daftar harta kode 039."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya trading di exchange luar negeri yang tidak terdaftar Bappebti, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk exchange yang tidak terdaftar di Bappebti, tarif pajaknya lebih tinggi: PPh Final 0,2% (dua kali lipat) dan PPN Final 0,22%. Namun masalahnya, exchange luar negeri umumnya tidak memungut pajak Indonesia. Kewajiban setor dan lapor ada di Anda sendiri. Anda harus menghitung sendiri PPh Final 0,2% dari setiap transaksi penjualan, menyetor ke kas negara menggunakan kode billing 411128-423 (PPh Final Pasal 22), dan melaporkan di SPT. Ini lebih rumit dibanding trading di exchange terdaftar yang otomatis memungut. Saran saya: gunakan exchange terdaftar Bappebti untuk kemudahan compliance dan tarif yang lebih rendah."
+      }
+    ]
+  },
+  {
+    "title": "Pelaporan aset kripto di SPT Tahunan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya 0,5 BTC dan 10 ETH di wallet Indodax. Bagaimana melaporkannya di SPT Tahunan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Laporkan kepemilikan aset kripto di daftar harta SPT Tahunan (formulir 1770 Lampiran IV atau 1770S). Untuk setiap jenis kripto, buat entri terpisah: (1) Bitcoin 0,5 BTC — kode harta 039 (investasi lainnya), deskripsi: 'Bitcoin 0,5 BTC di Indodax', nilai perolehan sesuai total harga beli (bukan harga pasar saat ini). (2) Ethereum 10 ETH — kode harta 039, deskripsi: 'Ethereum 10 ETH di Indodax', nilai perolehan sesuai total harga beli. Gunakan riwayat transaksi dari Indodax untuk menghitung total nilai perolehan. Jika Anda membeli bertahap di harga berbeda, jumlahkan seluruh pembelian sebagai nilai perolehan. Jangan lupa laporkan juga penghasilan dari penjualan kripto selama tahun pajak di bagian PPh Final."
+      }
+    ]
+  }
+]
