@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pengurusan izin P-IRT untuk keripik singkong",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ibu rumah tangga di Malang, buat keripik singkong aneka rasa yang sering dipesan tetangga. Sekarang mau dijual lebih luas lewat marketplace. Bagaimana cara mendapatkan izin P-IRT?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bagus sekali langkah Anda untuk melegalkan produk sebelum dijual lebih luas. SPP-IRT (Sertifikat Produksi Pangan Industri Rumah Tangga) adalah izin yang tepat untuk usaha rumahan. Berikut prosedur lengkapnya di Malang. Pertama, datangi Dinas Kesehatan Kota atau Kabupaten Malang dan daftarkan diri untuk mengikuti Penyuluhan Keamanan Pangan (PKP). Biasanya dilaksanakan berkala setiap 1-2 bulan dan gratis. Dalam penyuluhan yang berlangsung 1-2 hari, Anda akan belajar tentang sanitasi, higienitas, pengolahan pangan yang aman, dan pelabelan yang benar. Kedua, setelah lulus PKP dan mendapat Sertifikat Penyuluhan, siapkan dokumen: fotokopi KTP, pas foto, denah lokasi produksi, deskripsi produk termasuk komposisi dan proses pembuatan, serta sampel produk dalam kemasan yang sudah diberi label. Ketiga, petugas Dinkes akan melakukan inspeksi ke lokasi produksi Anda untuk memastikan tempat produksi bersih, terpisah dari kamar mandi dan tempat tidur, peralatan dalam kondisi baik, tersedia air bersih, dan ada tempat cuci tangan. Keempat, jika lolos inspeksi, SPP-IRT diterbitkan dalam 1-2 minggu dan berlaku selama 5 tahun. Nomor P-IRT ini wajib dicantumkan pada label kemasan. Untuk label keripik singkong Anda, harus mencantumkan: nama produk, komposisi bahan, berat bersih, tanggal produksi dan kadaluarsa, nama dan alamat produsen, serta nomor P-IRT. Estimasi biaya keseluruhan sangat terjangkau biasanya di bawah Rp100.000 untuk administrasi."
+      }
+    ]
+  },
+  {
+    "title": "Pengolahan kopi cherry menjadi green bean berkualitas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kelompok tani kopi kami di Flores ingin meningkatkan kualitas kopi dari proses natural ke honey process. Apa langkah-langkahnya dan peralatan apa yang dibutuhkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beralih ke honey process adalah strategi yang tepat karena kopi honey dari Flores bisa mendapat harga premium 30-50% lebih tinggi di pasar specialty. Honey process meninggalkan sebagian mucilage atau lendir manis pada biji kopi saat pengeringan sehingga menghasilkan profil rasa yang lebih kompleks dan manis. Berikut langkah teknisnya. Pertama, petik selektif hanya cherry yang sudah merah penuh (matang optimal) karena kualitas bahan baku menentukan 60% kualitas akhir. Kedua, pulp cherry menggunakan mesin pulper manual atau semi-otomatis untuk mengelupas kulit luar, biaya mesin pulper manual sekitar Rp3-5 juta. Untuk honey process, jangan cuci mucilage-nya setelah pulping, langsung lanjut ke pengeringan. Ketiga, pengeringan dilakukan di raised bed (rak pengering terangkat) bukan di lantai tanah. Buat raised bed dari bambu atau kayu dengan alas jaring, tinggi 70-100 cm dari tanah agar sirkulasi udara optimal. Tebarkan biji kopi setebal 2-3 cm dan aduk setiap 1-2 jam pada hari pertama agar tidak lengket. Keempat, proses pengeringan honey membutuhkan 10-15 hari tergantung cuaca dan tingkat honey yang diinginkan: yellow honey dengan sedikit mucilage kering 8-10 hari, red honey dengan mucilage sedang kering 12-14 hari, black honey dengan mucilage paling tebal kering 14-18 hari. Target kadar air akhir 10-12%. Kelima, setelah kering simpan dalam karung GrainPro atau plastik kedap udara di gudang yang sejuk dan berventilasi selama minimal 30 hari sebagai masa resting sebelum di-hulling. Peralatan total yang dibutuhkan untuk memulai: mesin pulper Rp3-5 juta, raised bed 20 unit Rp5-8 juta, moisture meter digital Rp500.000, dan gudang penyimpanan sederhana Rp3-5 juta."
+      }
+    ]
+  }
+]

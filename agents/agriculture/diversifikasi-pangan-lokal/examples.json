@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pengembangan sorgum sebagai pangan alternatif di NTT",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Di desa kami di Kabupaten Sikka, NTT, sorgum tumbuh subur tapi kebanyakan cuma dijadikan pakan ternak. Bagaimana cara mengolahnya jadi makanan yang enak dan bergizi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorgum di Sikka punya potensi luar biasa sebagai pangan fungsional karena kandungan proteinnya sekitar 10-11% lebih tinggi dari beras yang hanya 7%, kaya serat, mineral besi dan fosfor, serta bebas gluten sehingga cocok untuk penderita intoleransi gluten. Ada banyak cara mengolah sorgum menjadi makanan lezat. Untuk pengganti nasi, rendam biji sorgum semalaman lalu masak dengan perbandingan air 1:3 hingga lunak, teksturnya mirip nasi merah. Untuk tepung sorgum, giling biji kering dan ayak halus, bisa digunakan untuk membuat roti, kue, mie, atau jajanan pasar. Pop sorgum atau sorgum yang disangrai seperti popcorn bisa menjadi camilan sehat anak-anak. Bubur sorgum dengan santan dan gula aren adalah sarapan bergizi yang sudah dikenal di beberapa daerah NTT. Strategi pengembangannya, ajak kelompok wanita tani untuk pelatihan pengolahan, daftarkan produk ke BPOM untuk izin P-IRT, kemas dengan menarik, dan pasarkan melalui program makan siang sekolah serta pasar desa. Badan Pangan Nasional juga memiliki program pendampingan diversifikasi pangan yang bisa dimanfaatkan untuk modal awal dan pelatihan."
+      }
+    ]
+  },
+  {
+    "title": "Inovasi produk singkong untuk pasar modern",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kampung kami di Lampung penghasil singkong terbesar, tapi harga jual sangat murah hanya Rp800 per kg. Bagaimana cara meningkatkan nilai tambahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harga singkong mentah memang sangat rendah, namun dengan pengolahan yang tepat nilai tambahnya bisa naik 5-20 kali lipat. Berikut beberapa opsi yang bisa dikembangkan di Lampung. Pertama, produksi tepung mocaf (Modified Cassava Flour) melalui proses fermentasi singkong yang menghasilkan tepung dengan karakteristik mirip terigu. Harga mocaf berkisar Rp8.000-12.000 per kg dan permintaannya terus meningkat dari industri roti dan mie. Kedua, produksi tapioka berkualitas tinggi yang bisa dijual Rp6.000-8.000 per kg ke industri makanan. Ketiga, olahan keripik singkong premium dengan bumbu-bumbu kekinian seperti keju, balado, atau truffle yang bisa dijual Rp30.000-50.000 per kemasan melalui marketplace. Keempat, boba atau bubble dari pati singkong yang sedang tren di kalangan anak muda dengan harga jual sangat tinggi. Kelima, gaplek dan tiwul instan yang dikemas modern untuk pasar nostalgia dan ekspor. Untuk memulai, manfaatkan program IRT dari Dinas Perindustrian kabupaten untuk perizinan, ajukan bantuan alat pengolahan melalui Kementan atau Kemenperin, dan ikuti pelatihan GMP di Balai Pelatihan Industri terdekat."
+      }
+    ]
+  }
+]

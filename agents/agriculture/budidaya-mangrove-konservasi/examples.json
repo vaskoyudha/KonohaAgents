@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Teknis penanaman mangrove di tambak bekas",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya tambak udang bekas 2 hektare di Demak yang sudah tidak produktif. Mau ditanami mangrove untuk program desa. Bagaimana caranya agar berhasil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tambak bekas di Demak sangat cocok untuk rehabilitasi mangrove karena substrat lumpur yang ideal dan pola pasang surut yang teratur. Berikut langkah teknisnya. Pertama, buka kembali saluran air yang menghubungkan tambak dengan laut agar pasang surut mengalir alami karena mangrove membutuhkan genangan air pasang secara periodik. Kedua, pilih jenis Rhizophora mucronata sebagai spesies utama karena cocok di substrat lumpur dan memiliki propagul besar yang mudah ditanam. Tambahkan Avicennia marina di zona yang lebih dekat laut sebagai pemecah gelombang. Ketiga, siapkan bibit propagul yang sudah disemai di polibag selama 3-4 bulan dengan tinggi minimal 30-40 cm agar lebih kuat. Keempat, tanam dengan jarak 1x1 meter atau 1.5x1.5 meter pada saat air surut rendah, tancapkan bibit sedalam 20-30 cm di lumpur dan pasang ajir bambu sebagai penyangga. Untuk 2 hektare Anda membutuhkan sekitar 10.000-20.000 bibit tergantung jarak tanam. Kelima, lakukan perawatan rutin selama 6 bulan pertama meliputi penyulaman bibit yang mati, pembersihan sampah, dan pengamatan hama kepiting. Tingkat keberhasilan di tambak bekas Demak biasanya 60-80% sehingga siapkan bibit cadangan 30% untuk penyulaman."
+      }
+    ]
+  },
+  {
+    "title": "Penerapan model silvofishery untuk pendapatan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kalau mangrove ditanam di tambak, berarti saya tidak bisa budidaya udang lagi dong? Bagaimana supaya tetap ada penghasilan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Justru ada model yang memungkinkan Anda membudidayakan udang atau bandeng bersamaan dengan mangrove yaitu silvofishery atau wanamina. Model yang paling umum diterapkan di Jawa Tengah termasuk Demak adalah model empang parit. Konsepnya, dari 2 hektare tambak Anda, sekitar 60-70% area di tengah ditanami mangrove rapat dan 30-40% sisanya berupa parit air di sekeliling yang digunakan untuk budidaya bandeng, nila, atau udang windu secara ekstensif. Mangrove berfungsi sebagai biofilter alami yang menjernihkan air, habitat pakan alami seperti klekap dan plankton, serta penyerap karbon. Ikan dan udang di parit mendapat pakan alami dari ekosistem mangrove sehingga biaya pakan jauh lebih rendah dibanding tambak intensif. Produktivitas silvofishery memang lebih rendah per hektare dibanding tambak intensif, namun biaya operasional sangat minimal dan harga produk bisa premium jika dipasarkan sebagai produk ramah lingkungan. Selain itu, Anda bisa mendapatkan tambahan pendapatan dari ekowisata mangrove dan potensi carbon credit. Banyak program BRGM dan CSR perusahaan juga memberikan insentif bagi masyarakat yang menerapkan silvofishery."
+      }
+    ]
+  }
+]

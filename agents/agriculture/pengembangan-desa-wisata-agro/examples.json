@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Konsep agrowisata untuk desa penghasil kopi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Desa kami di Bondowoso, Jawa Timur, penghasil kopi arabika Java yang terkenal. Kami ingin mengembangkan desa wisata kopi tapi bingung mulai dari mana. Bisa bantu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bondowoso dengan kopi arabika Java Ijen yang sudah terkenal secara internasional memiliki potensi agrowisata kopi yang sangat besar. Berikut konsep pengembangan bertahap yang bisa Anda terapkan. Tahap pertama dalam 6 bulan: bentuk Pokdarwis (Kelompok Sadar Wisata) dan ajukan pembentukan BUMDes jika belum ada, siapkan SDM melalui pelatihan pemandu wisata lokal dari petani kopi yang berpengalaman, dan rancang 2-3 paket wisata dasar. Paket wisata yang bisa ditawarkan: Coffee Farm Tour yaitu tur kebun kopi melihat proses budidaya dari pembibitan hingga panen cherry, Coffee Processing Experience yaitu peserta ikut memetik kopi, mencuci, mengelupas, dan menjemur biji kopi sendiri, serta Cupping Session yaitu kelas mencicipi kopi dengan barista lokal sambil belajar menilai rasa. Tahap kedua dalam 6-12 bulan: kembangkan homestay berbasis rumah warga dengan standar kebersihan dan kenyamanan minimal, buat kafe komunitas yang menyajikan kopi lokal, siapkan oleh-oleh berupa kopi roasted dengan kemasan menarik berlabel desa wisata, dan aktifkan pemasaran melalui Instagram, Google Maps, dan platform seperti Traveloka Experience dan Airbnb Experience. Tahap ketiga dalam tahun kedua: perkuat dengan jalur trekking ke kebun kopi dan kawah Ijen, kolaborasi dengan pelaku wisata di sekitar Ijen, dan ajukan sertifikasi Desa Wisata ke Kemendes. Untuk pendanaan awal, manfaatkan Dana Desa, program desa wisata Kemendes, dan CSR perusahaan PTPN XII yang mengelola perkebunan kopi di sekitar Bondowoso."
+      }
+    ]
+  },
+  {
+    "title": "Model BUMDes untuk pengelolaan desa wisata",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kalau membentuk BUMDes untuk mengelola desa wisata, bagaimana pembagian hasilnya agar adil untuk semua warga desa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pembagian hasil yang adil dan transparan adalah kunci keberlanjutan desa wisata agar tidak menimbulkan konflik. Berikut model pengelolaan melalui BUMDes yang terbukti berhasil di banyak desa wisata. Struktur pendapatan BUMDes wisata biasanya terdiri dari: tiket masuk, biaya paket wisata, retribusi parkir, penyewaan fasilitas, dan komisi dari homestay dan warung. Untuk pembagian hasil, terapkan formula sebagai berikut: 30-40% untuk PADes (Pendapatan Asli Desa) yang digunakan untuk pembangunan infrastruktur desa dan program kesejahteraan, 20-25% untuk operasional BUMDes termasuk gaji pengelola dan biaya pemasaran, 15-20% untuk penyertaan modal dan pengembangan usaha BUMDes, 10-15% untuk insentif langsung kepada petani dan warga yang lahannya digunakan atau yang menjadi pemandu, serta 5-10% sebagai dana cadangan. Yang sangat penting, warga yang berkontribusi langsung mendapat bagian proporsional. Misalnya petani yang lahannya dijadikan jalur wisata mendapat fee per pengunjung, ibu-ibu yang memasak untuk paket kuliner dibayar per porsi, pemandu lokal dibayar per trip, dan pemilik homestay mendapat 80% dari tarif menginap sementara 20% masuk BUMDes. Buat AD/ART BUMDes yang detail tentang mekanisme pembagian ini dan laporkan keuangan secara terbuka dalam Musyawarah Desa setiap 6 bulan. Transparansi keuangan dan distribusi manfaat yang merata akan menjaga dukungan seluruh warga terhadap program desa wisata."
+      }
+    ]
+  }
+]

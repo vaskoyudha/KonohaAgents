@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pemilihan combine harvester untuk kelompok tani",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kelompok tani kami di Indramayu punya lahan gabungan 50 hektare padi. Kami ingin beli combine harvester untuk mengurangi kehilangan panen. Tipe apa yang cocok dan berapa harganya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk 50 hektare padi di Indramayu yang umumnya lahan sawah datar, combine harvester mini tipe full-feeding sangat cocok. Saya rekomendasikan beberapa opsi. Pertama, Kubota DC-70 yang merupakan combine harvester paling populer di Indonesia dengan kapasitas kerja 0.8-1.2 hektare per jam, lebar potong 70 cm, dan dilengkapi tangki penampung gabah 1.2 ton. Harga baru sekitar Rp350-400 juta. Kedua, Yanmar YH150 dengan kapasitas serupa dan harga sekitar Rp300-350 juta. Ketiga, merek lokal atau China seperti World dan Lovol dengan harga lebih terjangkau Rp200-280 juta namun perlu mempertimbangkan ketersediaan suku cadang. Dengan kapasitas kerja 1 hektare per jam, satu unit bisa melayani 50 hektare dalam waktu sekitar 6-7 hari per musim. Keuntungan utama: mengurangi kehilangan panen dari 10-15% (manual) menjadi 2-3%, menghemat waktu panen signifikan, dan mengurangi biaya tenaga kerja. Biaya operasional harian sekitar Rp1.5-2 juta termasuk BBM dan operator. Kelompok tani bisa mengelola combine harvester ini melalui skema UPJA dengan menetapkan tarif sewa Rp1.5-2 juta per hektare untuk anggota dan non-anggota. Dengan 50 hektare x 2 musim x Rp1.75 juta, pendapatan per tahun Rp175 juta yang bisa menutup investasi dalam 2-3 tahun."
+      }
+    ]
+  },
+  {
+    "title": "Perawatan traktor roda 2 agar awet",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Traktor roda 2 Quick G1000 kami sudah 3 tahun tapi mulai sering mogok dan tenaga berkurang. Bagaimana cara perawatan yang benar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quick G1000 adalah traktor roda 2 yang bandel tapi tetap perlu perawatan rutin agar performanya optimal. Masalah mogok dan tenaga berkurang biasanya karena pemeliharaan yang kurang teratur. Berikut jadwal perawatan yang harus diikuti. Perawatan harian sebelum digunakan: periksa level oli mesin melalui dipstick dan tambah jika kurang, periksa bahan bakar dan air radiator, bersihkan saringan udara dari debu dengan cara mengetuk atau ditiup angin kompresor. Perawatan setiap 50 jam operasi: ganti oli mesin menggunakan SAE 40 atau sesuai rekomendasi pabrikan, bersihkan filter bahan bakar, periksa dan kencangkan baut-baut yang longgar terutama pada implementer. Perawatan setiap 200 jam: ganti filter oli dan filter bahan bakar, periksa tension belt kipas dan alternator, setel klep mesin, dan periksa tekanan nozzle injector. Perawatan setiap 500 jam atau per tahun: ganti seluruh oli transmisi dan gear case, periksa kopling dan rem, dan lakukan tune up lengkap. Untuk masalah tenaga berkurang yang sudah Anda alami, kemungkinan penyebabnya: filter udara tersumbat debu sehingga campuran udara-bahan bakar tidak optimal, nozzle injector sudah aus perlu diservis atau diganti, atau timing injeksi sudah bergeser. Bawa ke bengkel resmi Quick atau UPTD alsintan terdekat untuk pengecekan nozzle dan timing, biayanya sekitar Rp300.000-500.000 dan traktor akan kembali bertenaga."
+      }
+    ]
+  }
+]

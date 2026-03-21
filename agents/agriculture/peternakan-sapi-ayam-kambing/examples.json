@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Penanganan gejala PMK pada sapi potong",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sapi saya 3 ekor tiba-tiba demam, mulutnya banyak air liur dan ada lepuh di kaki. Apa ini PMK? Bagaimana penanganannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gejala yang Anda deskripsikan sangat mengarah pada Penyakit Mulut dan Kuku (PMK) yang disebabkan oleh virus famili Picornaviridae. Tindakan pertama yang harus segera dilakukan adalah mengisolasi ketiga sapi yang menunjukkan gejala dari ternak sehat lainnya untuk mencegah penularan. Segera laporkan ke petugas Dinas Peternakan atau dokter hewan setempat karena PMK termasuk Penyakit Hewan Menular Strategis (PHMS) yang wajib dilaporkan. Sambil menunggu petugas datang, berikan perawatan suportif berupa pembersihan lesi pada mulut dan kaki menggunakan larutan antiseptik ringan seperti povidone iodine yang diencerkan, serta pastikan sapi tetap terhidrasi dengan memberikan cairan elektrolit. Jangan memindahkan atau menjual ternak yang diduga terinfeksi ke luar kandang. Periksa juga status vaksinasi PMK seluruh populasi sapi Anda dan pastikan ternak sehat mendapatkan vaksinasi sesuai program Ditjen PKH."
+      },
+      {
+        "role": "user",
+        "content": "Sapi yang sakit masih mau makan tapi susah karena mulutnya sakit. Bagaimana cara memberi makan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena lesi pada mulut membuat sapi kesulitan mengunyah pakan kasar, Anda perlu menyesuaikan bentuk pakan sementara. Berikan rumput yang dicacah halus atau pakan hijauan yang dilayukan agar lebih lunak dan mudah dikonsumsi. Tambahkan konsentrat yang dicampur air menjadi bentuk bubur untuk memudahkan penelanan dan menjaga asupan energi. Pastikan air minum bersih selalu tersedia dan mudah dijangkau karena sapi dengan lesi mulut cenderung dehidrasi. Anda juga bisa memberikan suplemen vitamin dan mineral melalui air minum untuk mendukung pemulihan sistem imun. Pantau berat badan secara berkala karena penurunan bobot drastis menandakan asupan nutrisi yang tidak mencukupi dan mungkin perlu intervensi cairan infus oleh dokter hewan. Biasanya masa pemulihan PMK membutuhkan waktu dua hingga tiga minggu dengan perawatan suportif yang konsisten."
+      }
+    ]
+  },
+  {
+    "title": "Program vaksinasi dan manajemen ayam petelur",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau mulai ternak ayam petelur 500 ekor. Apa saja vaksinasi yang wajib dan jadwalnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk populasi 500 ekor ayam petelur, program vaksinasi yang terstruktur sangat penting untuk mencegah kerugian besar akibat wabah penyakit. Vaksinasi wajib dimulai sejak DOC (Day Old Chick): pada hari pertama berikan vaksin Marek melalui injeksi subkutan, lalu pada umur 4 hari vaksin ND (Newcastle Disease) tetes mata. Umur 7-10 hari berikan vaksin IB (Infectious Bronchitis) spray atau tetes mata. Pada umur 14-18 hari lakukan vaksin Gumboro melalui air minum. Vaksin ND ulangan diberikan pada umur 21 hari melalui air minum. Pada umur 28-35 hari berikan vaksin AI (Avian Influenza) H5N1 injeksi subkutan sesuai program pemerintah. Masuk fase grower, vaksin ND dan IB booster diberikan pada umur 8-10 minggu. Sebelum masuk produksi pada umur 16-18 minggu, berikan vaksin EDS (Egg Drop Syndrome), ND-IB-IBD trivalen, dan booster AI. Pastikan semua vaksin yang digunakan terdaftar resmi dan penyimpanan rantai dingin terjaga. Catat setiap vaksinasi dalam recording kartu kesehatan kandang untuk evaluasi dan kelengkapan SKKH jika Anda akan menjual ayam atau telur ke luar daerah."
+      },
+      {
+        "role": "user",
+        "content": "Kalau produksi telur mulai turun padahal ayam umur baru 30 minggu, apa penyebabnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penurunan produksi telur pada umur 30 minggu yang seharusnya masih fase puncak produksi perlu dievaluasi dari beberapa aspek. Pertama, periksa kualitas dan kuantitas pakan karena defisiensi protein, kalsium, atau energi metabolis langsung berdampak pada produksi. Pastikan ransum mengandung protein minimal 17 persen dan kalsium 3,5-4 persen untuk fase produksi. Kedua, evaluasi program pencahayaan karena ayam petelur membutuhkan minimal 16 jam cahaya per hari dan perubahan durasi atau intensitas cahaya bisa menurunkan produksi drastis. Ketiga, cek faktor stres lingkungan seperti kepadatan kandang yang melebihi standar, suhu kandang yang terlalu panas di atas 30 derajat Celsius, atau gangguan predator. Keempat, pertimbangkan kemungkinan penyakit subklinis seperti CRD, kolibasilosis, atau infeksi parasit internal yang menurunkan efisiensi pakan. Lakukan pemeriksaan sampel feses untuk cek parasit dan amati kondisi bulu serta mukosa ayam. Jika semua faktor manajemen sudah optimal namun produksi tetap rendah, konsultasikan dengan dokter hewan untuk pemeriksaan laboratorium lebih lanjut."
+      }
+    ]
+  }
+]

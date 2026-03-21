@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Setup hidroponik NFT untuk balkon apartemen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tinggal di apartemen lantai 10 di Jakarta, punya balkon 2x3 meter yang kena sinar matahari pagi. Mau tanam selada dan kangkung hidroponik. Budget sekitar Rp2 juta, bisa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat bisa dengan budget Rp2 juta di balkon 2x3 meter yang kena sinar matahari pagi minimal 4-6 jam. Saya rekomendasikan sistem NFT vertikal menggunakan pipa PVC 3 inch yang ditata 3-4 tingkat pada rangka besi siku. Berikut rincian yang perlu disiapkan. Material utama: 6 batang pipa PVC 3 inch masing-masing 2 meter harga sekitar Rp300.000, bak penampung nutrisi 80 liter Rp100.000, pompa celup 25 watt Rp150.000, selang dan fitting Rp100.000, rangka besi siku dan baut Rp300.000, serta netpot 3 inch isi 100 buah Rp100.000. Bahan tanam: rockwool slab Rp50.000, benih selada dan kangkung Rp30.000, serta nutrisi AB mix untuk 500 liter Rp70.000. Total sekitar Rp1.2 juta dan sisanya untuk cadangan nutrisi dan penggantian. Dengan 4 tingkat pipa masing-masing 10-12 lubang, Anda punya 40-48 lubang tanam. Selada bisa dipanen 25-30 hari setelah semai, kangkung lebih cepat 20-25 hari. Satu lubang tanam selada menghasilkan sekitar 100-150 gram, jadi per siklus Anda bisa panen 4-7 kg selada. Tips untuk balkon lantai 10: pasang jaring penahan angin karena angin kencang bisa mengganggu pertumbuhan dan mempercepat penguapan nutrisi."
+      }
+    ]
+  },
+  {
+    "title": "Troubleshooting akar selada membusuk",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Akar selada hidroponik DWC saya jadi coklat lembek dan berbau tidak sedap setelah 2 minggu. Padahal nutrisi sudah diganti. Kenapa ya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Akar coklat lembek dan berbau pada sistem DWC adalah gejala root rot atau pembusukan akar yang disebabkan oleh patogen Pythium atau bakteri anaerob. Penyebab utamanya biasanya adalah kekurangan oksigen terlarut dalam larutan nutrisi dan suhu air yang terlalu tinggi. Di Jakarta, suhu air dalam bak DWC outdoor bisa mencapai 30-35 derajat Celcius pada siang hari, sedangkan zona optimal akar adalah 18-24 derajat. Suhu tinggi menurunkan kadar oksigen terlarut dan mempercepat pertumbuhan patogen. Solusinya: pertama, pastikan aerator atau air pump Anda berjalan 24 jam dan memiliki kapasitas cukup, gunakan minimal 4 liter per menit per bak 50 liter dan pasang batu aerasi yang menghasilkan gelembung halus. Kedua, turunkan suhu larutan dengan membungkus bak menggunakan styrofoam atau alumunium foil untuk memantulkan panas, atau letakkan di tempat teduh. Ketiga, buang seluruh larutan lama, bersihkan bak dengan hidrogen peroksida 3% (H2O2) 3 ml per liter untuk sterilisasi, bilas, lalu isi larutan nutrisi baru. Keempat, potong akar yang sudah busuk dengan gunting steril agar tidak menyebar. Kelima, tambahkan enzim root zone atau Trichoderma ke larutan nutrisi sebagai agen biologis pencegah root rot."
+      }
+    ]
+  }
+]

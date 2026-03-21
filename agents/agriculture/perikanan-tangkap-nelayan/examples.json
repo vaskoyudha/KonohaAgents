@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Panduan melaut aman di musim barat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya nelayan di Indramayu, kapal 5 GT pakai jaring gill net. Musim barat ini ombak besar terus, kapan bisa melaut?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di Indramayu saat musim barat, gelombang Laut Jawa bisa mencapai 2-4 meter yang sangat berbahaya untuk kapal 5 GT. Untuk keselamatan Anda, ikuti panduan ini. Pertama, pantau prakiraan cuaca maritim BMKG setiap pagi melalui aplikasi Info BMKG atau siaran radio cuaca di PPI Karangsong. Kedua, kapal 5 GT dengan gill net aman melaut jika tinggi gelombang di bawah 1.25 meter dan kecepatan angin di bawah 15 knot. Musim barat biasanya ada jeda cuaca setiap 5-7 hari yang berlangsung 2-3 hari — manfaatkan jeda ini untuk one day fishing di zona dekat pantai dalam radius 4-8 mil. Ketiga, jangan paksakan melaut saat ada peringatan dini cuaca ekstrem dari BMKG. Selama menunggu cuaca membaik, manfaatkan waktu untuk memperbaiki jaring, merawat mesin kapal, dan mengolah hasil tangkapan sebelumnya menjadi ikan asin atau pindang untuk nilai tambah. Pastikan selalu bawa pelampung, radio komunikasi VHF, dan lampu isyarat setiap trip."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya paksakan melaut dan ada masalah, bantuan dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya sangat tidak menyarankan memaksakan melaut saat cuaca buruk karena risiko jiwa sangat tinggi. Namun jika terjadi keadaan darurat di laut, hubungi Basarnas melalui radio VHF channel 16 yang merupakan frekuensi darurat internasional, atau telepon 115 jika ada sinyal. Lapor juga ke Pos Angkatan Laut terdekat atau Syahbandar Perikanan di PPI. Pastikan sebelum berangkat Anda sudah melapor ke Syahbandar tentang rencana trip dan perkiraan waktu kembali agar jika terlambat bisa dilakukan pencarian. Yang paling penting, pastikan Anda terdaftar di program BPAN (Bantuan Premi Asuransi Nelayan) dari KKP yang memberikan santunan jika terjadi kecelakaan di laut. Premi asuransi ditanggung pemerintah untuk nelayan kecil. Daftar melalui Dinas Perikanan kabupaten atau kelompok nelayan Anda. Tapi sekali lagi, pencegahan lebih baik daripada pertolongan — tidak ada ikan yang sebanding dengan keselamatan jiwa."
+      }
+    ]
+  },
+  {
+    "title": "Perizinan kapal nelayan kecil",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kapal saya 3 GT, perlu izin apa saja untuk melaut?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kapal 3 GT, Anda termasuk kategori nelayan kecil yang mendapat perlakuan khusus dalam regulasi. Berdasarkan UU Perikanan, nelayan kecil dengan kapal di bawah 5 GT tidak diwajibkan memiliki SIUP dan SIPI, namun tetap perlu beberapa dokumen. Pertama, daftarkan kapal Anda untuk mendapatkan Tanda Pencatatan Kapal Perikanan di Syahbandar Perikanan PPI terdekat — ini gratis untuk kapal di bawah 5 GT. Kedua, buat Kartu Nelayan melalui Dinas Perikanan kabupaten yang berguna untuk mengakses bantuan BBM bersubsidi, asuransi nelayan, dan program pemerintah lainnya. Ketiga, setiap akan melaut sebaiknya lapor ke Pos Pengawasan atau petugas PPI mengenai rencana trip untuk keselamatan. Untuk alat tangkap, pastikan gill net Anda sesuai dengan ketentuan ukuran mata jaring minimum untuk jenis ikan target dan tidak menggunakan alat tangkap yang dilarang. Semua pengurusan untuk nelayan kecil tidak dikenakan biaya atau pungutan berdasarkan UU Perikanan pasal 62 ayat 3."
+      }
+    ]
+  }
+]

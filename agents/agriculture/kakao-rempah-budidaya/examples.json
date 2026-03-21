@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Teknik fermentasi kakao untuk mutu ekspor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya petani kakao di Sulawesi Tengah, 2 hektare. Biji kakao saya selalu ditolak buyer karena tidak terfermentasi. Bagaimana cara fermentasi yang benar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masalah ini sangat umum di Sulawesi dan menjadi penyebab utama diskon harga kakao Indonesia di pasar global. Untuk fermentasi yang benar, Anda perlu menyiapkan kotak fermentasi dari kayu keras berukuran minimal 60x60x60 cm dengan lubang drainase di dasar. Kumpulkan biji kakao segar minimal 50-75 kg per batch agar massa cukup untuk menghasilkan panas fermentasi. Masukkan biji ke dalam kotak, tutup dengan daun pisang dan karung goni. Fermentasi berlangsung 5-6 hari. Di hari ke-2, lakukan pembalikan pertama — saat ini suhu harus sudah naik ke 40-45 derajat Celsius. Pembalikan kedua di hari ke-4 dan ketiga di hari ke-5. Suhu optimal di fase akhir adalah 48-50 derajat. Indikator fermentasi berhasil: biji berwarna cokelat kemerahan saat dibelah (bukan slaty abu-abu), aroma asam cuka berkurang digantikan aroma cokelat. Setelah fermentasi, keringkan di bawah matahari selama 5-7 hari dengan pengadukan setiap 2 jam hingga kadar air mencapai 7 persen. Dengan fermentasi baik, harga bisa naik 15-25 persen dibanding biji tanpa fermentasi."
+      },
+      {
+        "role": "user",
+        "content": "Kalau panen saya sedikit, tidak cukup 50 kg per batch, bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika volume panen kurang dari 50 kg, fermentasi dalam kotak besar tidak optimal karena massa biji tidak cukup menghasilkan panas yang diperlukan. Ada beberapa solusi. Pertama, berkoordinasi dengan petani sekitar untuk fermentasi kolektif — kumpulkan panen beberapa petani dalam satu unit fermentasi di kelompok tani. Ini juga efisien dari segi biaya alat. Kedua, jika harus fermentasi sendiri, gunakan wadah lebih kecil seperti ember plastik food grade berlubang di dasar, bungkus dengan karung goni tebal untuk menjaga panas, dan tempatkan di area yang tidak tertiup angin. Tambahkan daun pisang di atas untuk insulasi. Ketiga, metode fermentasi kantong plastik berperforasi bisa menjadi alternatif untuk volume kecil 10-20 kg. Kuncinya tetap sama: jaga suhu naik di atas 40 derajat Celsius dan lakukan pembalikan teratur. Meskipun hasil tidak seoptimal fermentasi volume besar, ini tetap jauh lebih baik daripada menjual biji tanpa fermentasi sama sekali."
+      }
+    ]
+  },
+  {
+    "title": "Budidaya vanili yang menguntungkan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tertarik budidaya vanili karena harganya tinggi. Apa saja tantangan utamanya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vanili memang komoditas dengan harga tertinggi di antara rempah — bisa mencapai Rp 3-5 juta per kg kering — namun tantangannya signifikan. Pertama, vanili membutuhkan waktu lama untuk berproduksi: tanam dari setek memerlukan 2-3 tahun hingga berbunga pertama. Kedua, penyerbukan harus dilakukan secara manual karena serangga penyerbuk alami Melipona tidak ada di Indonesia. Setiap bunga hanya mekar satu hari dan harus diserbuki pada pagi hari antara jam 06.00-11.00 menggunakan tusuk bambu kecil untuk memindahkan polen ke stigma. Ketiga, proses curing atau pengeringan vanili memakan waktu 6-9 bulan untuk mengembangkan senyawa vanillin yang menentukan mutu dan harga. Proses ini meliputi tahapan killing, sweating, drying, dan conditioning yang memerlukan ketelitian tinggi. Keempat, vanili rentan terhadap penyakit busuk batang (Fusarium) terutama di musim hujan. Rekomendasi saya: mulai dengan skala kecil 500-1000 setek pada tiang hidup Gliricidia di bawah naungan 50-60 persen, pelajari teknik penyerbukan manual, dan bergabung dengan kelompok tani vanili yang sudah berpengalaman untuk mentoring proses curing."
+      }
+    ]
+  }
+]

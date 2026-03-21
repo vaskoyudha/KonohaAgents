@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pemilihan varietas padi unggul untuk lahan tadah hujan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Lahan saya tadah hujan di Tuban, Jawa Timur, sering kekeringan di akhir musim. Varietas padi apa yang cocok dan dimana bisa dapat benih bersertifikat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk lahan tadah hujan yang rawan kekeringan di Tuban, saya rekomendasikan beberapa Varietas Unggul Baru (VUB) yang toleran kekeringan. Pertama, Inpago 12 yang merupakan padi gogo dengan potensi hasil 6-7 ton/ha dan toleran terhadap cekaman kekeringan. Kedua, Situ Bagendit yang sudah teruji adaptif di lahan tadah hujan Jawa Timur dengan umur panen sekitar 110 hari. Ketiga, Inpari 38 Tadah Hujan yang dirancang khusus untuk ekosistem tadah hujan dengan ketahanan cukup baik terhadap blast dan hawar daun bakteri. Untuk mendapatkan benih bersertifikat berlabel biru, Anda bisa menghubungi penangkar benih yang terdaftar di BPSB Jawa Timur, membeli melalui kios pertanian resmi yang menjual produk PT Sang Hyang Seri atau PT Pertani, atau menghubungi Balai Besar Penelitian Tanaman Padi Sukamandi yang sering mendistribusikan benih sumber VUB baru. Pastikan kemasan memiliki label BPSB berwarna biru dengan nomor sertifikat yang jelas."
+      }
+    ]
+  },
+  {
+    "title": "Prosedur menjadi penangkar benih bersertifikat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ketua kelompok tani dan tertarik jadi penangkar benih padi. Apa syarat dan prosedurnya agar benih kami bisa bersertifikat BPSB?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menjadi penangkar benih bersertifikat adalah peluang bisnis yang bagus karena permintaan benih bermutu selalu tinggi. Berikut prosedur sesuai Permentan 02/2014. Pertama, daftarkan kelompok tani atau perusahaan Anda sebagai produsen benih ke Dinas Pertanian kabupaten dan ajukan izin usaha perbenihan. Kedua, dapatkan benih sumber kelas Benih Pokok (BP/label ungu) dari BB Padi, Balitbangtan, atau penangkar terakreditasi karena Anda akan memproduksi Benih Sebar (BR). Ketiga, tanam di lahan yang terisolasi minimal 3 meter dari pertanaman padi varietas lain untuk menjaga kemurnian. Keempat, ajukan permohonan sertifikasi ke BPSB provinsi sebelum tanam, mereka akan melakukan pemeriksaan lapangan minimal dua kali yaitu fase vegetatif dan generatif. Kelima, setelah panen, proses benih melalui pengeringan hingga kadar air 12%, pembersihan, dan grading. Keenam, kirim sampel ke laboratorium BPSB untuk uji daya tumbuh minimal 80% dan kemurnian varietas. Jika semua standar terpenuhi, BPSB menerbitkan sertifikat dan label biru yang bisa Anda tempelkan pada kemasan benih untuk dijual secara legal."
+      }
+    ]
+  }
+]

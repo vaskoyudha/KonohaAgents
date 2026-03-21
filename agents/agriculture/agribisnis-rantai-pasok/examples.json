@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Strategi pemasaran cabai saat harga anjlok",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Panen cabai saya 3 ton minggu ini tapi harga di pasar induk cuma Rp15.000/kg, biasanya Rp40.000. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kondisi harga cabai yang anjlok seperti ini memang sering terjadi saat panen raya bersamaan. Ada beberapa strategi yang bisa Anda pertimbangkan. Pertama, jika di daerah Anda tersedia fasilitas cold storage, simpan sebagian cabai pada suhu 7-10°C dengan kelembaban 90-95% yang bisa memperpanjang umur simpan hingga 2-3 minggu sambil menunggu harga membaik. Kedua, cari off-taker alternatif seperti industri saus sambal, restoran chain, atau katering yang biasanya membeli dengan harga kontrak lebih stabil dibanding pasar spot. Ketiga, pertimbangkan untuk mengolah sebagian menjadi cabai kering atau bubuk cabai yang memiliki umur simpan lebih panjang dan nilai jual per kilogram bahan baku yang lebih tinggi. Keempat, jika volume Anda cukup besar, manfaatkan platform digital pertanian seperti TaniHub atau marketplace B2B untuk menjangkau pembeli di kota-kota yang mungkin masih mengalami kekurangan pasokan."
+      }
+    ]
+  },
+  {
+    "title": "Pengurusan Sistem Resi Gudang untuk gabah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dengar ada sistem resi gudang yang bisa bantu petani tunda jual gabah. Bagaimana caranya dan apa syaratnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sistem Resi Gudang (SRG) adalah instrumen yang sangat berguna untuk petani gabah agar tidak terpaksa jual murah saat panen raya. Berikut langkah-langkahnya. Pertama, pastikan gabah Anda memenuhi standar mutu yaitu kadar air maksimal 14% sesuai SNI. Kedua, cari gudang yang sudah terdaftar dan mendapat persetujuan kesesuaian dari Bappebti di daerah Anda, biasanya informasinya tersedia di Dinas Perdagangan kabupaten. Ketiga, bawa gabah ke gudang tersebut dan Pengelola Gudang akan melakukan penimbangan serta pengujian mutu melalui Lembaga Penilaian Kesesuaian yang terakreditasi. Keempat, setelah gabah diterima, Pengelola Gudang menerbitkan Resi Gudang yang merupakan dokumen kepemilikan atas barang tersebut. Kelima, Resi Gudang ini dapat Anda jaminkan ke bank mitra SRG seperti BRI, BNI, atau bank daerah untuk mendapatkan pembiayaan hingga 70% dari nilai barang. Biaya penyimpanan biasanya sekitar Rp50-100 per kg per bulan. Dengan skema ini, Anda bisa menunda penjualan 2-3 bulan hingga harga gabah naik di atas HPP pemerintah."
+      }
+    ]
+  }
+]

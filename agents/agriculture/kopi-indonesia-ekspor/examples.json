@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Meningkatkan mutu Arabika Gayo untuk specialty market",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kopi Arabika saya di Takengon, Gayo, ketinggian 1500 mdpl. Tahun lalu cupping score cuma 78. Bagaimana cara naikkan ke 82+?"
+      },
+      {
+        "role": "assistant",
+        "content": "Score 78 menunjukkan kopi Anda sudah di ambang specialty, jadi potensinya sangat bagus untuk naik ke 82+. Di ketinggian 1500 mdpl Takengon, Anda sudah punya modal terroir yang kuat. Ada tiga area perbaikan utama. Pertama, pemetikan harus benar-benar selektif — hanya cherry merah penuh, tidak ada cherry kuning atau hijau. Satu buah mentah bisa menurunkan clean cup secara signifikan. Lakukan pemetikan setiap 10-14 hari selama musim panen. Kedua, perbaiki pengolahan. Jika menggunakan proses washed, kontrol fermentasi pada durasi 18-24 jam dengan suhu konsisten di bawah 22 derajat Celsius. Gunakan air bersih untuk pencucian dan lakukan pengeringan di raised bed atau para-para bambu hingga kadar air tepat 11-12 persen, bukan di lantai jemur tanah yang bisa menimbulkan earthy taint. Ketiga, sortasi biji kering harus ketat: buang biji hitam, pecah, berlubang PBKo, dan ukuran tidak seragam. Target defect count di bawah 5 nilai cacat per 350 gram sampel. Kombinasi ketiga perbaikan ini realistis untuk mengangkat score 4-5 poin."
+      },
+      {
+        "role": "user",
+        "content": "Apakah perlu ganti varietas untuk dapat score lebih tinggi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak selalu perlu ganti varietas. Jika Anda menanam varietas lokal Gayo seperti Tim Tim, Ateng Super, atau Gayo 1, varietas-varietas ini sudah terbukti mampu menghasilkan specialty grade di atas 84 dengan pengelolaan yang tepat. Tim Tim khususnya dikenal menghasilkan profil rasa kompleks dengan body tebal dan acidity yang balance. Namun jika ingin diversifikasi dan eksperimen, Anda bisa mencoba varietas baru seperti Andungsari atau Sigarar Utang yang dikembangkan Puslitkoka Jember, atau varietas internasional seperti Bourbon dan Typica yang memiliki cup quality tinggi namun produktivitas lebih rendah. Rekomendasi saya: pertahankan varietas existing dan fokuskan investasi pada perbaikan proses pemetikan dan pasca panen terlebih dahulu karena dampaknya terhadap cup quality jauh lebih besar dan lebih cepat terasa dibanding menunggu tanaman baru berproduksi 3-4 tahun."
+      }
+    ]
+  },
+  {
+    "title": "Prosedur ekspor kopi ke Eropa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin ekspor langsung Robusta fine grade ke buyer di Belanda. Dokumen apa saja yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk ekspor kopi ke Belanda, Anda memerlukan serangkaian dokumen wajib. Pertama, pastikan perusahaan Anda sudah memiliki NIB (Nomor Induk Berusaha) dengan KBLI terkait perdagangan ekspor dan ETK (Eksportir Terdaftar Kopi) dari Kemendag. Kedua, siapkan dokumen per shipment: Invoice dan Packing List, Bill of Lading dari shipping line, ICO Certificate of Origin dari AEKI yang memvalidasi origin Indonesia, Surat Keterangan Asal (SKA) Form A untuk preferensi tarif GSP dari Dinas Perindag, dan Phytosanitary Certificate dari Barantan yang menyatakan kopi bebas hama karantina. Ketiga, kopi harus memenuhi SNI 01-2907-2008 minimal grade 4 untuk ekspor namun untuk specialty ke Belanda targetkan grade 1 dengan defect di bawah 11 nilai cacat. Untuk Robusta fine grade, siapkan juga cupping report dari Q-Robusta grader bersertifikat sebagai bukti mutu. Pastikan kadar air di bawah 13 persen dan kemas dalam karung GrainPro untuk menjaga freshness selama pengiriman laut 25-30 hari."
+      }
+    ]
+  }
+]

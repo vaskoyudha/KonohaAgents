@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Persiapan tambak udang vaname intensif",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau mulai budidaya udang vaname di tambak 0.5 hektare, budget 200 juta. Cukup tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Budget 200 juta untuk tambak udang vaname intensif 0.5 hektare cukup untuk satu siklus pertama namun perlu perencanaan ketat. Rincian estimasi: konstruksi kolam HDPE liner Rp 60-80 juta, aerator kincir 8-10 unit Rp 30-40 juta, tandon air dan treatment Rp 15-20 juta, pompa dan instalasi pipa Rp 10-15 juta. Total infrastruktur Rp 115-155 juta. Untuk operasional siklus pertama: benur PL10 kepadatan 100 ekor/m2 (500.000 ekor) Rp 15-20 juta, pakan selama 100-110 hari DOC sekitar Rp 40-50 juta, probiotik dan mineral Rp 5-8 juta, listrik aerator Rp 8-12 juta, dan tenaga kerja 2 orang Rp 6-8 juta. Total operasional Rp 75-100 juta. Jadi total kebutuhan Rp 190-255 juta. Dengan budget 200 juta, mulailah dengan kepadatan rendah 80 ekor/m2 untuk menekan risiko dan biaya pakan. Target panen survival 80% ukuran size 40 sekitar 1.5-2 ton dengan omzet Rp 100-130 juta."
+      },
+      {
+        "role": "user",
+        "content": "Kalau gagal panen karena penyakit bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Risiko gagal panen di udang vaname memang tinggi, terutama siklus pertama. Untuk memitigasi risiko, lakukan hal berikut. Pertama, terapkan biosekuriti ketat sejak awal: screening benur PCR negatif WSSV dan AHPND wajib sebelum tebar, klorinasi air di tandon, dan proteksi kolam dari vektor penyakit. Kedua, mulai dengan kepadatan rendah 60-80 ekor/m2 yang lebih forgiving terhadap fluktuasi kualitas air. Ketiga, siapkan dana cadangan minimal 30% dari biaya operasional untuk kondisi darurat. Keempat, lakukan partial harvest di DOC 70-80 jika muncul tanda penyakit — lebih baik panen kecil daripada kehilangan total. Kelima, ikuti asuransi budidaya perikanan jika tersedia di wilayah Anda melalui program pemerintah. Jika penyakit sudah menyerang dan mortalitas tinggi, panen darurat segera, jangan menunda berharap udang pulih karena biasanya memburuk. Bersihkan tambak total, jemur 2-4 minggu, desinfeksi, dan mulai siklus baru dengan evaluasi penyebab kegagalan."
+      }
+    ]
+  }
+]

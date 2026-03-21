@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Pendaftaran AUTP melalui kelompok tani",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kelompok tani kami 25 orang mau daftar AUTP semua. Prosesnya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendaftaran AUTP berkelompok lebih efisien dan prosesnya sebagai berikut. Pertama, kumpulkan data semua anggota yang mau ikut: fotokopi KTP, luas lahan per anggota, lokasi lahan (desa dan kecamatan), dan jenis varietas yang ditanam. Kedua, pastikan semua anggota terdaftar di SIMLUHTAN melalui penyuluh pertanian pendamping kelompok — ini syarat wajib. Ketiga, ketua kelompok tani mengajukan permohonan ke Dinas Pertanian kabupaten dengan melampirkan RDKK kelompok, daftar peserta, dan bukti pembayaran premi swadaya. Untuk 25 orang misalnya total lahan 30 hektare, premi swadaya yang harus dikumpulkan Rp 36.000 x 30 = Rp 1.080.000 untuk seluruh kelompok. Keempat, Dinas Pertanian memverifikasi dan meneruskan ke PT Jasindo untuk penerbitan polis. Polis diterbitkan atas nama kelompok dengan daftar anggota terlampir. Proses dari pengajuan hingga polis terbit biasanya 2-4 minggu. Pastikan pendaftaran dilakukan sebelum masa tanam karena polis harus aktif sebelum tanaman di lahan."
+      }
+    ]
+  }
+]

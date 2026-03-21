@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memulai budidaya lele di kolam terpal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pemula mau budidaya lele di pekarangan rumah, kolam terpal ukuran berapa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk pemula, saya sarankan mulai dengan kolam terpal ukuran 2x3 meter atau 3x4 meter dengan kedalaman 80-100 cm. Ukuran ini cukup untuk belajar manajemen budidaya tanpa modal terlalu besar. Kolam terpal bulat diameter 2 meter juga bisa menjadi pilihan karena lebih mudah dalam sirkulasi air. Persiapan kolam: pasang rangka dari besi atau bambu yang kokoh, gunakan terpal tebal minimal 500 mikron, dan pastikan dasar rata tanpa benda tajam. Isi air bersih dan diamkan 3-5 hari untuk menghilangkan klorin jika menggunakan air PDAM. Tambahkan probiotik EM4 perikanan 5-10 ml per m3 untuk membangun bakteri pengurai. Untuk kolam 3x4 meter (12 m2), Anda bisa menebar 2.000-2.500 benih lele ukuran 5-7 cm. Modal awal termasuk kolam terpal Rp 300.000-500.000, benih Rp 300.000-400.000, dan pakan untuk satu siklus sekitar Rp 2-2.5 juta. Total investasi awal sekitar Rp 3-3.5 juta dengan potensi omzet Rp 3.5-5 juta per siklus 2.5-3 bulan."
+      },
+      {
+        "role": "user",
+        "content": "Pakan apa yang paling hemat tapi ikan tetap cepat besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk lele, strategi pakan yang efisien adalah kombinasi pakan pabrikan dan pakan tambahan. Pada fase starter (benih hingga ukuran 3-5 cm), gunakan pakan pellet apung protein tinggi 35-40% sebanyak 3-5% berat biomassa per hari, dibagi 3-4 kali pemberian. Fase grower (5-15 cm), turunkan ke pakan protein 30-32% sebanyak 3% biomassa, dibagi 2-3 kali. Fase finisher (di atas 15 cm menjelang panen), protein 28-30% sebanyak 2-3% biomassa, 2 kali sehari. Untuk penghematan, Anda bisa mengganti 20-30% pakan pabrikan dengan pakan tambahan murah: maggot BSF (Black Soldier Fly) yang bisa dibudidayakan sendiri dari sampah organik, keong mas yang melimpah di sawah, atau usus ayam dari pasar yang dicacah halus. Namun jangan terlalu banyak mengganti pakan pabrikan karena akan memperlambat pertumbuhan dan memperpanjang siklus. Target FCR yang baik untuk lele adalah 1:1 sampai 1:1.2, artinya 1-1.2 kg pakan menghasilkan 1 kg ikan. Kunci utama hemat pakan adalah jangan overfeed — berikan pakan sebanyak yang habis dalam 15-20 menit."
+      }
+    ]
+  },
+  {
+    "title": "Penanganan penyakit nila di kolam tanah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Nila saya di kolam tanah 200 m2 mulai muncul bintik putih di badan dan sirip. Apa itu dan bagaimana mengatasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bintik putih pada nila kemungkinan besar adalah penyakit white spot atau Ichthyophthirius (Ich) yang disebabkan oleh parasit protozoa Ichthyophthirius multifiliis. Penyakit ini sangat umum terutama saat pergantian musim atau penurunan suhu air di bawah 25 derajat Celsius. Langkah penanganan: pertama, naikkan suhu air jika memungkinkan dengan mengurangi kedalaman air ke 60-70 cm agar sinar matahari lebih efektif memanaskan. Kedua, tambahkan garam ikan (NaCl non-yodium) dengan dosis 3-5 kg per m3 air kolam — untuk kolam 200 m2 kedalaman 1 meter berarti 600-1.000 kg garam. Ini akan mengganggu siklus hidup parasit. Ketiga, tingkatkan aerasi karena parasit mengurangi kemampuan insang menyerap oksigen. Keempat, kurangi pakan 50% selama perawatan karena ikan sakit nafsu makannya menurun dan pakan sisa memperburuk kualitas air. Lakukan pergantian air 20-30% setiap 2-3 hari selama pengobatan berlangsung 7-10 hari. Untuk pencegahan ke depan, karantina benih baru selama 7-14 hari sebelum masuk kolam utama."
+      }
+    ]
+  }
+]

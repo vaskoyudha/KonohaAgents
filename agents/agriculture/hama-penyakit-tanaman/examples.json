@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Diagnosis penyakit blast pada padi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Padi saya umur 50 HST, di beberapa rumpun ada bercak berbentuk belah ketupat berwarna abu-abu di tengah dan coklat di pinggirnya pada daun. Cuaca akhir-akhir ini mendung terus dan gerimis. Penyakit apa ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan deskripsi gejala bercak berbentuk belah ketupat atau mata berlian dengan warna abu-abu di tengah dan coklat gelap di pinggir, serta kondisi cuaca mendung dan lembab, ini sangat mengarah pada penyakit blast daun yang disebabkan jamur Pyricularia oryzae. Penyakit ini memang berkembang cepat pada kelembaban tinggi di atas 90% dan suhu 22-28 derajat Celcius yang cocok dengan kondisi cuaca mendung dan gerimis yang Anda deskripsikan. Pada umur 50 HST yang mendekati fase bunting, Anda harus waspada karena blast bisa menyerang leher malai yang dampaknya jauh lebih parah. Langkah pengendalian yang perlu segera dilakukan: pertama, periksa persentase daun yang terserang di beberapa titik sampel, jika sudah di atas 5% segera bertindak. Kedua, kurangi pemberian nitrogen jika masih ada rencana pemupukan susulan karena nitrogen berlebih memperparah blast. Ketiga, perbaiki drainase lahan agar tidak tergenang dan kurangi kelembaban. Keempat, jika serangan sudah di atas ambang, aplikasikan fungisida berbahan aktif trisiklazol 200 g/L dengan dosis sesuai label, semprot saat pagi hari tanpa hujan. Lakukan monitoring ulang 5-7 hari setelah aplikasi untuk menilai efektivitas."
+      }
+    ]
+  },
+  {
+    "title": "Pengendalian terpadu ulat grayak pada jagung",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Jagung saya baru umur 3 minggu sudah diserang ulat yang masuk ke pucuk daun dan merusak titik tumbuh. Bagaimana cara mengatasi tanpa racun karena saya mau organic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yang menyerang jagung muda Anda kemungkinan besar adalah ulat grayak jagung (Spodoptera frugiperda) atau Fall Armyworm yang memang menjadi hama utama jagung di Indonesia sejak 2019. Ulat ini masuk ke pucuk daun muda dan merusak titik tumbuh yang sangat kritis pada umur 3 minggu. Untuk pengendalian tanpa pestisida sintetis, ada beberapa opsi yang bisa Anda terapkan. Pertama, ambil ulat secara manual di pagi atau sore hari saat ulat aktif, masukkan ke dalam ember berisi air sabun. Ini efektif untuk skala kecil di bawah setengah hektare. Kedua, gunakan agens hayati Bacillus thuringiensis (Bt) yang merupakan bakteri alami pembunuh ulat dan diperbolehkan dalam pertanian organik. Semprot formulasi Bt tepat ke pucuk daun tempat ulat bersembunyi pada sore hari. Ketiga, aplikasikan Beauveria bassiana yang merupakan jamur entomopatogen alami, semprotkan suspensi spora pada tanaman terserang saat kelembaban tinggi. Keempat, pasang perangkap feromon untuk menangkap ngengat jantan Spodoptera dan mengurangi populasi generasi berikutnya. Kelima, tanam tanaman refugia seperti bunga matahari atau kenikir di pinggir lahan untuk menarik musuh alami seperti Trichogramma dan Telenomus yang memparasit telur ulat grayak."
+      }
+    ]
+  }
+]

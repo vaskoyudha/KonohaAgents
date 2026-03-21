@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Penerapan SRI di lahan tadah hujan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya petani di Gunung Kidul, lahan tadah hujan 0.5 hektare. Bisa pakai SRI tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, meskipun perlu adaptasi. Di lahan tadah hujan Gunung Kidul, kunci utamanya adalah menjaga kelembaban tanah tanpa harus menggenangkan lahan secara terus-menerus. Pertama, gunakan bibit muda umur 12-15 hari agar lebih tahan stres air. Tanam tunggal dengan jarak 25x25 cm. Untuk mengatasi keterbatasan air, aplikasikan mulsa organik dari jerami setebal 5-7 cm di antara barisan tanaman untuk menekan penguapan dan menjaga kelembaban. Buat saluran drainase mikro setiap 4 meter untuk mengatur air hujan agar tidak menggenang berlebihan saat hujan deras tapi juga tertahan saat kering. Tambahkan pupuk organik minimal 2 ton per hektare sebelum tanam untuk memperbaiki daya ikat air tanah. Pilih varietas toleran kekeringan seperti Inpari 38 atau Situ Bagendit yang cocok untuk kondisi tadah hujan di daerah karst."
+      },
+      {
+        "role": "user",
+        "content": "Kalau musim kemarau panjang bagaimana? Biasanya lahan saya kering 3 bulan."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk periode kering 3 bulan, SRI murni memang sulit diterapkan. Strategi terbaik adalah menanam di awal musim hujan agar fase vegetatif dan generatif padi mendapat air cukup. Hitung mundur dari prakiraan musim BMKG untuk menentukan waktu semai. Jika hujan mulai Oktober, semai awal Oktober dan tanam pertengahan Oktober. Dengan varietas genjah seperti Inpari 32 yang panen 110-120 hari, Anda bisa panen sebelum air habis di Februari. Selama fase pengisian bulir yang kritis, pastikan tanah minimal lembab dengan mulsa tebal dan penyiraman darurat dari tampungan air hujan jika memungkinkan. Selama 3 bulan kering, manfaatkan lahan untuk tanaman palawija yang hemat air seperti kedelai atau kacang tanah sebagai rotasi."
+      }
+    ]
+  },
+  {
+    "title": "Perbandingan biaya SRI vs konvensional",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Katanya SRI hemat tapi saya dengar butuh tenaga kerja lebih banyak untuk tanam satu-satu. Gimana hitungannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda benar bahwa proses tanam SRI membutuhkan ketelitian lebih, namun secara keseluruhan biaya produksi justru lebih rendah. Mari kita bandingkan per hektare. Untuk benih, konvensional butuh 25-30 kg seharga Rp 300.000-400.000, SRI cukup 5-7 kg seharga Rp 60.000-90.000, hemat sekitar Rp 250.000. Untuk pupuk, SRI menekankan pupuk organik yang bisa dibuat sendiri dari jerami dan kotoran ternak, mengurangi pupuk anorganik hingga 30-50%, hemat Rp 500.000-800.000. Penggunaan air berkurang 25-40% sehingga biaya pompa lebih rendah. Memang biaya tenaga tanam naik sekitar Rp 200.000-300.000 karena tanam tunggal lebih lambat, tapi ini bisa dikurangi dengan alat tanam sederhana atau caplak jarak. Total penghematan bersih sekitar Rp 500.000-1.000.000 per hektare per musim, belum termasuk peningkatan hasil panen yang bisa 1-2 ton lebih tinggi dari rata-rata konvensional 5-6 ton per hektare."
+      }
+    ]
+  }
+]

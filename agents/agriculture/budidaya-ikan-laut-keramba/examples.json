@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Perencanaan usaha budidaya kerapu di KJA",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya nelayan di Kepulauan Seribu, Jakarta, ingin beralih ke budidaya kerapu cantang di KJA. Bagaimana memulainya dan berapa modal yang perlu disiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kepulauan Seribu merupakan lokasi yang baik untuk budidaya kerapu cantang karena memiliki perairan yang relatif tenang dengan salinitas stabil 30-33 ppt. Untuk memulai dengan skala kecil 4 unit keramba HDPE ukuran 3x3x3 meter, berikut perkiraan modal dan langkahnya. Modal awal sekitar Rp100-150 juta yang terdiri dari: konstruksi keramba HDPE 4 unit sekitar Rp60-80 juta termasuk jaring polyethylene, tali jangkar, dan pelampung; benih kerapu cantang ukuran 8-10 cm sebanyak 2.000-3.000 ekor dengan harga Rp5.000-8.000 per ekor sekitar Rp15-24 juta; pakan pellet dan ikan rucah untuk 8-10 bulan pemeliharaan sekitar Rp25-35 juta; dan biaya operasional lainnya seperti perahu, tenaga kerja, dan obat-obatan. Langkah pertama, urus izin lokasi budidaya dari Dinas Kelautan DKI Jakarta dan pastikan lokasi Anda berada di zona yang diperbolehkan untuk KJA. Pilih lokasi dengan kedalaman minimal 8-10 meter, arus moderat 15-30 cm/detik, dan jauh dari jalur pelayaran. Benih bisa diperoleh dari BPBL Batam atau penangkar swasta bersertifikat. Target panen kerapu cantang di size 500-700 gram membutuhkan waktu 8-10 bulan dengan FCR pellet sekitar 1.5-1.8 dan harga jual hidup Rp90.000-120.000 per kg."
+      }
+    ]
+  },
+  {
+    "title": "Penanganan penyakit VNN pada ikan laut",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ikan kerapu di keramba saya berenang berputar-putar dan beberapa mengapung miring. Sudah ada sekitar 20 ekor yang mati dalam 3 hari. Apa yang terjadi dan bagaimana mengatasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gejala yang Anda deskripsikan yaitu berenang berputar tidak beraturan dan mengapung miring mengarah pada infeksi Viral Nervous Necrosis (VNN) atau penyakit saraf viral yang sangat umum menyerang kerapu, terutama pada ukuran juvenil. VNN menyerang sistem saraf dan otak ikan sehingga menyebabkan gangguan keseimbangan. Langkah penanganan darurat yang perlu segera dilakukan: pertama, pisahkan ikan yang menunjukkan gejala ke keramba karantina terpisah untuk mencegah penularan lebih luas. Kedua, angkat dan musnahkan ikan yang sudah mati dengan cara yang benar, jangan buang ke laut karena bisa menyebarkan virus. Ketiga, kurangi kepadatan ikan di keramba yang terinfeksi jika memungkinkan. Keempat, tingkatkan kualitas pakan dengan menambahkan vitamin C dan imunostimulan untuk meningkatkan daya tahan tubuh ikan yang masih sehat. Kelima, lakukan desinfeksi jaring dan peralatan menggunakan larutan formalin atau klorin sesuai dosis. Sayangnya, belum ada obat spesifik untuk VNN sehingga pencegahan lebih penting. Untuk siklus berikutnya, pastikan benih yang Anda beli sudah di-screening PCR untuk VNN dari hatchery yang terpercaya, dan terapkan biosekuriti ketat di area keramba Anda."
+      }
+    ]
+  }
+]

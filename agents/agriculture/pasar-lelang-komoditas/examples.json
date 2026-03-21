@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Mengakses pasar lelang komoditas untuk petani kopi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya petani kopi di Lampung, biasanya jual ke pengepul dengan harga Rp25.000/kg green bean. Saya dengar di pasar lelang bisa dapat harga lebih tinggi. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benar, di pasar lelang komoditas harga kopi biasanya 10-20% lebih tinggi dari harga pengepul karena mekanisme penawaran terbuka dan pembeli langsung bersaing. Untuk kopi robusta Lampung grade 4 misalnya, harga di pasar lelang bisa mencapai Rp28.000-32.000 per kg tergantung kualitas. Berikut langkah untuk mengaksesnya. Pertama, hubungi Pasar Lelang Forward Agribisnis di Provinsi Lampung yang beroperasi di bawah koordinasi Dinas Perdagangan dan Bappebti. Biasanya lelang dilakukan secara periodik setiap 2 minggu atau sebulan sekali. Kedua, pastikan kopi Anda memenuhi standar mutu yang diminta, minimal kadar air di bawah 12%, cacat biji maksimal 4% untuk grade 4, dan dikemas dalam karung goni bersih. Semakin baik mutu kopi, semakin tinggi harga yang bisa didapat. Ketiga, daftarkan diri sebagai penjual di pasar lelang dengan membawa contoh sampel kopi 500 gram untuk pengujian mutu oleh tim penilai. Keempat, saat lelang berlangsung, penawaran dimulai dari harga dasar dan pembeli seperti eksportir, roaster, dan industri akan menawar secara terbuka. Anda berhak menolak jika harga akhir belum sesuai ekspektasi. Pembayaran dijamin melalui lembaga kliring sehingga lebih aman dibanding transaksi langsung. Alternatif lain, jika volume Anda belum cukup besar, gabung dengan koperasi atau kelompok tani agar bisa mengumpulkan volume minimal 5-10 ton yang lebih menarik bagi pembeli di pasar lelang."
+      }
+    ]
+  },
+  {
+    "title": "Strategi tunda jual menggunakan Sistem Resi Gudang",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Harga gabah sekarang cuma Rp5.500/kg padahal HPP pemerintah Rp6.200. Saya tidak mau rugi tapi butuh uang untuk musim tanam berikutnya. Ada solusi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Situasi seperti ini memang sering terjadi saat panen raya dimana pasokan melimpah dan harga turun di bawah HPP. Solusi terbaik adalah memanfaatkan Sistem Resi Gudang (SRG) yang memungkinkan Anda menunda penjualan sambil tetap mendapat uang tunai. Caranya: pertama, keringkan gabah hingga kadar air maksimal 14% sesuai standar penyimpanan. Kedua, bawa gabah ke gudang yang terakreditasi Bappebti di kabupaten Anda, biasanya informasinya tersedia di Dinas Perdagangan. Ketiga, Pengelola Gudang akan menimbang dan menguji mutu gabah Anda. Jika memenuhi standar, mereka menerbitkan Resi Gudang yang merupakan bukti kepemilikan resmi atas gabah tersebut. Keempat, bawa Resi Gudang ke bank mitra SRG seperti BRI, BNI, atau Bank Jatim dan ajukan pinjaman menggunakan Resi Gudang sebagai jaminan. Bank akan memberikan pinjaman hingga 70% dari nilai gabah berdasarkan HPP, jadi jika gabah Anda bernilai Rp50 juta, Anda bisa dapat pinjaman Rp35 juta dengan bunga rendah sekitar 6-7% per tahun. Kelima, gunakan pinjaman tersebut untuk modal musim tanam berikutnya. Sementara itu, pantau harga gabah dan jual ketika harga sudah naik di atas HPP, biasanya 2-3 bulan setelah panen raya. Hasil penjualan digunakan untuk melunasi pinjaman bank dan sisanya menjadi keuntungan Anda. Biaya penyimpanan di gudang SRG biasanya sekitar Rp50-100 per kg per bulan."
+      }
+    ]
+  }
+]

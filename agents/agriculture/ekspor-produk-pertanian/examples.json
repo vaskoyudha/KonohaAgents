@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Prosedur ekspor manggis ke China",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya petani manggis di Purwakarta, sudah beberapa kali didatangi eksportir tapi saya ingin ekspor sendiri ke China. Apa saja langkah dan persyaratannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ekspor manggis ke China memang sangat menjanjikan karena permintaan tinggi dan harga premium. Berikut langkah lengkapnya. Pertama, daftarkan kebun manggis Anda melalui sistem IQFAST BKIPM untuk mendapatkan nomor registrasi kebun. Syaratnya kebun harus menerapkan GAP, bebas dari hama karantina terutama lalat buah (Bactrocera spp.), dan memiliki catatan penerapan pestisida yang sesuai batas MRL China. Kedua, siapkan izin usaha perdagangan dan NIB (Nomor Induk Berusaha) melalui sistem OSS jika Anda akan ekspor langsung. Ketiga, saat panen, lakukan sortasi ketat untuk memastikan manggis berukuran seragam, bebas kerusakan fisik, dan matang optimal. Keempat, manggis harus melalui proses treatment pascapanen biasanya Vapor Heat Treatment (VHT) pada suhu 46.5°C selama 20 menit untuk mengeliminasi lalat buah sesuai protokol yang disepakati antara Indonesia dan China. Kelima, ajukan permohonan sertifikat phytosanitary ke Badan Karantina Pertanian setempat dengan membawa sampel untuk pemeriksaan. Petugas karantina akan melakukan inspeksi dan pengujian laboratorium. Keenam, siapkan dokumen pengapalan: invoice, packing list, Bill of Lading, sertifikat phytosanitary, dan sertifikat asal barang (SKA). Proses keseluruhan dari registrasi kebun hingga pengapalan pertama bisa memakan waktu 3-6 bulan."
+      }
+    ]
+  },
+  {
+    "title": "Persyaratan ekspor kopi ke Uni Eropa",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Koperasi kami di Gayo, Aceh, menghasilkan kopi arabika specialty grade. Kami ingin ekspor langsung ke roaster di Eropa. Apa yang perlu dipersiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kopi Gayo sudah memiliki reputasi sangat baik di pasar Eropa, jadi ini langkah yang tepat. Untuk ekspor kopi ke Uni Eropa, berikut persiapannya. Dari sisi kualitas, pastikan kopi memenuhi standar specialty dengan skor cupping minimal 80 poin SCA, kadar air green bean 10-12%, defect count rendah sesuai grade yang ditawarkan, dan bebas dari kontaminasi ochratoxin A (OTA) di bawah 5 ppb sesuai regulasi EU 1881/2006. Dari sisi sertifikasi, roaster di Eropa biasanya mensyaratkan sertifikasi sustainability seperti Fairtrade, Rainforest Alliance, atau Organic yang bisa meningkatkan harga jual 20-40%. Proses sertifikasi organic membutuhkan masa konversi 3 tahun dan audit dari lembaga sertifikasi terakreditasi. Dari sisi dokumen ekspor, Anda memerlukan sertifikat ICO (International Coffee Organization) yang diterbitkan melalui AICE, sertifikat phytosanitary, sertifikat asal barang Form E atau EUR1 untuk preferensi tarif, dan fumigation certificate. Mulai 30 Desember 2024, EU juga memberlakukan EU Deforestation Regulation yang mensyaratkan due diligence bahwa kopi tidak berasal dari lahan deforestasi setelah 31 Desember 2020, jadi siapkan data geolokasi kebun dan bukti legalitas lahan. Untuk menemukan pembeli, ikuti pameran seperti World of Coffee atau gunakan platform B2B seperti Algrano yang menghubungkan petani kopi langsung dengan roaster Eropa."
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Sensor tanah untuk petani padi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dengar ada sensor tanah yang bisa bantu hemat air dan pupuk. Bagaimana cara kerjanya untuk sawah saya 3 hektare?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sensor tanah bekerja dengan mengukur parameter penting secara real-time dan mengirim datanya ke smartphone Anda. Untuk sawah 3 hektare, Anda butuh sensor kelembaban tanah di 4-6 titik strategis yang mewakili variasi lahan. Sensor ini mengukur kadar air tanah dan mengirim notifikasi ke HP ketika tanah terlalu kering (perlu pengairan) atau terlalu basah (perlu pengeringan). Investasi sensor kelembaban tanah berkisar Rp 200-500 ribu per unit dengan gateway LoRa seharga Rp 1-2 juta, total sekitar Rp 3-5 juta untuk setup awal. Manfaat langsung: Anda tidak perlu mengecek sawah setiap hari, pengairan menjadi tepat waktu sehingga hemat air 20-30%, dan fase macak-macak untuk pengeringan bisa dikontrol lebih presisi. Untuk pemupukan, sensor pH tanah (Rp 500 ribu-1 juta) membantu menentukan kebutuhan kapur dan dosis pupuk yang lebih tepat. Dalam 2-3 musim tanam, penghematan air dan pupuk sudah bisa mengembalikan investasi sensor."
+      }
+    ]
+  }
+]

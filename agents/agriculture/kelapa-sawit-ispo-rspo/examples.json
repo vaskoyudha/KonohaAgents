@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Panduan ISPO untuk pekebun swadaya",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pekebun sawit 3 hektare di Riau, belum punya ISPO. Langkah awalnya apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk pekebun swadaya di Riau dengan 3 hektare, langkah awal adalah memastikan legalitas lahan. Pastikan Anda memiliki Surat Tanda Daftar Budidaya (STDB) yang diterbitkan oleh dinas perkebunan kabupaten. Jika belum ada, urus melalui kelurahan dan kecamatan dengan membawa bukti kepemilikan lahan. Selanjutnya, bergabunglah dengan kelompok tani atau koperasi karena sertifikasi ISPO untuk pekebun swadaya dilakukan secara berkelompok, bukan individual. Kelompok tani akan didampingi oleh pemerintah daerah dalam proses persiapan. Mulai dokumentasikan praktik kebun Anda: catat jenis pupuk dan pestisida yang digunakan, buat peta sederhana kebun dengan titik koordinat GPS menggunakan smartphone, dan pastikan tidak ada pembakaran lahan dalam pengelolaan kebun. Biaya sertifikasi untuk pekebun swadaya biasanya difasilitasi oleh pemerintah daerah atau BPDPKS sehingga tidak membebani petani secara langsung."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama prosesnya sampai dapat sertifikat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Proses sertifikasi ISPO untuk pekebun swadaya umumnya memakan waktu 12-18 bulan sejak persiapan awal hingga terbitnya sertifikat. Tahap pertama sekitar 3-4 bulan untuk penyiapan dokumen dan pemenuhan persyaratan administratif termasuk STDB dan pembentukan kelompok. Tahap kedua sekitar 4-6 bulan untuk implementasi praktik perkebunan berkelanjutan sesuai 7 prinsip ISPO dan pendampingan dari petugas dinas. Tahap ketiga adalah audit oleh lembaga sertifikasi yang ditunjuk, biasanya memakan waktu 2-3 bulan termasuk perbaikan temuan jika ada ketidaksesuaian minor. Sertifikat ISPO berlaku 5 tahun dan harus diperpanjang melalui audit surveilans tahunan. Kunci keberhasilannya adalah konsistensi pencatatan dan keaktifan kelompok tani dalam mengikuti pendampingan."
+      }
+    ]
+  },
+  {
+    "title": "Strategi menghadapi EUDR untuk eksportir",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami ekspor CPO ke Eropa. Apa yang harus kami siapkan untuk EUDR?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk memenuhi EUDR, perusahaan Anda perlu menyiapkan tiga hal utama. Pertama, sistem traceability yang dapat melacak CPO hingga ke level kebun asal, termasuk kebun plasma dan pekebun swadaya yang menjadi pemasok. Setiap lot CPO harus memiliki data geolokasi kebun sumber dalam format polygon yang sesuai standar EUDR. Kedua, bukti legalitas menyeluruh mencakup HGU, izin lingkungan AMDAL, dan kepatuhan terhadap moratorium hutan. Pastikan seluruh areal kebun tidak termasuk dalam deforestasi setelah cut-off date 31 Desember 2020 dengan menyiapkan citra satelit time-series. Ketiga, due diligence statement yang harus diserahkan melalui sistem informasi EU sebelum produk masuk pasar Eropa. Mulailah dengan melakukan land use change analysis menggunakan data satelit untuk seluruh areal sumber CPO, kemudian bangun sistem digital pencatatan rantai pasok dari FFB collection point hingga refinery."
+      }
+    ]
+  }
+]

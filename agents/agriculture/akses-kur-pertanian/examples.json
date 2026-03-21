@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pengajuan KUR Mikro BRI untuk petani padi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya petani padi di Karawang dengan lahan 0.5 hektare milik sendiri. Butuh modal Rp20 juta untuk beli pupuk dan sewa traktor. Bisa ajukan KUR di BRI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, Pak. Dengan kebutuhan Rp20 juta, Anda masuk kategori KUR Mikro BRI yang plafonnya sampai Rp50 juta dengan bunga hanya 6% flat per tahun. Untuk KUR Mikro, Anda tidak perlu agunan tambahan selain usaha yang dibiayai. Dokumen yang perlu disiapkan: KTP dan KK asli beserta fotokopi, surat keterangan usaha dari kelurahan atau ketua kelompok tani, RDKK (Rencana Definitif Kebutuhan Kelompok) yang disusun bersama penyuluh pertanian setempat, fotokopi sertifikat tanah atau bukti kepemilikan lahan, serta pas foto terbaru. Langkah pertama, hubungi penyuluh pertanian di kecamatan Anda untuk mendapatkan rekomendasi teknis sesuai Permentan 39/2019. Penyuluh akan membantu menyusun rencana usaha tani dan RDKK. Setelah dokumen lengkap, kunjungi unit BRI terdekat untuk mengisi formulir pengajuan. Petugas BRI akan melakukan survei lapangan ke lahan Anda dalam 3-7 hari kerja. Proses persetujuan biasanya memakan waktu 1-2 minggu setelah survei."
+      }
+    ]
+  },
+  {
+    "title": "Solusi petani tanpa sertifikat tanah untuk akses kredit",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau ajukan KUR tapi lahan saya belum bersertifikat, cuma ada surat keterangan dari desa. Apa masih bisa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk KUR Mikro dengan plafon sampai Rp50 juta, tidak diwajibkan agunan sertifikat tanah sehingga surat keterangan kepemilikan dari desa atau kelurahan biasanya sudah cukup sebagai bukti penguasaan lahan. Yang penting, Anda harus terdaftar sebagai petani aktif di kelompok tani dan memiliki rekomendasi dari penyuluh pertanian. Jika Anda membutuhkan plafon lebih besar di atas Rp50 juta yaitu KUR Kecil, maka bank biasanya meminta agunan tambahan. Dalam kasus ini, surat keterangan desa bisa diperkuat dengan Surat Pernyataan Penguasaan Fisik Bidang Tanah yang disaksikan kepala desa dan diketahui camat. Alternatif lain, Anda bisa menggunakan BPKB kendaraan atau aset lain sebagai agunan tambahan. Saya sarankan juga untuk mengurus sertifikat tanah melalui program PTSL (Pendaftaran Tanah Sistematis Lengkap) dari BPN yang gratis untuk petani, sehingga ke depan akses kredit Anda lebih mudah."
+      }
+    ]
+  }
+]
