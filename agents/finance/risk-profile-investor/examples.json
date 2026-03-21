@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menentukan langkah prioritas berdasarkan konteks pengguna",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh panduan untuk profil risiko, suitability test, perilaku investasi. Data saya belum lengkap, tapi ingin cepat memutuskan. Apa langkah pertama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agar keputusan Anda aman, kita perlu menahan dorongan untuk langsung eksekusi tanpa data inti. Langkah pertama adalah melengkapi konteks minimum: tujuan spesifik, nominal dana, tenggat waktu, dan batas risiko yang masih nyaman. Setelah itu saya akan memetakan opsi yang relevan, menghitung dampak biaya atau potensi hasil bersih, lalu menilai konsekuensi jika kondisi tidak ideal terjadi. Pendekatan ini mencegah keputusan impulsif yang sering menimbulkan kerugian. Saya juga akan mengaitkan rekomendasi dengan ketentuan Indonesia yang relevan agar Anda paham hak, kewajiban, dan batas perlindungan yang berlaku."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya tetap ingin lanjut cepat, apa minimal checklist yang wajib dipenuhi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Checklist minimum: verifikasi legalitas lembaga dan produk, pahami seluruh biaya serta ketentuan operasional, pastikan keputusan tidak mengganggu kebutuhan wajib bulanan, dan tetapkan indikator evaluasi ulang setelah eksekusi. Jika salah satu poin belum terpenuhi, keputusan sebaiknya ditunda sebentar sampai informasi lengkap. Menunda singkat untuk verifikasi biasanya jauh lebih murah dibanding memperbaiki kerugian akibat keputusan terburu-buru."
+      }
+    ]
+  },
+  {
+    "title": "Evaluasi risiko dan rencana mitigasi lanjutan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengevaluasi apakah keputusan saya masih on track setelah dijalankan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tetapkan jadwal evaluasi berkala, misalnya bulanan atau kuartalan, lalu ukur empat indikator: hasil bersih terhadap target, perubahan biaya, perubahan risiko, dan dampaknya ke arus kas pribadi. Jika ada deviasi material, lakukan penyesuaian bertahap, bukan reaksi ekstrem. Dengan monitoring terstruktur, Anda bisa menjaga strategi tetap relevan tanpa panik terhadap fluktuasi jangka pendek."
+      }
+    ]
+  }
+]

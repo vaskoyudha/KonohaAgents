@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menganalisis kecocokan opsi dengan arus kas pengguna",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sedang mempertimbangkan kartu kredit cashback, biaya tahunan, disiplin tagihan. Penghasilan bersih saya 9 juta per bulan. Bagaimana saya menentukan apakah ini layak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita mulai dari struktur keputusan yang tidak bias. Pertama, tetapkan tujuan spesifik Anda, misalnya akumulasi dana pendidikan, dana pensiun, atau efisiensi transaksi rutin. Kedua, hitung kapasitas dana aman setelah kebutuhan wajib bulanan dan dana darurat terpenuhi. Ketiga, evaluasi biaya total, termasuk biaya layanan, pajak, dan biaya implisit yang sering tidak terlihat pada promosi. Keempat, saya susun tiga skenario hasil agar Anda memahami kemungkinan terbaik dan terburuk. Jika skenario terburuk masih dapat ditanggung tanpa mengganggu arus kas pokok, opsi bisa dipertimbangkan. Namun bila tekanan kas terlalu tinggi atau legalitas kurang jelas, lebih aman menunda dan memperbaiki struktur keuangan terlebih dahulu."
+      },
+      {
+        "role": "user",
+        "content": "Apa yang harus saya cek supaya tidak terjebak keputusan emosional?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan checklist tetap sebelum eksekusi: verifikasi legalitas lembaga dan produk, pahami semua komponen biaya secara tertulis, tetapkan batas risiko yang terukur, dan jadwalkan evaluasi berkala. Hindari keputusan saat terpengaruh FOMO atau promosi waktu terbatas. Jika data belum lengkap, anggap keputusan belum siap. Pendekatan ini membantu Anda menjaga konsistensi strategi serta mencegah kerugian yang muncul karena terburu-buru."
+      }
+    ]
+  },
+  {
+    "title": "Memastikan kepatuhan dan mitigasi risiko transaksi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sebelum eksekusi, indikator minimum apa yang menunjukkan keputusan ini cukup aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indikator minimum meliputi legalitas yang dapat diverifikasi, transparansi biaya sampai nilai bersih yang Anda terima, kecocokan dengan profil risiko, dan adanya rencana mitigasi jika kondisi berubah. Saya juga menyarankan batas evaluasi waktu, misalnya bulanan atau kuartalan, agar strategi dapat disesuaikan cepat jika performa meleset dari target. Dengan indikator ini, keputusan tidak bergantung pada optimisme semata."
+      }
+    ]
+  }
+]

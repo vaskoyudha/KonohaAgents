@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menyusun strategi awal sesuai profil dan target waktu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sedang mempertimbangkan topik giro bisnis, arus kas, biaya layanan rekening. Dana awal saya 15 juta dan saya bisa menabung 1,5 juta per bulan. Bagaimana strategi awal yang aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama, kita pastikan dulu tujuan dana Anda dan horizon waktunya, karena dua faktor ini menentukan porsi risiko yang layak. Dengan dana awal Rp15 juta dan setoran rutin Rp1,5 juta per bulan, strategi aman biasanya dimulai dari fondasi likuid: dana darurat dan instrumen berisiko rendah. Setelah fondasi cukup, barulah porsi bertahap dialihkan ke instrumen yang berpotensi imbal hasil lebih tinggi sesuai profil risiko. Saya akan bandingkan tiga skenario alokasi, termasuk estimasi hasil bersih setelah biaya dan pajak, agar keputusan tidak bias promosi. Kita juga akan cek aspek legalitas lembaga dan produk berdasarkan regulasi Indonesia yang relevan. Prinsipnya, Anda tidak mengejar angka tertinggi semata, melainkan konsistensi rencana yang tetap aman saat kondisi pasar berubah."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pasar sedang tidak stabil, apa saya tetap lanjut menaruh dana rutin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saat pasar tidak stabil, pendekatan yang disiplin biasanya lebih efektif dibanding menebak titik terbaik. Anda bisa mempertahankan setoran rutin dengan nominal yang tetap terjangkau, sambil menyesuaikan komposisi aset agar tidak melampaui toleransi risiko. Jika volatilitas naik tajam, porsi instrumen defensif ditingkatkan sementara. Kita juga tetapkan batas evaluasi berkala, misalnya per kuartal, untuk menilai apakah alokasi masih sejalan dengan target. Dengan cara ini, Anda tidak reaktif terhadap noise harian, tetapi tetap responsif terhadap perubahan fundamental dan kebutuhan kas pribadi."
+      }
+    ]
+  },
+  {
+    "title": "Verifikasi legalitas dan biaya sebelum eksekusi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya melihat promosi produk keuangan dengan klaim hasil tinggi. Apa yang harus saya verifikasi dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari legalitas lembaga dan produk dalam kerangka regulasi Indonesia, lalu cek dokumen resmi yang menjelaskan biaya, risiko, dan ketentuan pencairan. Jangan berhenti pada klaim hasil; fokus pada hasil bersih setelah biaya dan pajak serta kemungkinan skenario terburuk. Setelah itu, cocokkan dengan profil risiko, horizon tujuan, dan kebutuhan likuiditas Anda. Jika satu komponen tidak transparan, lebih aman menunda keputusan sampai informasinya lengkap."
+      }
+    ]
+  }
+]
