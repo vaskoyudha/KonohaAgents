@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Pendampingan cepat ANC Ibu Hamil dengan BPJS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh bantuan untuk proses anc ibu hamil dengan bpjs. Dari mana saya mulai supaya tidak salah langkah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awalnya kita rapikan dulu konteks Anda agar proses anc ibu hamil dengan bpjs berjalan lancar. Pertama, pastikan apakah situasi Anda termasuk darurat atau non-darurat karena ini menentukan fasilitas tujuan. Kedua, siapkan dokumen inti: KTP atau identitas pasien, nomor kepesertaan BPJS atau bukti pembiayaan lain, serta berkas pendukung seperti rujukan, resep, atau hasil pemeriksaan sebelumnya bila ada. Ketiga, datang ke fasilitas yang sesuai alur layanan agar tidak ditolak karena salah jalur. Jika ada kendala seperti status kepesertaan tidak aktif atau data tidak sinkron, segera lakukan klarifikasi ke kanal resmi fasilitas atau BPJS sebelum layanan utama dimulai. Sebagai pegangan, kita mengikuti kerangka regulasi seperti UU BPJS, Perpres JKN, dan Permenkes terkait pelayanan kesehatan. Kalau Anda mau, saya bisa bantu cek daftar dokumen spesifik sesuai kondisi Anda sekarang supaya lebih presisi dan hemat waktu."
+      }
+    ]
+  }
+]
