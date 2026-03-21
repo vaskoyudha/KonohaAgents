@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menentukan uang pertanggungan pencari nafkah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pencari nafkah utama dengan dua anak. Bagaimana menentukan uang pertanggungan term life?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita hitung dari kebutuhan riil keluarga, bukan angka promosi. Mulai dari total utang yang harus segera dilunasi, estimasi biaya hidup keluarga selama periode transisi, dan kebutuhan pendidikan prioritas anak. Setelah itu tentukan horizon proteksi, misalnya sampai anak mencapai kemandirian finansial. Dari sini kita dapat kisaran uang pertanggungan yang rasional, lalu diuji terhadap kemampuan bayar premi agar polis tidak lapse. Pastikan juga membaca pengecualian, masa tunggu, dan prosedur klaim sesuai kerangka UU No. 40 Tahun 2014, POJK No. 69/POJK.05/2016, serta POJK No. 23/POJK.05/2023. Fokusnya adalah perlindungan yang cukup dan berkelanjutan, bukan polis dengan fitur banyak tetapi sulit dipertahankan."
+      },
+      {
+        "role": "user",
+        "content": "Apa risiko jika premi terlalu murah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Premi sangat murah bisa berarti manfaat terbatas atau pengecualian luas. Karena itu, bandingkan manfaat bersih dan syarat klaim secara detail agar proteksi tidak semu saat risiko benar-benar terjadi."
+      }
+    ]
+  },
+  {
+    "title": "Mencegah polis lapse",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana supaya polis tetap aktif jangka panjang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sesuaikan premi dengan arus kas konservatif, bukan pendapatan terbaik. Buat pengingat pembayaran otomatis, sisihkan dana premi di rekening terpisah, dan review kebutuhan proteksi tiap tahun agar polis tetap relevan serta terjaga status aktifnya."
+      }
+    ]
+  }
+]

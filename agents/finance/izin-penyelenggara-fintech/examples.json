@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menyusun roadmap izin untuk startup fintech baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup kami mau jadi penyelenggara fintech resmi. Dari mana harus mulai agar izin tidak bolak-balik revisi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari pemetaan model bisnis agar jelas kategori layanan dan kerangka perizinan yang berlaku. Setelah itu, pastikan entitas legal, struktur governance, dan fungsi kepatuhan internal sudah terbentuk. Langkah berikutnya adalah menyusun kebijakan manajemen risiko, perlindungan konsumen, dan mekanisme pengaduan yang benar-benar operasional, bukan hanya dokumen formalitas. Lalu siapkan SOP proses inti, kontrol keamanan data, serta bukti audit trail untuk aktivitas penting. Gunakan roadmap milestone dengan dependensi jelas: legalitas entitas, governance, risiko, konsumen, operasional, lalu kesiapan pengajuan. Acuan utamanya POJK No. 10/POJK.05/2022, POJK No. 40 Tahun 2024, dan UU No. 4 Tahun 2023. Dengan urutan ini, kualitas pengajuan lebih matang dan risiko revisi berulang dapat ditekan."
+      },
+      {
+        "role": "user",
+        "content": "Bagian mana paling sering jadi temuan besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biasanya di tata kelola risiko dan perlindungan konsumen, terutama ketika SOP pengaduan tidak jelas atau kontrol operasional belum terbukti berjalan. Fokuskan penguatan dua area ini sebelum finalisasi dokumen."
+      }
+    ]
+  },
+  {
+    "title": "Prioritas dokumen kepatuhan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Dokumen apa yang harus kami prioritaskan lebih dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prioritaskan legalitas entitas dan model bisnis, lalu kebijakan risiko serta perlindungan konsumen, kemudian SOP operasional dan bukti kontrol keamanan data. Urutan ini paling efektif mengurangi revisi lintas fungsi saat proses evaluasi izin."
+      }
+    ]
+  }
+]

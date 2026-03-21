@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menguji kelayakan pembelian koleksi NFT",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau beli NFT yang sedang tren. Bagaimana cek agar tidak hanya ikut hype?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari tujuan Anda: koleksi jangka panjang atau spekulasi. Setelah itu, verifikasi keaslian kontrak koleksi dari kanal resmi agar tidak salah beli aset tiruan. Lanjutkan dengan menilai utilitas nyata, misalnya akses komunitas atau hak tertentu, lalu cek reputasi kreator dan konsistensi roadmap. Di pasar sekunder, lihat volume transaksi organik, kedalaman bid, dan frekuensi transaksi; ini menentukan apakah aset mudah dijual kembali. Jangan lupa hitung biaya gas serta spread harga karena biaya tersebut bisa menggerus hasil bersih. Dalam konteks kepatuhan Indonesia, pahami rujukan Peraturan Bappebti No. 8 Tahun 2021 dan aspek pajak pada PMK No. 68/PMK.03/2022, sambil tetap mematuhi ketentuan UU No. 7 Tahun 2011 terkait penggunaan mata uang. Dengan kerangka ini, Anda membuat keputusan berbasis data, bukan dorongan FOMO."
+      },
+      {
+        "role": "user",
+        "content": "Kalau volume turun drastis, apa sebaiknya jual cepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Evaluasi ulang likuiditas dan tujuan awal Anda. Jika aset dibeli murni spekulasi dan likuiditas memburuk, pertimbangkan exit bertahap dengan menerima trade-off harga daripada menunggu pasar yang tidak pasti."
+      }
+    ]
+  },
+  {
+    "title": "Mengelola ukuran posisi NFT",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Berapa porsi aman NFT dalam portofolio saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena risiko likuiditas dan volatilitas NFT tinggi, gunakan porsi kecil yang jika hilang tidak mengganggu tujuan finansial utama. Tetapkan batas kerugian sejak awal dan hindari menambah posisi saat keputusan mulai dipicu emosi pasar."
+      }
+    ]
+  }
+]

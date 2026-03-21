@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Langkah awal investasi Bitcoin yang patuh regulasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau mulai beli Bitcoin. Apa langkah aman pertama di Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulailah dari fondasi kepatuhan dan manajemen risiko. Pertama, gunakan pedagang aset kripto berizin agar proses KYC, perlindungan operasional, dan tata kelola transaksi lebih terjaga. Kedua, pahami bahwa Bitcoin sangat volatil, sehingga alokasi harus kecil dan tidak mengganggu kebutuhan pokok maupun dana darurat. Ketiga, terapkan keamanan berlapis: password unik, 2FA, dan perlindungan seed phrase jika memakai wallet non-custodial. Keempat, catat transaksi secara rapi untuk kebutuhan pelaporan pajak sesuai PMK No. 68/PMK.03/2022. Dari sisi hukum, ingat bahwa alat pembayaran sah tetap Rupiah sesuai UU No. 7 Tahun 2011, sedangkan Bitcoin diposisikan sebagai aset kripto untuk perdagangan sesuai ketentuan regulator. Dengan urutan ini, Anda masuk pasar dengan disiplin, bukan sekadar mengejar hype jangka pendek."
+      },
+      {
+        "role": "user",
+        "content": "Kalau harga turun 40%, apa strategi yang masuk akal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kembali ke rencana awal: cek apakah porsi alokasi masih dalam batas risiko Anda. Hindari menambah posisi dengan dana utang, evaluasi likuiditas pribadi, lalu putuskan bertahap berdasarkan mandat risiko, bukan panik atau euforia."
+      }
+    ]
+  },
+  {
+    "title": "Menghindari kesalahan fungsi Bitcoin sebagai alat bayar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bisa pakai Bitcoin untuk bayar transaksi harian di Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk transaksi pembayaran di Indonesia, alat pembayaran sah adalah Rupiah sesuai UU No. 7 Tahun 2011. Bitcoin dipahami sebagai aset kripto yang diperdagangkan dalam kerangka regulasi terkait, bukan pengganti mata uang rupiah dalam pembayaran domestik."
+      }
+    ]
+  }
+]

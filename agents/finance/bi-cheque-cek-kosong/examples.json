@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menangani penolakan pencairan cek pada transaksi usaha",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya terima cek dari klien besar, tapi saat dicairkan ditolak karena dana tidak cukup. Apa langkah awal paling aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awal paling aman adalah membangun jejak bukti yang kuat. Simpan bukti penolakan dari bank, salinan cek, kronologi komunikasi, dan dokumen transaksi dasar seperti invoice serta kontrak. Setelah itu, lakukan komunikasi tertulis resmi ke pihak penerbit untuk meminta penyelesaian dengan batas waktu jelas. Di saat yang sama, aktifkan rencana likuiditas cadangan agar operasional usaha tidak terganggu, misalnya menunda belanja non-prioritas atau menyesuaikan jadwal pembayaran vendor. Kerangka aturan yang relevan mencakup PBI No. 18/41/PBI/2016, UU No. 10 Tahun 1998, serta ketentuan KUHD terkait instrumen cek. Pendekatan ini menjaga posisi negosiasi dan kesiapan langkah hukum bila penyelesaian tidak tercapai."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana mencegah kejadian serupa di proyek berikutnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan verifikasi instrumen lebih ketat, terapkan pembayaran bertahap berbasis progres, dan kombinasikan metode pembayaran dengan kepastian settlement lebih tinggi. Dengan begitu, eksposur kas terhadap satu instrumen gagal bisa dikurangi."
+      }
+    ]
+  },
+  {
+    "title": "Menyusun kebijakan internal penerimaan bilyet giro",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa komponen kebijakan internal agar tim keuangan siap menghadapi risiko bilyet giro?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buat checklist verifikasi formal instrumen, prosedur otorisasi penerimaan berdasarkan nilai transaksi, SOP dokumentasi saat penolakan, dan rencana kas darurat. Kebijakan ini membuat respons tim lebih cepat dan konsisten saat insiden terjadi."
+      }
+    ]
+  }
+]

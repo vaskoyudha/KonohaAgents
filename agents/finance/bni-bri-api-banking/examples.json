@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Mengatasi mismatch status transfer pada integrasi API bank",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami sering dapat status timeout dari API bank, tapi beberapa transaksi ternyata sukses. Bagaimana menanganinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masalah ini umum pada sistem asinkron. Solusi pertama adalah memastikan setiap transaksi memakai reference id unik dan idempotency key agar retry tidak menciptakan debit ganda. Kedua, pisahkan status teknis timeout dari status bisnis final, lalu lakukan polling atau callback verification dengan interval terkontrol. Ketiga, bangun proses rekonsiliasi otomatis harian untuk membandingkan ledger internal dengan laporan bank berdasarkan reference id. Keempat, perkuat observability melalui tracing end-to-end agar tim bisa melihat titik putus jaringan dan latensi layanan. Dalam kerangka kepatuhan, praktik ini sejalan dengan tata kelola layanan pembayaran pada PBI No. 23/6/PBI/2021 dan perlindungan data pada UU No. 27 Tahun 2022. Dengan pendekatan ini, status transaksi lebih konsisten dan beban investigasi manual berkurang signifikan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana menjaga secret API agar aman di tim besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan secret manager terpusat, aktifkan rotasi berkala, dan batasi akses berdasarkan peran. Hindari penyimpanan secret di repositori atau file konfigurasi statis tanpa enkripsi."
+      }
+    ]
+  },
+  {
+    "title": "Checklist go-live integrasi API bank",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa checklist minimum sebelum go-live API banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pastikan kontrak API terkunci versinya, idempotency dan retry policy teruji, dashboard monitoring aktif, rekonsiliasi otomatis siap, serta SOP incident response disepakati lintas tim. Tanpa lima elemen ini, risiko gangguan operasional meningkat saat trafik produksi naik."
+      }
+    ]
+  }
+]

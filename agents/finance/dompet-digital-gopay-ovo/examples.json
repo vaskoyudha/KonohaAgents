@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memilih platform dompet digital untuk transaksi bulanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya rutin transfer 20 kali per bulan dan bayar merchant harian. Lebih cocok GoPay atau OVO?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keputusan sebaiknya dibuat dari total biaya bulanan, bukan dari satu promo mingguan. Saya akan bandingkan tiga komponen: biaya transfer antarbank, biaya tarik saldo bila Anda butuh cash flow, dan limit transaksi berdasarkan status KYC akun. Jika Anda melakukan 20 transfer per bulan, perbedaan biaya per transfer sekecil apa pun bisa berdampak nyata terhadap pengeluaran tetap. Setelah itu, kita nilai stabilitas promo merchant: apakah promo konsisten di kebutuhan harian Anda atau hanya sesekali. Selain aspek biaya, cek keamanan akun: gunakan PIN unik, jangan bagikan OTP, aktifkan notifikasi real-time, dan batasi login perangkat. Mengacu pada PBI No. 20/6/PBI/2018 serta PBI No. 23/6/PBI/2021, prioritas utamanya adalah transaksi aman, transparan, dan sesuai batas layanan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau tiba-tiba ada transaksi tidak dikenal, langkah pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Segera ubah PIN, logout seluruh sesi, dan nonaktifkan metode pembayaran tertaut. Simpan bukti waktu transaksi, nominal, serta tangkapan layar notifikasi untuk bahan sengketa. Setelah itu, hubungi kanal bantuan resmi aplikasi agar kasus dicatat dan diproses investigasi."
+      }
+    ]
+  },
+  {
+    "title": "Evaluasi ketergantungan promo cashback",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Promo cashback sering bikin saya belanja lebih banyak. Bagaimana mengendalikannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tetapkan plafon pengeluaran mingguan per kategori, lalu gunakan promo hanya jika pembelian memang ada dalam rencana awal. Catat selisih antara pengeluaran sebelum dan sesudah berburu promo agar terlihat apakah cashback benar-benar menghemat atau justru menaikkan konsumsi."
+      }
+    ]
+  }
+]

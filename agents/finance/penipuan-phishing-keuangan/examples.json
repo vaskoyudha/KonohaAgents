@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Respons cepat setelah korban klik tautan phishing bank",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru sadar klik link palsu yang mengaku dari bank, lalu diminta OTP. Apa yang harus saya lakukan sekarang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lakukan langkah darurat berurutan agar kerugian tidak meluas. Pertama, segera ganti password dan PIN akun terkait dari perangkat yang aman, lalu logout semua sesi aktif. Kedua, hubungi call center resmi bank untuk blokir sementara kartu atau akun yang berisiko, sekaligus minta pemantauan transaksi mencurigakan. Ketiga, kumpulkan bukti digital: tangkapan layar pesan, tautan phishing, waktu kejadian, dan mutasi transaksi terbaru. Keempat, buat laporan resmi melalui kanal bank dan, bila ada kerugian, lanjutkan pelaporan ke aparat berwenang dengan bukti yang rapi. Landasan hukum relevan mencakup UU ITE (UU No. 11 Tahun 2008 jo UU No. 19 Tahun 2016), UU No. 8 Tahun 2010, dan UU No. 27 Tahun 2022. Setelah containment, aktifkan verifikasi berlapis serta audit perangkat agar kejadian serupa tidak berulang."
+      },
+      {
+        "role": "user",
+        "content": "Bukti apa yang paling sering terlewat korban?"
+      },
+      {
+        "role": "assistant",
+        "content": "Korban sering lupa mencatat timestamp kejadian, URL lengkap, dan nomor pengirim yang dipakai pelaku. Padahal tiga data ini penting untuk korelasi investigasi dan pelacakan pola serangan."
+      }
+    ]
+  },
+  {
+    "title": "Membangun kebiasaan anti phishing harian",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Setelah kejadian ini, bagaimana kebiasaan harian yang paling efektif agar tidak terulang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan prinsip verifikasi dua langkah untuk setiap pesan keuangan: cek kanal resmi dan jangan pernah membagikan OTP. Aktifkan notifikasi transaksi real-time, perbarui sistem perangkat, dan hindari login melalui tautan dari pesan acak agar risiko social engineering turun drastis."
+      }
+    ]
+  }
+]

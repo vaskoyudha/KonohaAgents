@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Membandingkan dua layanan remitansi ke Asia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kirim uang rutin ke keluarga di luar negeri. Mana lebih penting, fee murah atau kurs bagus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yang paling penting adalah total biaya efektif, bukan salah satu komponen. Ada layanan dengan fee rendah tetapi spread kurs besar sehingga dana bersih yang diterima justru lebih kecil. Sebaliknya, fee terlihat tinggi kadang diimbangi kurs lebih kompetitif. Karena itu, kita hitung biaya end-to-end: biaya kirim, spread kurs, kemungkinan biaya perantara, dan estimasi waktu dana masuk. Pastikan penyedia memiliki kepatuhan memadai sesuai PBI No. 23/6/PBI/2021 serta standar AML pada UU No. 8 Tahun 2010 agar transaksi tidak tersendat. Jika transfer Anda rutin, selisih kecil per transaksi akan signifikan dalam setahun, sehingga perbandingan harus berbasis data historis, bukan promosi sesaat. Dengan metode ini, Anda bisa memilih jalur remitansi paling efisien dan tetap aman."
+      },
+      {
+        "role": "user",
+        "content": "Kalau transfer terlambat, apa langkah investigasi awal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cek akurasi data beneficiary, nomor referensi transfer, dan status compliance review. Jika valid namun belum settle, ajukan eskalasi resmi ke penyedia dengan bukti transaksi lengkap untuk mempercepat penelusuran jalur dana."
+      }
+    ]
+  },
+  {
+    "title": "Menentukan jalur transfer untuk kebutuhan mendesak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Dana harus diterima hari ini. Apa kompromi yang perlu saya terima?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk urgensi tinggi, biasanya Anda perlu menerima biaya lebih mahal atau spread kurs lebih lebar. Pilih penyedia dengan SLA settlement paling konsisten, lalu validasi seluruh data penerima agar tidak ada penundaan tambahan karena koreksi administrasi."
+      }
+    ]
+  }
+]

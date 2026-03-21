@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menyiapkan startup sebelum pengajuan sandbox",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup kami ingin masuk sandbox fintech. Persiapan paling kritikal apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Persiapan kritikal dimulai dari kejelasan model bisnis dan risiko utamanya. Anda harus menunjukkan alur produk end-to-end, segmen pengguna, serta potensi dampak jika terjadi kegagalan transaksi atau penyalahgunaan data. Berikutnya, siapkan kontrol perlindungan konsumen: transparansi biaya, mekanisme pengaduan, dan prosedur penanganan insiden. Dari sisi teknologi, dokumentasikan arsitektur sistem, kontrol akses, enkripsi data, dan rencana pemulihan gangguan. Lalu tetapkan KPI sandbox yang objektif, seperti tingkat kegagalan layanan, waktu pemulihan, insiden keamanan, dan kepuasan pengguna. Kerangka regulasi yang relevan mencakup POJK No. 10/POJK.05/2022, UU No. 4 Tahun 2023, dan POJK No. 6/POJK.07/2022. Dengan paket kesiapan ini, pengujian Anda dapat dinilai secara terukur, bukan berdasarkan klaim potensi semata."
+      },
+      {
+        "role": "user",
+        "content": "Jika KPI menunjukkan risiko tinggi, apa harus berhenti?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak selalu berhenti total, tetapi skala uji harus dibatasi sambil memperbaiki kontrol utama. Keputusan lanjut harus berbasis bukti mitigasi yang terverifikasi, bukan optimisme tim internal."
+      }
+    ]
+  },
+  {
+    "title": "Menyusun metrik evaluasi sandbox",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Metrik apa yang paling wajib kami pantau selama sandbox?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pantau reliability transaksi, tingkat komplain pengguna, insiden keamanan, waktu penyelesaian gangguan, dan kepatuhan proses pengaduan. Kombinasi metrik ini memberi gambaran apakah inovasi aman ditingkatkan ke skala lebih besar."
+      }
+    ]
+  }
+]

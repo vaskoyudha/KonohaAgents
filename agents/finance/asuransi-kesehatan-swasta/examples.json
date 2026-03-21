@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Memilih plan kesehatan keluarga muda",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami keluarga muda dengan satu anak. Plan kesehatan swasta apa yang paling rasional?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita mulai dari kebutuhan nyata: frekuensi layanan anak, preferensi rumah sakit, dan kemampuan premi yang stabil. Bandingkan plan berdasarkan limit tahunan, ketentuan kamar, co-pay, dan cakupan tindakan besar, bukan sekadar nominal premi. Periksa masa tunggu serta pengecualian pre-existing agar tidak ada ekspektasi keliru saat klaim. Kerangka regulasinya mengacu pada UU No. 40 Tahun 2014, POJK No. 69/POJK.05/2016, dan POJK No. 23/POJK.05/2023 yang menekankan tata kelola produk dan perlindungan pemegang polis. Setelah itu, lakukan simulasi biaya rawat inap untuk melihat apakah manfaat polis menutup risiko utama atau masih menyisakan gap besar. Plan yang rasional adalah yang mampu menjaga perlindungan cukup tanpa menekan arus kas bulanan keluarga secara berlebihan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau ada co-pay tinggi, apakah tetap layak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layak jika besaran co-pay masih dalam kapasitas dana darurat dan ditukar dengan premi yang jauh lebih efisien. Namun jika co-pay berpotensi berat saat tindakan besar, pilih struktur manfaat yang lebih protektif meski premi sedikit lebih tinggi."
+      }
+    ]
+  },
+  {
+    "title": "Menghindari underinsurance",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana tahu saya underinsured?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tanda umum underinsured adalah limit tahunan terlalu rendah dibanding biaya RS rujukan, banyak pengecualian layanan penting, dan gap besar out-of-pocket pada simulasi tindakan mayor. Jika tiga indikator ini muncul, plan perlu ditingkatkan."
+      }
+    ]
+  }
+]

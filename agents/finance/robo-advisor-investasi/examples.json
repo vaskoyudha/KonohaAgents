@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menentukan alokasi awal robo advisor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru mulai investasi dan mau pakai robo advisor. Bagaimana set alokasi awal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alokasi awal harus ditetapkan dari profil risiko dan horizon investasi, bukan dari tren aset yang sedang populer. Kita mulai dari tujuan finansial: misalnya dana pendidikan 8 tahun atau pensiun 20 tahun, lalu ukur toleransi Anda terhadap penurunan nilai portofolio saat pasar turun. Setelah itu susun komposisi saham, obligasi, dan pasar uang yang sesuai batas volatilitas pribadi. Jangan abaikan biaya platform dan biaya instrumen, karena biaya berulang akan memotong return bersih dalam jangka panjang. Secara kepatuhan, gunakan kerangka POJK No. 10/POJK.05/2022, UU No. 8 Tahun 1995, dan POJK No. 6/POJK.07/2022 agar keputusan tetap berada di jalur perlindungan konsumen dan tata kelola investasi yang sehat."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pasar turun tajam, rebalancing tetap jalan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, selama trigger deviasi alokasi terpenuhi dan masih sesuai mandat risiko. Rebalancing menjaga struktur portofolio tetap disiplin, bukan untuk menebak titik balik pasar."
+      }
+    ]
+  },
+  {
+    "title": "Mengelola biaya pada investasi otomatis",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Biaya kecil platform memang berpengaruh besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berpengaruh, terutama pada horizon panjang. Gabungan biaya pengelolaan, transaksi, dan produk investasi dapat mengurangi efek compounding, jadi evaluasi biaya harus dilakukan bersamaan dengan evaluasi performa."
+      }
+    ]
+  }
+]

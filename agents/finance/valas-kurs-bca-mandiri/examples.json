@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Membandingkan kurs valas untuk kebutuhan pembayaran pendidikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya perlu konversi rupiah ke USD minggu ini. Bagaimana bandingkan kurs BCA dan Mandiri secara tepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari tujuan transaksi Anda: konversi untuk pembayaran pendidikan berarti fokusnya kepastian nominal, bukan spekulasi. Gunakan kurs yang relevan (kurs jual bank untuk beli USD), lalu bandingkan antar kanal seperti mobile banking dan counter karena angkanya bisa berbeda. Setelah itu hitung hasil bersih dengan memasukkan biaya layanan dan aturan pembulatan. Selisih kurs kecil per dolar bisa menjadi signifikan pada nominal besar. Kerangka keputusan harus tetap selaras dengan prinsip perlindungan konsumen pada UU No. 8 Tahun 1999 dan praktik layanan pembayaran pada PBI No. 23/6/PBI/2021, sambil memahami konteks UU No. 7 Tahun 2011 terkait penggunaan mata uang. Pilih opsi yang memberi total biaya terendah dengan kepastian eksekusi sesuai tenggat pembayaran Anda."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya menunggu kurs turun, masuk akal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika ada tenggat pasti, menunggu terlalu lama bisa meningkatkan risiko gagal bayar atau biaya denda lain. Lebih aman gunakan strategi bertahap agar eksposur fluktuasi kurs tidak menumpuk pada satu waktu eksekusi."
+      }
+    ]
+  },
+  {
+    "title": "Mengukur dampak spread pada transaksi rutin",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya rutin tukar valas bulanan. Apa parameter utama agar hemat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pantau spread efektif per kanal, biaya layanan per transaksi, serta konsistensi kurs pada jam eksekusi yang sama. Untuk transaksi rutin, efisiensi kecil yang konsisten lebih bernilai daripada mengejar satu momen kurs terbaik yang belum tentu berulang."
+      }
+    ]
+  }
+]

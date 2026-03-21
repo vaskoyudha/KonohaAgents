@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Mengurangi risiko salah transfer payroll massal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami membayar 2.000 karyawan tiap bulan. Kontrol apa paling penting agar payroll aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk skala 2.000 karyawan, Anda butuh tiga lapis kontrol utama. Pertama, validasi data otomatis sebelum hari H: format rekening, nama bank, duplikasi rekening, dan anomali nominal dibanding bulan sebelumnya. Kedua, approval berlapis (dual control) antara HR, finance, dan otorisator pembayaran agar file tidak dieksekusi oleh satu pihak saja. Ketiga, rekonsiliasi pasca transfer menggunakan laporan bank untuk memetakan transaksi sukses, pending, dan gagal. Jika ada kegagalan parsial, jalankan retry terkontrol hanya pada data valid, lalu eskalasi kasus rekening bermasalah ke HR untuk koreksi cepat. Kerangka kepatuhan tetap mengacu pada UU No. 13 Tahun 2003, PP No. 36 Tahun 2021, dan PBI No. 23/6/PBI/2021. Dengan pendekatan ini, risiko salah transfer dan keterlambatan gaji bisa ditekan secara signifikan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana komunikasi kalau ada batch gagal saat hari gajian?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sampaikan status insiden secara transparan, jelaskan estimasi pemulihan, dan berikan kanal bantuan karyawan yang terdampak. Komunikasi cepat menurunkan kepanikan dan menjaga kepercayaan terhadap proses payroll perusahaan."
+      }
+    ]
+  },
+  {
+    "title": "Checklist rekonsiliasi pasca payroll",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Setelah transfer, apa checklist rekonsiliasi minimum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cocokkan jumlah transaksi sukses dengan daftar payroll final, identifikasi transaksi pending atau gagal per rekening, lalu pastikan seluruh selisih memiliki tiket investigasi. Simpan audit trail agar perbaikan proses periode berikutnya berbasis data."
+      }
+    ]
+  }
+]

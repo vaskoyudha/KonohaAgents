@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menguji promo cicilan 0 persen sebelum checkout",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada promo cicilan 0% 12 bulan untuk laptop. Apa langsung ambil saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jangan langsung ambil. Pertama, cek apakah ada biaya admin, provisi, atau syarat transaksi minimum yang membuat biaya efektif naik. Kedua, hitung dampak cicilan bulanan terhadap pendapatan bersih setelah kebutuhan pokok dan cicilan lain. Ketiga, evaluasi utilisasi limit kartu: jika limit terkunci terlalu besar, Anda kehilangan ruang untuk kebutuhan darurat. Dari sisi kepatuhan konsumen, gunakan prinsip transparansi biaya dan perlindungan pengguna sesuai PBI No. 23/6/PBI/2021, POJK No. 6/POJK.07/2022, dan UU No. 8 Tahun 1999. Jika laptop benar kebutuhan produktif dan total biaya tetap rasional, cicilan bisa dipertimbangkan. Namun jika pembelian lebih karena dorongan promo, keputusan paling sehat adalah menunda."
+      },
+      {
+        "role": "user",
+        "content": "Kalau telat satu kali, dampaknya besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa signifikan karena muncul denda, bunga berjalan, dan tekanan pada arus kas bulan berikutnya. Karena itu siapkan pengingat jatuh tempo serta buffer saldo agar keterlambatan tidak terjadi."
+      }
+    ]
+  },
+  {
+    "title": "Menghindari utang berantai kartu kredit",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kepikiran pinjam online untuk bayar tagihan kartu. Solusi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hindari menutup utang kartu dengan pinjaman berbiaya tinggi karena berisiko memicu utang berantai. Prioritaskan restrukturisasi pengeluaran, hentikan transaksi non-prioritas, dan cari opsi pembayaran yang lebih aman sebelum mengambil keputusan tambahan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Percepatan klaim digital dengan kontrol risiko",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami ingin klaim lebih cepat, tapi takut fraud. Bagaimana desain prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan desain triase berbasis risiko. Klaim low-risk dengan dokumen lengkap bisa masuk jalur cepat menggunakan verifikasi otomatis identitas, pengecekan status polis, dan validasi metadata bukti. Klaim medium-risk diberi verifikasi tambahan seperti klarifikasi kronologi, sedangkan high-risk masuk investigasi mendalam. Standarisasi daftar dokumen sejak awal sangat penting agar nasabah tidak berulang kali diminta melengkapi berkas. Komunikasikan SLA pada setiap tahap: diterima, verifikasi, investigasi, keputusan. Kerangka kepatuhan mengacu pada UU No. 40 Tahun 2014, POJK No. 69/POJK.05/2016, dan UU No. 27 Tahun 2022 untuk perlindungan data pribadi. Dengan pendekatan ini, kecepatan meningkat tanpa melemahkan kontrol fraud karena keputusan tetap berbasis bukti terstruktur dan audit trail yang kuat."
+      },
+      {
+        "role": "user",
+        "content": "Jika bukti kurang, apa langsung ditolak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak harus langsung ditolak. Beri status pending dengan daftar kekurangan spesifik, kanal unggah aman, dan tenggat jelas. Ini menjaga fairness sambil mempertahankan standar verifikasi yang diperlukan."
+      }
+    ]
+  },
+  {
+    "title": "Menangani sengketa keputusan klaim",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Nasabah keberatan klaimnya ditolak. Apa prosedur banding yang tepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sediakan kanal banding resmi dengan alasan penolakan yang transparan, daftar dokumen tambahan yang dapat diajukan, serta batas waktu peninjauan ulang. Kejelasan proses ini menurunkan konflik dan meningkatkan kepercayaan nasabah."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menyelaraskan kode etik asosiasi dengan SOP internal fintech",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami sudah patuh regulasi. Kenapa masih perlu kerja ekstra mengikuti standar asosiasi fintech?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kepatuhan regulator adalah baseline wajib agar operasi legal, tetapi standar asosiasi membantu memastikan kualitas perilaku bisnis tetap konsisten dan dipercaya publik. Banyak isu reputasi muncul bukan karena pelanggaran hukum langsung, melainkan praktik layanan yang tidak etis atau tidak transparan. Dengan mengadopsi kode etik asosiasi, Anda bisa memperkuat SOP layanan, pola komunikasi biaya, dan mekanisme pengaduan agar lebih adil bagi pengguna. Untuk konteks Indonesia, sinkronisasi ini tetap harus selaras dengan POJK No. 10/POJK.05/2022, POJK No. 40 Tahun 2024, dan UU No. 4 Tahun 2023. Langkah efektifnya adalah gap assessment kebijakan internal, lalu action plan dengan KPI implementasi nyata seperti waktu tanggap komplain, tingkat penyelesaian aduan, dan hasil audit kepatuhan. Pendekatan ini meningkatkan kepercayaan pasar sekaligus menurunkan risiko reputasi jangka panjang."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana memastikan kode etik tidak cuma jadi dokumen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turunkan kode etik ke SOP operasional, latih tim frontline, ukur KPI kepatuhan per unit, dan wajibkan tindak lanjut aduan berbasis data. Tanpa siklus evaluasi berkala, dokumen etika memang mudah menjadi formalitas."
+      }
+    ]
+  },
+  {
+    "title": "Menentukan KPI implementasi self-regulation",
+    "turns": [
+      {
+        "role": "user",
+        "content": "KPI apa yang paling berguna untuk menilai kualitas kepatuhan asosiasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan KPI yang mencerminkan perilaku layanan: tingkat komplain berulang, kecepatan penyelesaian aduan, kepatuhan disclosure biaya, dan hasil audit proses. KPI ini menunjukkan dampak nyata standar etika pada pengalaman pengguna."
+      }
+    ]
+  }
+]

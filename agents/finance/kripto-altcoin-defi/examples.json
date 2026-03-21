@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evaluasi altcoin sebelum membeli",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya lihat altcoin baru viral, katanya akan 10x. Apa indikator minimal sebelum beli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jangan mulai dari target 10x, mulai dari ketahanan proyek. Cek use case yang benar-benar dipakai, bukan sekadar narasi komunitas. Lalu periksa tokenomics: distribusi kepemilikan, jadwal vesting, dan potensi tekanan jual dari investor awal. Jika proyek DeFi, lihat hasil audit smart contract dan apakah tim merespons temuan keamanan secara terbuka. Uji likuiditas pasar agar Anda tidak terjebak slippage tinggi saat ingin keluar. Dalam konteks Indonesia, gunakan platform berizin dan catat transaksi untuk kepatuhan pajak sesuai PMK No. 68/PMK.03/2022, sambil memahami kerangka Peraturan Bappebti No. 8 Tahun 2021. Keputusan yang sehat adalah alokasi kecil dulu, validasi proses transaksi, lalu evaluasi berkala; bukan masuk besar karena FOMO."
+      },
+      {
+        "role": "user",
+        "content": "APY farming 80% per tahun terlihat menarik, aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "APY tinggi berarti risiko tinggi. Pastikan paham sumber yield, risiko exploit, inflasi token, dan likuiditas exit. Terapkan batas alokasi ketat dan hindari pendanaan dari utang agar potensi kerugian tetap terkendali."
+      }
+    ]
+  },
+  {
+    "title": "Menyusun batas kerugian portofolio DeFi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana menentukan batas rugi yang disiplin di DeFi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tetapkan batas rugi total portofolio dan batas eksposur per protokol sebelum masuk posisi. Gunakan ukuran posisi kecil pada proyek baru, serta evaluasi ulang saat ada perubahan audit, likuiditas, atau insiden keamanan jaringan."
+      }
+    ]
+  }
+]

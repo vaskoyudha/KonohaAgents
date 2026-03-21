@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menilai kelayakan penggunaan paylater untuk belanja bulanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau pakai paylater 3 bulan untuk beli gadget. Katanya tanpa bunga, aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Label tanpa bunga belum otomatis aman. Kita harus hitung biaya efektif total, termasuk biaya layanan bulanan, biaya keterlambatan, dan potensi penalti jika jadwal terganggu. Setelah itu, bandingkan cicilan dengan pendapatan bersih setelah kebutuhan pokok dan cicilan lain. Jika ruang kas tipis, transaksi gadget berisiko mendorong keterlambatan berantai. Dari sisi kepatuhan, pastikan penyelenggara legal dan ketentuan kontraknya transparan sesuai kerangka POJK No. 10/POJK.05/2022, POJK No. 40 Tahun 2024, serta PBI No. 23/6/PBI/2021. Keputusan prudent adalah lanjut hanya bila biaya total jelas, rasio cicilan sehat, dan pembelian memang prioritas. Jika tidak, lebih aman menunda daripada menukar kenyamanan jangka pendek dengan tekanan arus kas beberapa bulan ke depan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau cicilan saya sudah banyak, apa langkah paling cepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hentikan pembelian baru, petakan seluruh jadwal jatuh tempo, dan prioritaskan pembayaran kewajiban yang paling dekat agar tidak kena denda berantai. Setelah itu, turunkan pemakaian paylater sampai rasio cicilan kembali aman."
+      }
+    ]
+  },
+  {
+    "title": "Mencegah akumulasi tenor lintas aplikasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pakai dua aplikasi paylater sekaligus. Apa risikonya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Risiko utamanya adalah ilusi kemampuan bayar karena cicilan tersebar di beberapa aplikasi. Anda perlu konsolidasi jadwal, hitung total beban bulanan nyata, dan tetapkan batas penggunaan gabungan agar tidak memicu gagal bayar simultan."
+      }
+    ]
+  }
+]

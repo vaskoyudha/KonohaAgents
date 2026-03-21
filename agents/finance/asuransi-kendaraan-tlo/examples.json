@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menentukan kelayakan polis TLO untuk mobil harian",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Mobil saya usia 8 tahun dipakai harian. Lebih tepat TLO atau all risk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk mobil usia 8 tahun, keputusan perlu melihat nilai pasar, intensitas pemakaian, dan toleransi risiko biaya perbaikan ringan. Polis TLO biasanya lebih efisien premi, tetapi cakupannya fokus pada kehilangan total atau kerusakan berat sesuai ketentuan polis. Jika Anda sering berkendara di area padat dengan potensi baret/kerusakan minor tinggi, all risk bisa lebih nyaman walau biaya premi lebih tinggi. Saya sarankan cek klausul ambang kerugian, pengecualian, serta prosedur klaim agar ekspektasi tidak keliru. Acuan regulasi tetap pada UU No. 40 Tahun 2014, POJK No. 69/POJK.05/2016, dan POJK No. 23/POJK.05/2023. Pilih opsi yang menjaga proteksi inti tanpa membuat premi membebani arus kas tahunan Anda."
+      },
+      {
+        "role": "user",
+        "content": "Kalau hilang dicuri, dokumen penting apa saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Siapkan laporan kepolisian, identitas pemegang polis, polis aktif, serta dokumen kendaraan sesuai ketentuan perusahaan asuransi. Pastikan kronologi dan waktu pelaporan konsisten agar investigasi klaim berjalan lancar."
+      }
+    ]
+  },
+  {
+    "title": "Mencegah penolakan klaim karena administrasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa kesalahan administrasi yang sering bikin klaim ditolak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keterlambatan pelaporan, data identitas tidak konsisten, dan dokumen kendaraan tidak lengkap adalah penyebab paling umum. Gunakan checklist dokumen sejak awal dan laporkan insiden secepat mungkin sesuai tenggat pada polis."
+      }
+    ]
+  }
+]

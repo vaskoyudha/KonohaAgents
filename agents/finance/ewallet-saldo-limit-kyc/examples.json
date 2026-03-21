@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Menaikkan limit e-wallet melalui KYC yang benar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kenapa akun e-wallet saya limitnya kecil terus? Saya sudah sering pakai."
+      },
+      {
+        "role": "assistant",
+        "content": "Limit e-wallet ditentukan oleh level verifikasi akun, bukan frekuensi transaksi semata. Artinya, jika akun masih level dasar, batas saldo dan transfer tetap dibatasi sesuai ketentuan penyelenggara. Langkah tepat adalah memastikan proses KYC lengkap: data identitas sesuai dokumen resmi, foto dokumen jelas, verifikasi wajah berhasil, dan tidak ada mismatch nama atau tanggal lahir. Setelah verifikasi disetujui, biasanya fitur transfer dan limit transaksi meningkat sesuai aturan. Dari sisi regulasi, kerangka ini sejalan dengan PBI No. 20/6/PBI/2018 dan PBI No. 23/6/PBI/2021, serta perlindungan data mengacu UU No. 27 Tahun 2022. Sambil menunggu peningkatan level, jaga keamanan akun dengan PIN kuat, OTP rahasia, dan pemantauan notifikasi transaksi agar tidak terjadi penyalahgunaan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau OTP saya terlanjur dibagikan, apa langkah tercepat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Segera ubah PIN, logout dari semua perangkat, nonaktifkan metode pembayaran yang tertaut, lalu hubungi pusat bantuan resmi aplikasi. Dokumentasikan transaksi mencurigakan untuk mempercepat proses investigasi."
+      }
+    ]
+  },
+  {
+    "title": "Menyesuaikan limit untuk kebutuhan bulanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh transfer rutin untuk usaha kecil. Bagaimana cek limit cukup atau tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hitung total kebutuhan transfer bulanan, frekuensi transaksi, dan puncak nominal harian. Jika melewati limit akun saat ini, ajukan peningkatan level dengan KYC lengkap agar operasional tidak terhambat dan tetap patuh aturan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Evaluasi pinjaman untuk kebutuhan darurat keluarga",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh 8 juta cepat, ditawari P2P tenor 4 bulan. Bagaimana cek kelayakannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita harus pakai urutan yang disiplin. Pertama cek legalitas platform sesuai referensi OJK agar Anda tidak terjebak entitas ilegal. Kedua, hitung total kewajiban sampai lunas: pokok, bunga efektif, biaya layanan, serta potensi denda jika ada keterlambatan. Ketiga, bandingkan total cicilan bulanan dengan pendapatan bersih setelah kebutuhan pokok dan cicilan lain. Jika ruang kas terlalu tipis, pinjaman berisiko memicu keterlambatan berantai dan biaya tambahan. Regulasi seperti POJK No. 10/POJK.05/2022 dan POJK No. 40 Tahun 2024 menekankan tata kelola layanan serta perlindungan konsumen. Keputusan prudent adalah lanjut hanya jika legalitas jelas, biaya transparan, dan rasio beban utang tetap sehat. Kalau salah satu syarat gagal, lebih aman menunda sambil mencari opsi biaya lebih rendah atau menata ulang prioritas pengeluaran."
+      },
+      {
+        "role": "user",
+        "content": "Kalau platform tidak muncul di daftar OJK?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hentikan proses pengajuan, jangan unggah dokumen pribadi, dan simpan bukti promosi atau komunikasi. Lanjutkan ke kanal pengaduan resmi agar risiko penyalahgunaan data dan penagihan ilegal dapat diminimalkan."
+      }
+    ]
+  },
+  {
+    "title": "Menentukan batas cicilan aman",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana menentukan cicilan maksimal yang masih aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hitung pendapatan bersih setelah kebutuhan pokok, lalu sisakan ruang untuk dana darurat dan ketidakpastian pendapatan. Gunakan batas konservatif agar keterlambatan tidak langsung memicu denda berantai, terutama pada tenor pendek dengan biaya layanan tinggi."
+      }
+    ]
+  }
+]
