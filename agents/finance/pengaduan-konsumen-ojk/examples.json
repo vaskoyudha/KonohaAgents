@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menyusun pengaduan konsumen ke lembaga keuangan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bank menolak koreksi biaya yang menurut saya salah. Bagaimana cara saya mengadu dengan benar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah paling aman adalah mulai dari pengaduan tertulis ke layanan konsumen bank terlebih dahulu. Siapkan dokumen inti: identitas, nomor rekening, mutasi atau bukti transaksi yang dipersoalkan, tangkapan layar biaya, serta kronologi tanggal kejadian. Dalam surat, gunakan bahasa netral: jelaskan fakta, nominal kerugian, dan permintaan penyelesaian yang spesifik, misalnya pengembalian biaya tertentu. Minta nomor tiket atau registrasi pengaduan, lalu catat tanggal dan nama petugas yang menangani. Bila respons tidak jelas atau tidak sesuai dalam waktu wajar, Anda dapat menyiapkan eskalasi ke kanal resmi OJK dengan melampirkan seluruh bukti komunikasi sebelumnya. Semakin lengkap jejak dokumen, semakin kuat posisi Anda untuk mendapatkan penyelesaian yang adil dan terukur."
+      }
+    ]
+  }
+]

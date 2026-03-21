@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menilai kelayakan pinjaman anggota koperasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya anggota koperasi dan ingin pinjam 30 juta untuk modal kios. Bagaimana tahu cicilan saya masih aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari hitung kemampuan angsuran bersih Anda dulu, bukan dari nominal pinjaman yang diinginkan. Catat pendapatan rata-rata, biaya rumah tangga pokok, kewajiban utang lain, serta simpanan rutin ke koperasi. Dari situ tentukan batas angsuran maksimal yang tetap memberi ruang darurat setiap bulan. Setelah itu cocokkan dengan simulasi tenor dan biaya pinjaman koperasi, termasuk komponen administrasi yang sering terlewat. Jika cicilan membuat ruang kas terlalu sempit, lebih aman menurunkan nominal atau memperpanjang tenor secara terukur. Pastikan semua syarat tertulis jelas dan disetujui sesuai mekanisme koperasi, sehingga tidak muncul salah paham di kemudian hari. Pendekatan ini menjaga Anda tetap produktif menjalankan kios, sekaligus melindungi kesehatan keuangan koperasi tempat Anda bernaung."
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Membaca kontrak leasing sebelum akad",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sales bilang cicilan mobil saya ringan, tapi saya takut ada biaya tersembunyi. Yang harus saya cek apa saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fokus pada total biaya kepemilikan, bukan angka cicilan promosi. Minta rincian tertulis untuk semua komponen: uang muka, margin atau bunga, biaya administrasi, premi asuransi, denda keterlambatan, dan biaya jika Anda ingin pelunasan dipercepat. Periksa juga klausul wanprestasi serta mekanisme penarikan kendaraan agar Anda paham risiko saat terjadi gangguan arus kas. Setelah itu hitung kemampuan bayar Anda secara realistis dengan memasukkan biaya operasional mobil seperti BBM, servis, dan pajak. Jika setelah dihitung ruang kas Anda terlalu sempit, lebih aman menyesuaikan tenor atau memilih unit dengan beban lebih ringan. Simpan semua jawaban pihak leasing secara tertulis supaya jika ada perbedaan informasi di kemudian hari, Anda punya bukti yang kuat untuk klarifikasi atau pengaduan resmi."
+      }
+    ]
+  }
+]

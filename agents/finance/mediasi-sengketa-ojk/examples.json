@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menyiapkan posisi mediasi sengketa biaya",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sudah komplain ke perusahaan pembiayaan, tapi jawabannya berputar-putar. Saya mau mediasi, mulai dari apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dengan merapikan posisi Anda menjadi tiga bagian: fakta, kerugian, dan tuntutan. Pertama, susun kronologi bertanggal dari awal transaksi sampai respons terakhir perusahaan. Kedua, lampirkan dokumen yang paling kuat: kontrak, rincian tagihan, bukti pembayaran, serta seluruh email atau chat resmi. Ketiga, tetapkan target hasil mediasi dalam tiga tingkat: minimum yang wajib dipenuhi, target ideal, dan kompromi yang masih bisa diterima. Dengan format ini, mediator lebih mudah melihat masalah inti dan pihak lawan lebih sulit menghindar dari data. Hindari kalimat emosional atau tuduhan tanpa bukti. Fokus pada angka, tanggal, dan kewajiban kontraktual. Di akhir, minta hasil mediasi ditulis jelas lengkap dengan tenggat pelaksanaan agar ada kepastian tindak lanjut."
+      }
+    ]
+  }
+]

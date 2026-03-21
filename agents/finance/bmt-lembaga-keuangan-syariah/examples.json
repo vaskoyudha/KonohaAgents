@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menilai kelayakan pembiayaan BMT untuk usaha kecil",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau ambil pembiayaan di BMT untuk tambah modal warung. Apa yang harus saya cek dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cek dulu tiga hal inti: tujuan modal, kemampuan bayar, dan kejelasan akad. Untuk kemampuan bayar, hitung pendapatan bersih warung setelah dikurangi biaya rutin rumah tangga dan cicilan lain, lalu tentukan batas angsuran yang aman setiap bulan. Setelah itu minta penjelasan akad secara rinci, termasuk bagaimana kewajiban dibentuk, apa biaya administrasinya, dan apa konsekuensi jika ada keterlambatan. Jangan fokus pada dana cair saja, tetapi lihat total kewajiban sampai lunas. Jika skema yang ditawarkan membuat ruang kas Anda terlalu tipis, lebih aman menurunkan nominal atau menyesuaikan tenor. Simpan semua penjelasan tertulis agar jika nanti ada perbedaan informasi, Anda punya bukti komunikasi yang jelas. Pendekatan ini membantu Anda tetap produktif menjalankan usaha tanpa menambah beban keuangan yang sulit dikendalikan."
+      }
+    ]
+  }
+]

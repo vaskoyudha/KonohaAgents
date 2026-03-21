@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Memastikan kesiapan pengajuan manfaat Tapera",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya peserta Tapera, tapi bingung kenapa pengajuan manfaat perumahan saya belum jalan. Harus cek apa dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari verifikasi tiga komponen inti: status kepesertaan, riwayat iuran, dan kelengkapan dokumen pengajuan. Pastikan data kepesertaan aktif dan iuran tercatat konsisten agar tidak ada hambatan administrasi dasar. Setelah itu cek berkas pendukung, seperti identitas, dokumen terkait rencana perumahan, serta bukti pengajuan sebelumnya jika sudah pernah mengajukan. Simpan semua nomor registrasi dan bukti komunikasi agar mudah ditelusuri saat follow-up. Jika ada dokumen yang kurang, lengkapi dulu sebelum meminta percepatan proses. Pendekatan bertahap ini biasanya lebih efektif daripada mengirim pengajuan berulang tanpa evaluasi akar masalah. Setelah semua siap, lakukan tindak lanjut terjadwal melalui kanal resmi dan catat tanggal respons agar jalur komunikasi tetap rapi serta terukur."
+      }
+    ]
+  }
+]

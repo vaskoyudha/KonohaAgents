@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menentukan strategi gadai emas untuk dana darurat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh dana cepat untuk biaya rumah sakit dan kepikiran gadai emas. Aman tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gadai emas bisa menjadi solusi cepat untuk kebutuhan sangat mendesak, tetapi aman atau tidak sangat tergantung rencana tebus Anda. Pertama, pastikan nominal yang digadai sesuai kebutuhan minimum agar biaya tidak membesar. Kedua, hitung total biaya sampai tanggal tebus realistis, bukan hanya biaya awal. Ketiga, tetapkan sumber dana pelunasan yang jelas, misalnya dari gaji bulan tertentu atau pencairan piutang. Hindari perpanjangan berulang karena biaya akan terus menumpuk dan berisiko membuat aset sulit ditebus. Jika setelah simulasi ternyata ruang kas Anda tetap sempit, pertimbangkan alternatif lain yang bebannya lebih ringan. Intinya, gunakan gadai sebagai jembatan likuiditas jangka pendek dengan rencana keluar yang disiplin, bukan sebagai pembiayaan jangka panjang tanpa kepastian pelunasan."
+      }
+    ]
+  }
+]

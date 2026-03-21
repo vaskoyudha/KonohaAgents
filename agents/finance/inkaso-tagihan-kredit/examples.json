@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Menyusun rencana inkaso etis untuk tunggakan menengah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami punya banyak debitur menunggak 60-90 hari. Tim saya ingin menagih lebih keras, tapi takut melanggar aturan."
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan pendekatan bertahap berbasis data, bukan tekanan emosional. Mulai dari segmentasi: debitur kooperatif, pasif, dan sengketa. Untuk debitur kooperatif, tawarkan skema cicilan realistis dengan perhitungan kemampuan bayar agar mereka tidak gagal lagi di bulan berikutnya. Untuk debitur pasif, lakukan follow-up terjadwal melalui kanal resmi di jam wajar, sertakan rincian tagihan transparan dan opsi penyelesaian tertulis. Hindari ancaman, penyebaran data kontak, atau bahasa merendahkan karena itu meningkatkan risiko komplain dan menurunkan peluang pelunasan. Seluruh komunikasi harus terdokumentasi: tanggal, isi pembicaraan, hasil komitmen, dan tenggat bayar. Jika ada keberatan atas komponen tagihan yang tidak terselesaikan lewat negosiasi, pindahkan ke jalur mediasi/pengaduan formal agar pembahasan tetap objektif. Strategi ini biasanya lebih stabil untuk pemulihan kas jangka menengah."
+      }
+    ]
+  }
+]

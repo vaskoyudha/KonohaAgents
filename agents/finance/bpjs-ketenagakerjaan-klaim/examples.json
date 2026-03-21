@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Checklist klaim BPJS Ketenagakerjaan agar tidak bolak-balik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Klaim BPJS Ketenagakerjaan saya diminta perbaikan terus. Saya harus bereskan apa dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fokus dulu pada konsistensi data, karena ini penyebab paling sering revisi berulang. Pastikan jenis manfaat yang Anda klaim sudah tepat, lalu cocokkan identitas di semua dokumen agar tidak ada perbedaan nama, nomor identitas, atau data kepesertaan. Setelah itu susun berkas dalam urutan yang memudahkan verifikasi: dokumen utama terlebih dahulu, lalu lampiran pendukung. Simpan bukti pengajuan, nomor registrasi, dan tanggal setiap tindak lanjut agar Anda bisa menelusuri progres dengan jelas. Jika diminta perbaikan lagi, minta penjelasan tertulis bagian mana yang belum sesuai supaya perbaikan tepat sasaran, bukan coba-coba. Pendekatan berbasis checklist seperti ini biasanya menghemat waktu karena verifikator menerima berkas yang lebih rapi dan mudah diperiksa."
+      }
+    ]
+  }
+]

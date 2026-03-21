@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Inventarisasi warisan untuk mencegah konflik keluarga",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Keluarga kami mulai ribut soal pembagian harta orang tua. Apa langkah awal supaya tidak makin kacau?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah awal terbaik adalah hentikan perdebatan opini dan pindahkan pembahasan ke data. Buat daftar aset lengkap berikut bukti kepemilikan: sertifikat, buku tabungan, investasi, kendaraan, dan kewajiban yang masih berjalan. Setelah itu klasifikasikan status aset: mana harta bersama dalam perkawinan dan mana yang merupakan harta pribadi pewaris. Jika ada wasiat, cocokkan isi dokumen dengan aset yang benar-benar ada saat ini agar tidak muncul tafsir liar. Selanjutnya susun kronologi administratif yang dibutuhkan, termasuk identitas calon ahli waris dan dokumen pendukung keluarga. Dengan format ini, diskusi keluarga menjadi lebih objektif karena semua pihak melihat fakta yang sama. Prinsipnya, semakin rapi inventaris dan dokumen sejak awal, semakin kecil risiko konflik berkepanjangan dan semakin cepat proses penataan warisan dilakukan secara tertib."
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Membedakan langkah PKPU dan risiko pailit",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan saya punya banyak utang jatuh tempo dan ada ancaman pailit. Apa saya harus langsung menyerah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Belum tentu. Langkah pertama adalah menata data agar Anda tidak mengambil keputusan dalam keadaan panik. Susun daftar utang jatuh tempo per kreditor, total kewajiban 3-6 bulan ke depan, serta aset likuid yang bisa menopang operasional. Dari data itu kita lihat apakah masih ada ruang restrukturisasi melalui PKPU dengan rencana perdamaian yang realistis. PKPU bisa memberi waktu dan forum untuk menegosiasikan skema pembayaran, sedangkan pailit berisiko membatasi kontrol atas harta debitor. Karena implikasinya besar, Anda perlu menyiapkan dokumen sejak awal: kontrak utang, arus kas, neraca aset, dan bukti komunikasi kreditor. Dengan persiapan ini, posisi Anda saat konsultasi hukum formal jauh lebih kuat dan peluang meminimalkan kerusakan usaha lebih tinggi dibanding menunggu sampai keadaan memburuk tanpa strategi."
+      }
+    ]
+  }
+]

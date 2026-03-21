@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Memilih jalur sengketa setelah komplain internal buntu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pengaduan saya ke perusahaan asuransi sudah berbulan-bulan tidak jelas. Apakah saya harus ke LAPS?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa jadi iya, tetapi kita cek dulu kesiapan dasarnya. Pastikan Anda sudah punya bukti bahwa pengaduan internal telah diajukan, misalnya nomor tiket, surat, atau email resmi beserta tanggalnya. Setelah itu rapikan berkas inti: polis, bukti pembayaran premi, kronologi kejadian, dokumen klaim, dan jawaban perusahaan. Jika tujuan Anda masih membuka ruang kompromi, mediasi biasanya lebih cepat dan fleksibel. Namun bila Anda butuh keputusan lebih tegas berbasis dokumen, jalur adjudikasi bisa dipertimbangkan. Kunci keberhasilan bukan hanya memilih forum, melainkan kualitas bukti dan kejelasan tuntutan. Tulis tuntutan yang terukur, misalnya pembayaran nilai klaim tertentu atau perbaikan perhitungan manfaat, lengkap dengan alasan kontraktualnya. Dengan persiapan ini, proses di LAPS akan jauh lebih efektif."
+      }
+    ]
+  }
+]

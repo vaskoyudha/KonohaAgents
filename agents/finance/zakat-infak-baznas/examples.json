@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Membuat rencana zakat dan infak bulanan yang konsisten",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin lebih disiplin bayar zakat dan infak, tapi tiap bulan selalu berubah-ubah. Cara menatanya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari memisahkan dua pos yang berbeda: zakat sebagai kewajiban terhitung dan infak sebagai kontribusi sukarela. Pertama, catat sumber penghasilan yang stabil dan yang fluktuatif, lalu tentukan dasar perhitungan zakat sesuai kondisi Anda. Kedua, buat nominal infak bulanan yang realistis agar tidak mengganggu kebutuhan pokok keluarga. Ketiga, pilih kanal penyaluran resmi yang memberi bukti transaksi dan pelaporan jelas, sehingga Anda punya jejak administrasi yang rapi. Simpan catatan bulanan sederhana berisi tanggal, nominal, dan tujuan penyaluran agar evaluasi lebih mudah. Pendekatan ini membuat komitmen sosial Anda konsisten, terukur, dan tidak bergantung pada suasana hati sesaat. Jika pendapatan berubah, lakukan penyesuaian berkala tanpa meninggalkan disiplin pencatatan."
+      }
+    ]
+  }
+]
