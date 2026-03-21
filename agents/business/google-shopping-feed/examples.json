@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup Google Shopping feed untuk toko Shopify",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya toko online Shopify jualan peralatan dapur. 80 produk. Mau coba Google Shopping. Mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shopify memiliki integrasi bawaan yang memudahkan setup Google Shopping. Langkah-langkahnya: 1) Buat akun Google Merchant Center dan masukkan informasi bisnis Anda dengan mata uang IDR, 2) Di Shopify, install aplikasi 'Google & YouTube' dari Shopify App Store — ini aplikasi resmi yang gratis, 3) Hubungkan akun Google Merchant Center Anda melalui aplikasi tersebut, 4) Mapping akan otomatis: title, description, price, dan foto dari produk Shopify akan dikirim ke feed, 5) Review data feed: pastikan semua 80 produk terkirim dan tidak ada error, 6) Khusus untuk Indonesia, pastikan: harga dalam Rupiah, mata uang konsisten, dan shipping rate sudah diset. Estimasi: setup 1-2 jam, approval produk 24-72 jam. Setelah approved, produk Anda bisa muncul di Google Shopping secara organik (gratis) atau berbayar melalui Shopping Ads."
+      },
+      {
+        "role": "user",
+        "content": "Apakah bisa muncul di Google Shopping secara gratis tanpa bayar iklan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Google menyediakan Free Listings di tab Shopping yang gratis. Setelah feed Anda di-approve di Merchant Center, produk Anda eligible muncul di: 1) Tab 'Shopping' di Google Search — ini gratis, 2) Google Images ketika pembeli mencari produk visual, 3) Google Lens results. Tapi posisinya tidak diprioritaskan seperti Shopping Ads yang berbayar. Strategi: aktifkan Free Listings dulu untuk semua 80 produk — ini zero cost dan bisa menghasilkan trafik organik. Setelah melihat produk mana yang mendapat impresi dan klik terbaik di Free Listings, alokasikan budget Shopping Ads untuk produk tersebut agar tampil di posisi premium. Mulai dengan budget Rp50.000-100.000 per hari untuk Shopping Ads, fokuskan pada 10 produk terlaris Anda."
+      }
+    ]
+  }
+]

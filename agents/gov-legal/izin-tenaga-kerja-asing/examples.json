@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Prosedur mempekerjakan programmer asing",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup saya mau hire senior developer dari India untuk proyek 2 tahun. Prosedur izinnya gimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk mempekerjakan developer asing selama 2 tahun, prosesnya: 1) Ajukan RPTKA melalui TKA Online di Kemnaker — cantumkan jabatan Senior Developer, kualifikasi minimal, alasan penggunaan TKA, dan rencana alih teknologi ke staf lokal. 2) Siapkan DKP-TKA sebesar USD 100 x 24 bulan = USD 2.400 dibayar di muka. 3) Setelah RPTKA disetujui, Notifikasi terbit otomatis sebagai dasar TKA mengurus VITAS di KBRI New Delhi. 4) Setelah TKA tiba di Indonesia, urus KITAS di Kantor Imigrasi. 5) Tunjuk 1 tenaga kerja pendamping Indonesia yang akan menerima transfer pengetahuan dari TKA tersebut. Jabatan developer diperbolehkan selama tidak masuk daftar jabatan terlarang."
+      },
+      {
+        "role": "user",
+        "content": "Apa saja yang harus ada di rencana alih teknologi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rencana alih teknologi harus mencakup: 1) Identifikasi tenaga kerja pendamping Indonesia yang ditunjuk, termasuk nama, jabatan, dan kualifikasinya. 2) Materi alih teknologi yang spesifik — misalnya bahasa pemrograman tertentu, arsitektur sistem, atau metodologi pengembangan yang dikuasai TKA. 3) Jadwal dan metode transfer: pelatihan langsung, mentoring, atau project-based learning. 4) Target capaian yang terukur dalam periode penempatan TKA. 5) Evaluasi berkala untuk mengukur progres alih teknologi. Kemnaker akan menilai kecukupan rencana ini saat memeriksa RPTKA. Rencana yang terlalu umum atau tidak spesifik bisa menjadi alasan penolakan."
+      }
+    ]
+  },
+  {
+    "title": "Jabatan yang dilarang untuk TKA",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apakah saya boleh merekrut orang asing untuk posisi HRD Manager di perusahaan saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak. Jabatan yang berhubungan langsung dengan personalia atau Human Resource Development termasuk dalam daftar jabatan yang dilarang untuk TKA berdasarkan Kepmenaker. Alasannya: jabatan HRD dianggap bisa diisi oleh tenaga kerja Indonesia dan berkaitan langsung dengan pengelolaan SDM lokal. Jabatan lain yang umum dilarang: jabatan di bidang kesehatan dan keselamatan kerja tertentu, jabatan supervisi lapangan tertentu, dan jabatan terkait quality control di level tertentu. Rekomendasi: periksa daftar jabatan terlarang terbaru di Kepmenaker karena bisa berubah setiap tahun."
+      },
+      {
+        "role": "user",
+        "content": "Kalau posisinya Chief Technology Officer, apakah diperbolehkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "CTO (Chief Technology Officer) umumnya diperbolehkan karena termasuk jabatan direksi atau jabatan teknis tingkat tinggi yang memerlukan keahlian khusus. Namun, persetujuan tetap bergantung pada penilaian Kemnaker terhadap RPTKA Anda. Yang akan dinilai: apakah benar belum ada tenaga kerja Indonesia yang mampu mengisi posisi tersebut, apakah kualifikasi TKA sesuai, dan apakah rencana alih teknologi memadai. Untuk jabatan direksi, prosedur bisa lebih sederhana dengan mekanisme RPTKA yang lebih ringkas jika TKA tersebut merangkap sebagai pemegang saham atau anggota direksi."
+      }
+    ]
+  }
+]

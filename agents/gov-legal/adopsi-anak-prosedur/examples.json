@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Prosedur adopsi anak dari panti asuhan oleh pasangan suami istri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami pasangan suami istri sudah menikah 7 tahun tapi belum dikaruniai anak. Kami ingin mengadopsi bayi dari panti asuhan. Bagaimana prosedur lengkapnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut prosedur lengkap adopsi anak dari panti asuhan (Lembaga Pengasuhan Anak) berdasarkan PP No. 54/2007 dan Permensos No. 110/HUK/2009:\n\n**Tahap 1: Pendaftaran di Dinas Sosial**\n- Datangi Dinas Sosial kabupaten/kota domisili Anda\n- Isi formulir pendaftaran calon orang tua angkat (COTA)\n- Serahkan dokumen: KTP-el suami istri, KK, akta nikah, SKCK, surat keterangan sehat dari RS pemerintah, surat keterangan penghasilan, dan pas foto keluarga\n\n**Tahap 2: Asesmen Kelayakan**\n- Pekerja sosial melakukan home visit ke rumah Anda\n- Wawancara mendalam tentang motivasi adopsi, kondisi ekonomi, dan kesiapan psikologis\n- Proses asesmen memakan waktu 1-3 bulan\n\n**Tahap 3: Matching dengan Anak**\n- Jika dinyatakan layak, Dinas Sosial mempertemukan Anda dengan anak yang tersedia\n- Anda tidak bisa memilih anak secara spesifik — matching dilakukan berdasarkan kesesuaian\n\n**Tahap 4: Masa Pengasuhan Sementara (Fostering)**\n- Anda mengasuh anak minimal 6 bulan di rumah Anda\n- Pekerja sosial melakukan kunjungan monitoring minimal setiap bulan\n- Periode ini menentukan kelayakan Anda secara nyata\n\n**Tahap 5: Laporan dan Rekomendasi**\n- Pekerja sosial menyusun laporan sosial\n- Laporan dikirim ke Tim TPPPA Kemensos untuk mendapat surat izin pengangkatan anak\n\n**Tahap 6: Penetapan Pengadilan**\n- Ajukan permohonan penetapan ke Pengadilan Negeri (atau Pengadilan Agama jika Muslim)\n- Sidang pemeriksaan dengan saksi dan pekerja sosial\n- Hakim mengeluarkan penetapan pengangkatan anak\n\n**Tahap 7: Akta Kelahiran Baru**\n- Bawa penetapan pengadilan ke Disdukcapil\n- Urus penerbitan akta kelahiran baru atas nama orang tua angkat\n\nEstimasi total waktu: 12-24 bulan dari pendaftaran hingga penetapan."
+      },
+      {
+        "role": "user",
+        "content": "Apakah usia kami berpengaruh? Suami 40, saya 38."
+      },
+      {
+        "role": "assistant",
+        "content": "Usia Anda berdua masih memenuhi syarat. Berdasarkan PP No. 54/2007:\n\n**Persyaratan usia COTA:**\n- Minimal 30 tahun → suami (40) dan istri (38) sudah memenuhi\n- Maksimal 55 tahun → masih jauh dari batas\n- Selisih usia minimal 25 tahun dengan anak → jika mengadopsi bayi (0-1 tahun), selisih usia 38-40 tahun, sudah memenuhi syarat\n\n**Persyaratan pernikahan:**\n- Minimal menikah 5 tahun → Anda sudah 7 tahun, memenuhi syarat\n\nYang perlu diperhatikan: semakin tua usia COTA, pekerja sosial akan mempertimbangkan kemampuan pengasuhan jangka panjang. Pastikan surat keterangan sehat jasmani dan rohani dari RS pemerintah menunjukkan kondisi yang baik. Secara keseluruhan, profil usia Anda sangat ideal untuk proses adopsi."
+      }
+    ]
+  },
+  {
+    "title": "Adopsi anak keponakan yatim piatu tanpa melalui pengadilan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kakak saya meninggal dan meninggalkan anak usia 4 tahun. Kami sudah sepakat sekeluarga saya yang mengasuh. Apakah perlu ke pengadilan atau cukup kesepakatan keluarga saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kesepakatan keluarga saja **tidak cukup** dan tidak memiliki kekuatan hukum. Berdasarkan UU No. 23/2002 jo. UU No. 35/2014 dan PP No. 54/2007, pengangkatan anak wajib melalui penetapan pengadilan meskipun ada hubungan keluarga.\n\n**Mengapa harus melalui pengadilan?**\n- Tanpa penetapan, status hukum anak tidak berubah — Anda tidak tercatat sebagai orang tua di akta kelahiran\n- Anak tidak mendapat hak waris dari Anda secara otomatis\n- Kesulitan mengurus dokumen anak (KIA, paspor, pendaftaran sekolah) tanpa bukti hukum\n- Risiko sengketa di kemudian hari jika ada keluarga lain yang mengklaim hak asuh\n\n**Prosedur adopsi intrafamily (antar keluarga):**\n1. Siapkan surat persetujuan tertulis dari seluruh keluarga almarhum (bermaterai, disaksikan RT/RW)\n2. Daftarkan ke Dinas Sosial untuk asesmen kelayakan — meskipun intrafamily, asesmen tetap wajib\n3. Jalani masa pengasuhan sementara (bisa lebih singkat karena anak sudah diasuh)\n4. Ajukan permohonan penetapan pengangkatan anak ke Pengadilan Negeri\n5. Lampirkan: akta kematian kakak, akta kelahiran anak, KTP/KK Anda, akta nikah, surat persetujuan keluarga, dan laporan sosial dari Dinas Sosial\n6. Setelah penetapan, urus akta kelahiran baru di Disdukcapil\n\n**Biaya:**\n- Biaya perkara PN: sekitar Rp 200.000-500.000\n- Jika tidak mampu, ajukan permohonan berperkara secara prodeo (gratis) dengan melampirkan SKTM dari kelurahan\n\nSaran saya: segera mulai proses formal agar hak-hak keponakan Anda terlindungi secara hukum."
+      }
+    ]
+  }
+]

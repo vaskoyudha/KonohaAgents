@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pengajuan pengampuan untuk ayah dengan demensia berat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ayah saya berusia 72 tahun dan didiagnosis demensia berat oleh psikiater. Beliau memiliki tabungan dan rumah tapi tidak bisa mengurus keuangan sendiri. Adik saya takut ada pihak yang memanfaatkan. Bagaimana cara saya menjadi pengelola harta ayah secara sah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda perlu mengajukan **permohonan pengampuan (curatele)** ke Pengadilan Negeri berdasarkan Pasal 433 KUH Perdata. Berikut prosedur lengkapnya:\n\n**Dasar hukum pengampuan ayah Anda:**\n- Pasal 433 KUH Perdata: orang dewasa yang mengalami gangguan jiwa dapat ditempatkan di bawah pengampuan\n- Demensia berat memenuhi kriteria \"sakit jiwa\" yang menghilangkan kemampuan mengurus diri sendiri\n\n**Dokumen yang perlu disiapkan:**\n1. Surat permohonan ke PN tempat tinggal ayah (bermaterai)\n2. Surat keterangan psikiater/dokter spesialis saraf dari RS pemerintah yang menyatakan diagnosis demensia\n3. KTP dan KK pemohon (Anda)\n4. KTP dan KK ayah\n5. Akta kelahiran Anda (bukti hubungan anak-ayah)\n6. Daftar harta kekayaan ayah yang perlu dikelola (tabungan, sertifikat rumah)\n7. Surat persetujuan dari anggota keluarga lain (adik dan saudara)\n\n**Proses di Pengadilan:**\n1. Daftarkan permohonan di kepaniteraan perdata PN — biaya sekitar Rp 200.000-500.000\n2. Hakim akan menjadwalkan sidang pemeriksaan (1-3 minggu)\n3. Anda, adik, dan saksi keluarga didengar keterangannya\n4. Hakim **wajib memeriksa langsung ayah Anda** — bisa di rumah sakit jika tidak bisa hadir\n5. Psikiater memberikan keterangan ahli di persidangan\n6. Hakim mengeluarkan penetapan pengampuan dan menunjuk Anda sebagai kurator\n\n**Setelah ditetapkan sebagai kurator:**\n- Anda berwenang mengelola seluruh harta ayah\n- Wajib melaporkan pengelolaan harta secara berkala ke pengadilan\n- Untuk menjual rumah ayah, perlu izin pengadilan terlebih dahulu\n- Balai Harta Peninggalan (BHP) ditunjuk sebagai pengawas kurator\n\nEstimasi proses: 1-3 bulan dari pendaftaran hingga penetapan."
+      }
+    ]
+  },
+  {
+    "title": "Penetapan wali untuk anak yatim piatu",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kakak dan kakak ipar saya meninggal dalam kecelakaan. Mereka meninggalkan dua anak usia 8 dan 12 tahun. Tidak ada wasiat. Siapa yang berhak menjadi wali dan bagaimana prosedurnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turut berduka cita atas musibah yang menimpa keluarga Anda. Berdasarkan Pasal 359 KUH Perdata, jika kedua orang tua meninggal dan tidak ada wasiat yang menunjuk wali, maka **Pengadilan Negeri yang berwenang menetapkan wali**. Tidak ada wali otomatis.\n\n**Siapa yang bisa menjadi wali:**\n- Keluarga sedarah terdekat (Anda sebagai paman/bibi)\n- Kakek/nenek dari kedua pihak\n- Keluarga lain yang bersedia dan mampu\n- Pengadilan akan mempertimbangkan kepentingan terbaik anak\n\n**Prosedur permohonan perwalian:**\n1. Ajukan surat permohonan penetapan wali ke PN tempat tinggal terakhir almarhum\n2. **Dokumen yang diperlukan:**\n   - Akta kematian kedua orang tua\n   - Akta kelahiran kedua anak\n   - KTP dan KK Anda\n   - Bukti hubungan keluarga\n   - Surat persetujuan dari keluarga besar (terutama kakek/nenek dari kedua pihak)\n   - Surat keterangan penghasilan dan tempat tinggal\n   - SKCK Anda\n3. Sidang pemeriksaan: hakim mendengar keterangan Anda, keluarga, dan pendapat anak (anak usia 12 tahun dimintai pendapatnya berdasarkan UU Perlindungan Anak)\n4. Penetapan wali oleh hakim\n\n**Kewajiban Anda sebagai wali:**\n- Mengasuh dan mendidik kedua anak\n- Mengelola harta warisan anak dari almarhum orang tuanya\n- Melaporkan pengelolaan harta ke Balai Harta Peninggalan\n- Tidak boleh menjual/menggadaikan harta tetap anak tanpa izin PN\n- Perwalian berakhir saat anak berusia 18 tahun — Anda wajib menyerahkan laporan pertanggungjawaban pengelolaan harta\n\n**Biaya:** Rp 200.000-500.000 untuk biaya perkara. Jika tidak mampu, ajukan prodeo.\n\n**Penting:** Segera ajukan permohonan agar status hukum anak-anak jelas, terutama untuk keperluan sekolah, asuransi, dan pengurusan harta warisan."
+      }
+    ]
+  }
+]

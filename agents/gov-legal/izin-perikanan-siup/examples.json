@@ -1,0 +1,44 @@
+[
+  {
+    "title": "SIUP dan SIPI untuk kapal penangkapan ikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya 2 kapal masing-masing 25 GT dan ingin menangkap ikan di Laut Jawa. Bagaimana proses perizinannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk 2 kapal @25 GT di Laut Jawa (WPPNRI 712): 1) Kapal 10-30 GT perizinannya di tingkat provinsi — urus ke Dinas Kelautan dan Perikanan Provinsi. 2) Ajukan SIUP untuk usaha perikanan tangkap: dokumen meliputi akta perusahaan/KTP, NPWP, bukti kepemilikan kapal, dan rencana usaha. 3) Setelah SIUP terbit, ajukan SIPI untuk masing-masing kapal: spesifikasi kapal (GT, dimensi, mesin), jenis alat tangkap (pastikan bukan pukat tarik/hela yang dilarang), daftar ABK, dan wilayah penangkapan. 4) Jalur penangkapan untuk 25 GT: jalur II (4-12 mil laut dari pantai). 5) Pasang transmitter VMS untuk pemantauan oleh Pusat Pemantauan Kapal Perikanan (PPKP). 6) Lengkapi Surat Laik Operasi (SLO) dari Syahbandar di pelabuhan perikanan pangkalan. 7) Setiap trip wajib mengisi logbook penangkapan ikan."
+      },
+      {
+        "role": "user",
+        "content": "Alat tangkap apa yang diperbolehkan dan bagaimana sistem VMS?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alat tangkap yang diperbolehkan untuk kapal 25 GT di WPPNRI 712: 1) Purse seine (pukat cincin) — umum untuk ikan pelagis kecil seperti layang, kembung. 2) Gill net (jaring insang) — untuk berbagai jenis ikan. 3) Pancing (hand line, troll line, long line) — untuk tuna dan ikan demersal. 4) Bubu (trap) — untuk lobster dan kepiting. Yang dilarang: pukat tarik (trawl) dan pukat hela di seluruh WPPNRI sesuai Permen KKP 2/2015. VMS (Vessel Monitoring System): 1) Wajib untuk kapal di atas 30 GT, direkomendasikan untuk 10-30 GT. 2) Transmitter dipasang di kapal dan mengirimkan posisi secara berkala ke PPKP KKP. 3) Biaya perangkat dan operasional ditanggung pemilik kapal. 4) Fungsi: memastikan kapal beroperasi di wilayah yang diizinkan di SIPI, mencegah penangkapan ilegal. 5) Jika kapal terdeteksi di luar wilayah izin, akan ada peringatan dan bisa dikenakan sanksi."
+      }
+    ]
+  },
+  {
+    "title": "Perizinan budidaya udang vaname",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami berencana membangun tambak udang vaname intensif seluas 30 hektar di pesisir Lampung. Apa saja perizinannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tambak udang vaname intensif 30 ha di Lampung: 1) SIUP untuk usaha budidaya perikanan melalui OSS-RBA — termasuk risiko menengah tinggi. 2) Izin lokasi dari BPN/ATR: pastikan lahan sesuai zonasi budidaya pesisir dalam RTRW Lampung. 3) Dokumen lingkungan: karena 30 ha di atas threshold AMDAL (>50 ha biasanya UKL-UPL), tetapi budidaya intensif dengan dampak signifikan mungkin tetap perlu AMDAL — konsultasi dengan Dinas LH. 4) Izin pengambilan air laut/payau dan izin pembuangan limbah tambak ke badan air. 5) Pastikan IPAL (Instalasi Pengolahan Air Limbah) sesuai baku mutu. 6) Setelah operasional, urus sertifikasi CBIB (Cara Budidaya Ikan yang Baik) dari BKIPM. 7) Jika udang untuk ekspor: sertifikat Health Certificate dari BKIPM untuk setiap pengiriman."
+      },
+      {
+        "role": "user",
+        "content": "Apa itu CBIB dan apakah wajib?"
+      },
+      {
+        "role": "assistant",
+        "content": "CBIB (Cara Budidaya Ikan yang Baik) adalah sertifikasi standar mutu budidaya yang dikeluarkan BKIPM (Badan Karantina Ikan, Pengendalian Mutu): 1) CBIB belum sepenuhnya wajib untuk semua pembudidaya, tetapi sangat dianjurkan dan menjadi syarat untuk ekspor ke negara tertentu (UE, AS, Jepang). 2) Standar CBIB mencakup: manajemen mutu air, penggunaan pakan yang aman, pengendalian penyakit tanpa antibiotik terlarang, pencatatan dan traceability produk, pengelolaan limbah. 3) Proses sertifikasi: ajukan ke BKIPM wilayah, tim auditor melakukan inspeksi tambak dan laboratorium, penilaian berdasarkan checklist CBIB. 4) Sertifikat berlaku 3 tahun dengan audit surveillance tahunan. 5) Keuntungan: harga jual lebih tinggi, akses pasar ekspor, kepercayaan buyer, dan memenuhi regulasi food safety internasional. 6) Untuk pasar domestik, sertifikasi SNI juga bisa ditempuh. Tips: mulai terapkan standar CBIB sejak awal operasional agar lebih mudah mendapat sertifikasi."
+      }
+    ]
+  }
+]

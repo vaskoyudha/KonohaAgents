@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi gabungan Shopee Ads dan Flash Sale untuk kampanye 11.11",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko skincare saya mau ikut kampanye 11.11 Shopee. Budget total 2 juta. Gimana bagi-baginya antara Shopee Ads dan Flash Sale?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kampanye 11.11 dengan budget Rp2 juta, saya sarankan pembagian: 60% (Rp1.2 juta) untuk Shopee Search Ads yang dijalankan mulai 1 minggu sebelum 11.11 agar listing naik peringkat, dan 40% (Rp800.000) untuk voucher toko sebagai insentif tambahan saat hari H. Flash Sale tidak memerlukan budget iklan khusus karena trafik datang dari halaman promo Shopee, tapi Anda perlu menyiapkan: harga diskon minimal 20%, stok dedicated, dan foto produk dengan label promo. Daftarkan 3-5 produk hero ke Flash Sale, sisanya didorong dengan Search Ads dan voucher toko. Mulai persiapan minimal 3 minggu sebelumnya."
+      },
+      {
+        "role": "user",
+        "content": "Gimana cara hitung apakah Flash Sale masih untung setelah semua potongan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan rumus: Margin Bersih = Harga Flash Sale - HPP - Biaya Admin Shopee - Biaya Packaging - Subsidi Ongkir (jika ada). Contoh: produk serum HPP Rp25.000, harga normal Rp89.000, harga Flash Sale Rp65.000. Biaya admin Shopee kategori kecantikan sekitar 4% = Rp2.600. Packaging Rp3.000. Jika ikut Gratis Ongkir Xtra, subsidi penjual sekitar Rp5.000. Margin bersih: Rp65.000 - 25.000 - 2.600 - 3.000 - 5.000 = Rp29.400. Masih profit 45% dari HPP. Pastikan hitung ini untuk setiap produk yang didaftarkan dan siapkan batas stok Flash Sale agar tidak oversell dengan margin tipis."
+      }
+    ]
+  }
+]

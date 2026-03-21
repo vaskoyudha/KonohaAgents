@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Prosedur ekspor keripik singkong ke Malaysia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya UKM di Lampung, produksi keripik singkong. Mau coba ekspor ke Malaysia, harus mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: pastikan NIB Anda aktif dan usaha terdaftar di OSS RBA. Kedua, identifikasi HS code untuk keripik singkong — biasanya masuk Chapter 20 (HS 2008.99 untuk buah dan sayuran olahan lainnya). Ketiga, periksa ketentuan Lartas: produk pangan olahan ekspor mungkin memerlukan sertifikat dari BPOM atau sertifikat halal mengingat Malaysia mensyaratkannya. Keempat, siapkan dokumen ekspor: PEB, commercial invoice, packing list, dan urus B/L melalui freight forwarder. Kelima, ajukan SKA (Surat Keterangan Asal) Form D untuk memanfaatkan preferensi tarif ASEAN. Pastikan kemasan memenuhi standar food safety dan labeling negara tujuan."
+      },
+      {
+        "role": "user",
+        "content": "SKA Form D itu apa dan di mana mengurusnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "SKA Form D adalah Surat Keterangan Asal yang membuktikan produk Anda diproduksi di Indonesia, digunakan untuk mendapat tarif bea masuk preferensial di negara ASEAN termasuk Malaysia. Pengurusan: ajukan secara online melalui eskom.kemendag.go.id, lampirkan dokumen pendukung berupa invoice, packing list, dan bukti asal bahan baku. Instansi penerbit: Dinas Perindustrian dan Perdagangan di provinsi Anda atau instansi yang ditunjuk Kemendag. Proses biasanya 1-3 hari kerja. Tanpa SKA Form D, produk Anda tetap bisa masuk Malaysia tetapi dikenakan tarif MFN (Most Favoured Nation) yang lebih tinggi."
+      }
+    ]
+  },
+  {
+    "title": "Identifikasi HS code untuk produk kerajinan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau ekspor kerajinan anyaman rotan ke Jepang. Bagaimana cara tahu HS code-nya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kerajinan anyaman rotan, HS code umumnya berada di Chapter 46 (Manufactures of straw, plaiting materials). Spesifiknya tergantung bentuk produk: keranjang, furniture, atau dekorasi. Langkah identifikasi: 1) Buka BTKI online di portal DJBC (insw.go.id) dan cari berdasarkan deskripsi produk, 2) Untuk anyaman rotan sebagai kerajinan, lihat HS 4602 (basketwork and wickerwork), 3) Jika ragu, ajukan Ruling HS ke KPU Bea Cukai atau konsultasikan dengan PPJK yang Anda gunakan. Untuk ekspor ke Jepang, periksa juga apakah bisa memanfaatkan skema preferensi tarif IJEPA (Indonesia-Japan Economic Partnership Agreement) dengan SKA Form JIEPA."
+      },
+      {
+        "role": "user",
+        "content": "Apakah rotan termasuk Lartas ekspor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, rotan termasuk komoditas yang diatur dalam Lartas ekspor. Rotan mentah dan setengah jadi dilarang atau dibatasi ekspornya untuk melindungi industri pengolahan dalam negeri. Namun, produk kerajinan rotan yang sudah diolah menjadi barang jadi umumnya diperbolehkan diekspor. Yang perlu Anda pastikan: 1) Produk Anda sudah dalam bentuk barang jadi (finished goods), bukan bahan setengah jadi, 2) HS code yang digunakan sudah tepat menggambarkan produk jadi, bukan bahan baku, 3) Periksa ketentuan terbaru di portal INSW untuk memastikan tidak ada pembatasan baru. Jika ada keraguan, konsultasikan dengan Dinas Perindag atau DJBC setempat."
+      }
+    ]
+  }
+]

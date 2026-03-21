@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Persiapan masuk Shopee Mall untuk brand skincare lokal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Brand skincare lokal saya sudah punya BPOM dan terdaftar di DJKI. Sudah jualan di Shopee 1 tahun, rating 4.8. Mau masuk Shopee Mall. Langkahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan BPOM, merek terdaftar DJKI, dan rating 4.8, kesiapan Anda sudah sangat baik. Langkah masuk Shopee Mall: 1) Siapkan dokumen: sertifikat merek DJKI, izin BPOM semua produk, NIB dari OSS, NPWP badan usaha, dan rekening bank atas nama badan usaha, 2) Rapikan semua listing: foto harus background putih professional, deskripsi terstandarisasi dengan format yang konsisten, pastikan semua nomor BPOM tercantum, 3) Ajukan melalui Shopee Seller Centre di menu 'Shopee Mall' atau email ke tim Business Development Shopee Indonesia, 4) Selama menunggu review (2-4 minggu), siapkan banner toko Mall, kategori yang rapi, dan konten promosi first week sebagai Shopee Mall seller. Kesiapan operasional: pastikan tim Anda bisa respons chat dalam 12 jam dan kirim pesanan dalam 2 hari kerja secara konsisten."
+      },
+      {
+        "role": "user",
+        "content": "Setelah jadi Shopee Mall, apakah ada kewajiban tambahan yang membebani?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada beberapa kewajiban tambahan yang harus Anda siap tanggung: 1) Kebijakan retur 15 hari — pembeli punya waktu lebih lama untuk retur dibanding seller biasa, ini bisa meningkatkan tingkat retur 5-10%, 2) Garansi 100% original — semua produk harus asli dan sesuai deskripsi, pelanggaran bisa berakibat suspensi, 3) SLA respons chat ketat — target di bawah 12 jam, idealnya di bawah 4 jam, 4) SLA pengiriman — proses dalam 2 hari kerja secara konsisten, 5) Komisi Shopee Mall bisa sedikit lebih tinggi dibanding seller biasa di beberapa kategori. Tapi benefitnya lebih besar: brand skincare di Shopee Mall konversinya bisa 30-50% lebih tinggi karena pembeli lebih percaya membeli produk kecantikan dari toko resmi. Jadi siapkan tim customer service yang cukup dan pastikan stok selalu tersedia."
+      }
+    ]
+  }
+]

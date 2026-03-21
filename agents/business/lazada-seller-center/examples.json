@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengoptimasi performa toko Lazada yang skornya menurun",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Skor toko Lazada saya turun dari 90 ke 75 bulan ini. Pengiriman sering telat karena kurir penuh. Bagaimana mengatasinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skor 75 sudah masuk zona bahaya di Lazada karena bisa mempengaruhi visibilitas listing Anda. Langkah pemulihan: 1) Perpanjang estimasi pengiriman di Seller Center menjadi 3-4 hari kerja agar ada buffer waktu, 2) Daftarkan lebih dari satu jasa kurir agar ada backup saat satu kurir penuh, 3) Proses pesanan dalam 24 jam pertama — jangan menunda hingga batas waktu, 4) Untuk produk fast-moving, pertimbangkan menggunakan Lazada Fulfillment (FBL) agar pengiriman ditangani gudang Lazada, 5) Sementara skor pulih, kurangi partisipasi promo besar untuk menghindari lonjakan pesanan yang tidak bisa ditangani. Target: kembalikan skor ke 85+ dalam 4 minggu dengan konsistensi pengiriman."
+      },
+      {
+        "role": "user",
+        "content": "Biaya FBL itu berapa dan apakah worth it untuk produk harga Rp50.000?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biaya FBL terdiri dari: biaya penyimpanan per unit per hari dan biaya fulfillment per pesanan. Untuk produk kecil seperti aksesori harga Rp50.000, biaya fulfillment sekitar Rp5.000-8.000 per pesanan tergantung berat dan ukuran. Ditambah komisi Lazada sekitar 3-5%, total biaya bisa Rp7.000-10.500. Jika margin Anda Rp20.000 per unit, setelah FBL tersisa Rp10.000-13.000. Masih worth it jika: volume pesanan tinggi sehingga Anda hemat waktu dan tenaga, skor toko naik yang meningkatkan visibilitas, dan Anda bisa fokus pada pengembangan produk baru. Tidak worth it jika: volume rendah dan margin tipis. Hitung volume break-even Anda dulu sebelum memutuskan."
+      }
+    ]
+  }
+]

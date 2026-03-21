@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sengketa batas tanah dengan tetangga yang punya girik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tetangga saya tiba-tiba memasang pagar di atas tanah saya sekitar 2 meter masuk ke area saya. Saya punya SHM, dia bilang punya girik dari almarhum orangtuanya. Saya harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Situasi Anda cukup jelas secara hukum. SHM (Sertifikat Hak Milik) adalah bukti kepemilikan terkuat yang diakui hukum Indonesia berdasarkan PP No. 24/1997. Girik bukan bukti kepemilikan tanah, melainkan hanya bukti pembayaran pajak tanah pada masa lalu.\n\nBerikut langkah yang saya rekomendasikan:\n\n**Langkah 1: Pengukuran ulang di BPN**\nAjukan permohonan pengukuran ulang batas tanah ke Kantor Pertanahan setempat. Biaya sekitar Rp500.000-Rp2.000.000 tergantung luas tanah. Petugas BPN akan mengukur dan mencocokkan dengan data surat ukur di SHM Anda. Ini menjadi bukti kuat posisi batas tanah.\n\n**Langkah 2: Somasi tertulis**\nKirim surat somasi (teguran) ke tetangga melalui kuasa hukum atau secara pribadi, meminta pembongkaran pagar dalam waktu tertentu (misalnya 14 hari).\n\n**Langkah 3: Mediasi**\nJika somasi diabaikan, ajukan mediasi di kantor kelurahan atau BPN. Mediasi di BPN gratis berdasarkan Permen ATR/BPN No. 21/2020.\n\n**Langkah 4: Gugatan perdata (jika mediasi gagal)**\nAjukan gugatan perbuatan melawan hukum di PN setempat, minta pengembalian tanah dan pembongkaran pagar. Dengan SHM dan hasil pengukuran BPN, posisi hukum Anda sangat kuat."
+      },
+      {
+        "role": "user",
+        "content": "Apakah saya perlu melaporkan ke polisi juga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, tetapi tergantung pada konteks dan tujuan Anda:\n\n**Laporan pidana bisa dipertimbangkan jika:**\n- Tetangga dengan sengaja menyerobot tanah yang jelas bukan haknya (Pasal 385 KUHP tentang stellionaat/penipuan hak atas tanah)\n- Ada unsur pemalsuan dokumen\n- Ada ancaman atau intimidasi saat Anda meminta pengembalian tanah\n\n**Namun perlu dipertimbangkan:**\n- Proses pidana tidak secara otomatis mengembalikan tanah Anda — untuk itu tetap perlu gugatan perdata\n- Jika tetangga benar-benar tidak tahu batas (misalnya tanah warisan yang belum jelas), jalur mediasi lebih efektif dan menjaga hubungan bertetangga\n- Polisi sering menyarankan penyelesaian sengketa batas melalui jalur perdata\n\n**Rekomendasi saya:** Prioritaskan pengukuran BPN dan mediasi terlebih dahulu. Jika ada bukti kesengajaan atau pemalsuan, baru pertimbangkan laporan pidana sebagai langkah tambahan. Pendekatan dua jalur (perdata + pidana) bisa dilakukan bersamaan jika diperlukan."
+      }
+    ]
+  }
+]

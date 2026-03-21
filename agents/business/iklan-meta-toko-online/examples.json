@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Merancang kampanye Instagram Ads untuk toko fashion di Tokopedia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jualan baju wanita di Tokopedia. Mau coba Instagram Ads budget 2 juta per bulan. Targetnya apa dan copy iklannya gimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan budget Rp2 juta/bulan untuk fashion wanita di Tokopedia, berikut setup campaign: Objective: Traffic (mengarahkan klik ke listing Tokopedia). Target audiens: Wanita usia 20-35, lokasi Jabodetabek + kota besar (Surabaya, Bandung, Medan, Makassar), interest: Online Shopping, Fashion & Style, Tokopedia. Format iklan: Carousel dengan 4-5 foto OOTD — tampilkan produk yang dipakai, bukan sekadar flat lay. Copy contoh: 'Koleksi baru yang bikin OOTD-mu makin stand out! Mulai dari Rp89.000 — FREE ONGKIR. Tap untuk lihat semua koleksi di toko kami.' CTA: Shop Now dengan link ke halaman toko Tokopedia. Budget: Rp67.000/hari, mulai dengan 2 ad set berbeda (usia 20-27 dan 28-35) untuk melihat segmen mana yang lebih responsif."
+      },
+      {
+        "role": "user",
+        "content": "Setelah seminggu iklan jalan, CPC Rp350 dan sudah 400 klik. Tapi penjualan di Tokopedia cuma naik 5 transaksi. Apakah ini bagus?"
+      },
+      {
+        "role": "assistant",
+        "content": "CPC Rp350 untuk fashion wanita itu bagus — di bawah rata-rata. Dari 400 klik, 5 transaksi berarti konversi 1.25%. Ini termasuk normal untuk trafik dari luar marketplace karena pembeli perlu waktu untuk memutuskan. Analisis: biaya per akuisisi = 400 x Rp350 / 5 = Rp28.000 per transaksi. Jika margin per baju Rp40.000, Anda masih profit Rp12.000 per transaksi dari trafik Meta. Optimasi untuk meningkatkan konversi: 1) Pastikan landing page (listing Tokopedia) konsisten dengan iklan — produk yang sama, harga yang sama, 2) Tambahkan promo khusus: 'Diskon 10% untuk 50 pembeli pertama dari Instagram' dengan kode voucher, 3) Retarget: buat Custom Audience dari orang yang sudah klik tapi belum beli, tampilkan iklan reminder dengan urgency. Target: naikkan konversi ke 2-3% dalam 2 minggu."
+      }
+    ]
+  }
+]

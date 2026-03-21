@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Pencatatan pernikahan beda agama di KCS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya beragama Islam dan calon istri saya Katolik. Kami tidak ingin pindah agama. Bagaimana cara menikah secara sah di Indonesia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya memahami situasi Anda. Pernikahan beda agama memang tidak diatur secara eksplisit dalam UU No. 1/1974, sehingga prosedurnya lebih kompleks. Berikut opsi hukum yang tersedia:\n\n**Opsi 1: Penetapan Pengadilan Negeri**\nAjukan permohonan ke PN setempat agar memerintahkan KCS/Dukcapil mencatat pernikahan Anda. Beberapa PN mengabulkan berdasarkan yurisprudensi dan hak asasi manusia. Namun hasilnya tidak dijamin karena bergantung pada pandangan hakim.\n\n**Opsi 2: Pernikahan di luar negeri**\nMelangsungkan pernikahan di negara yang mengizinkan (misalnya Singapura atau Australia), lalu mendaftarkan pernikahan di KBRI dan mencatatkan di Dukcapil Indonesia dalam 30 hari setelah kembali. Ini jalur yang paling pasti secara hukum.\n\n**Opsi 3: Penundukan diri**\nSalah satu pihak menundukkan diri pada agama pasangan untuk melangsungkan pernikahan, lalu mencatatkan sesuai jalur agama tersebut.\n\nMasing-masing opsi memiliki implikasi hukum dan biaya yang berbeda. Opsi mana yang ingin Anda eksplorasi lebih lanjut?"
+      },
+      {
+        "role": "user",
+        "content": "Kami tertarik opsi penetapan PN. Bagaimana prosedurnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut prosedur pengajuan penetapan PN untuk pernikahan beda agama:\n\n**Dokumen yang disiapkan:**\n- Surat permohonan penetapan (bisa dibantu oleh advokat atau Posbakum PN)\n- KTP dan KK kedua calon mempelai\n- Akta kelahiran kedua pihak\n- Surat keterangan belum menikah dari kelurahan\n- Surat penolakan dari KUA dan KCS (sebagai bukti bahwa jalur normal sudah ditempuh)\n- Pas foto bersama\n\n**Langkah:**\n1. Ajukan surat ke KUA dan KCS untuk mendapatkan surat penolakan resmi.\n2. Daftarkan permohonan penetapan di kepaniteraan perdata PN domisili salah satu pihak.\n3. Bayar biaya perkara (sekitar Rp200.000-Rp500.000).\n4. Hadiri sidang penetapan, biasanya dijadwalkan 2-4 minggu setelah pendaftaran.\n5. Jika hakim mengabulkan, Anda mendapat salinan penetapan.\n6. Bawa penetapan ke KCS/Dukcapil untuk pencatatan pernikahan.\n\n**Catatan penting:** Tidak semua PN mengabulkan permohonan ini. Keberhasilannya bergantung pada yurisprudensi di wilayah hukum tersebut. Saya sarankan berkonsultasi dengan advokat yang berpengalaman menangani kasus serupa di daerah Anda."
+      }
+    ]
+  }
+]

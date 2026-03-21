@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Menentukan jenis dokumen lingkungan untuk pabrik garmen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau bangun pabrik garmen di kawasan industri Karawang, kapasitas 500 pekerja. Perlu AMDAL atau cukup UKL-UPL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena pabrik Anda berlokasi di kawasan industri yang umumnya sudah memiliki AMDAL kawasan, kemungkinan besar Anda cukup menyusun UKL-UPL. Namun, perlu dicek dua hal: pertama, apakah kapasitas produksi dan luas pabrik Anda melebihi ambang batas yang ditetapkan di Lampiran PP 22/2021. Kedua, apakah pengelola kawasan industri mensyaratkan dokumen tambahan. Untuk pabrik garmen skala 500 pekerja di kawasan industri, UKL-UPL biasanya sudah memadai. Format dokumen mengacu pada Permen LHK No. 4/2021, diajukan melalui OSS RBA atau langsung ke Dinas Lingkungan Hidup setempat."
+      },
+      {
+        "role": "user",
+        "content": "Apa saja isi dokumen UKL-UPL yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dokumen UKL-UPL berisi: 1) Identitas pemrakarsa dan rencana kegiatan, 2) Deskripsi kegiatan yang berpotensi menimbulkan dampak lingkungan, 3) Dampak lingkungan yang mungkin terjadi: limbah cair, limbah padat, emisi, kebisingan, 4) Upaya pengelolaan lingkungan untuk setiap dampak yang teridentifikasi, 5) Upaya pemantauan lingkungan: parameter yang dipantau, metode, frekuensi, dan lokasi pemantauan, 6) Peta lokasi dan denah kegiatan. Siapkan juga data pendukung: izin lokasi, denah pabrik, proses produksi, dan estimasi jenis serta volume limbah. Setelah diajukan, instansi teknis akan memeriksa dalam waktu sekitar 14 hari kerja."
+      }
+    ]
+  },
+  {
+    "title": "Tahapan penyusunan AMDAL untuk proyek perumahan berskala besar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami akan membangun perumahan 300 unit di lahan 10 hektar di pinggiran kota Semarang. Apakah ini wajib AMDAL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pembangunan perumahan di lahan 10 hektar dengan 300 unit kemungkinan besar wajib AMDAL berdasarkan PP 22/2021, karena skala kegiatan melebihi ambang batas untuk pengembangan kawasan permukiman. Ambang batas umumnya adalah luas kawasan tertentu atau jumlah unit tertentu. Langkah pertama Anda: cek Lampiran PP 22/2021 untuk memastikan kriteria wajib AMDAL pada sektor perumahan. Jika memang wajib AMDAL, prosesnya dimulai dari pengumuman rencana kegiatan dan konsultasi publik, dilanjutkan penyusunan KA-ANDAL, lalu ANDAL-RKL-RPL."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama estimasi waktu dari awal sampai terbit persetujuan lingkungan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimasi total waktu untuk AMDAL proyek perumahan skala ini berkisar 6-12 bulan, tergantung kompleksitas dan responsivitas instansi. Rincian: penyusunan KA-ANDAL 1-2 bulan, penilaian KA-ANDAL oleh Tim Teknis 1 bulan, penyusunan ANDAL-RKL-RPL 2-3 bulan, penilaian ANDAL-RKL-RPL dan Komisi Penilai 2-3 bulan, penerbitan Persetujuan Lingkungan 1 bulan. Faktor yang memperlambat: revisi dokumen karena ketidaklengkapan data, penolakan dari masyarakat saat konsultasi publik, atau permintaan data tambahan dari Tim Teknis. Saran: libatkan konsultan AMDAL bersertifikat sejak awal untuk meminimalkan revisi."
+      }
+    ]
+  }
+]

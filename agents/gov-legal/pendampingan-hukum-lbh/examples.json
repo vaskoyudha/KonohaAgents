@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mencari bantuan hukum gratis untuk kasus tanah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tanah warisan keluarga saya mau diambil developer, kami tidak punya uang untuk bayar pengacara. Ada bantuan hukum gratis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, ada dan itu hak Anda. Berdasarkan UU No. 16/2011, setiap warga tidak mampu berhak mendapatkan bantuan hukum gratis. Berikut langkah yang bisa Anda tempuh:\n\n**1. Hubungi LBH terdekat:**\nLBH di bawah YLBHI ada di 16 kota: Jakarta, Bandung, Semarang, Surabaya, Medan, Makassar, Manado, Bali, Padang, Palembang, Bandar Lampung, Yogyakarta, Papua, Banda Aceh, Pekanbaru, dan Pontianak. Hubungi yang terdekat dengan domisili Anda.\n\n**2. Siapkan dokumen:**\n- SKTM (Surat Keterangan Tidak Mampu) dari kelurahan — ini syarat utama\n- KTP dan KK\n- Dokumen terkait kasus: sertifikat tanah, surat girik, bukti penguasaan\n- Kronologi tertulis sengketa dengan developer\n\n**3. Layanan yang akan Anda terima:**\n- Konsultasi hukum gratis\n- Analisis kekuatan kasus Anda\n- Penyusunan somasi ke developer\n- Pendampingan mediasi\n- Representasi di pengadilan jika diperlukan\n\n**Semua gratis** karena pendanaan LBH berasal dari APBN dan donasi.\n\nAlternatif lain: datang ke Posbakum di Pengadilan Negeri terdekat untuk konsultasi awal."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau di kota saya tidak ada LBH YLBHI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika tidak ada LBH YLBHI di kota Anda, masih ada beberapa alternatif:\n\n**1. OBH terakreditasi Kemenkumham:**\nAda ratusan Organisasi Bantuan Hukum terakreditasi di seluruh Indonesia. Cek daftar di website Kemenkumham (BPHN) atau hubungi kantor Kemenkumham wilayah Anda. OBH ini juga memberikan bantuan hukum gratis dengan pendanaan APBN.\n\n**2. Posbakum Pengadilan:**\nSetiap Pengadilan Negeri wajib memiliki Posbakum. Datang langsung ke PN terdekat, minta layanan Posbakum untuk konsultasi dan bantuan penyusunan gugatan.\n\n**3. Klinik Hukum Universitas:**\nFakultas hukum di universitas negeri biasanya memiliki klinik hukum yang melayani konsultasi gratis. Tanyakan ke universitas terdekat.\n\n**4. Advokat pro bono:**\nSetiap advokat wajib memberikan 50 jam bantuan hukum gratis per tahun (UU No. 18/2003). Hubungi Peradi atau asosiasi advokat di kota Anda untuk meminta referensi advokat pro bono.\n\n**5. Hotline:**\n- YLBHI Jakarta: (021) 3929840\n- Kemenkumham BPHN: (021) 5221484\n\nJangan menyerah karena jarak. Beberapa LBH juga menerima konsultasi awal via telepon atau email."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pengurusan KTP-el yang hilang dicuri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "KTP elektronik saya hilang dicuri di angkutan umum kemarin. Saya tinggal di Jakarta Timur. Bagaimana cara mengurusnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turut prihatin atas kejadian tersebut. Berikut langkah yang perlu Anda lakukan:\n\n1. **Buat surat kehilangan** di kantor polisi terdekat (Polsek). Bawa fotokopi KTP lama jika ada, atau sebutkan NIK Anda. Surat kehilangan ini gratis.\n2. **Siapkan dokumen**: Surat kehilangan dari polisi, KK asli, dan fotokopi KK.\n3. **Kunjungi Suku Dinas Dukcapil Jakarta Timur** di Jl. Dr. Sumarno, Pulogebang. Bawa semua dokumen dan isi formulir permohonan cetak ulang KTP-el (F-1.21).\n4. **Perekaman ulang** biasanya tidak diperlukan karena data biometrik Anda sudah tersimpan di database. Petugas akan memverifikasi dan mencetak KTP-el baru.\n5. **Estimasi waktu**: 1-7 hari kerja. Jika blanko tersedia, bisa selesai di hari yang sama. Jika tidak, Anda akan mendapat Surat Keterangan (Suket) sebagai pengganti sementara.\n\nProses ini sepenuhnya gratis sesuai UU No. 24/2013. Jangan pernah membayar calo."
+      },
+      {
+        "role": "user",
+        "content": "Apakah Surat Keterangan itu bisa dipakai untuk buka rekening bank?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Surat Keterangan (Suket) yang diterbitkan Dukcapil secara hukum memiliki kekuatan yang sama dengan KTP-el sebagai bukti identitas. Berdasarkan Surat Edaran Kemendagri, bank dan instansi wajib menerima Suket sebagai pengganti KTP-el. Namun dalam praktik, beberapa bank mungkin meminta konfirmasi tambahan. Saran saya: bawa Suket asli beserta KK asli saat ke bank untuk memperkuat verifikasi identitas Anda. Jika bank menolak, Anda bisa merujuk pada SE Mendagri Nomor 471.13/10231/SJ tentang kewajiban menerima Suket."
+      }
+    ]
+  },
+  {
+    "title": "Pembuatan KTP-el pertama kali untuk anak usia 17 tahun",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Anak saya baru ulang tahun ke-17 bulan depan, bagaimana prosedur bikin KTP-el pertama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat! Berikut prosedur pembuatan KTP-el pertama kali:\n\n**Dokumen yang disiapkan:**\n- KK asli dan fotokopi\n- Akta kelahiran asli dan fotokopi\n- Surat pengantar dari RT/RW setempat\n\n**Langkah di Dukcapil:**\n1. Datang ke kantor Dukcapil/Dispendukcapil sesuai domisili KK setelah anak berusia tepat 17 tahun.\n2. Ambil dan isi formulir F-1.21 (permohonan KTP baru).\n3. Serahkan dokumen ke loket pendaftaran.\n4. Lakukan perekaman biometrik: foto wajah, sidik jari sepuluh jari, pemindaian iris mata, dan tanda tangan digital.\n5. Tunggu proses cetak. Jika blanko tersedia, KTP-el bisa jadi di hari yang sama.\n\nSeluruh proses gratis berdasarkan UU No. 24/2013. KTP-el yang diterbitkan berlaku seumur hidup, tidak perlu diperpanjang."
+      },
+      {
+        "role": "user",
+        "content": "Kalau anak saya belum 17 tapi sudah menikah, boleh bikin KTP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, boleh. Berdasarkan UU No. 24/2013 Pasal 63, KTP-el wajib dimiliki WNI yang sudah berusia 17 tahun atau sudah menikah. Jadi meskipun belum 17 tahun, jika anak Anda sudah memiliki akta nikah/buku nikah, ia berhak dan wajib memiliki KTP-el. Dokumen tambahan yang diperlukan adalah akta nikah atau buku nikah asli sebagai bukti status perkawinan. Prosedur di Dukcapil sama seperti pembuatan baru biasa."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup foto produk makanan ringan dengan HP",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jualan keripik singkong homemade di Tokopedia. Foto sekarang asal jepret pakai HP di meja makan. Gimana biar lebih menarik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Foto makanan ringan harus membuat pembeli merasa lapar saat melihatnya. Setup sederhana dengan HP: 1) Background — gunakan talenan kayu atau kain tekstur natural, jangan meja makan yang berantakan, 2) Pencahayaan — foto di dekat jendela jam 9-11 pagi untuk cahaya alami yang lembut, posisi produk 45 derajat dari jendela, 3) Foto utama — keripik ditumpahkan sebagian dari kemasannya agar terlihat isinya, tampak atas (flat lay), 4) Foto kedua — kemasan produk utuh dari depan dengan label jelas, 5) Foto ketiga — close-up tekstur keripik yang renyah, 6) Foto keempat — perbandingan ukuran kemasan dengan tangan atau benda familiar. Setelah foto, edit di Snapseed: naikkan saturation sedikit agar warna keripik lebih menggugah, dan tingkatkan sharpness untuk tekstur yang lebih tajam."
+      },
+      {
+        "role": "user",
+        "content": "Perlu beli ring light tidak? Budget saya terbatas."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produk makanan, cahaya alami dari jendela justru lebih bagus daripada ring light karena menghasilkan bayangan lembut yang natural. Ring light cenderung membuat makanan terlihat flat. Jika terpaksa foto saat malam atau di ruangan gelap, alternatif murah: 1) Lampu meja LED putih (daylight) harga Rp30.000-50.000 yang diarahkan ke langit-langit untuk bounce light, 2) Reflektor DIY dari karton putih untuk memantulkan cahaya ke sisi gelap produk. Investasi lebih baik untuk foto makanan: kertas background berbagai warna dan tekstur (Rp20.000-30.000 per lembar) karena variasi background membuat setiap produk terlihat unik meskipun difoto di tempat yang sama."
+      }
+    ]
+  }
+]

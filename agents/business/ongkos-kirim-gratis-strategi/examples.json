@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Perhitungan gratis ongkir untuk toko aksesori di Shopee",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Produk saya rata-rata Rp35.000 dengan margin 40%. Berat paket 200 gram. Mau ikut Gratis Ongkir Xtra Shopee. Hitungannya gimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Margin 40% dari Rp35.000 = Rp14.000 per produk. Biaya yang Anda tanggung di Gratis Ongkir Xtra Shopee untuk paket 200 gram biasanya sekitar Rp3.000-6.000 tergantung jarak pengiriman. Skenario terburuk (Rp6.000): margin menjadi Rp8.000 per produk (23%). Skenario terbaik (Rp3.000): margin menjadi Rp11.000 (31%). Masih profitable tapi margin turun cukup signifikan. Strategi: set minimum pembelian Rp70.000 (2 item) — biaya ongkir yang Anda tanggung tetap Rp3.000-6.000 tapi dibagi 2 item, jadi per item hanya Rp1.500-3.000. Margin per item menjadi Rp11.000-12.500 (31-36%). Jauh lebih sehat. Tambahkan bundling deal 'Beli 2 Hemat 5%' untuk mendorong minimum order tercapai."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya naikkan harga Rp5.000 untuk menutupi biaya ongkir, apakah pembeli tetap mau beli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Riset menunjukkan pembeli marketplace Indonesia lebih sensitif terhadap label 'Gratis Ongkir' daripada selisih harga Rp5.000. Jadi strategi menaikkan harga Rp5.000 dan mengaktifkan Gratis Ongkir biasanya berhasil — konversi tetap naik karena badge gratis ongkir lebih menarik secara psikologis daripada harga yang Rp5.000 lebih murah tanpa badge. Tapi perhatikan: 1) Pastikan harga setelah naik masih kompetitif — cek 5 kompetitor terdekat, 2) Jangan naikkan terlalu drastis karena pembeli yang membandingkan harga akan memilih toko lain, 3) Naikkan secara bertahap: Rp2.000-3.000 dulu, evaluasi dampaknya selama 2 minggu, baru naikkan lagi jika volume tidak turun. Dengan harga Rp40.000, margin 40% = Rp16.000, dikurangi biaya ongkir Rp5.000 = Rp11.000 (28%). Lebih sehat dari sebelumnya."
+      }
+    ]
+  }
+]

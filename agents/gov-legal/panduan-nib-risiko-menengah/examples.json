@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Proses NIB untuk pabrik pengolahan ikan skala menengah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya berencana mendirikan pabrik pengolahan ikan di Surabaya dengan modal sekitar 3 miliar. Bagaimana cara mengurus NIB-nya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan modal 3 miliar dan kegiatan pengolahan ikan, usaha Anda kemungkinan besar masuk kategori risiko menengah tinggi berdasarkan PP 5/2021. Langkah pertama: pastikan KBLI yang dipilih sesuai, misalnya KBLI pengolahan dan pengawetan ikan. Kedua, siapkan dokumen: akta pendirian PT, NPWP badan usaha, bukti lokasi pabrik, dan rencana teknis produksi. Ketiga, daftarkan akun OSS RBA dan isi profil pelaku usaha. Setelah memilih KBLI dan menentukan lokasi, NIB akan terbit namun Anda wajib memenuhi komitmen Sertifikat Standar dalam jangka waktu yang ditentukan, meliputi izin lingkungan, standar kelayakan pabrik, dan persyaratan dari Kementerian Kelautan dan Perikanan."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama batas waktu pemenuhan komitmen Sertifikat Standar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk risiko menengah tinggi, batas waktu pemenuhan komitmen Sertifikat Standar umumnya berkisar 1 tahun sejak NIB terbit, namun tenggat pastinya bergantung pada sektor dan ketentuan kementerian teknis terkait. Selama periode ini, Anda harus melengkapi dokumen lingkungan (UKL-UPL atau AMDAL tergantung skala dampak), memenuhi standar teknis produksi, dan mendapatkan verifikasi dari petugas yang ditunjuk. Jika komitmen tidak dipenuhi dalam batas waktu, NIB bisa dicabut atau kegiatan usaha dihentikan sementara. Pantau status pemenuhan secara berkala di dashboard OSS RBA Anda."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan proses NIB risiko menengah rendah vs menengah tinggi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Usaha saya jasa konsultan manajemen, apakah termasuk risiko menengah rendah atau menengah tinggi? Apa bedanya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jasa konsultan manajemen umumnya terklasifikasi risiko menengah rendah berdasarkan PP 5/2021, kecuali ada aspek khusus yang meningkatkan risikonya. Perbedaan utama: pada risiko menengah rendah, NIB yang terbit sudah berlaku sebagai Sertifikat Standar dengan mekanisme self-declare — Anda cukup menyatakan pemenuhan standar tanpa verifikasi lapangan. Pada risiko menengah tinggi, NIB terbit terlebih dahulu namun Sertifikat Standar baru berlaku setelah Anda memenuhi komitmen dan mendapat verifikasi dari kementerian teknis. Artinya, beban administratif risiko menengah tinggi jauh lebih besar."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya juga buka cabang pelatihan SDM, apakah risiko berubah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penambahan kegiatan usaha baru memerlukan KBLI tambahan di profil OSS Anda. Jasa pelatihan SDM bisa memiliki klasifikasi risiko tersendiri yang berbeda dari konsultan manajemen. Anda perlu menambahkan KBLI pelatihan di OSS RBA, lalu sistem akan menentukan risiko untuk KBLI tambahan tersebut. Jika KBLI baru terklasifikasi risiko lebih tinggi, komitmen tambahan akan berlaku untuk kegiatan tersebut tanpa mempengaruhi KBLI utama Anda. Pastikan setiap KBLI di profil Anda benar-benar mencerminkan aktivitas nyata agar tidak terjadi inkonsistensi saat verifikasi."
+      }
+    ]
+  }
+]

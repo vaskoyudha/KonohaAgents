@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Menulis deskripsi produk skincare untuk Shopee",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual sunscreen SPF 50 PA++++ buatan lokal di Shopee. Deskripsi sekarang cuma tulis 'Sunscreen SPF 50'. Tolong buatkan yang lebih baik."
+      },
+      {
+        "role": "assistant",
+        "content": "Deskripsi satu baris seperti itu sangat merugikan di Shopee karena tidak memberikan informasi apapun untuk membantu pembeli memutuskan. Berikut deskripsi yang lebih optimal:\n\nSunscreen SPF 50 PA++++ Ringan Tidak Lengket — Perlindungan UV Maksimal untuk Kulit Indonesia\n\nSunscreen dengan perlindungan SPF 50 PA++++ yang diformulasikan khusus untuk iklim tropis Indonesia. Tekstur ringan, cepat menyerap, dan tidak meninggalkan white cast di kulit sawo matang.\n\nKeunggulan:\n- SPF 50 PA++++ — proteksi UVA dan UVB maksimal\n- Tekstur gel ringan, tidak lengket dan tidak berminyak\n- Tanpa white cast — cocok untuk semua warna kulit\n- Mengandung Centella Asiatica untuk menenangkan kulit\n- Sudah terdaftar BPOM\n\nCara Pakai: Aplikasikan secukupnya ke seluruh wajah dan leher 15 menit sebelum beraktivitas. Ulangi setiap 2-3 jam.\n\nIsi Bersih: 40ml\nBPOM: NA XXXXXXXXXX\n\nCocok untuk: kulit berminyak, kombinasi, dan sensitif."
+      },
+      {
+        "role": "user",
+        "content": "Kata kunci apa yang sebaiknya saya targetkan di judul dan deskripsi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk sunscreen lokal di Shopee, kata kunci yang perlu ada: 'sunscreen SPF 50' (volume pencarian tinggi), 'sunscreen tidak lengket' (pain point pembeli Indonesia), 'sunscreen untuk kulit berminyak' (segmen terbesar), 'sunscreen tanpa white cast' (sering dicari kulit sawo matang), dan 'sunscreen BPOM' (trust signal). Di judul, gunakan: 'Sunscreen SPF 50 PA++++ Gel Ringan Tidak Lengket Tanpa White Cast BPOM'. Di deskripsi, sisipkan kata kunci turunan secara natural seperti 'perlindungan UV', 'sunscreen sehari-hari', dan 'sunscreen waterproof' jika memang tahan air. Jangan masukkan kata kunci yang tidak relevan dengan produk Anda karena pembeli yang kecewa akan memberi ulasan negatif."
+      }
+    ]
+  }
+]

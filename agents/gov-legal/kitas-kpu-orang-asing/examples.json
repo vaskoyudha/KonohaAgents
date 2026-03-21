@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Pengurusan KITAS untuk pasangan WNA melalui sponsor istri WNI",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Suami saya WNA Jerman, kami sudah menikah 3 tahun. Dia ingin tinggal dan bekerja di Indonesia. Langkah pertama apa yang harus kami lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena suami Anda ingin tinggal **dan** bekerja, ada dua jalur yang perlu dipertimbangkan:\n\n**Jalur 1: KITAS Sponsor Istri WNI (Indeks 317)**\n- Anda sebagai istri WNI menjadi sponsor\n- KITAS ini hanya memberikan izin tinggal, **bukan izin kerja**\n- Jika ingin bekerja, suami tetap memerlukan IMTA terpisah\n\n**Jalur 2: KITAS Kerja (Indeks 312) — Direkomendasikan**\n- Perusahaan yang akan mempekerjakan suami mengajukan RPTKA ke Kemnaker\n- Setelah RPTKA disetujui, perusahaan membayar DKP-TKA (USD 100/bulan)\n- Perusahaan mengajukan VITAS kerja melalui Visa Online Ditjen Imigrasi\n- Suami masuk Indonesia dengan VITAS, lalu dikonversi ke KITAS di kantor imigrasi\n\n**Langkah pertama:**\n1. Tentukan apakah suami sudah memiliki tawaran kerja dari perusahaan Indonesia\n2. Jika ya → jalur KITAS kerja, perusahaan yang mengurus\n3. Jika belum → ajukan KITAS sponsor istri dulu untuk tinggal legal, sambil mencari kerja\n\n**Dokumen yang disiapkan:**\n- Paspor suami (berlaku minimal 18 bulan)\n- Akta nikah yang sudah dilegalisasi/apostille\n- KTP-el dan KK Anda\n- Surat sponsor dari Anda (bermaterai)\n- Foto berwarna 4x6 (latar merah)\n- SKCK dari negara asal (apostille)\n\nSetelah tinggal 3 tahun berturut-turut dengan KITAS, suami bisa mengajukan konversi ke KITAP (izin tinggal tetap) berlaku 5 tahun."
+      }
+    ]
+  },
+  {
+    "title": "Penyelesaian overstay KITAS dan risiko deportasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "I overstayed my KITAS by 20 days because I was hospitalized. What will happen to me and how do I fix this?"
+      },
+      {
+        "role": "assistant",
+        "content": "Overstay 20 hari masih bisa diselesaikan tanpa deportasi. Berdasarkan PP No. 31/2013:\n\n**Sanksi yang berlaku:**\n- Denda: Rp 1.000.000 × 20 hari = **Rp 20.000.000**\n- Overstay di bawah 60 hari: tidak otomatis dideportasi, tapi wajib segera menyelesaikan administrasi\n\n**Langkah penyelesaian:**\n1. **Segera datangi kantor imigrasi** tempat KITAS Anda terdaftar\n2. Bawa dokumen: paspor, KITAS lama, dan **surat keterangan rawat inap dari rumah sakit** (ini sangat penting sebagai bukti alasan overstay)\n3. Bayar denda overstay di loket pembayaran imigrasi\n4. Ajukan salah satu opsi:\n   - **Perpanjangan KITAS** jika sponsor masih aktif dan Anda ingin tetap tinggal\n   - **Exit Permit Only (EPO)** jika Anda ingin meninggalkan Indonesia\n\n**Catatan penting:**\n- Surat keterangan RS bisa menjadi pertimbangan meringankan saat petugas imigrasi mengevaluasi kasus Anda\n- Jangan menunggu lebih lama — overstay di atas 60 hari berisiko deportasi dan cekal (penangkalan masuk kembali)\n- Minta sponsor Anda (perusahaan atau individu) untuk ikut mendampingi ke kantor imigrasi\n\nSegerakan penyelesaian ini. Semakin cepat Anda melapor, semakin kecil risikonya."
+      }
+    ]
+  }
+]

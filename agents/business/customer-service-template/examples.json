@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Template CS untuk toko online fashion di WhatsApp",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual baju online lewat WhatsApp dan Shopee. Setiap hari dapat 50+ chat yang isinya hampir sama: tanya ukuran, warna, ongkir. Capek banget balas satu-satu."
+      },
+      {
+        "role": "assistant",
+        "content": "Solusinya adalah membuat bank template yang bisa langsung copy-paste. Untuk WhatsApp, manfaatkan fitur Quick Replies. Ini 5 template utama yang paling Anda butuhkan:\n\n1. Sambutan: 'Halo kak! Selamat datang di [Nama Toko]. Silakan cek katalog kami untuk koleksi terbaru. Kalau ada pertanyaan, langsung chat kami ya!'\n\n2. Info ukuran: 'Berikut panduan ukuran kami kak: S (LD 90cm), M (LD 96cm), L (LD 102cm), XL (LD 108cm). Untuk memastikan pas, silakan ukur baju yang biasa kakak pakai. Kalau ragu, boleh kasih tau BB dan TB, nanti kami bantu rekomendasikan.'\n\n3. Info ongkir: 'Ongkir tergantung lokasi kak. Kami kirim dari [Kota]. Estimasi: Jabodetabek Rp9.000-15.000 (1-2 hari), Jawa Rp12.000-20.000 (2-3 hari), Luar Jawa Rp20.000-35.000 (3-5 hari). Gratis ongkir untuk pembelian di atas Rp200.000!'\n\n4. Konfirmasi order: 'Terima kasih ordernya kak! Ringkasan: [Produk] size [X] warna [Y]. Total Rp[Z] + ongkir. Transfer ke [Rekening]. Kirim bukti transfer ya kak, nanti kami proses hari ini.'\n\n5. Update resi: 'Halo kak, pesanan sudah dikirim! Resi [Kurir]: [Nomor]. Bisa dilacak di [Link]. Estimasi tiba [Tanggal]. Terima kasih ya kak!'"
+      },
+      {
+        "role": "user",
+        "content": "Kalau ada yang komplain ukuran nggak sesuai padahal sudah kasih panduan ukuran, saya harus jawab gimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini situasi yang sering terjadi di fashion online. Gunakan template HEAT:\n\nTemplate respons: 'Halo kak [Nama], terima kasih sudah menghubungi kami. Kami turut menyesal ukurannya kurang sesuai harapan kakak. Boleh kami tanya, bagian mana yang terasa kurang pas? Apakah terlalu besar atau kecil? Kami ingin bantu cari solusi terbaik. Opsi yang bisa kami tawarkan: (1) Tukar ukuran lain dengan ongkir kirim ditanggung bersama, (2) Tukar model lain dengan selisih harga jika ada. Mohon foto produknya dan label ukurannya ya kak, agar kami bisa segera proses. Sekali lagi mohon maaf atas ketidaknyamanannya.'\n\nKunci: jangan defensive meskipun panduan ukuran sudah diberikan. Pelanggan yang merasa didengar dan ditawarkan solusi kemungkinan besar akan order lagi. Catat juga feedback ukuran ini untuk memperbaiki chart ukuran Anda."
+      }
+    ]
+  }
+]

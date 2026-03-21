@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Klaim JHT setelah PHK",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru di-PHK bulan lalu setelah kerja 6 tahun. Saldo JHT saya sekitar Rp45 juta. Bagaimana cara mencairkannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena Anda di-PHK dan sudah non-aktif 1 bulan, Anda memenuhi syarat pencairan JHT penuh. Berikut caranya:\n\n**Opsi 1: Online via Jamsostek Mobile (direkomendasikan)**\n1. Unduh aplikasi Jamsostek Mobile di Play Store/App Store\n2. Registrasi atau login dengan NIK dan nomor BPJS TK\n3. Pilih menu \"Klaim JHT\"\n4. Upload foto dokumen: KTP, KK, buku tabungan (halaman depan), paklaring/surat keterangan PHK\n5. Verifikasi wajah (selfie)\n6. Submit pengajuan\n\n**Opsi 2: Datang ke kantor cabang**\n1. Bawa dokumen asli: KTP, KK, kartu BPJS TK, buku tabungan, paklaring\n2. Ambil nomor antrian\n3. Verifikasi dokumen oleh petugas\n4. Tanda tangan formulir pencairan\n\n**Estimasi pencairan:**\n- Online: 5-7 hari kerja setelah pengajuan disetujui\n- Offline: 5-10 hari kerja\n- Dana masuk langsung ke rekening bank atas nama Anda\n\n**Catatan pajak:** JHT dikenakan PPh 21 final. Untuk saldo di bawah Rp50 juta, tarif PPh 0% (bebas pajak). Saldo Anda Rp45 juta, jadi tidak kena pajak."
+      },
+      {
+        "role": "user",
+        "content": "Apakah saya juga bisa klaim Jaminan Pensiun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jaminan Pensiun (JP) memiliki aturan yang berbeda dari JHT:\n\n**Syarat klaim JP:**\n- Usia minimal 56 tahun untuk pensiun hari tua\n- Atau cacat total tetap, atau meninggal dunia (diajukan ahli waris)\n\n**Untuk kasus Anda (PHK sebelum usia 56):**\n- Anda belum bisa mengklaim manfaat pensiun bulanan\n- Namun jika iuran JP kurang dari 15 tahun (180 bulan) dan Anda tidak bekerja lagi sampai usia 56, dana JP bisa dicairkan sekaligus saat usia 56\n- Masa kerja 6 tahun = 72 bulan iuran, di bawah 180 bulan\n\n**Yang perlu diperhatikan:**\n- Jika Anda bekerja lagi di perusahaan baru, kepesertaan JP dilanjutkan dan iuran terakumulasi\n- Jaminan Pensiun bukan JHT — keduanya adalah program terpisah dengan iuran dan manfaat berbeda\n\nJadi untuk saat ini, yang bisa Anda cairkan hanya JHT. JP baru bisa dicairkan saat usia 56 tahun."
+      }
+    ]
+  }
+]

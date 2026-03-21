@@ -1,0 +1,44 @@
+[
+  {
+    "title": "IUI untuk usaha pengolahan makanan ringan skala kecil",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau buka pabrik keripik singkong di Malang dengan modal sekitar Rp600 juta. Perlu izin apa saja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan investasi Rp600 juta (tidak termasuk tanah dan bangunan), usaha Anda tergolong industri kecil. Langkah perizinan: 1) Tentukan KBLI yang sesuai, untuk keripik singkong masuk kode 10611 (Industri Pengupasan dan Pembersihan Kacang-kacangan dan Biji-bijian) atau lebih tepat 10794 (Industri Kerupuk, Keripik, Peyek dan Sejenisnya). 2) Daftarkan NIB melalui OSS-RBA — karena industri kecil pengolahan makanan termasuk risiko menengah rendah, IUI terbit otomatis setelah NIB. 3) Daftarkan usaha di SIINAS melalui siinas.kemenperin.go.id: input data profil industri, kapasitas produksi, jumlah tenaga kerja, dan mesin yang digunakan. 4) Karena produk pangan, urus izin edar BPOM (MD) atau P-IRT dari Dinas Kesehatan kabupaten jika skala rumah tangga. 5) Pastikan sertifikat halal jika diperlukan. 6) Lakukan pelaporan SIINAS setiap semester."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara daftar SIINAS dan apa saja yang harus dilaporkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendaftaran SIINAS: 1) Akses portal siinas.kemenperin.go.id dan buat akun baru menggunakan NIB sebagai identitas. 2) Lengkapi profil industri: nama perusahaan, alamat pabrik, KBLI, tahun mulai produksi, status kepemilikan. 3) Input data kapasitas: jenis produk (keripik singkong), kapasitas terpasang dan terpakai (misal 500 kg/hari terpasang, 300 kg/hari terpakai). 4) Data tenaga kerja: jumlah karyawan, pembagian laki-laki/perempuan, dan status kerja. 5) Data mesin dan peralatan utama. Kewajiban pelaporan semester: setiap Januari-Juni dan Juli-Desember laporkan volume produksi aktual, penggunaan bahan baku (singkong, minyak goreng, bumbu), penyerapan tenaga kerja terbaru, dan nilai investasi tambahan jika ada. Batas waktu pelaporan: 30 hari setelah periode semester berakhir. Sanksi: peringatan tertulis hingga pencabutan IUI sesuai UU 3/2014 Pasal 67."
+      }
+    ]
+  },
+  {
+    "title": "Klasifikasi industri menengah dan komitmen tambahan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami mau bangun pabrik furnitur kayu dengan investasi Rp8 miliar. Apakah termasuk industri menengah dan apa bedanya dengan industri kecil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan investasi Rp8 miliar, usaha Anda tergolong industri menengah (Rp1-15 miliar tidak termasuk tanah dan bangunan). Perbedaan dengan industri kecil: 1) Proses IUI lebih ketat — industri menengah termasuk risiko menengah tinggi sehingga memerlukan pemenuhan komitmen sebelum operasional penuh. 2) KBLI untuk furnitur kayu: 31001 (Industri Furnitur dari Kayu). 3) Anda perlu menyusun dokumen UKL-UPL karena industri pengolahan kayu berpotensi dampak lingkungan (debu kayu, limbah finishing). 4) Komitmen di OSS-RBA: izin lokasi, persetujuan lingkungan (UKL-UPL), dan standar industri. 5) Setelah komitmen dipenuhi dan diverifikasi, IUI efektif terbit. 6) Wajib daftar SIINAS dan lapor setiap semester. Industri kecil prosesnya lebih sederhana karena risiko rendah-menengah rendah, IUI langsung efektif tanpa verifikasi komitmen."
+      },
+      {
+        "role": "user",
+        "content": "Kami juga berencana ekspor furnitur. Apakah perlu izin tambahan dari Kemenperin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk ekspor furnitur kayu, ada persyaratan tambahan: 1) Verifikasi legalitas kayu melalui Sistem Verifikasi Legalitas Kayu (SVLK) — setiap produk kayu ekspor wajib memiliki dokumen V-Legal atau sertifikat PHPL/SVLK. 2) Etika Bisnis dan Perdagangan Kayu (EUTR compliance) jika ekspor ke Uni Eropa. 3) Untuk ekspor, Anda perlu NIB dengan izin ekspor yang tercantum di OSS. 4) Daftarkan produk furnitur ke portal SINAS Kemenperin untuk mendapatkan rekomendasi ekspor jika diperlukan. 5) Pastikan Standar Nasional Indonesia (SNI) terpenuhi jika produk termasuk dalam daftar wajib SNI. 6) Dari sisi SIINAS, laporkan juga data ekspor: volume, negara tujuan, dan nilai ekspor per semester. Untuk panduan lengkap proses ekspor, Anda dapat berkonsultasi dengan agen izin-ekspor-produk."
+      }
+    ]
+  }
+]

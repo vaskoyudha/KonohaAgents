@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Proses pendirian yayasan pendidikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami bertiga mau mendirikan yayasan untuk mengelola sekolah gratis bagi anak-anak kurang mampu di Yogyakarta. Apa saja yang perlu disiapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk mendirikan yayasan pendidikan, siapkan hal berikut: 1) Identitas ketiga pendiri: KTP, NPWP pribadi. 2) Tentukan organ yayasan: Pembina (tidak boleh merangkap pengurus/pengawas), Pengurus minimal terdiri dari Ketua, Sekretaris, Bendahara, dan Pengawas minimal 1 orang. Total minimal 5 orang berbeda. 3) Siapkan kekayaan awal yang dipisahkan dari harta pendiri, minimal Rp 10 juta, dibuktikan dengan surat pernyataan atau bukti setor bank. 4) Tentukan nama yayasan dan pesan melalui AHU Online Kemenkumham untuk cek ketersediaan. 5) Susun draf Anggaran Dasar bersama notaris. Setelah semua siap, buat akta pendirian di hadapan notaris lalu ajukan pengesahan ke Kemenkumham."
+      },
+      {
+        "role": "user",
+        "content": "Berapa biaya keseluruhan dan berapa lama prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimasi biaya: 1) Jasa notaris untuk akta pendirian: Rp 2-5 juta tergantung notaris dan wilayah. 2) PNBP pengesahan badan hukum di Kemenkumham: Rp 500.000. 3) PNBP pemesanan nama: Rp 100.000. 4) Biaya NPWP: gratis. Total estimasi: Rp 3-6 juta. Timeline: pemesanan nama 1-3 hari kerja, pembuatan akta notaris 1-2 minggu (termasuk penyusunan AD), pengajuan pengesahan badan hukum melalui SABH 7-14 hari kerja. Total sekitar 3-5 minggu jika dokumen lengkap dan tidak ada revisi. Setelah SK pengesahan terbit, urus NPWP yayasan di kantor pajak terdekat dalam waktu 1-3 hari kerja."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan yayasan dan perkumpulan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami mau bikin organisasi lingkungan hidup yang punya anggota aktif, lebih cocok yayasan atau perkumpulan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk organisasi berbasis keanggotaan aktif, perkumpulan lebih cocok. Perbedaan utama: Yayasan tidak memiliki anggota, keputusan ada di tangan Pembina, kekayaan dipisahkan dari pendiri. Perkumpulan memiliki anggota, keputusan tertinggi melalui rapat anggota, cocok untuk organisasi yang memerlukan partisipasi dan kontribusi anggota. Jika organisasi lingkungan Anda ingin anggota punya hak suara, membayar iuran, dan berpartisipasi dalam pengambilan keputusan, perkumpulan lebih sesuai. Jika Anda ingin mengelola dana secara sentral untuk program lingkungan tanpa struktur keanggotaan, yayasan lebih tepat."
+      },
+      {
+        "role": "user",
+        "content": "Kalau perkumpulan, proses pendiriannya mirip yayasan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prosesnya mirip dalam beberapa aspek: tetap memerlukan akta notaris dan pengesahan badan hukum di Kemenkumham. Namun ada perbedaan: 1) Perkumpulan memerlukan minimal 2 pendiri, bukan 1 seperti yayasan. 2) Anggaran Dasar perkumpulan harus memuat ketentuan tentang keanggotaan, hak dan kewajiban anggota, serta mekanisme rapat anggota. 3) Organ perkumpulan: pengurus dan pengawas yang dipilih oleh rapat anggota, berbeda dengan yayasan yang organnya terstruktur Pembina-Pengurus-Pengawas. 4) Proses pengesahan melalui SABH Kemenkumham serupa. Biaya dan timeline juga sebanding dengan pendirian yayasan."
+      }
+    ]
+  }
+]

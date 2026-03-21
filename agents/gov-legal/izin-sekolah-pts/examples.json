@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perizinan PAUD dan TK swasta",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Yayasan kami baru didirikan dan mau membuka PAUD plus TK di Depok. Izin apa yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk PAUD dan TK di Depok, prosesnya melalui Dinas Pendidikan Kota Depok: 1) Pastikan yayasan sudah berbadan hukum dengan SK Kemenkumham. 2) Siapkan standar minimal: lokasi aman dan mudah diakses, ruang belajar dan bermain sesuai rasio siswa, toilet ramah anak, halaman bermain outdoor. 3) Tenaga pendidik minimal memiliki kualifikasi S1 PAUD, Psikologi, atau pendidikan relevan. 4) Susun kurikulum mengacu pada standar PAUD nasional. 5) Ajukan izin pendirian dan operasional ke Dinas Pendidikan dengan dokumen: akta yayasan, denah dan foto lokasi, daftar pendidik beserta ijazah, kurikulum, dan rencana anggaran. 6) Dinas Pendidikan melakukan verifikasi lapangan. Izin operasional berlaku 4 tahun."
+      },
+      {
+        "role": "user",
+        "content": "Berapa minimal jumlah siswa dan guru untuk bisa buka?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk PAUD: tidak ada batas minimal siswa yang kaku, tetapi harus ada minimal 15 anak didik yang mendaftar sebagai bukti kebutuhan masyarakat. Rasio guru-siswa: maksimal 1 guru untuk 8-15 anak tergantung kelompok usia. Untuk TK: minimal 1 rombongan belajar dengan maksimal 15-20 anak per rombel. Ketenagaan minimal: 1 kepala sekolah (boleh merangkap guru), guru kelas sesuai jumlah rombel, dan 1 tenaga administrasi. Semua guru harus memiliki kualifikasi minimal S1 dan sertifikat pelatihan PAUD jika latar belakang pendidikan bukan S1 PAUD. Tips: mulai dengan jumlah yang realistis dan tingkatkan bertahap."
+      }
+    ]
+  },
+  {
+    "title": "Proses pendirian perguruan tinggi swasta",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Yayasan kami ingin mendirikan sekolah tinggi di bidang teknologi informasi. Bagaimana prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendirian sekolah tinggi IT melibatkan proses di tingkat nasional. Langkah: 1) Susun proposal pendirian yang komprehensif meliputi: studi kelayakan (analisis kebutuhan SDM IT di wilayah), rencana strategis 5 tahun, kurikulum program studi, daftar dosen tetap (minimal S2 bidang IT, idealnya ada yang S3), rencana sarana laboratorium, dan rencana pembiayaan. 2) Ajukan proposal ke LLDIKTI wilayah yang mencakup lokasi sekolah tinggi. 3) LLDIKTI melakukan evaluasi awal dan visitasi. 4) Proposal diteruskan ke Kemdikbudristek untuk evaluasi akhir. 5) Jika disetujui, terbit SK Izin Pendirian dan Izin Operasional program studi. Proses total: 1-2 tahun."
+      },
+      {
+        "role": "user",
+        "content": "Berapa minimal dosen yang harus dimiliki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk setiap program studi S1, minimal diperlukan 6 dosen tetap dengan kualifikasi minimal S2 yang sesuai bidang. Idealnya, minimal 2 dosen memiliki kualifikasi S3 untuk memenuhi standar akreditasi yang baik. Selain dosen tetap, boleh ada dosen tidak tetap untuk mata kuliah tertentu. Rasio dosen-mahasiswa yang ideal: 1:25 hingga 1:30 untuk bidang IT. Semua dosen harus memiliki NIDN (Nomor Induk Dosen Nasional) yang diperoleh setelah terdaftar di PDDikti. Dosen tetap harus memiliki jabatan fungsional akademik dan aktif melakukan Tri Dharma Perguruan Tinggi: pengajaran, penelitian, dan pengabdian masyarakat."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengecek UMK dan melaporkan upah di bawah minimum",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya kerja di pabrik garmen di Kabupaten Bekasi, gaji saya cuma Rp3.8 juta per bulan. Apakah ini sudah sesuai UMK?"
+      },
+      {
+        "role": "assistant",
+        "content": "UMK Kabupaten Bekasi 2025 berada di kisaran Rp5.2-5.3 juta (salah satu yang tertinggi di Jawa Barat, berdasarkan Keputusan Gubernur Jabar). Gaji Anda Rp3.8 juta jauh di bawah UMK yang berlaku.\n\nIni adalah pelanggaran hukum oleh perusahaan berdasarkan Pasal 90 UU No. 13/2003. Berikut langkah yang bisa Anda ambil:\n\n1. **Dokumentasikan bukti**: Simpan slip gaji, rekening koran, atau bukti transfer yang menunjukkan jumlah upah yang diterima.\n2. **Sampaikan teguran tertulis** ke HRD atau manajemen perusahaan, minta penyesuaian upah ke UMK.\n3. **Jika diabaikan**: Laporkan ke pengawas ketenagakerjaan Disnaker Kabupaten Bekasi. Bawa bukti slip gaji dan perjanjian kerja.\n4. **Disnaker akan melakukan inspeksi** dan memerintahkan perusahaan membayar sesuai UMK serta membayar kekurangan upah yang tertunggak.\n5. **Jika tetap tidak patuh**: Perusahaan bisa dikenakan sanksi pidana kurungan 1-4 tahun dan/atau denda Rp100-400 juta.\n\nSaran: jika ada serikat pekerja di pabrik Anda, laporkan melalui serikat agar posisi Anda lebih kuat."
+      },
+      {
+        "role": "user",
+        "content": "Saya takut dipecat kalau melapor. Ada perlindungan untuk saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kekhawatiran Anda sangat wajar dan umum dirasakan pekerja. Berikut perlindungan hukum yang Anda miliki:\n\n1. **PHK karena pekerja menuntut hak** adalah PHK ilegal. Berdasarkan PP No. 35/2021, perusahaan tidak boleh mem-PHK pekerja karena melaporkan pelanggaran hukum.\n2. **Jika tetap di-PHK**, Anda berhak atas pesangon 2x ketentuan (karena PHK melawan hukum) plus upah proses selama sengketa.\n3. **Pelaporan bisa anonim**: Anda bisa melapor ke Disnaker tanpa harus menyebutkan nama langsung di awal pengaduan.\n4. **Kekuatan kolektif**: Jika banyak pekerja mengalami hal yang sama, laporkan bersama-sama melalui serikat pekerja.\n5. **LBH**: Lembaga Bantuan Hukum bisa mendampingi Anda secara gratis dan melindungi identitas Anda selama proses.\n\nIngat: menuntut hak upah minimum adalah hak konstitusional Anda. Perusahaan yang melanggar hukumlah yang salah, bukan Anda."
+      }
+    ]
+  }
+]

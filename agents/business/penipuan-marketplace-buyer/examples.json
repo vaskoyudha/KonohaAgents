@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Pembeli klaim barang tidak sampai padahal resi delivered",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pembeli di Tokopedia klaim barang tidak sampai, tapi di tracking resi statusnya sudah delivered 3 hari lalu. Pesanannya senilai Rp2.500.000 untuk laptop sleeve. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini modus klasik 'Item Not Received' — mari kita tangani secara sistematis.\n\n**Langkah Segera:**\n\n1. **Screenshot bukti tracking resi** yang menunjukkan status delivered beserta tanggal, jam, dan nama penerima (jika tersedia). Gunakan website resmi ekspedisi untuk bukti tambahan selain tracking di Tokopedia.\n\n2. **Cek detail pengiriman:**\n   - Apakah kurir mencatat nama penerima?\n   - Apakah ada foto bukti delivered dari kurir (beberapa ekspedisi menyediakan ini)?\n   - Apakah alamat pengiriman sesuai dengan yang tercatat di pesanan?\n\n3. **Buka Pusat Resolusi Tokopedia:**\n   - Masuk ke halaman pesanan → klik 'Pusat Resolusi'\n   - Pilih opsi 'Barang sudah dikirim dan diterima'\n   - Lampirkan: screenshot tracking resi, foto/video packing saat pengiriman, bukti asuransi jika ada\n\n4. **Hubungi ekspedisi:**\n   - Minta bukti tertulis bahwa paket telah diantarkan ke alamat yang benar\n   - Beberapa ekspedisi seperti J&T dan SiCepat menyimpan foto bukti pengiriman\n\n**Red Flag pada Kasus Ini:**\n- Klaim diajukan 3 hari setelah delivered — cukup umum pada modus ini\n- Produk bernilai Rp2.500.000 — target penipuan biasanya produk bernilai tinggi\n\n**Timeline Tokopedia:** Pusat Resolusi biasanya memberikan keputusan dalam 3-5 hari kerja. Jika keputusan tidak menguntungkan, Anda memiliki kesempatan untuk banding.\n\n**Pencegahan ke Depan:**\n- Aktifkan asuransi pengiriman wajib untuk produk di atas Rp500.000\n- Selalu rekam video packing untuk semua pesanan bernilai tinggi\n- Gunakan fitur cetak resi otomatis dari Tokopedia"
+      },
+      {
+        "role": "user",
+        "content": "Saya tidak punya video packing karena waktu itu lagi ramai orderan. Apakah masih bisa menang dispute?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masih ada peluang, meskipun tanpa video packing posisi Anda sedikit lebih lemah. Berikut strategi yang bisa dimaksimalkan:\n\n**Bukti Alternatif yang Bisa Digunakan:**\n\n1. **Bukti resi delivered** — ini tetap bukti terkuat Anda. Status delivered dari ekspedisi adalah bukti prima facie bahwa barang telah diantarkan.\n\n2. **Bukti dari ekspedisi:**\n   - Hubungi CS ekspedisi dan minta konfirmasi tertulis bahwa paket delivered ke alamat yang benar\n   - Minta foto bukti pengiriman jika ekspedisi menyimpannya (J&T, SiCepat, dan AnterAja biasanya punya)\n\n3. **Riwayat transaksi Anda:**\n   - Screenshot dashboard toko yang menunjukkan track record pengiriman sukses\n   - Rating toko dan jumlah pesanan yang berhasil — ini menunjukkan kredibilitas Anda\n\n4. **Profil pembeli:**\n   - Cek apakah pembeli adalah akun baru atau memiliki riwayat klaim serupa\n   - Jika terlihat pola mencurigakan, sampaikan ini ke tim resolusi\n\n**Tips Saat Mengajukan di Pusat Resolusi:**\n- Tulis kronologi dengan jelas dan runtut\n- Lampirkan SEMUA bukti yang tersedia, jangan hanya satu\n- Jangan emosional dalam penjelasan — gunakan bahasa faktual\n- Sebutkan bahwa status resi menunjukkan delivered dan pembeli tidak mengajukan klaim dalam waktu wajar\n\n**Tingkat Keberhasilan:**\nDengan bukti resi delivered yang kuat plus konfirmasi dari ekspedisi, peluang menang dispute di Tokopedia cukup baik. Marketplace umumnya memprioritaskan bukti resi sebagai bukti utama.\n\n**Pelajaran untuk Ke Depan:**\nMulai dari sekarang, buat SOP wajib video packing minimal untuk pesanan di atas Rp500.000. Investasi waktu 30 detik per paket bisa menghemat jutaan rupiah kerugian."
+      }
+    ]
+  },
+  {
+    "title": "Retur barang berbeda dari yang dikirim",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual sepatu original di Shopee Mall, pembeli minta return katanya ukuran tidak sesuai. Tapi saat saya terima paket returnya, isinya sepatu KW bukan yang saya kirim! Bagaimana ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini modus 'Return Fraud' atau retur barang berbeda — salah satu penipuan paling merugikan bagi penjual. Kecepatan Anda bertindak sangat penting.\n\n**LANGKAH DARURAT (Lakukan SEKARANG):**\n\n1. **JANGAN buka paket lebih lanjut jika belum selesai.** Jika sudah terlanjur dibuka, kumpulkan semua bukti yang ada.\n\n2. **Dokumentasi yang harus disiapkan:**\n   - Video unboxing paket retur (jika Anda merekam saat membuka — ini bukti terkuat)\n   - Foto perbandingan: sepatu KW yang diterima vs foto produk original yang Anda kirim\n   - Foto detail perbedaan: jahitan, label, sol, box, stiker authenticity\n   - Foto kemasan retur termasuk label resi dan kondisi packaging\n\n3. **Ajukan dispute di Shopee:**\n   - Buka halaman pesanan → Return/Refund → Dispute\n   - Pilih alasan 'Barang yang dikembalikan tidak sesuai'\n   - Upload SEMUA bukti foto dan video\n   - Tulis kronologi detail: tanggal kirim original, tanggal terima retur, perbedaan yang ditemukan\n\n**Bukti Pendukung yang Memperkuat Kasus:**\n- Invoice atau sertifikat keaslian produk dari supplier Anda\n- Nomor seri atau kode produksi yang berbeda antara barang asli dan barang retur\n- Foto produk saat packing awal (jika ada)\n- Berat paket: bandingkan berat pengiriman awal dengan berat paket retur — sepatu original biasanya lebih berat dari KW\n\n**Timeline Shopee:** Tim dispute Shopee akan meninjau dalam 1-3 hari kerja. Sebagai seller Shopee Mall, Anda memiliki akses ke tim support prioritas — gunakan ini.\n\n**Jika Dispute Ditolak:**\n- Ajukan Appeal dengan bukti tambahan\n- Hubungi Shopee Seller Support melalui live chat dengan referensi nomor dispute\n- Eskalasi melalui email resmi Shopee Seller Support\n\nApakah Anda memiliki video packing saat mengirim sepatu original ke pembeli?"
+      },
+      {
+        "role": "user",
+        "content": "Saya punya foto packing tapi tidak video. Dan saya tidak merekam saat buka paket retur karena tidak curiga."
+      },
+      {
+        "role": "assistant",
+        "content": "Situasi memang lebih menantang tanpa video, tapi belum berarti kalah. Mari maksimalkan bukti yang ada:\n\n**Strategi dengan Bukti yang Tersedia:**\n\n1. **Foto packing original:**\n   - Ini menunjukkan barang yang Anda kirim memang original\n   - Pastikan foto menunjukkan detail yang bisa dibandingkan dengan barang retur\n\n2. **Bukti keaslian produk:**\n   - Invoice pembelian dari distributor resmi\n   - Sertifikat authenticity jika ada\n   - Screenshot listing Shopee Mall Anda yang menunjukkan produk original\n\n3. **Bukti bahwa barang retur adalah KW:**\n   - Foto detail sekarang: jahitan tidak rapi, material berbeda, label tidak presisi\n   - Bandingkan side-by-side dengan foto produk original di listing Anda\n   - Jika brand memiliki cara verifikasi keaslian (QR code, serial number), tunjukkan bahwa barang retur tidak lolos verifikasi\n\n4. **Bukti berat paket:**\n   - Cek berat pengiriman original di resi Anda\n   - Cek berat paket retur di resi pengembalian\n   - Perbedaan berat signifikan (misal 200g+) bisa jadi bukti kuat barang berbeda\n\n5. **Track record toko:**\n   - Screenshot rating dan jumlah penjualan toko Anda\n   - Riwayat zero complaint untuk produk serupa\n\n**SOP Wajib Mulai Sekarang:**\n\n| Tahap | Dokumentasi | Alat |\n|-------|-------------|------|\n| Packing | Video dari awal sampai resi ditempel | Tripod + HP |\n| Kirim | Screenshot resi + berat paket | Timbangan digital |\n| Terima Retur | Video unboxing tanpa jeda | HP dengan timestamp |\n| Inspeksi | Foto detail + perbandingan | Lightbox sederhana |\n\n**Investasi yang direkomendasikan:**\n- Timbangan digital (Rp50.000-100.000) — untuk mencatat berat setiap paket\n- Tripod HP (Rp30.000-50.000) — untuk video packing hands-free\n- Segel keamanan custom (Rp200-500/pcs) — stiker hologram dengan nama toko yang sulit dipalsukan\n\nBiaya total sekitar Rp200.000 tapi bisa mencegah kerugian jutaan rupiah dari fraud."
+      }
+    ]
+  },
+  {
+    "title": "Pola cancel order berulang dari pembeli mencurigakan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ada pembeli yang sudah 5 kali order lalu cancel di toko Shopee saya dalam seminggu terakhir. Setiap kali saya sudah proses dan packing. Ini penipuan atau bukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pola 5 kali cancel dalam seminggu dari pembeli yang sama jelas bukan kebetulan. Mari kita analisis:\n\n**Analisis Red Flag:**\n\n✅ **Indikator kuat penipuan/sabotase:**\n- Frekuensi tinggi: 5 cancel dalam 7 hari dari 1 akun\n- Timing: cancel setelah Anda sudah proses dan packing (bukan cancel instan)\n- Pola repetitif yang menunjukkan kesengajaan\n\n**Kemungkinan Motif:**\n\n1. **Sabotase kompetitor** — pesaing ingin menurunkan metrik performa toko Anda (cancel rate naik → penalti dari Shopee)\n2. **Eksploitasi voucher** — pembeli mencoba mendapatkan voucher yang hanya muncul saat checkout lalu membatalkan\n3. **Testing kelemahan toko** — mengecek apakah toko Anda rentan untuk modus penipuan yang lebih besar\n4. **Pembeli bermasalah** — pembeli yang impulsif tapi ini jarang terjadi sampai 5 kali berturut-turut\n\n**Dampak pada Toko Anda:**\n- Cancel rate naik → bisa turun dari Star Seller atau Preferred Seller\n- Waktu dan biaya packing terbuang\n- Stok terkunci sementara saat order aktif\n\n**Langkah Segera:**\n\n1. **Blokir pembeli:**\n   - Buka profil pembeli → klik titik tiga → 'Blokir Pengguna'\n   - Pembeli yang diblokir tidak bisa order lagi di toko Anda\n\n2. **Laporkan ke Shopee:**\n   - Buka Shopee Seller Centre → Bantuan → Laporkan Pembeli\n   - Sertakan bukti: screenshot 5 pesanan yang di-cancel, tanggal dan waktu masing-masing\n   - Minta Shopee meninjau akun pembeli tersebut\n\n3. **Ajukan keringanan metrik:**\n   - Hubungi Shopee Seller Support dan jelaskan bahwa cancel rate naik akibat pembeli bermasalah\n   - Minta cancel dari pembeli tersebut tidak dihitung dalam metrik performa toko\n\n4. **Pengaturan preventif:**\n   - Aktifkan verifikasi pesanan jika Shopee menyediakan fitur ini di kategori Anda\n   - Set minimum pembelian jika memungkinkan untuk mengurangi order iseng\n\nApakah Anda tahu siapa kompetitor utama di kategori produk Anda? Ini bisa membantu menilai apakah ini sabotase terorganisir."
+      },
+      {
+        "role": "user",
+        "content": "Saya jual aksesoris HP, kompetitor cukup banyak. Cancel rate saya sudah naik dari 2% ke 8% gara-gara ini."
+      },
+      {
+        "role": "assistant",
+        "content": "Cancel rate 2% → 8% dalam seminggu karena satu pembeli itu dampak yang serius. Di Shopee, batas cancel rate untuk mempertahankan status seller yang baik biasanya di bawah 10%. Anda harus bertindak cepat.\n\n**Rencana Pemulihan Cancel Rate:**\n\n1. **Blokir pembeli SEKARANG** (jika belum) — ini prioritas utama untuk menghentikan kerusakan lebih lanjut\n\n2. **Laporkan dan minta pengecualian metrik:**\n   - Chat Shopee Seller Support: 'Saya mengalami cancel berulang dari satu pembeli yang sama sebanyak 5 kali dalam 7 hari. Ini jelas pola sabotase. Mohon cancel dari pembeli [username] tidak dihitung dalam metrik performa toko saya.'\n   - Lampirkan screenshot kelima pesanan yang di-cancel\n   - Shopee kadang memberikan pengecualian untuk kasus sabotase yang terbukti\n\n3. **Strategi pemulihan cancel rate:**\n   - Cancel rate dihitung per periode (biasanya 7-30 hari tergantung program)\n   - Untuk menurunkan persentase, Anda perlu meningkatkan volume pesanan sukses\n   - Pertimbangkan flash sale kecil atau voucher toko untuk mendorong pembelian\n   - Target: tambah 30-40 pesanan sukses untuk menekan rate kembali ke ~3-4%\n\n4. **Pencegahan sabotase di kategori aksesoris HP:**\n\n| Langkah | Detail |\n|---------|--------|\n| Blokir akun mencurigakan | Langsung blokir setelah cancel pertama yang tidak wajar |\n| Monitor pola order | Perhatikan order dari akun baru dengan nama/alamat mirip |\n| Dokumentasi | Screenshot setiap cancel mencurigakan untuk bukti laporan |\n| Diversifikasi platform | Jual juga di Tokopedia/TikTok Shop untuk mengurangi ketergantungan |\n\n**Tanda-tanda sabotase terorganisir** yang harus diwaspadai:\n- Cancel dari beberapa akun berbeda tapi pola serupa\n- Order menggunakan alamat yang sama atau mirip\n- Timing cancel yang seragam (misal selalu H+1 setelah order)\n\nJika pola ini berlanjut dari akun-akun baru, kemungkinan besar ini sabotase kompetitor dan Anda perlu eskalasi lebih agresif ke Shopee."
+      }
+    ]
+  }
+]

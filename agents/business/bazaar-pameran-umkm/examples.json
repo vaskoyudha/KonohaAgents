@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Persiapan bazaar pertama kali untuk UMKM makanan ringan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru pertama kali mau ikut bazaar weekend di mal. Produk saya keripik pisang 4 varian. Sewa booth 1,5 juta untuk 2 hari. Apa saja yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Persiapan H-14 sampai H-day: Minggu pertama: (1) Hitung BEP — jika harga keripik Rp25.000 dengan margin 50%, profit Rp12.500/bungkus. BEP = Rp1.500.000 + Rp300.000 operasional = 144 bungkus dalam 2 hari. Target realistis: 80 bungkus per hari. (2) Cetak banner backdrop 2x1 meter dengan brand dan foto produk besar — Rp150.000. (3) Siapkan standing display untuk 4 varian agar terlihat dari jauh. Minggu kedua: (4) Produksi stok 200 bungkus (sisa bisa dijual online). (5) Siapkan tester dalam wadah kecil — ini KRUSIAL untuk makanan, pelanggan yang coba = kemungkinan beli 60%. (6) Cetak price list besar, siapkan QRIS dan uang kembalian. (7) Siapkan kantong belanja dengan stiker brand. Hari H: datang 1 jam sebelum buka, tata booth menarik, letakkan tester di paling depan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau setelah bazaar, gimana cara follow-up pengunjung yang sudah beli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saat bazaar berlangsung, kumpulkan kontak pelanggan dengan cara: sertakan kartu ucapan dalam setiap pembelian bertuliskan 'Save nomor WA kami untuk promo dan varian baru!' atau buat mini lucky draw yang syaratnya follow Instagram dan save nomor WA. Dalam 2-3 hari pasca bazaar, kirim broadcast WhatsApp: 'Halo kak! Terima kasih sudah mampir di booth kami di [Nama Event]. Sebagai terima kasih, kami kasih free ongkir untuk order online minggu ini. Pesan lewat WhatsApp ya!' Ini mengubah pembeli satu kali menjadi pelanggan online tetap. Catat juga: varian mana yang paling laris, feedback pelanggan, dan jam ramai pengunjung — data ini sangat berharga untuk event berikutnya."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Strategi Instagram untuk toko kue rumahan pemula",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru buka toko kue rumahan di Bandung, follower baru 300. Bagaimana cara promosi lewat Instagram supaya orderan naik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita mulai dari fondasi. Pertama, optimasi profil: gunakan nama akun yang mudah dicari seperti @kuebandung.namatoko, tulis bio singkat yang menyebutkan lokasi dan jenis kue, serta tambahkan link order ke WhatsApp. Kedua, buat 5 highlight Stories: Menu, Testimoni, Proses Pembuatan, Promo, dan Cara Order. Ketiga, mulai posting Reels 3x seminggu dengan konten behind-the-scenes pembuatan kue karena format ini mendapat jangkauan organik terbesar. Gunakan hashtag kombinasi: #KueBandung #KueHomemade #KulanerBandung. Target realistis: capai 1.000 follower organik dalam 8 minggu dengan konsistensi ini."
+      },
+      {
+        "role": "user",
+        "content": "Konten Reels seperti apa yang cocok untuk toko kue?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada 5 format Reels yang terbukti efektif untuk toko kue: (1) Proses dekorasi kue dengan musik trending dalam 15-30 detik, (2) Before-after dari adonan mentah ke kue jadi, (3) Packing order dengan teks 'Order hari ini siap kirim!', (4) Review pelanggan yang direkam saat terima kue, dan (5) Tutorial mini resep sederhana sebagai konten edukasi. Hook di 3 detik pertama sangat penting — mulai dengan visual paling menarik seperti potongan kue yang memperlihatkan tekstur. Posting di jam 11.00-13.00 atau 19.00-21.00 WIB saat audiens paling aktif."
+      }
+    ]
+  },
+  {
+    "title": "Kolaborasi influencer mikro untuk UMKM fashion",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual hijab handmade. Budget marketing cuma 1 juta per bulan. Bisa pakai influencer nggak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat bisa. Dengan budget Rp1.000.000, fokuslah ke influencer mikro lokal dengan 1.000-10.000 follower yang engagement rate-nya di atas 5%. Mereka biasanya bersedia kerjasama barter produk plus fee Rp200.000-500.000 per posting. Cari 2-3 influencer hijab di kota Anda lewat hashtag lokal atau platform Sociabuzz. Minta mereka buat Reels unboxing dan styling hijab Anda. Sisakan Rp300.000 untuk boost Reels kolaborasi terbaik melalui Meta Business Suite. Dengan cara ini Anda mendapat konten dari perspektif pelanggan nyata yang lebih dipercaya daripada iklan biasa."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengukur apakah kolaborasi influencer ini berhasil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ukur dengan 3 metrik utama: (1) Reach dan impression dari Reels kolaborasi — bandingkan dengan konten biasa Anda, (2) Profile visits dan follower growth selama 7 hari setelah posting kolaborasi, dan (3) Konversi langsung yang bisa dilacak dari kode promo unik per influencer, misalnya HIJAB_NAMA_10 untuk diskon 10%. Catat semua data di spreadsheet sederhana. Jika cost per acquisition dari influencer A lebih rendah daripada B, alokasikan lebih banyak budget ke influencer A di bulan berikutnya."
+      }
+    ]
+  }
+]

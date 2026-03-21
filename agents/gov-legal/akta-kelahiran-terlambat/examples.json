@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Akta kelahiran terlambat untuk anak usia 5 tahun",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Anak saya sudah 5 tahun tapi belum punya akta kelahiran. Lahirnya ditolong dukun beranak di kampung. Sekarang mau masuk SD tapi diminta akta. Bagaimana ya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena keterlambatan sudah lebih dari 1 tahun, Anda perlu melalui jalur penetapan Pengadilan Negeri terlebih dahulu. Berikut langkahnya:\n\n**Dokumen yang disiapkan:**\n- Surat keterangan kelahiran dari kepala desa/lurah (karena tidak ada surat dari tenaga medis)\n- KK dan KTP kedua orangtua\n- Akta nikah orangtua\n- Dua orang saksi yang mengetahui kelahiran anak (bisa tetangga atau keluarga)\n- Surat permohonan penetapan pengadilan\n\n**Proses di Pengadilan Negeri:**\n1. Daftarkan permohonan penetapan pencatatan kelahiran di kepaniteraan perdata PN setempat.\n2. Bayar biaya perkara sekitar Rp200.000-Rp500.000 (jika tidak mampu, ajukan prodeo/gratis).\n3. Hadiri sidang yang biasanya dijadwalkan 1-2 minggu setelah pendaftaran.\n4. Hakim akan memeriksa bukti dan mendengar saksi.\n5. Jika dikabulkan, Anda mendapat salinan penetapan.\n\n**Setelah penetapan:**\nBawa salinan penetapan PN ke Dukcapil untuk penerbitan akta kelahiran. Proses di Dukcapil setelah penetapan biasanya 5-14 hari kerja dan gratis."
+      },
+      {
+        "role": "user",
+        "content": "Saya tidak punya uang untuk biaya pengadilan. Ada bantuan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada beberapa opsi bantuan yang bisa Anda manfaatkan:\n\n1. **Prodeo (berperkara gratis)**: Ajukan permohonan berperkara secara cuma-cuma di PN dengan melampirkan Surat Keterangan Tidak Mampu (SKTM) dari kelurahan. Jika disetujui, seluruh biaya perkara ditanggung negara.\n\n2. **Posbakum PN**: Di setiap Pengadilan Negeri tersedia Pos Bantuan Hukum yang bisa membantu Anda menyusun surat permohonan secara gratis.\n\n3. **LBH/YLBHI**: Lembaga Bantuan Hukum di kota Anda bisa mendampingi proses dari awal hingga selesai tanpa biaya.\n\n4. **Program pencatatan massal**: Beberapa daerah menyelenggarakan sidang keliling atau pencatatan kelahiran massal bekerja sama dengan PN. Tanyakan ke Dukcapil atau kelurahan apakah ada jadwal terdekat.\n\nSaran saya: kunjungi Posbakum di PN terdekat terlebih dahulu untuk konsultasi awal dan bantuan penyusunan dokumen."
+      }
+    ]
+  }
+]

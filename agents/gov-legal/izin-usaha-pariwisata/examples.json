@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perizinan homestay di Bali untuk tamu asing",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya rumah di Ubud, Bali, mau dijadikan homestay untuk turis asing. Izin apa yang perlu saya urus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk homestay di Ubud, Anda perlu beberapa perizinan: 1) NIB melalui OSS RBA dengan KBLI penyediaan akomodasi/pondok wisata — TDUP sudah terintegrasi dalam NIB. 2) Pastikan bangunan memiliki PBG (Persetujuan Bangunan Gedung) dan SLF. 3) Daftarkan usaha ke Dinas Pariwisata Kabupaten Gianyar. 4) Urus sertifikat CHSE dari Kemenparekraf untuk standar kebersihan dan keselamatan. 5) Khusus Bali: cek Perda setempat tentang zonasi akomodasi wisata — beberapa desa adat memiliki aturan khusus tentang usaha penginapan. Juga siapkan: sertifikat layak higiene dan sanitasi dari Dinas Kesehatan jika menyediakan makanan."
+      },
+      {
+        "role": "user",
+        "content": "Apakah saya perlu bintang untuk homestay?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak. Penilaian bintang berlaku untuk hotel, bukan homestay atau pondok wisata. Homestay memiliki standar tersendiri yang lebih sederhana. Yang perlu Anda penuhi: standar usaha pondok wisata yang meliputi standar produk (fasilitas kamar, kebersihan, keamanan), standar pelayanan (keramahan, informasi wisata), dan standar pengelolaan (manajemen operasional). Sertifikasi standar dilakukan oleh LSU Bidang Pariwisata. Meskipun tidak wajib bintang, sertifikasi standar usaha pariwisata menjadi komitmen yang harus dipenuhi setelah NIB terbit. Ini juga menjadi nilai tambah untuk meningkatkan kepercayaan tamu internasional."
+      }
+    ]
+  },
+  {
+    "title": "Biro perjalanan wisata vs agen perjalanan wisata",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau bikin bisnis trip organizer yang jual paket liburan ke Labuan Bajo. Harus daftar sebagai apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika Anda menyusun dan menjual paket wisata sendiri (menentukan itinerary, mengorganisir transportasi, akomodasi, dan aktivitas), Anda harus mendaftar sebagai Biro Perjalanan Wisata (BPW). BPW berbeda dengan Agen Perjalanan Wisata yang hanya menjual kembali paket dari BPW lain. Untuk BPW: 1) Urus NIB dengan KBLI biro perjalanan wisata melalui OSS RBA, 2) Siapkan deposit jaminan usaha perjalanan wisata sesuai ketentuan, 3) Miliki tenaga profesional pariwisata termasuk pramuwisata bersertifikat, 4) Sertifikasi standar usaha BPW melalui LSU Bidang Pariwisata. Pastikan juga memiliki perjanjian kerjasama dengan penyedia jasa di Labuan Bajo."
+      },
+      {
+        "role": "user",
+        "content": "Berapa deposit jaminan usaha BPW dan kemana menyetornya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deposit jaminan usaha BPW diatur dalam Permen Pariwisata dan besarannya bervariasi tergantung cakupan operasional. Untuk BPW yang melayani wisatawan nusantara (domestik), deposit umumnya lebih rendah dibanding BPW yang melayani wisatawan mancanegara. Deposit disetor ke bank yang ditunjuk dalam bentuk deposito berjangka atas nama perusahaan. Deposit ini berfungsi sebagai jaminan tanggung jawab terhadap wisatawan jika terjadi wanprestasi. Besaran pastinya perlu dicek di regulasi terbaru karena bisa berubah. Hubungi Dinas Pariwisata setempat atau ASITA (Asosiasi Perusahaan Perjalanan Wisata Indonesia) untuk informasi deposit terkini."
+      }
+    ]
+  }
+]

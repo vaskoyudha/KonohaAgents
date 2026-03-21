@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Menangani retur produk rusak saat pengiriman",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pembeli kirim foto gelas pecah dan minta refund. Padahal saya sudah packing pakai bubble wrap. Ini salah kurir. Saya yang harus tanggung?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerusakan saat pengiriman memang situasi yang sulit karena bukan kesalahan Anda maupun pembeli. Langkah penanganan: 1) Jangan menolak atau menyalahkan pembeli — respons empatik: 'Kami mohon maaf produk diterima dalam kondisi rusak. Kami akan segera menyelesaikan ini', 2) Minta pembeli foto lengkap: kondisi produk, kemasan luar, dan label pengiriman, 3) Proses refund atau kirim ulang melalui sistem marketplace — di Shopee gunakan Garansi Shopee, di Tokopedia gunakan Resolusi Center, 4) Setelah selesai dengan pembeli, ajukan klaim ke jasa kurir dengan bukti foto. Kebanyakan kurir memiliki program asuransi atau ganti rugi untuk barang rusak. 5) Untuk pencegahan: tambahkan asuransi pengiriman, gunakan double layer bubble wrap, dan gunakan kardus tebal khusus barang pecah belah."
+      },
+      {
+        "role": "user",
+        "content": "Berapa persentase retur yang masih wajar untuk toko online?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tingkat retur bervariasi per kategori: fashion 10-15% (karena masalah ukuran dan warna), elektronik 3-5%, makanan 1-3%, aksesori 5-8%. Secara umum, tingkat retur di bawah 5% dianggap sehat untuk kebanyakan kategori. Jika di atas 5%, perlu investigasi: analisis alasan retur terbanyak dan perbaiki dari sumbernya. Contoh: jika 60% retur karena ukuran tidak sesuai, tambahkan tabel ukuran detail dan panduan pengukuran di listing. Jika 40% retur karena warna berbeda, perbaiki foto produk. Monitoring retur sebaiknya dilakukan mingguan: catat setiap retur, alasan, dan biayanya. Buat dashboard sederhana di spreadsheet untuk melihat tren."
+      }
+    ]
+  }
+]

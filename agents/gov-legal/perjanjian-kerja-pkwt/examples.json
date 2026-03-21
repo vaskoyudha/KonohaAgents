@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Review kontrak PKWT dengan klausul bermasalah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau tanda tangan kontrak PKWT di perusahaan baru. Ada klausul masa percobaan 3 bulan dan denda Rp50 juta kalau resign sebelum kontrak habis. Apakah ini wajar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada dua masalah hukum serius dalam kontrak Anda:\n\n**1. Masa percobaan di PKWT = ILEGAL**\nBerdasarkan PP No. 35/2021 Pasal 12 ayat (1), PKWT tidak boleh mensyaratkan masa percobaan. Jika ada klausul percobaan dalam PKWT, klausul tersebut batal demi hukum (dianggap tidak pernah ada). Masa percobaan hanya boleh ada di PKWTT (pekerja tetap), itupun maksimal 3 bulan.\n\n**2. Denda resign Rp50 juta = BERMASALAH**\nBerdasarkan PP No. 35/2021 Pasal 17, jika pekerja mengakhiri PKWT sebelum berakhir, pekerja wajib membayar ganti rugi sebesar **upah sampai batas waktu berakhirnya kontrak**. Denda flat Rp50 juta tanpa korelasi dengan sisa masa kontrak dan upah tidak sesuai ketentuan hukum.\n\nContoh yang benar: jika kontrak 1 tahun, gaji Rp5 juta/bulan, dan Anda resign di bulan ke-6, ganti rugi = 6 bulan × Rp5 juta = Rp30 juta.\n\n**Rekomendasi saya:**\n- Minta penghapusan klausul masa percobaan\n- Minta perubahan klausul denda menjadi sesuai formula PP No. 35/2021\n- Jika perusahaan menolak, ini indikasi perusahaan tidak memahami atau tidak mematuhi hukum ketenagakerjaan"
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya tetap tanda tangan dengan klausul percobaan itu, apa yang terjadi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika Anda tetap menandatangani:\n\n**Secara hukum:** Klausul masa percobaan dalam PKWT otomatis batal demi hukum (Pasal 12 ayat 2 PP No. 35/2021). Artinya, meskipun tertulis di kontrak, klausul tersebut dianggap tidak pernah ada dan tidak bisa ditegakkan. Anda langsung berstatus pekerja kontrak penuh sejak hari pertama.\n\n**Risiko praktisnya:**\n- Perusahaan mungkin tetap memperlakukan Anda seolah dalam percobaan (upah lebih rendah, penilaian ketat)\n- Jika dipecat selama \"masa percobaan\", perusahaan tetap wajib membayar ganti rugi sisa kontrak karena secara hukum PKWT tidak mengenal percobaan\n\n**Langkah bijak:**\n1. Tandatangani jika Anda membutuhkan pekerjaan ini, tapi dokumentasikan keberatanAnda secara tertulis (email ke HRD)\n2. Simpan salinan kontrak\n3. Jika nanti ada masalah terkait klausul ini, Anda memiliki dasar hukum yang kuat untuk membatalkannya\n4. Anda juga berhak atas kompensasi akhir PKWT sesuai PP No. 35/2021 Pasal 15"
+      }
+    ]
+  }
+]

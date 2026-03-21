@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Perpanjangan paspor mendesak untuk perjalanan bisnis",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Paspor saya habis masa berlaku bulan depan dan saya harus terbang ke Singapura minggu depan untuk urusan bisnis. Bagaimana cara mempercepat prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda perlu bertindak cepat. Berikut opsi percepatan pengurusan paspor:\n\n**Opsi 1: e-Paspor (Tercepat — 1-3 hari kerja)**\n1. Buka aplikasi M-Paspor, cari slot tercepat di kantor imigrasi terdekat yang melayani e-Paspor\n2. Biaya: **Rp 650.000** (PNBP e-Paspor)\n3. e-Paspor tersedia di kantor imigrasi kelas I di kota besar (Jakarta, Surabaya, Bandung, Medan, dll.)\n4. Biasanya selesai 1-3 hari kerja\n\n**Opsi 2: Walk-in dengan Alasan Mendesak**\n1. Jika slot M-Paspor penuh, datangi kantor imigrasi pagi-pagi (sebelum jam 08.00)\n2. Bawa surat keterangan mendesak dari perusahaan dan bukti tiket pesawat\n3. Minta layanan walk-in untuk keperluan darurat — beberapa kantor menyediakan kuota harian\n\n**Opsi 3: Paspor Biasa Kilat**\n1. Paspor biasa bisa selesai 3-5 hari kerja\n2. Biaya: **Rp 350.000**\n3. Pastikan Anda memilih pengambilan langsung di kantor (bukan pengiriman pos)\n\n**Dokumen yang disiapkan:**\n- KTP-el asli\n- Kartu Keluarga asli\n- Paspor lama\n- Foto terbaru (akan diambil ulang di kantor imigrasi)\n\n**Catatan penting:**\n- Singapura mensyaratkan paspor berlaku minimal 6 bulan setelah tanggal kedatangan. Jika paspor baru, ini otomatis terpenuhi\n- WNI bebas visa ke Singapura untuk kunjungan sampai 30 hari\n\nSaran: langsung buka M-Paspor sekarang dan ambil slot terdekat untuk e-Paspor."
+      }
+    ]
+  },
+  {
+    "title": "Pembuatan paspor untuk anak balita",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Anak saya baru 2 tahun, mau dibuatkan paspor karena rencana liburan keluarga ke Jepang. Apa saja persyaratan khusus untuk bayi/balita?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pembuatan paspor untuk anak usia 2 tahun memiliki beberapa persyaratan khusus. Berikut panduan lengkapnya:\n\n**Dokumen yang diperlukan:**\n1. **Akta kelahiran** anak (asli dan fotokopi)\n2. **Kartu Keluarga** yang mencantumkan nama anak\n3. **KTP-el kedua orang tua** (asli)\n4. **Akta nikah orang tua** (asli)\n5. **Surat persetujuan dari kedua orang tua** — jika salah satu tidak bisa hadir, diperlukan surat kuasa bermaterai dari orang tua yang berhalangan\n6. Buku nikah (jika akta nikah belum diurus)\n\n**Prosedur:**\n1. Daftar melalui **M-Paspor** atas nama anak (didaftarkan oleh orang tua)\n2. **Anak wajib hadir** di kantor imigrasi — tidak bisa diwakilkan\n3. Foto biometrik akan diambil di kantor imigrasi (untuk balita, petugas biasanya membantu pengambilan posisi)\n4. Sidik jari: anak di bawah 5 tahun **tidak perlu** sidik jari, tapi tetap difoto\n5. Wawancara oleh pejabat imigrasi (singkat, biasanya verifikasi data orang tua)\n\n**Ketentuan khusus anak:**\n- Paspor anak di bawah 17 tahun berlaku **5 tahun** (bukan 10 tahun seperti dewasa)\n- Biaya PNBP: **Rp 350.000** (paspor biasa) atau **Rp 650.000** (e-Paspor) — sama dengan dewasa\n- Anak di bawah 5 tahun tidak perlu e-Paspor karena fitur biometrik belum optimal\n\n**Tips untuk perjalanan ke Jepang:**\n- Jepang mensyaratkan paspor berlaku minimal 6 bulan\n- WNI **memerlukan visa** untuk masuk Jepang — ajukan di kedutaan Jepang atau VFS Global\n- Untuk anak, lampirkan akta kelahiran (diterjemahkan ke bahasa Inggris) dalam aplikasi visa\n- Proses visa Jepang: 4-7 hari kerja melalui kedutaan\n\nSaran: urus paspor anak terlebih dahulu, lalu langsung ajukan visa Jepang agar tidak terlambat."
+      }
+    ]
+  }
+]

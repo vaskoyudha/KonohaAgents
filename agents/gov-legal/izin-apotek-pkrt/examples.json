@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pengurusan SIA untuk apotek baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya apoteker dengan STRA aktif, mau buka apotek di Semarang. Langkah pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: urus SIPA (Surat Izin Praktik Apoteker) di Dinas Kesehatan Kota Semarang jika belum punya, dengan melampirkan STRA dan rekomendasi IAI cabang Semarang. Setelah SIPA terbit: 1) Siapkan lokasi apotek yang memenuhi standar: ruang pelayanan resep minimal 12 m2, ruang peracikan, ruang penyimpanan obat, ruang konsultasi, dan toilet. 2) Urus NIB melalui OSS RBA dengan KBLI apotek. 3) Ajukan SIA ke Dinas Kesehatan Kota Semarang dengan dokumen: STRA, SIPA, denah apotek, daftar peralatan, bukti kepemilikan/sewa lokasi, dan rekomendasi IAI. 4) Tim Dinas Kesehatan akan melakukan pemeriksaan sarana. SIA terbit setelah sarana dinyatakan memenuhi standar."
+      },
+      {
+        "role": "user",
+        "content": "Selain obat, boleh jual alat kesehatan dan suplemen di apotek?"
+      },
+      {
+        "role": "assistant",
+        "content": "Boleh, dengan batasan. Apotek diperbolehkan menjual: obat (semua golongan termasuk obat keras dengan resep), suplemen kesehatan yang sudah terdaftar BPOM, alat kesehatan kelas tertentu, dan bahan medis habis pakai. Untuk alat kesehatan tertentu (kelas risiko tinggi), mungkin memerlukan izin penyalur alat kesehatan (IPAK) tersendiri. Untuk suplemen, pastikan semua produk memiliki nomor registrasi BPOM yang valid. Penyimpanan harus sesuai standar masing-masing produk. Apotek juga boleh menyediakan layanan farmasi klinis: konsultasi obat, monitoring terapi, dan pelayanan informasi obat."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan apotek dan toko obat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya bukan apoteker, tapi mau buka toko yang jual obat-obatan umum. Bisa pakai izin apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda bisa membuka Toko Obat, bukan apotek. Toko obat tidak memerlukan apoteker penanggung jawab, tetapi harus memiliki tenaga teknis kefarmasian (TTK) yang bertanggung jawab. Jenis obat yang boleh dijual terbatas: obat bebas (logo hijau) dan obat bebas terbatas (logo biru). Tidak boleh menjual obat keras (logo merah/K) atau obat-obatan yang memerlukan resep dokter. Untuk izin: 1) Urus NIB melalui OSS RBA dengan KBLI toko obat, 2) Ajukan Izin Toko Obat ke Dinas Kesehatan, 3) Lampirkan: data TTK penanggung jawab, denah toko, daftar obat yang akan dijual. Pemeriksaan sarana tetap dilakukan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau nanti mau upgrade jadi apotek, apa yang harus dilakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk upgrade dari toko obat ke apotek: 1) Rekrut apoteker penanggung jawab yang memiliki STRA dan SIPA aktif — ini syarat mutlak. 2) Tingkatkan standar sarana: tambah ruang peracikan, ruang konsultasi, dan upgrade sistem penyimpanan obat sesuai PMK 73/2016. 3) Lengkapi peralatan kefarmasian: timbangan obat, alat peracikan, lemari pendingin untuk obat tertentu. 4) Ajukan SIA baru ke Dinas Kesehatan — ini proses perizinan baru, bukan perpanjangan izin toko obat. 5) Setelah SIA terbit, izin toko obat dicabut karena berubah status menjadi apotek. Konsekuensi: biaya operasional lebih tinggi tetapi lingkup layanan dan produk yang boleh dijual jauh lebih luas."
+      }
+    ]
+  }
+]

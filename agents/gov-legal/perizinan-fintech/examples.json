@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perizinan P2P lending untuk pendanaan UMKM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami ingin membuat platform P2P lending khusus untuk membiayai UMKM di sektor pertanian. Bagaimana proses izin OJK?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perizinan P2P lending di OJK melalui dua tahap: Tahap 1 — Pendaftaran: 1) Bentuk PT dengan modal disetor minimal Rp2,5 miliar (khusus fintech lending). 2) Ajukan pendaftaran ke OJK melalui Direktorat Pengaturan, Perizinan, dan Pengawasan Fintech. 3) Dokumen: akta PT, NPWP, rencana bisnis yang menjelaskan fokus UMKM pertanian, bukti modal disetor, struktur organisasi, dan bukti kesiapan sistem teknologi. 4) OJK mengevaluasi dalam 10 hari kerja. 5) Setelah terdaftar, Anda bisa mulai operasi terbatas. Tahap 2 — Perizinan (maksimal 1 tahun setelah terdaftar): 1) Tingkatkan modal disetor menjadi Rp12,5 miliar. 2) Peroleh sertifikasi ISO 27001 untuk keamanan informasi. 3) Lakukan fit and proper test untuk direksi dan komisaris. 4) OJK melakukan pemeriksaan kesiapan operasional. 5) Jika memenuhi, izin penuh terbit."
+      },
+      {
+        "role": "user",
+        "content": "Apa saja kewajiban pelaporan dan batasan operasional setelah mendapat izin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kewajiban pasca-izin P2P lending: 1) Pelaporan bulanan ke OJK: data outstanding pinjaman, jumlah pemberi dan penerima dana, TKB90 (Tingkat Keberhasilan Bayar 90 hari), NPL (Non-Performing Loan), dan data pengaduan konsumen. 2) Pelaporan triwulanan: laporan keuangan yang telah diaudit. 3) Batasan operasional: maksimal pinjaman per peminjam Rp2 miliar, suku bunga dan biaya harus transparan, wajib miliki mekanisme credit scoring. 4) Perlindungan konsumen: terapkan prinsip transparansi, perlakuan adil, keandalan, kerahasiaan data, dan penanganan pengaduan. 5) Dilarang: menjanjikan return tetap, menggunakan dana pemberi untuk kepentingan sendiri, atau melakukan penagihan dengan intimidasi. 6) Wajib terdaftar di asosiasi (AFPI — Asosiasi Fintech Pendanaan Bersama Indonesia). 7) Pusat data dan disaster recovery wajib di Indonesia."
+      }
+    ]
+  },
+  {
+    "title": "Regulatory sandbox untuk inovasi fintech baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami sedang mengembangkan platform robo-advisor untuk investasi reksadana. Apakah perlu izin OJK dan apakah bisa masuk regulatory sandbox?"
+      },
+      {
+        "role": "assistant",
+        "content": "Robo-advisor untuk reksadana termasuk Inovasi Keuangan Digital (IKD) yang diawasi OJK. Ada dua jalur: 1) Jika model bisnis Anda sesuai dengan regulasi existing (POJK tentang Agen Penjual Efek Reksa Dana/APERD), Anda bisa langsung mengajukan izin sebagai APERD digital melalui OJK. 2) Jika ada komponen inovasi yang belum diatur (misalnya algoritma AI untuk portfolio management otomatis), Anda bisa mengajukan regulatory sandbox. Proses sandbox: 1) Ajukan proposal ke OJK — jelaskan model bisnis, teknologi AI yang digunakan, manfaat bagi investor, dan analisis risiko. 2) OJK mengevaluasi apakah inovasi layak masuk sandbox. 3) Jika diterima, Anda beroperasi dalam lingkungan terkontrol: batasan jumlah nasabah, volume transaksi, dan jangka waktu. 4) Saran: diskusikan terlebih dahulu dengan OJK melalui Innovation Hub untuk mendapat arahan jalur yang tepat."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama proses sandbox dan apa yang terjadi setelahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Durasi dan proses regulatory sandbox OJK: 1) Periode sandbox: maksimal 1 tahun sejak ditetapkan, dapat diperpanjang 6 bulan jika diperlukan evaluasi tambahan. 2) Selama sandbox: operasi terbatas — maksimal jumlah nasabah yang ditentukan OJK (biasanya ratusan hingga ribuan), volume transaksi terbatas, wajib laporan berkala (bulanan) ke OJK tentang kinerja dan insiden. 3) OJK menunjuk pendamping (mentor) untuk memantau operasional. 4) Evaluasi akhir: OJK menilai berdasarkan manfaat, risiko, kesiapan operasional, dan perlindungan konsumen. 5) Hasil evaluasi ada tiga kemungkinan: a) Direkomendasikan untuk izin penuh — Anda mengajukan izin sesuai kategori, b) Perlu perbaikan — diberikan waktu tambahan untuk memperbaiki, c) Ditolak — tidak boleh melanjutkan operasi. 6) Jika lulus sandbox, proses perizinan formal bisa lebih cepat karena OJK sudah mengenal model bisnis Anda. Tips: siapkan data analitik yang kuat selama sandbox untuk mendukung evaluasi."
+      }
+    ]
+  }
+]

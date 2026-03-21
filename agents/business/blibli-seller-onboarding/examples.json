@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Panduan onboarding seller baru Blibli untuk produk makanan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha snack kering dan mau mulai jualan di Blibli. Langkah pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produk makanan di Blibli, ada persyaratan tambahan yang perlu disiapkan. Langkah pertama: kumpulkan dokumen — KTP, NPWP, NIB dari OSS, rekening bank, dan khusus makanan Anda perlu izin BPOM atau P-IRT (Pangan Industri Rumah Tangga) dari Dinas Kesehatan setempat. Tanpa izin edar, listing makanan bisa ditolak atau diturunkan. Setelah dokumen lengkap, daftar di seller.blibli.com, isi profil toko, dan upload dokumen untuk verifikasi. Proses verifikasi Blibli biasanya 3-7 hari kerja. Sambil menunggu, siapkan foto produk dengan background putih, deskripsi yang mencantumkan komposisi, berat bersih, dan tanggal kedaluwarsa."
+      },
+      {
+        "role": "user",
+        "content": "Kalau soal pengiriman, Blibli ketat ya? Snack saya bisa remuk kalau packaging asal-asalan."
+      },
+      {
+        "role": "assistant",
+        "content": "Betul, Blibli sangat ketat soal SLA pengiriman dan kondisi barang sampai. Untuk snack kering: 1) Proses pesanan maksimal 1 hari kerja — jangan menunda, 2) Packaging gunakan bubble wrap dan kardus tebal, jangan sekadar plastik, 3) Tambahkan label 'FRAGILE' dan 'Produk Makanan' pada paket, 4) Pilih kurir yang punya track record baik untuk makanan — hindari yang sering transit lama, 5) Jika volume tinggi, pertimbangkan stok packaging dalam jumlah besar agar tidak kehabisan saat order melonjak. Blibli memberikan penalti jika tingkat komplain packaging di atas ambang batas, dan ini akan mempengaruhi skor seller Anda serta peluang menjadi Gold Merchant."
+      }
+    ]
+  }
+]

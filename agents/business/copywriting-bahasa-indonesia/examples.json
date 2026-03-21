@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Copywriting untuk promo minuman kekinian",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya buka kedai boba di Depok. Mau bikin caption Instagram untuk promo buy 1 get 1. Target anak kuliahan."
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk target mahasiswa Depok, gunakan bahasa casual dan relatable. Ini 3 variasi caption:\n\nVariasi 1 (Urgensi + Humor): 'Dompet tipis tapi pengen ngeboba? Tenang, hari ini BUY 1 GET 1 untuk semua varian! Ajak temen sebangku, bayar satu dapet dua. Promo cuma hari ini ya, jangan sampai nyesel. Langsung gas ke [Nama Kedai] di [Alamat]!'\n\nVariasi 2 (FOMO): 'Yang kemarin kehabisan, hari ini kesempatan terakhir. BUY 1 GET 1 ALL VARIANT. Stok cup terbatas 100 aja. Siapa cepat dia dapat. [Nama Kedai], buka jam 10.00-21.00.'\n\nVariasi 3 (Social Proof): '500+ cup habis kemarin! Karena banyak yang request, kita perpanjang promo BUY 1 GET 1 hari ini ONLY. Tag temen yang harus tau promo ini!'\n\nSemua variasi menggunakan angka konkret, urgensi waktu, dan CTA yang jelas. Post di jam 10.00-11.00 sebelum jam makan siang mahasiswa."
+      },
+      {
+        "role": "user",
+        "content": "Kalau untuk deskripsi produk di GoFood gimana? Beda nggak penulisannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat beda. Di GoFood, space terbatas dan konsumen sedang dalam mode memilih cepat. Fokus pada: (1) Benefit utama dalam 1 kalimat pertama, (2) Rasa dan bahan yang bikin penasaran, (3) Ukuran atau isi porsi. Contoh untuk menu Brown Sugar Boba Milk: 'Boba kenyal dengan gula aren asli Jawa. Manisnya pas, susunya creamy. Porsi 500ml bikin seger seharian. Best seller kami!' Hindari deskripsi panjang atau puitis di GoFood karena konsumen scrolling cepat. Gunakan kata sensori: 'kenyal', 'creamy', 'segar', 'hangat'. Tambahkan label seperti 'Best Seller' atau 'New!' di awal deskripsi untuk menarik perhatian."
+      }
+    ]
+  }
+]

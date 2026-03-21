@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perizinan perkebunan kelapa sawit skala besar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami berencana membuka perkebunan sawit 8.000 hektar di Kalimantan Tengah. Apa saja izin yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perkebunan sawit 8.000 ha memerlukan rangkaian izin yang komprehensif: 1) Izin lokasi dari Kementerian ATR/BPN — pastikan lahan sesuai RTRW dan tidak masuk moratorium hutan primer atau lahan gambut (Inpres 5/2019). 2) Jika lahan berada di Areal Penggunaan Lain (APL) dari kawasan hutan, perlu izin pelepasan kawasan hutan dari KLHK. 3) IUP-B (Izin Usaha Perkebunan untuk Budidaya) melalui OSS-RBA. 4) AMDAL wajib karena luas di atas 25 ha. 5) HGU dari BPN: berlaku 35 tahun, diperpanjang 25 tahun, diperbarui 35 tahun. Proses HGU memerlukan pengukuran kadastral oleh BPN. 6) Kewajiban plasma: sediakan minimal 20% (1.600 ha) untuk kebun masyarakat. 7) STDB (Surat Tanda Daftar Usaha Perkebunan Budidaya) setelah semua izin lengkap."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana mekanisme plasma 20% dan apa konsekuensi jika tidak dipenuhi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mekanisme plasma untuk 8.000 ha: minimal 1.600 ha dibangun untuk masyarakat. Pelaksanaan: 1) Identifikasi masyarakat sekitar berhak: petani lokal, masyarakat adat, dan transmigran dalam radius tertentu dari kebun inti. 2) Bentuk koperasi atau kelompok tani sebagai wadah petani plasma. 3) Buat perjanjian kemitraan inti-plasma yang disahkan notaris — isi meliputi hak dan kewajiban, pembagian hasil, dan mekanisme pengembalian kredit. 4) Perusahaan membangun kebun plasma: land clearing, penanaman bibit, pemeliharaan sampai tanaman menghasilkan (3-4 tahun). 5) Setelah menghasilkan, kebun diserahkan ke koperasi petani. 6) Biaya pembangunan menjadi kredit petani yang dicicil dari hasil panen. 7) Perusahaan wajib menampung TBS dari petani plasma. Konsekuensi tidak memenuhi: sanksi administratif berupa peringatan, denda, penghentian sementara, hingga pencabutan IUP sesuai UU 39/2014 Pasal 107."
+      }
+    ]
+  },
+  {
+    "title": "Izin usaha perkebunan pengolahan karet",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami ingin membangun pabrik pengolahan karet (crumb rubber) di Sumatera Selatan. Izin apa yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pabrik pengolahan karet memerlukan IUP-P (Izin Usaha Perkebunan untuk Pengolahan). Langkah: 1) Pastikan lokasi pabrik sesuai peruntukan industri dalam RTRW. 2) Ajukan NIB dan IUP-P melalui OSS-RBA — untuk pabrik pengolahan, termasuk risiko menengah tinggi sehingga perlu pemenuhan komitmen. 3) Dokumen lingkungan: AMDAL jika kapasitas pabrik besar (umumnya >6.000 ton/tahun), atau UKL-UPL untuk skala lebih kecil. 4) Perhatikan standar pengelolaan limbah: pabrik crumb rubber menghasilkan limbah cair signifikan yang harus diolah sesuai baku mutu. 5) Izin Pembuangan Limbah Cair (IPLC) dari Dinas Lingkungan Hidup. 6) Surat keterangan rencana pasokan bahan baku minimal 20% dari kebun sendiri atau kemitraan plasma. 7) Pastikan ketersediaan jaminan pasokan air dan listrik untuk operasional pabrik."
+      },
+      {
+        "role": "user",
+        "content": "Apakah pabrik pengolahan juga wajib memiliki kebun sendiri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menurut Permentan tentang IUP, perusahaan yang memiliki IUP-P (pengolahan saja tanpa budidaya) tidak wajib memiliki kebun sendiri, tetapi harus memenuhi ketentuan: 1) Minimal 20% bahan baku berasal dari kebun sendiri atau kebun yang bermitra. Ini bisa dipenuhi melalui perjanjian kemitraan dengan petani karet rakyat di sekitar pabrik. 2) Jika tidak memiliki kebun sendiri, buat perjanjian beli TBS/lateks dengan petani atau koperasi yang sah dan terdaftar. 3) Perjanjian kemitraan harus mencakup: harga pembelian yang adil (mengacu harga pasar), volume pasokan, dan jangka waktu kerja sama. 4) Perusahaan wajib melaporkan sumber bahan baku secara berkala. 5) Jika ingin memiliki kebun sendiri juga, perlu mengajukan IUP terintegrasi (IUP-B dan IUP-P sekaligus) dengan kewajiban plasma 20%. Saran: bermitra dengan petani lokal memperkuat social license dan menjamin keberlanjutan pasokan."
+      }
+    ]
+  }
+]

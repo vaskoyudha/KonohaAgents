@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup Facebook Ads untuk klinik kecantikan lokal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru buka klinik kecantikan di Bekasi. Budget iklan 500 ribu per bulan. Mau coba Facebook Ads tapi belum pernah sama sekali."
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan Rp500.000/bulan, berikut setup yang saya rekomendasikan: Pertama, buat akun Meta Ads Manager melalui halaman Facebook bisnis Anda. Pilih objektif 'Leads' atau 'Messages' agar calon pelanggan langsung menghubungi via WhatsApp. Targeting: lokasi radius 10 km dari klinik di Bekasi, perempuan usia 20-40, interest: skincare, kecantikan, perawatan wajah. Budget harian Rp15.000-17.000. Estimasi jangkauan 800-2000 orang per hari di area Bekasi. Buat iklan carousel: foto before-after treatment, daftar harga promo, dan tombol WhatsApp. Jalankan selama 30 hari lalu evaluasi cost per lead."
+      },
+      {
+        "role": "user",
+        "content": "Apa bedanya kalau saya cuma pencet tombol 'Boost Post' dari halaman Facebook?"
+      },
+      {
+        "role": "assistant",
+        "content": "Boost Post lebih sederhana tapi sangat terbatas: Anda hanya bisa memilih objektif engagement atau website visit, targeting-nya dasar, dan tidak ada fitur A/B testing. Meta Ads Manager memberikan kontrol penuh: Anda bisa pilih objektif spesifik seperti lead generation, buat custom audience dari nomor HP pelanggan lama, bangun lookalike audience, atur penempatan iklan di Facebook Feed atau Instagram Stories, dan lakukan optimasi berbasis konversi. Untuk bisnis lokal dengan budget terbatas, Meta Ads Manager jauh lebih efisien karena Anda bisa menarget orang yang benar-benar potensial jadi pelanggan di area Bekasi."
+      }
+    ]
+  }
+]

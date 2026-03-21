@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Proses PBG untuk ruko 3 lantai di Bekasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau bangun ruko 3 lantai di Bekasi untuk usaha sendiri. Sekarang kan IMB sudah dihapus, prosedurnya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benar, IMB sudah digantikan PBG sejak berlakunya UU Cipta Kerja dan PP 16/2021. Ruko 3 lantai termasuk bangunan gedung tidak sederhana. Prosesnya: 1) Daftarkan permohonan PBG di SIMBG melalui situs atau kantor DPMPTSP Kota Bekasi, 2) Ikuti konsultasi perencanaan dengan Tim Profesi Ahli yang akan memeriksa kesesuaian desain, 3) Serahkan gambar arsitektur dan struktur yang dibuat oleh tenaga profesional bersertifikat, 4) Tunggu pemeriksaan desain, 5) Setelah disetujui, PBG terbit dan Anda bisa memulai pembangunan. Siapkan juga: bukti kepemilikan tanah, dokumen lingkungan jika diperlukan, dan rencana sistem proteksi kebakaran."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama prosesnya dan ada biaya retribusi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Waktu proses PBG untuk bangunan tidak sederhana umumnya 28-45 hari kerja sejak dokumen dinyatakan lengkap, tergantung kompleksitas dan responsivitas instansi daerah. Biaya retribusi PBG ditetapkan oleh Perda masing-masing daerah, dihitung berdasarkan: indeks terintegrasi x luas bangunan x harga satuan retribusi. Untuk ruko di Bekasi, perkiraan retribusi bervariasi tergantung zona lokasi dan fungsi bangunan. Hubungi DPMPTSP Kota Bekasi untuk simulasi retribusi terbaru. Selain retribusi, Anda juga perlu menganggarkan biaya jasa arsitek/insinyur untuk pembuatan gambar teknis yang memenuhi standar."
+      }
+    ]
+  },
+  {
+    "title": "Pengurusan SLF untuk bangunan kantor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kantor kami sudah beroperasi 6 tahun tapi belum punya SLF. Apakah wajib dan bagaimana mengurusnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "SLF wajib dimiliki oleh setiap bangunan gedung yang sudah berfungsi, termasuk kantor. Untuk bangunan non-hunian seperti kantor, SLF berlaku 5 tahun dan harus diperpanjang sebelum masa berlaku habis. Karena kantor Anda sudah 6 tahun tanpa SLF, segera urus untuk menghindari sanksi administratif. Prosesnya: 1) Ajukan permohonan SLF ke Pemda melalui SIMBG, 2) Pemda akan menugaskan pengkaji teknis untuk memeriksa kelaikan fungsi bangunan meliputi aspek keselamatan, kesehatan, kenyamanan, dan kemudahan, 3) Berdasarkan hasil pemeriksaan, SLF akan diterbitkan atau ada rekomendasi perbaikan yang harus dipenuhi terlebih dahulu."
+      },
+      {
+        "role": "user",
+        "content": "Kalau hasil pemeriksaan ada yang tidak memenuhi standar, apa yang terjadi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jika pemeriksaan pengkaji teknis menemukan ketidaksesuaian, Anda akan mendapat rekomendasi perbaikan yang harus dilaksanakan dalam jangka waktu tertentu. Setelah perbaikan selesai, dilakukan pemeriksaan ulang. Jika sudah memenuhi standar, SLF diterbitkan. Jenis temuan yang umum: sistem proteksi kebakaran tidak memadai, jalur evakuasi terhambat, instalasi listrik tidak sesuai standar, atau aksesibilitas penyandang disabilitas belum tersedia. Biaya pemeriksaan dan perbaikan ditanggung pemilik bangunan. Pastikan Anda menyimpan dokumen as-built drawing karena pengkaji teknis akan mencocokkan kondisi aktual dengan gambar bangunan."
+      }
+    ]
+  }
+]

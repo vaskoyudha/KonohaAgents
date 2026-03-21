@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Roadmap dari Power Merchant ke Official Store",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko kosmetik saya Power Merchant di Tokopedia, rating 4.7, transaksi 200/bulan. Mau jadi Official Store. Realistis tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan rating 4.7 dan 200 transaksi per bulan, performa Anda sudah cukup baik. Tapi ada beberapa hal yang perlu dicek untuk kesiapan Official Store: 1) Apakah sudah Power Merchant Pro? Jika belum, upgrade dulu ke PM Pro karena ini biasanya prasyarat, 2) Legalitas — untuk Official Store kosmetik, Anda perlu: NIB dari OSS, NPWP badan usaha (jika berbentuk PT/CV), sertifikat merek terdaftar di DJKI, dan semua produk harus punya izin BPOM, 3) Kualitas listing — semua foto harus professional grade dengan background putih, deskripsi terstandarisasi, dan atribut lengkap, 4) Operasional — kemampuan mengirim dalam 1 hari kerja secara konsisten. Timeline realistis: 1-2 bulan persiapan jika legalitas sudah lengkap, 3-6 bulan jika perlu urus merek di DJKI karena proses pendaftaran merek cukup lama."
+      },
+      {
+        "role": "user",
+        "content": "Saya belum daftar merek di DJKI. Apakah wajib untuk Official Store?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendaftaran merek di DJKI sangat disarankan dan biasanya menjadi persyaratan untuk Official Store. Prosesnya: 1) Daftar online di pdki.dgip.go.id, biaya pendaftaran untuk UMKM sekitar Rp500.000, 2) Siapkan logo merek, deskripsi barang/jasa, dan kelas produk (kelas 3 untuk kosmetik), 3) Proses pemeriksaan memakan waktu 6-12 bulan hingga sertifikat terbit. Tapi ada kabar baik: untuk pengajuan Official Store, biasanya bukti pendaftaran merek yang sudah diterima (nomor permohonan) sudah cukup sebagai bukti awal, tidak harus menunggu sertifikat terbit. Saran: segera mulai proses pendaftaran sekarang sambil mempersiapkan aspek lain. Gunakan waktu tunggu untuk: upgrade ke PM Pro, rapikan semua listing sesuai standar Official Store, dan pastikan semua produk sudah memiliki izin BPOM."
+      }
+    ]
+  }
+]

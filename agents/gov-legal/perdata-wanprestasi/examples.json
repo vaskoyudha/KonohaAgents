@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Kontraktor renovasi tidak menyelesaikan pekerjaan sesuai kontrak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kontraktor renovasi rumah saya sudah dibayar 80% tapi pekerjaan baru selesai 50% dan sudah 3 bulan tidak ada progres. Kontrak tertulis ada, deadline sudah lewat 2 bulan. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kasus Anda memenuhi unsur wanprestasi bentuk 'tidak memenuhi prestasi secara sempurna' berdasarkan Pasal 1238-1243 KUH Perdata. Mari kita susun langkah strategis:\n\n**Analisis Posisi Hukum:**\n- Perjanjian tertulis ada (syarat pembuktian kuat)\n- Deadline kontrak sudah lewat 2 bulan (wanprestasi karena keterlambatan)\n- Pembayaran 80% sudah dilakukan (bukti itikad baik Anda)\n- Pekerjaan baru 50% (prestasi tidak sempurna)\n\n**Langkah yang Harus Diambil:**\n1. **Kirim somasi** (teguran resmi) via surat tercatat ke alamat kontraktor. Isi somasi: identitas para pihak, rujukan kontrak, uraian pelanggaran, tuntutan penyelesaian dalam 14 hari kerja, dan peringatan gugatan jika diabaikan.\n2. **Dokumentasikan** kondisi pekerjaan saat ini: foto, video, bukti pembayaran, dan semua komunikasi WhatsApp/email.\n3. **Jika somasi diabaikan**, ajukan gugatan wanprestasi ke Pengadilan Negeri di wilayah domisili tergugat.\n4. **Tuntutan yang bisa diajukan**: pemenuhan kontrak (penyelesaian pekerjaan), ganti rugi materiil, dan bunga keterlambatan.\n5. **Pertimbangkan sita jaminan** (conservatoir beslag) atas aset kontraktor jika ada kekhawatiran pengalihan harta.\n\nApakah Anda sudah pernah mengirim teguran tertulis sebelumnya?"
+      },
+      {
+        "role": "user",
+        "content": "Belum pernah kirim somasi. Saya hanya tegur via WhatsApp dan dia cuma bilang 'nanti dilanjut'. Apakah chat WhatsApp bisa jadi bukti?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chat WhatsApp bisa menjadi alat bukti elektronik yang sah berdasarkan Pasal 5 ayat (1) UU No. 11/2008 jo UU No. 19/2016 (UU ITE), namun dengan catatan:\n\n**Kekuatan Chat WA sebagai Bukti:**\n- Screenshot saja kurang kuat. Idealnya, buat bukti cetak yang mencantumkan metadata (nomor telepon, waktu, isi pesan)\n- Lebih baik lagi jika dilegalisasi oleh notaris sebagai 'akta di bawah tangan yang diakui'\n- Chat yang menunjukkan pengakuan kontraktor ('nanti dilanjut') justru memperkuat posisi Anda karena membuktikan kontraktor mengakui kewajibannya\n\n**Langkah Sekarang:**\n1. **Jangan hapus chat WA** tersebut. Backup ke cloud dan cetak hardcopy.\n2. **Tetap kirim somasi resmi tertulis** via surat tercatat atau kurir dengan tanda terima. Somasi via WA saja belum memenuhi standar praktik pengadilan yang ideal.\n3. Dalam somasi, cantumkan: dasar kontrak, rincian pelanggaran, batas waktu 14 hari untuk menyelesaikan, dan konsekuensi hukum.\n\nSomasi penting karena berdasarkan Pasal 1238 KUH Perdata, debitur dianggap lalai setelah diberikan peringatan (ingebreke stelling). Tanpa somasi, hakim bisa menganggap tergugat belum resmi dinyatakan lalai. Apakah Anda tahu alamat lengkap kontraktor untuk pengiriman somasi?"
+      }
+    ]
+  },
+  {
+    "title": "Perjanjian pinjaman lisan antara teman yang tidak dibayar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Teman saya pinjam uang Rp 50 juta dengan janji lisan bayar dalam 6 bulan. Sudah setahun belum bayar sepeser pun. Tidak ada kontrak tertulis, hanya bukti transfer bank. Bisa digugat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa digugat. Berdasarkan Pasal 1320 KUH Perdata, perjanjian lisan tetap sah secara hukum jika memenuhi empat syarat: kesepakatan, kecakapan, hal tertentu, dan sebab yang halal. Masalahnya ada di pembuktian, tapi posisi Anda tidak selemah yang dikira.\n\n**Analisis Bukti yang Anda Miliki:**\n- **Bukti transfer bank** Rp 50 juta: ini bukti kuat adanya perpindahan uang\n- **Keterangan saksi**: jika ada orang lain yang tahu tentang pinjaman ini, mereka bisa jadi saksi\n- **Komunikasi elektronik**: chat WA, SMS, atau email yang menyebut pinjaman dan janji bayar\n\n**Strategi Hukum:**\n1. **Kumpulkan bukti pendukung**: mutasi rekening, chat yang menyebut 'pinjam' atau 'bayar', saksi yang mendengar percakapan\n2. **Kirim somasi** dengan rincian: jumlah pinjaman, tanggal transfer, janji pengembalian, dan tenggat pelunasan 14 hari\n3. **Jika diabaikan**, ajukan gugatan wanprestasi ke PN domisili tergugat\n4. **Dalam gugatan**, minta hakim memanggil saksi dan ajukan bukti transfer sebagai bukti pokok\n\n**Ganti Rugi yang Bisa Dituntut:**\n- Pokok pinjaman: Rp 50 juta\n- Bunga keterlambatan: 6% per tahun (bunga moratoir berdasarkan Staatsblad 1848 No. 22) atau sesuai kesepakatan\n- Biaya penagihan dan somasi\n\nApakah ada bukti komunikasi elektronik yang menyebut soal pinjaman ini?"
+      },
+      {
+        "role": "user",
+        "content": "Ada chat WA dia bilang 'tenang nanti gua bayar kok, sabar ya'. Cukup kuat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Itu bukti yang sangat berharga. Chat tersebut memenuhi unsur pengakuan utang (schuldbekentenis) karena:\n\n1. **Mengakui adanya kewajiban bayar** — kata 'nanti gua bayar' menunjukkan dia sadar ada utang\n2. **Mengakui belum memenuhi kewajiban** — kata 'sabar ya' menunjukkan dia tahu sudah terlambat\n\n**Yang Harus Anda Lakukan dengan Chat Ini:**\n- Screenshot lengkap dengan nomor kontak terlihat dan tanggal pesan\n- Backup ke Google Drive atau email Anda sendiri\n- Cetak dan pertimbangkan legalisasi notaris (biaya sekitar Rp 250.000-500.000 per dokumen)\n\n**Kekuatan Bukti Gabungan Anda Sekarang:**\n| Bukti | Kekuatan | Fungsi |\n|-------|----------|--------|\n| Transfer bank | Sangat kuat | Membuktikan perpindahan uang |\n| Chat WA pengakuan | Kuat | Membuktikan uang bersifat pinjaman |\n| Somasi tertulis | Pendukung | Membuktikan tergugat sudah diperingatkan |\n\nDengan kombinasi bukti transfer dan chat pengakuan, posisi Anda cukup kuat untuk gugatan wanprestasi. Langkah selanjutnya: kirim somasi dulu. Jika dalam 14 hari tidak ada respons, siapkan gugatan. Apakah Anda ingin saya jelaskan format somasi yang tepat?"
+      }
+    ]
+  }
+]

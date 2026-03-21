@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pengurusan SIP dokter umum untuk praktik mandiri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dokter umum baru lulus internship, mau buka praktik sendiri di rumah. Apa yang harus saya urus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas selesainya internship. Untuk buka praktik mandiri: 1) Pastikan STR (Surat Tanda Registrasi) dari KKI sudah terbit — ini prasyarat utama. 2) Urus rekomendasi dari IDI (Ikatan Dokter Indonesia) cabang di kabupaten/kota tempat Anda akan praktik. 3) Ajukan permohonan SIP ke Dinas Kesehatan kabupaten/kota dengan dokumen: STR asli dan fotokopi, ijazah dokter, surat rekomendasi IDI, pas foto, KTP, dan surat pernyataan memiliki tempat praktik. 4) Dinas Kesehatan akan memproses dan menerbitkan SIP. 5) Untuk praktik mandiri, siapkan juga ruang praktik yang memenuhi standar minimal: ruang periksa, ruang tunggu, toilet, dan peralatan medis dasar."
+      },
+      {
+        "role": "user",
+        "content": "Bolehkah saya juga praktik di rumah sakit sambil buka praktik mandiri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Boleh. Dokter diperbolehkan memiliki maksimal 3 SIP di 3 tempat praktik berbeda. Misalnya: 1 SIP untuk praktik mandiri di rumah, 1 SIP untuk rumah sakit, dan 1 SIP lagi untuk klinik. Setiap tempat praktik memerlukan SIP tersendiri. Persyaratan: setiap SIP harus dilengkapi rekomendasi IDI dan diajukan ke Dinas Kesehatan di masing-masing lokasi (jika berbeda kabupaten/kota). Pastikan jadwal praktik di setiap tempat tidak bertabrakan dan tercantum jelas di SIP masing-masing. SIP berlaku selama STR Anda masih aktif dan harus diperpanjang jika STR diperpanjang."
+      }
+    ]
+  },
+  {
+    "title": "Pendirian klinik pratama di area perumahan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya dan teman sesama dokter mau buka klinik pratama di kompleks perumahan di Tangerang. Apa saja persyaratannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk klinik pratama di Tangerang: 1) Bentuk badan hukum penyelenggara — bisa PT, CV, yayasan, atau koperasi. 2) Ketenagaan minimal: 2 dokter (minimal 1 sebagai dokter tetap), perawat, dan tenaga administrasi. 3) Sarana: ruang pendaftaran dan tunggu, minimal 2 ruang periksa, ruang tindakan, ruang farmasi mini, ruang sterilisasi, toilet pasien dan petugas. 4) Peralatan medis sesuai standar PMK tentang klinik: tempat tidur periksa, tensimeter, stetoskop, set tindakan minor, dll. 5) Urus NIB melalui OSS RBA dengan KBLI klinik pratama. 6) Ajukan izin operasional ke Dinas Kesehatan Kota Tangerang — mereka akan melakukan visitasi untuk verifikasi kesesuaian standar."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama proses dari pengajuan sampai klinik boleh beroperasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimasi total waktu: 2-4 bulan jika persiapan sudah matang. Rincian: pengurusan badan hukum dan NIB 2-4 minggu, persiapan sarana dan peralatan sesuai standar (tergantung kondisi lokasi), pengajuan izin operasional ke Dinas Kesehatan 14-30 hari kerja termasuk visitasi. Setelah visitasi, jika memenuhi standar, izin operasional terbit. Jika ada kekurangan yang ditemukan saat visitasi, Anda diberi waktu untuk melengkapi sebelum visitasi ulang. Klinik baru boleh beroperasi setelah izin operasional resmi terbit. Tips: konsultasikan dulu rencana sarana dan prasarana ke Dinas Kesehatan sebelum memulai renovasi agar tidak ada pemborosan karena ketidaksesuaian standar."
+      }
+    ]
+  }
+]

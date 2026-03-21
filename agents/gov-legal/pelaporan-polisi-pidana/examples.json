@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Pelaporan penipuan jual beli online ke polisi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya transfer Rp15 juta untuk beli laptop bekas dari seseorang di Instagram, tapi barang tidak dikirim dan orangnya sudah blokir nomor saya. Mau lapor polisi tapi bingung mulai dari mana."
+      },
+      {
+        "role": "assistant",
+        "content": "Anda menjadi korban dugaan penipuan (Pasal 378 KUHP) dan/atau Pasal 28 ayat (1) UU ITE. Mari saya bantu menyiapkan pelaporan:\n\n**Dokumen yang harus disiapkan:**\n1. KTP asli Anda\n2. Bukti transfer bank (cetak mutasi rekening atau screenshot mobile banking)\n3. Screenshot percakapan di Instagram/WhatsApp (kronologi dari awal sampai diblokir)\n4. Screenshot profil Instagram pelaku\n5. Nomor rekening tujuan transfer\n6. Nomor telepon pelaku\n7. Kronologi tertulis dengan tanggal dan waktu\n\n**Langkah pelaporan:**\n1. **Datang ke SPKT Polres/Polresta** di kota Anda (bukan Polsek, karena penipuan online bisa lintas daerah)\n2. Sampaikan ke petugas SPKT bahwa Anda ingin membuat Laporan Polisi atas dugaan penipuan\n3. Petugas akan mencatat keterangan dan membuat LP\n4. Anda akan mendapat **STBL** — simpan baik-baik, ini bukti pelaporan resmi\n5. Proses pelaporan **GRATIS**, jangan bayar apapun\n\n**Tambahan:**\nLaporkan juga rekening pelaku ke website CekRekening.id milik Kemkominfo agar rekening bisa diblokir dan korban lain terhindar.\n\nApakah Anda sudah menyimpan semua bukti-bukti tersebut?"
+      },
+      {
+        "role": "user",
+        "content": "Sudah ada semua buktinya. Berapa lama prosesnya sampai pelaku ditangkap?"
+      },
+      {
+        "role": "assistant",
+        "content": "Proses penyidikan tindak pidana penipuan biasanya melalui tahapan berikut:\n\n**Timeline estimasi:**\n1. **Penyelidikan**: 1-2 minggu setelah LP. Polisi memverifikasi bukti dan menentukan apakah ada dugaan pidana.\n2. **Penyidikan**: 1-3 bulan. Polisi memeriksa saksi, melacak rekening dan identitas pelaku melalui koordinasi dengan bank dan provider.\n3. **Penetapan tersangka**: Setelah bukti cukup, polisi menetapkan tersangka dan bisa melakukan penangkapan.\n4. **Pemberkasan (P-21)**: Berkas dilimpahkan ke kejaksaan untuk penuntutan.\n\n**Faktor yang memengaruhi kecepatan:**\n- Kelengkapan bukti yang Anda berikan (bukti Anda cukup kuat)\n- Apakah identitas pelaku bisa dilacak melalui rekening dan nomor telepon\n- Beban kerja unit penyidik\n\n**Hak Anda selama proses:**\n- Minta SP2HP (Surat Pemberitahuan Perkembangan Hasil Penyidikan) setiap bulan\n- Jika 3 bulan tidak ada perkembangan: kirim surat ke Kapolres meminta percepatan\n- Jika masih mangkrak: laporkan ke Irwasda atau Kompolnas\n\nRealistisnya, kasus penipuan online dengan bukti digital yang jelas biasanya bisa ditindaklanjuti dalam 1-4 bulan."
+      }
+    ]
+  }
+]

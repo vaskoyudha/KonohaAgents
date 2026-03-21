@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perizinan daerah untuk restoran di kota besar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau buka restoran di Surabaya. Selain NIB dari OSS, izin daerah apa yang perlu diurus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk restoran di Surabaya, izin daerah yang umumnya diperlukan: 1) Tanda Daftar Usaha Pariwisata (TDUP) untuk jasa penyediaan makanan dan minuman — diurus di DPMPTSP Kota Surabaya atau melalui OSS-RBA yang terintegrasi. 2) Persetujuan Bangunan Gedung (PBG, dulu IMB) jika ada renovasi atau pembangunan baru — ke Dinas PUPR atau DPMPTSP. 3) Sertifikat Laik Fungsi (SLF) bangunan yang menyatakan bangunan aman untuk digunakan. 4) Sertifikat laik higiene sanitasi dari Dinas Kesehatan Kota Surabaya — wajib untuk tempat pengolahan makanan. 5) Izin reklame jika memasang papan nama atau signage di luar bangunan — diurus ke Dinas Pendapatan/BPPD. 6) Cek ke DPMPTSP Surabaya apakah masih ada izin gangguan (HO) — di beberapa kota sudah dihapus. Tips: manfaatkan Mal Pelayanan Publik (MPP) Siola Surabaya untuk mengurus semua izin di satu lokasi."
+      },
+      {
+        "role": "user",
+        "content": "Berapa biaya retribusi dan berapa lama prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biaya retribusi dan waktu proses bervariasi per daerah sesuai Perda setempat — saya tidak bisa memberikan angka pasti karena bisa berubah. Namun panduan umum untuk Surabaya: 1) PBG: retribusi dihitung berdasarkan luas bangunan, fungsi bangunan, dan lokasi — formulanya ditetapkan Perda Kota Surabaya. Estimasi waktu: 14-30 hari kerja setelah dokumen lengkap. 2) TDUP: umumnya tidak dikenakan retribusi (sudah terintegrasi OSS), proses 3-7 hari kerja. 3) Sertifikat laik higiene sanitasi: retribusi minimal, proses meliputi inspeksi lokasi oleh petugas Dinkes, estimasi 7-14 hari kerja. 4) Izin reklame: retribusi berdasarkan ukuran dan lokasi reklame, ditetapkan Perda pajak dan retribusi daerah. Saran: datang langsung ke DPMPTSP Surabaya untuk mendapatkan rincian biaya terkini. Bawa semua dokumen: KTP, NPWP, NIB, akta perusahaan, dan bukti penguasaan lokasi (sewa/milik). Jam pelayanan umumnya Senin-Jumat 08.00-15.00 WIB."
+      }
+    ]
+  },
+  {
+    "title": "Navigasi perbedaan perizinan antardaerah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami beroperasi di 5 kota (Jakarta, Bandung, Semarang, Surabaya, Makassar). Apakah izin usaha daerahnya sama semua?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak, izin daerah berbeda di setiap kota karena otonomi daerah. Perbedaan utama: 1) Jakarta (DKI) memiliki status khusus — Perda DKI Jakarta berbeda dari kota/kabupaten biasa, dan semua perizinan terpusat di tingkat provinsi (tidak ada kabupaten/kota). 2) Bandung, Semarang, Surabaya, Makassar masing-masing memiliki Perda sendiri tentang retribusi, zonasi, dan persyaratan teknis. 3) Yang sama di semua kota: NIB dari OSS berlaku nasional, tidak perlu diurus ulang per daerah. 4) Yang berbeda per kota: retribusi PBG (tarif beda), persyaratan teknis bangunan (Perda bangunan gedung beda), izin lingkungan (ambang batas bisa beda), dan izin khusus daerah. 5) Saran: untuk perusahaan multi-kota, tunjuk PIC perizinan di setiap kota yang familiar dengan DPMPTSP setempat. 6) Hubungi DPMPTSP masing-masing kota untuk mendapatkan daftar izin spesifik yang diperlukan."
+      },
+      {
+        "role": "user",
+        "content": "Ada tidak satu portal yang bisa digunakan untuk semua daerah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sayangnya belum ada satu portal tunggal untuk semua perizinan daerah, tetapi ada beberapa inisiatif: 1) OSS-RBA (oss.go.id) sudah mengintegrasikan banyak izin daerah — setelah NIB terbit, beberapa izin daerah otomatis terproses melalui sistem. Cek status izin daerah Anda di dashboard OSS. 2) Beberapa kota besar sudah memiliki portal perizinan online sendiri: Jakarta (pelayanan.jakarta.go.id), Bandung (dpmptsp.bandung.go.id), Surabaya (perizinan.surabaya.go.id). 3) Mal Pelayanan Publik (MPP) hadir di beberapa kota untuk pelayanan tatap muka terpadu. 4) Kementerian Investasi/BKPM sedang mengembangkan integrasi lebih lanjut antara OSS dan sistem perizinan daerah. Saran praktis: untuk setiap kota, langkah pertama selalu cek di OSS apakah izin daerah sudah terintegrasi. Jika belum, hubungi DPMPTSP kota tersebut. Dokumentasikan semua izin per kota dalam matriks internal agar mudah dipantau masa berlaku dan perpanjangannya."
+      }
+    ]
+  }
+]

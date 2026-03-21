@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Sertifikasi halal self-declare untuk UMKM kue kering",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya usaha kue kering rumahan, omzet sekitar 200 juta setahun. Bagaimana cara dapat sertifikat halal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan omzet 200 juta, usaha Anda termasuk UMKM mikro yang bisa mengajukan sertifikasi halal melalui jalur self-declare. Prosesnya lebih sederhana dan gratis: 1) Kunjungi PTSP BPJPH atau akses portal online halal.go.id, 2) Daftarkan permohonan dan isi formulir pernyataan halal, 3) Cantumkan daftar lengkap bahan baku yang digunakan beserta merek dan pemasoknya, 4) Jelaskan proses produksi dari bahan baku sampai pengemasan, 5) Lampirkan dokumen identitas dan legalitas usaha. BPJPH akan memverifikasi data Anda dan jika memenuhi syarat, sertifikat halal terbit tanpa harus melalui pemeriksaan LPH. Sertifikat berlaku 4 tahun."
+      },
+      {
+        "role": "user",
+        "content": "Apakah semua bahan baku harus bersertifikat halal juga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prinsipnya: semua bahan baku yang digunakan harus terjamin kehalalannya. Untuk bahan baku yang sudah jelas halal secara alami (tepung terigu, gula pasir, telur, mentega nabati), cukup pastikan tidak ada kontaminasi silang dengan bahan haram dalam proses. Untuk bahan yang berpotensi mengandung unsur hewan atau turunannya — seperti emulsifier, perisa, pewarna, gelatin — harus bersertifikat halal atau memiliki bukti kehalalan. Tips: 1) Dokumentasikan semua bahan baku dan pemasoknya, 2) Simpan label kemasan bahan baku yang mencantumkan logo halal, 3) Jika ragu tentang kehalalan suatu bahan, konsultasikan ke BPJPH atau ganti dengan bahan yang sudah pasti halal."
+      }
+    ]
+  },
+  {
+    "title": "Proses sertifikasi halal reguler untuk perusahaan frozen food",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami produksi frozen food (nugget dan sosis) skala menengah. Proses sertifikasi halal regulernya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk perusahaan menengah, Anda harus melalui jalur reguler. Langkah: 1) Ajukan permohonan ke BPJPH melalui portal halal.go.id, 2) Siapkan Sistem Jaminan Halal (SJH): kebijakan halal tertulis, tim manajemen halal, prosedur bahan baku, prosedur produksi, dan audit internal, 3) BPJPH menunjuk LPH terakreditasi untuk melakukan pemeriksaan di fasilitas produksi Anda, 4) LPH memeriksa: kesesuaian bahan baku, proses produksi, fasilitas, dan implementasi SJH, 5) Hasil pemeriksaan diserahkan ke MUI untuk penetapan fatwa halal, 6) Berdasarkan fatwa halal dari MUI, BPJPH menerbitkan sertifikat halal. Untuk produk daging olahan, perhatian khusus pada asal daging dan proses penyembelihan."
+      },
+      {
+        "role": "user",
+        "content": "Berapa biaya dan waktu yang diperlukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimasi biaya sertifikasi halal jalur reguler: 1) Biaya pemeriksaan LPH: Rp 3-15 juta tergantung jumlah produk, kompleksitas proses, dan lokasi pabrik, 2) Biaya PNBP BPJPH: sesuai tarif yang berlaku, 3) Biaya persiapan internal: pelatihan SJH, dokumentasi, dan audit internal. Total estimasi: Rp 5-20 juta. Waktu proses: 2-4 bulan dari pengajuan hingga sertifikat terbit jika dokumen lengkap dan tidak ada temuan kritis saat pemeriksaan. Jika LPH menemukan ketidaksesuaian, Anda harus melakukan perbaikan (corrective action) yang bisa menambah waktu 1-2 bulan. Sertifikat berlaku 4 tahun dan harus diperpanjang sebelum masa berlaku habis."
+      }
+    ]
+  }
+]

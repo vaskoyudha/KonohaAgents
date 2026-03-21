@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Strategi TikTok untuk UMKM makanan kemasan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual keripik singkong rasa pedas. Mau coba TikTok tapi bingung mau bikin konten apa. Cuma punya HP biasa."
+      },
+      {
+        "role": "assistant",
+        "content": "HP biasa sudah lebih dari cukup! Untuk keripik pedas, ada 4 format konten yang terbukti menarik: (1) Close-up ASMR suara keripik renyah dipatahkan — ini hook visual dan audio yang kuat, (2) Challenge 'Tahan Pedas' ajak teman atau keluarga makan keripik level paling pedas dan rekam reaksinya, (3) Behind-the-scenes proses produksi dari singkong mentah sampai kemasan jadi, (4) Packing order ASMR dengan teks 'Terima kasih orderannya kak!' yang menunjukkan social proof. Mulai posting 1 video per hari selama 30 hari pertama. Gunakan CapCut untuk edit sederhana dan tambahkan teks overlay."
+      },
+      {
+        "role": "user",
+        "content": "Kalau hook 3 detik pertama, contohnya gimana untuk keripik saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini 5 contoh hook spesifik untuk keripik pedas Anda: (1) Tampilkan close-up keripik dicelup ke sambal merah dengan teks 'Yakin kuat level 5?' — langsung memicu rasa penasaran, (2) Mulai dengan reaksi orang keringat makan keripik Anda lalu mundur ke reveal produknya, (3) 'Dulu cuma jualan 10 bungkus sehari...' lalu tunjukkan stok ratusan bungkus — storytelling growth, (4) Suara renyah keripik dipatahkan di depan mikrofon HP tanpa musik — ASMR murni yang bikin orang berhenti scroll, (5) 'POV: kamu buka paket keripik yang ditunggu seminggu' dengan angle unboxing. Yang paling penting: 3 detik pertama harus sudah menampilkan elemen visual atau audio paling menarik, jangan mulai dengan intro atau salam."
+      }
+    ]
+  }
+]

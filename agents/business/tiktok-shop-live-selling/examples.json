@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Merancang skrip live selling pertama untuk produk kecantikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru mau mulai live selling di TikTok Shop jualan serum wajah. Follower baru 500. Gimana skrip live 30 menitnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 500 follower, fokusnya bangun kepercayaan dan konversi kecil yang konsisten. Skrip 30 menit: Menit 0-3 — Opening hook: 'Hai semuanya! Hari ini aku tunjukin rahasia kulit glowing dengan budget di bawah 100 ribu.' Langsung tunjukkan hasil pemakaian di wajah Anda. Menit 3-12 — Demo produk hero: aplikasikan serum di tangan, jelaskan tekstur, bahan aktif (misal niacinamide, vitamin C), dan bedanya dengan produk mahal. Menit 12-18 — Interaksi: 'Yang kulitnya berminyak, ketik 1 di komentar. Yang kering, ketik 2. Aku kasih rekomendasi yang cocok.' Menit 18-25 — Flash sale: 'Harga di etalase Rp89.000, tapi khusus yang nonton live sekarang Rp69.000. Stok cuma 30. Klik keranjang kuning ya!' Menit 25-30 — Closing: recap manfaat, tunjukkan bukti pembelian yang masuk, dan umumkan jadwal live berikutnya."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau yang nonton cuma 5-10 orang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penonton sedikit di awal itu normal. Kuncinya: jangan tunjukkan kekecewaan di live karena algoritma TikTok menilai engagement rate, bukan jumlah absolut. Perlakukan 5 penonton seperti 5000 — tetap energik dan interaktif. Justru manfaatkan penonton sedikit untuk interaksi personal: sebut nama mereka, tanya langsung, dan buat mereka merasa eksklusif. Jika 3 dari 5 penonton checkout, konversi rate 60% itu luar biasa tinggi dan akan memberi sinyal positif ke algoritma untuk mendorong live Anda ke lebih banyak penonton di sesi berikutnya. Konsisten live di jam yang sama setiap minggu agar algoritma mengenali pola Anda."
+      }
+    ]
+  }
+]

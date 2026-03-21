@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memilih tools sinkronisasi stok untuk seller menengah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jualan di 4 marketplace dengan 200 SKU. Sekarang update stok manual pakai Excel. Sering oversell, mau pakai tools. Rekomendasinya apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 200 SKU di 4 marketplace, update manual sudah tidak feasible dan oversell pasti terus terjadi. Rekomendasi tools omnichannel: 1) Jubelio — paling populer di Indonesia, integrasi lengkap dengan Tokopedia, Shopee, Lazada, Blibli, dan TikTok Shop. Sinkronisasi stok real-time, ada fitur manajemen pesanan terpusat. Harga mulai Rp300.000-500.000/bulan tergantung paket. 2) Ginee — lebih terjangkau, cocok untuk skala menengah, integrasi marketplace cukup lengkap. 3) iSeller — kelebihan di fitur POS untuk yang juga punya toko offline. Saran: mulai trial Jubelio dan Ginee selama 14 hari, bandingkan kecepatan sinkronisasi dan kemudahan interface. Pastikan tools yang dipilih bisa handle 200 SKU tanpa delay."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pakai Jubelio, apakah stok langsung sinkron real-time? Ada delay tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak ada sistem yang benar-benar real-time — selalu ada delay beberapa menit tergantung API masing-masing marketplace. Jubelio biasanya sinkronisasi dalam 5-15 menit setelah transaksi terjadi. Untuk mengatasi delay ini: 1) Tetap gunakan buffer stok — jangan list 100% stok fisik ke channel, sisakan 15-20% sebagai cadangan, 2) Saat promo besar seperti Flash Sale, kurangi stok di channel lain secara manual sebagai antisipasi lonjakan, 3) Aktifkan notifikasi stok rendah di Jubelio agar Anda tahu kapan harus restock atau mengurangi alokasi channel, 4) Lakukan rekonsiliasi stok fisik versus stok sistem minimal seminggu sekali untuk mendeteksi selisih."
+      }
+    ]
+  }
+]

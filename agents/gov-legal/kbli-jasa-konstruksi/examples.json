@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pemilihan SBU untuk kontraktor bangunan rumah tinggal",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan saya fokus membangun rumah tinggal dan ruko di Jabodetabek, nilai proyek biasanya 500 juta sampai 2 miliar. SBU apa yang harus saya urus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan kegiatan Anda, sub-klasifikasi yang sesuai adalah Bangunan Gedung (BG). Dengan nilai proyek 500 juta hingga 2 miliar, Anda masuk kualifikasi SBU kecil. Persyaratan utama: NIB aktif dengan KBLI jasa konstruksi bangunan gedung, minimal satu tenaga ahli bersertifikat kompetensi kerja dari LPJK, dan bukti pengalaman proyek sebelumnya. Proses: daftarkan permohonan SBU melalui Lembaga Sertifikasi Badan Usaha (LSBU) yang terakreditasi, lampirkan dokumen pendukung, dan tunggu verifikasi. SBU berlaku selama 3 tahun dan harus diperpanjang sebelum masa berlaku habis."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya juga mau ambil proyek renovasi gedung perkantoran, perlu SBU tambahan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Renovasi gedung perkantoran masih dalam sub-klasifikasi Bangunan Gedung (BG), sehingga SBU yang sama bisa digunakan selama nilai proyek tidak melebihi batas kualifikasi Anda. Namun, jika proyek renovasi melibatkan pekerjaan spesialis seperti mekanikal-elektrikal atau struktur berat yang berdiri sendiri sebagai paket terpisah, maka diperlukan SBU sub-klasifikasi tambahan untuk pekerjaan spesialis tersebut. Pastikan KBLI di profil OSS RBA Anda mencakup lingkup kegiatan yang sesuai."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan KBLI kontraktor umum dan subkontraktor spesialis",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru mau buat perusahaan subkontraktor khusus pekerjaan mekanikal dan elektrikal. KBLI dan SBU-nya beda dengan kontraktor umum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benar, berbeda. Kontraktor umum menggunakan KBLI untuk jasa konstruksi bangunan secara menyeluruh, sedangkan subkontraktor mekanikal-elektrikal (ME) menggunakan KBLI yang lebih spesifik sesuai sub-klasifikasi Instalasi Mekanikal dan Elektrikal. SBU Anda harus diterbitkan untuk sub-klasifikasi ME, bukan BG. Persyaratan kuncinya: tenaga ahli yang Anda miliki harus bersertifikat kompetensi di bidang mekanikal atau elektrikal, bukan hanya teknik sipil umum. Kualifikasi SBU (kecil, menengah, besar) tetap ditentukan oleh nilai proyek yang Anda targetkan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana kalau nanti saya juga mau ambil pekerjaan instalasi plumbing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instalasi plumbing bisa masuk dalam sub-klasifikasi yang sama dengan mekanikal jika cakupan SBU Anda melingkupinya. Namun, perlu dicek secara detail apakah LSBU mencatatnya sebagai lingkup terpisah atau tergabung. Langkah amannya: tambahkan KBLI yang mencakup instalasi plumbing di profil OSS RBA, lalu konsultasikan dengan LSBU tempat Anda bersertifikasi apakah perlu perluasan lingkup SBU atau cukup dengan yang ada. Setiap penambahan lingkup mungkin memerlukan tenaga ahli tambahan dengan sertifikat kompetensi yang relevan."
+      }
+    ]
+  }
+]

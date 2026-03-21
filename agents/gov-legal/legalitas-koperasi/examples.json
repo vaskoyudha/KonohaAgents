@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pendirian koperasi petani untuk pemasaran hasil panen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami 25 petani sayur di Bandung mau bikin koperasi biar bisa jual langsung ke restoran tanpa tengkulak. Mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 25 anggota, Anda memenuhi syarat minimal pendirian koperasi primer (20 orang). Jenis yang tepat: koperasi produsen. Langkah pertama: adakan Rapat Anggota Pendirian (RAT). Persiapan RAT: 1) Undang seluruh 25 calon anggota secara resmi, 2) Siapkan draf AD/ART yang memuat tujuan, jenis usaha pemasaran hasil pertanian, ketentuan keanggotaan, modal, dan pembagian SHU. Agenda RAT: pembahasan dan pengesahan AD/ART, pemilihan pengurus (ketua, sekretaris, bendahara) dan pengawas, penetapan simpanan pokok dan simpanan wajib, serta rencana kerja tahun pertama. Pastikan seluruh 25 pendiri hadir dan menandatangani berita acara."
+      },
+      {
+        "role": "user",
+        "content": "Setelah RAT selesai, langkah selanjutnya apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setelah RAT: 1) Buat akta pendirian koperasi di hadapan notaris dengan melampirkan berita acara RAT, AD/ART, daftar hadir, dan identitas seluruh pendiri. 2) Notaris mengajukan pengesahan badan hukum secara online melalui sistem Kemenkumham. 3) Dinas Koperasi kabupaten/kota Bandung akan memverifikasi kelengkapan dokumen. 4) Setelah diverifikasi, SK Pengesahan Badan Hukum terbit dari Kemenkumham. 5) Urus NPWP koperasi di KPP Pratama terdekat. 6) Daftarkan NIB melalui OSS RBA agar koperasi bisa beroperasi secara legal. 7) Buka rekening bank atas nama koperasi. Estimasi waktu: 2-4 minggu dari RAT hingga badan hukum terbit."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan jenis koperasi dan pemilihan yang tepat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami kelompok guru honorer mau bikin koperasi untuk pinjaman lunak antar anggota. Jenis koperasi apa yang cocok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kegiatan simpan pinjam antar anggota, jenis yang paling tepat adalah Koperasi Simpan Pinjam (KSP). KSP khusus menjalankan usaha simpan pinjam: menghimpun simpanan dari anggota dan memberikan pinjaman kepada anggota. Persyaratan tambahan untuk KSP: modal sendiri minimal sesuai ketentuan daerah, pengurus harus memiliki kompetensi di bidang keuangan atau pernah mengikuti pelatihan koperasi simpan pinjam. Alternatif: jika ingin kegiatan lebih luas (misalnya juga toko kebutuhan guru), bisa mendirikan koperasi serba usaha yang memiliki unit simpan pinjam dan unit usaha lainnya."
+      },
+      {
+        "role": "user",
+        "content": "Apakah koperasi simpan pinjam perlu izin tambahan dari OJK?"
+      },
+      {
+        "role": "assistant",
+        "content": "KSP yang menghimpun simpanan dan memberikan pinjaman hanya kepada anggotanya berada di bawah pengawasan Dinas Koperasi, bukan OJK. Namun, jika koperasi melayani simpan pinjam untuk non-anggota atau berkembang menjadi skala besar, maka regulasi tambahan berlaku. Yang perlu diperhatikan: 1) Koperasi wajib memiliki izin usaha simpan pinjam dari Dinas Koperasi setempat, 2) Laporan keuangan harus diaudit jika kekayaan melebihi ambang tertentu, 3) Pengurus wajib mengikuti pelatihan pengelolaan keuangan koperasi. Pastikan AD/ART mencantumkan secara jelas bahwa kegiatan simpan pinjam hanya untuk anggota agar tidak masuk ranah perbankan."
+      }
+    ]
+  }
+]

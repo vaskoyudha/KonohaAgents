@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pendaftaran merek minuman kemasan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya brand minuman kemasan bernama 'Segar Nusantara', mau didaftarkan mereknya. Mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: lakukan penelusuran di PDKI DJKI (pdki-indonesia.dgip.go.id) untuk memastikan nama 'Segar Nusantara' belum terdaftar di kelas yang sama. Untuk minuman kemasan non-alkohol, kelas Nice yang tepat adalah kelas 32. Namun saya perlu mengingatkan bahwa kata 'Segar' bersifat sangat deskriptif untuk minuman dan bisa menjadi alasan penolakan pada pemeriksaan substantif. Pertimbangkan untuk memperkuat elemen pembeda: kombinasikan dengan logo unik, tipografi khas, atau elemen visual yang kuat. Setelah penelusuran, ajukan permohonan melalui portal merek DJKI dengan formulir D00, lampirkan etiket merek, uraian barang di kelas 32, dan bukti pembayaran PNBP."
+      },
+      {
+        "role": "user",
+        "content": "Biaya pendaftarannya berapa dan berapa lama prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biaya PNBP pendaftaran merek: Rp 500.000 per kelas untuk UMKM, Rp 1.800.000 per kelas untuk non-UMKM. Jika Anda mendaftar di satu kelas (kelas 32), biayanya sesuai kategori usaha Anda. Timeline: pemeriksaan formalitas sekitar 15 hari kerja, masa pengumuman 2 bulan untuk menerima oposisi dari pihak ketiga, pemeriksaan substantif 150 hari sejak berakhirnya pengumuman. Total estimasi 8-12 bulan sampai sertifikat terbit jika tidak ada hambatan. Sertifikat merek berlaku 10 tahun sejak tanggal penerimaan dan dapat diperpanjang 6 bulan sebelum masa berlaku berakhir."
+      }
+    ]
+  },
+  {
+    "title": "Strategi menghadapi potensi penolakan merek",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Merek saya 'Batik Cantik' untuk produk fashion, ada risiko ditolak tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada risiko tinggi penolakan. Kata 'Batik' dan 'Cantik' keduanya bersifat deskriptif dan generik untuk produk fashion. Pemeriksa DJKI kemungkinan akan menolak berdasarkan Pasal 20 huruf c UU 20/2016 karena merek tersebut mendeskripsikan jenis dan kualitas barang. Strategi: 1) Tambahkan elemen pembeda yang kuat — misalnya kata fantasi atau nama unik, 2) Daftarkan dalam bentuk merek kombinasi (kata + logo) karena elemen visual bisa memperkuat daya pembeda, 3) Jika tetap ingin menggunakan kata deskriptif, pastikan logo sangat distinktif. Lakukan penelusuran di PDKI terlebih dahulu untuk melihat merek serupa yang sudah terdaftar."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya ubah jadi 'Batikara' dengan logo khusus, lebih aman?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jauh lebih baik. 'Batikara' adalah kata fantasi yang memiliki daya pembeda kuat meskipun mengandung elemen 'Batik'. Ditambah logo khusus, kekuatan merek Anda meningkat signifikan. Langkah selanjutnya: 1) Telusuri 'Batikara' di PDKI untuk kelas 25 (pakaian, alas kaki, tutup kepala), 2) Jika belum ada yang mirip, segera ajukan permohonan, 3) Daftarkan sebagai merek kombinasi (kata + logo) untuk perlindungan ganda. Pertimbangkan juga mendaftarkan di kelas 24 (kain, tekstil) jika Anda juga menjual bahan kain batik. Setiap kelas tambahan dikenakan biaya PNBP tersendiri."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Istri mengajukan gugat cerai karena suami tidak memberi nafkah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Suami saya sudah 2 tahun tidak memberi nafkah dan pergi tanpa kabar. Saya punya 2 anak kecil. Bagaimana cara mengajukan cerai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya memahami situasi yang sulit ini. Karena Anda sebagai istri yang mengajukan, ini termasuk gugat cerai (bukan cerai talak). Alasan Anda kuat secara hukum berdasarkan Pasal 19 huruf (b) PP No. 9/1975: salah satu pihak meninggalkan pihak lain tanpa izin selama 2 tahun berturut-turut.\n\n**Langkah-langkah:**\n\n1. **Siapkan dokumen:**\n   - KTP Anda\n   - KK\n   - Akta nikah asli (jika hilang, minta duplikat di KUA tempat nikah)\n   - Akta kelahiran anak-anak\n   - Bukti suami tidak memberi nafkah (jika ada)\n\n2. **Ajukan gugatan ke PA domisili Anda** (bukan domisili suami). Datang ke meja informasi PA untuk bantuan penyusunan gugatan, atau gunakan Posbakum jika tersedia.\n\n3. **Bayar biaya perkara** sekitar Rp300.000-Rp500.000. Jika tidak mampu, ajukan berperkara prodeo dengan SKTM dari kelurahan.\n\n4. **Proses persidangan:**\n   - Jika suami tidak hadir setelah dipanggil patut 2 kali, sidang bisa berjalan secara verstek (tanpa kehadiran tergugat)\n   - Mediasi tetap diwajibkan jika kedua pihak hadir\n   - Pembuktian dengan saksi (minimal 2 orang dari keluarga/tetangga)\n\n5. **Dalam gugatan, Anda bisa sekaligus menuntut:**\n   - Hak asuh anak (hadhanah) — anak di bawah 12 tahun biasanya ikut ibu\n   - Nafkah anak setiap bulan\n   - Pembagian harta bersama\n\nProses biasanya 3-6 bulan dari pendaftaran sampai putusan."
+      },
+      {
+        "role": "user",
+        "content": "Kalau suami tidak datang ke sidang, apakah perceraian tetap bisa diputus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, bisa. Jika suami sudah dipanggil secara resmi dan patut oleh jurusita PA sebanyak 2 kali namun tetap tidak hadir tanpa alasan yang sah, majelis hakim dapat memutus perkara secara verstek (putusan tanpa kehadiran tergugat) berdasarkan Pasal 125 HIR.\n\nYang perlu diperhatikan:\n- Anda sebagai penggugat tetap wajib hadir di setiap persidangan\n- Anda tetap harus membuktikan dalil gugatan dengan saksi minimal 2 orang\n- Putusan verstek memiliki tenggang waktu verzet (perlawanan) 14 hari setelah pemberitahuan kepada tergugat\n- Setelah berkekuatan hukum tetap, ambil akta cerai di PA\n\nPutusan verstek adalah hal yang umum di PA, terutama untuk kasus seperti Anda di mana suami sudah pergi meninggalkan rumah."
+      }
+    ]
+  }
+]

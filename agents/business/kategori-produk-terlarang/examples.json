@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Legalitas penjualan suplemen impor tanpa BPOM di Shopee",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau jual suplemen whey protein impor dari USA di Shopee. Produk ini sudah punya sertifikasi FDA tapi belum terdaftar di BPOM Indonesia. Boleh dijual?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Tidak boleh dijual tanpa izin edar BPOM Indonesia.** Sertifikasi FDA dari Amerika Serikat tidak berlaku di Indonesia. Berdasarkan PerBPOM dan kebijakan Shopee:\n\n**Mengapa tidak boleh:**\n- Semua suplemen yang beredar di Indonesia wajib memiliki nomor izin edar BPOM, baik produksi lokal maupun impor\n- Format nomor untuk suplemen impor: **POM SL** (Suplemen Luar negeri)\n- Menjual tanpa izin edar melanggar UU No. 36/2009 tentang Kesehatan dan Peraturan BPOM\n\n**Risiko jika nekat menjual:**\n- Listing dihapus oleh tim moderasi Shopee (deteksi otomatis atau manual)\n- Toko dibekukan 7-30 hari untuk pelanggaran pertama\n- Pelanggaran berulang: **penutupan toko permanen** dan saldo ditahan\n- Risiko pidana: penjara maks 15 tahun dan/atau denda maks Rp 1,5 miliar (UU Kesehatan)\n\n**Langkah agar bisa dijual legal:**\n1. **Daftarkan produk di BPOM** melalui importir terdaftar yang memiliki izin API (Angka Pengenal Importir)\n2. Proses pendaftaran suplemen impor di BPOM memakan waktu **3-12 bulan** dan biaya bervariasi\n3. Siapkan: Certificate of Analysis, Certificate of Free Sale dari negara asal, komposisi lengkap, dan label dalam Bahasa Indonesia\n4. Setelah terbit nomor POM SL, cantumkan di deskripsi produk Shopee\n5. Cek status registrasi di **cek.bpom.go.id**\n\n**Alternatif legal sementara:**\n- Jual suplemen merek lain yang sudah terdaftar BPOM sebagai reseller\n- Kerjasama dengan importir terdaftar yang sudah memiliki izin edar\n- Produksi suplemen lokal dengan formulasi sendiri melalui pabrik maklon bersertifikasi BPOM (lebih cepat mendapat izin POM SD)\n\nSaran: jangan ambil risiko menjual tanpa BPOM. Satu kali tertangkap bisa menghancurkan reputasi toko Anda secara permanen."
+      }
+    ]
+  },
+  {
+    "title": "Penjualan pisau dan alat tajam di Tokopedia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya pengrajin pisau custom dari Bandung. Saya buat pisau dapur, pisau lipat outdoor, dan machete untuk berkebun. Mana yang boleh dijual di Tokopedia dan mana yang tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pertanyaan bagus — ada perbedaan penting antara alat rumah tangga dan senjata tajam. Berdasarkan kebijakan Tokopedia dan UU Darurat No. 12/1951:\n\n**✅ BOLEH dijual:**\n\n**Pisau dapur (kitchen knife)**\n- Termasuk kategori peralatan dapur/masak\n- Pastikan listing di kategori yang benar: **Dapur > Peralatan Masak > Pisau & Gunting Dapur**\n- Deskripsi fokus pada fungsi memasak\n- Hindari foto yang mengesankan penggunaan sebagai senjata\n\n**⚠️ ZONA ABU-ABU (hati-hati):**\n\n**Pisau lipat outdoor / folding knife**\n- Pisau outdoor untuk camping dan survival bisa dijual JIKA:\n  - Dikategorikan sebagai peralatan outdoor/camping\n  - Deskripsi menjelaskan fungsi outdoor (bukan self-defense)\n  - Panjang bilah wajar untuk keperluan outdoor\n- Risiko: moderator bisa menghapus listing jika dianggap menyerupai senjata\n- Tips: cantumkan \"peralatan camping\" atau \"pisau outdoor\" di judul, bukan \"tactical knife\" atau \"survival weapon\"\n\n**❌ BERISIKO TINGGI / TIDAK DISARANKAN:**\n\n**Machete / parang besar**\n- Machete dengan panjang bilah di atas 30cm sering masuk kategori **senjata tajam** oleh moderator\n- Meskipun Anda menjualnya sebagai alat berkebun, ukurannya memicu penghapusan otomatis\n- UU Darurat 12/1951 melarang kepemilikan senjata tajam tanpa alasan yang sah\n\n**Rekomendasi strategi:**\n1. **Pisau dapur**: jual bebas, pastikan kategori benar\n2. **Pisau lipat outdoor**: jual dengan hati-hati, gunakan kata kunci \"outdoor tool\" bukan \"senjata\"\n3. **Machete**: pertimbangkan jual di toko offline atau melalui website sendiri, bukan marketplace\n\n**Jika listing salah dihapus:**\n1. Ajukan banding di Tokopedia Seller Center\n2. Lampirkan foto produk, deskripsi fungsi, dan bukti bahwa ini alat kerajinan/dapur\n3. Sertakan SIUP atau NIB Anda sebagai bukti usaha legal\n4. Waktu respons banding: 3-7 hari kerja\n\n**Tips tambahan:**\n- Foto produk: tunjukkan konteks penggunaan (di dapur, di kebun) bukan foto pisau saja di latar hitam\n- Buat disclaimer di deskripsi: \"Produk ini adalah peralatan [dapur/outdoor], bukan senjata tajam\"\n- Verifikasi toko: Official Store atau Power Merchant lebih jarang terkena penghapusan otomatis"
+      }
+    ]
+  },
+  {
+    "title": "Menjual skincare homemade tanpa BPOM",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya membuat serum vitamin C sendiri di rumah dari bahan alami. Sudah banyak yang minta dijual di Shopee. Tapi belum ada BPOM. Boleh tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Tidak boleh dijual tanpa nomor notifikasi BPOM.** Ini berlaku untuk semua marketplace tanpa terkecuali.\n\n**Dasar hukum:**\n- PerBPOM No. 12/2020: semua kosmetik yang beredar di Indonesia wajib dinotifikasi di BPOM\n- UU No. 36/2009 tentang Kesehatan: melarang peredaran sediaan farmasi dan kosmetik tanpa izin\n- Kebijakan Shopee: produk skincare tanpa BPOM akan dihapus dan toko berisiko suspensi\n\n**Risiko menjual tanpa BPOM:**\n- **Marketplace**: listing dihapus, toko dibekukan, hingga penutupan permanen\n- **Hukum**: pidana penjara maks 15 tahun dan/atau denda maks Rp 1,5 miliar\n- **Konsumen**: jika ada efek samping, Anda bertanggung jawab penuh — bisa dituntut perdata dan pidana\n\n**Langkah untuk menjual secara legal:**\n\n**Opsi 1: Notifikasi BPOM melalui maklon (direkomendasikan)**\n1. Kerjasama dengan pabrik kosmetik bersertifikasi CPKB (Cara Pembuatan Kosmetik yang Baik)\n2. Pabrik maklon memproduksi serum berdasarkan formulasi Anda\n3. Daftarkan produk melalui sistem **e-Notifikasi BPOM**\n4. Biaya: mulai dari Rp 5-15 juta per produk (produksi + notifikasi)\n5. Waktu: 1-3 bulan untuk notifikasi, 2-4 minggu untuk produksi\n6. Nomor yang terbit: **POM NA** (Notifikasi kosmetik dalam negeri)\n\n**Opsi 2: Produksi sendiri (lebih sulit)**\n1. Dapatkan sertifikasi CPKB untuk tempat produksi Anda\n2. Ini memerlukan fasilitas yang memenuhi standar: ruang produksi steril, peralatan terstandar, dokumentasi batch\n3. Biaya sertifikasi CPKB: Rp 20-50 juta tergantung skala\n4. Setelah CPKB terbit, daftarkan produk ke BPOM\n\n**Sementara menunggu BPOM:**\n- Jual sebagai **sample gratis** ke lingkungan terdekat untuk mendapat review (BUKAN di marketplace)\n- Bangun brand awareness di Instagram/TikTok tanpa transaksi jual beli\n- Siapkan desain label yang memenuhi standar BPOM (komposisi, cara pakai, tanggal kadaluwarsa, nama produsen)\n\nSaran: opsi maklon adalah jalur tercepat dan paling efisien untuk UMKM. Banyak pabrik maklon di Bandung, Jakarta, dan Surabaya yang menerima minimum order rendah."
+      }
+    ]
+  }
+]

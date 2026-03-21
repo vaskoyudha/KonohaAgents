@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Menginterpretasi penurunan konversi rate di Tokopedia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Konversi rate toko saya di Tokopedia turun dari 3.5% ke 2.1% dalam sebulan. Kategori elektronik. Apa yang salah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penurunan dari 3.5% ke 2.1% itu signifikan — hampir 40% drop. Untuk kategori elektronik, benchmark konversi rate normal 2-4%, jadi 2.1% sudah mendekati batas bawah. Diagnosis: 1) Cek apakah ada perubahan harga — kompetitor mungkin menurunkan harga atau ada pendatang baru yang lebih murah, 2) Cek apakah ada ulasan negatif baru yang menurunkan rating di bawah 4.5, 3) Cek apakah ada perubahan di listing: foto, deskripsi, atau varian yang diubah, 4) Cek apakah trafik berubah komposisinya — jika sebelumnya trafik organik tinggi (intent beli tinggi) dan sekarang banyak dari iklan (intent lebih rendah), konversi akan turun, 5) Faktor musiman — elektronik biasanya turun di bulan tertentu. Langkah: bandingkan data per produk, temukan produk mana yang konversinya turun paling drastis, dan fokuskan investigasi di situ."
+      },
+      {
+        "role": "user",
+        "content": "Ternyata ada kompetitor baru yang jual produk sama Rp50.000 lebih murah. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jangan langsung perang harga — itu race to the bottom. Strategi: 1) Cek apakah kompetitor baru ini sustainable — toko baru dengan harga terlalu murah sering kehabisan stok atau kualitas layanan buruk, 2) Diferensiasi via value: tambahkan bonus (gift, garansi perpanjangan, free instalasi) yang nilainya dirasakan pembeli tapi biaya Anda rendah, 3) Perkuat social proof — jika rating Anda 4.8 dan kompetitor 4.0, pembeli pintar akan memilih Anda meskipun lebih mahal Rp50.000, 4) Optimalkan listing: foto lebih profesional, video produk, deskripsi lebih lengkap, 5) Turunkan harga sedikit (Rp20.000-30.000) sambil menambahkan bundling untuk menjaga margin. Monitor konversi rate selama 2 minggu setelah perubahan. Target: kembali ke 3%+."
+      }
+    ]
+  }
+]

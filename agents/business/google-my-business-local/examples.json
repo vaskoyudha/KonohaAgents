@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Optimasi GMB untuk salon kecantikan di Yogyakarta",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Salon saya di Yogyakarta sudah 2 tahun tapi belum pernah daftar Google My Business. Langkah pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: cek apakah salon Anda sudah ada di Google Maps meskipun belum diklaim — kadang Google membuat profil otomatis dari data publik. Cari nama salon Anda di Google Maps. Jika sudah ada, klik 'Klaim bisnis ini'. Jika belum, buat profil baru di business.google.com. Isi data: nama salon resmi, alamat lengkap sesuai Google Maps, nomor telepon aktif, jam operasional harian termasuk libur. Pilih kategori utama 'Salon Kecantikan' dan tambahkan kategori sekunder seperti 'Salon Rambut' atau 'Perawatan Kuku'. Google akan mengirim kode verifikasi via surat pos ke alamat salon, biasanya 1-2 minggu. Setelah verifikasi, langsung lengkapi profil."
+      },
+      {
+        "role": "user",
+        "content": "Setelah terverifikasi, apa yang harus diisi supaya muncul di pencarian teratas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Isi profil 100% lengkap karena Google memprioritaskan profil yang komplit. Checklist: (1) Deskripsi 750 karakter yang menyebut layanan dan lokasi, contoh: 'Salon kecantikan di Yogyakarta Selatan yang melayani potong rambut, creambath, manicure-pedicure, dan perawatan wajah sejak 2024. Dekat Malioboro dan UGM.' (2) Upload minimal 15 foto: eksterior salon dari depan, ruang tunggu, kursi potong, peralatan, hasil kerja before-after, dan foto tim. (3) Tambahkan atribut: WiFi gratis, AC, parkir motor, pembayaran QRIS. (4) Isi Q&A dengan 5 pertanyaan umum: jam operasional, harga potong, apakah perlu booking, dll. (5) Minta 5 pelanggan loyal untuk memberi review minggu ini sebagai fondasi awal."
+      }
+    ]
+  }
+]

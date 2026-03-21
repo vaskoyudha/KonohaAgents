@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Keputusan aktivasi COD untuk toko aksesori HP",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Toko case HP saya di Shopee belum aktifkan COD. Harga produk Rp25.000-80.000, margin 50%. Apakah perlu aktifkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aksesori HP dengan harga Rp25.000-80.000 dan margin 50% — ini kasus yang menarik. Potensi benefit: COD bisa menaikkan pesanan 20-35% di Shopee karena banyak pembeli aksesori HP yang impulsif dan tidak mau ribet transfer. Risikonya: tingkat retur aksesori HP via COD sekitar 8-12%, lebih rendah dari fashion tapi tetap ada. Biaya retur: ongkir balik Rp8.000-15.000 per paket. Perhitungan: jika margin Rp25.000 per pesanan (50% dari harga rata-rata Rp50.000) dan retur 10%, dari 100 pesanan COD Anda kehilangan 10 x Rp15.000 = Rp150.000 untuk retur, tapi mendapat 90 x Rp25.000 = Rp2.250.000 profit. Jelas menguntungkan. Rekomendasi: aktifkan COD untuk semua produk, tapi set minimum order Rp50.000 untuk menyaring pesanan yang terlalu murah."
+      },
+      {
+        "role": "user",
+        "content": "Oke saya aktifkan. Tapi gimana caranya supaya yang order COD tidak banyak yang retur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strategi menekan retur COD: 1) Kirim pesan otomatis setelah pesanan masuk: 'Terima kasih, pesanan Anda sedang diproses. Jika ada perubahan, silakan hubungi kami sebelum dikirim' — ini mengurangi retur karena berubah pikiran, 2) Pastikan foto produk sangat akurat — retur terbesar karena produk tidak sesuai ekspektasi, sertakan foto produk dari berbagai sudut dan foto produk terpasang di HP, 3) Tulis deskripsi yang jelas termasuk kompatibilitas HP — banyak retur aksesori karena salah tipe HP, 4) Proses dan kirim cepat — semakin cepat sampai, semakin kecil kemungkinan pembeli berubah pikiran, 5) Sertakan kartu ucapan kecil dalam paket untuk membangun koneksi personal. Target retur COD di bawah 8%."
+      }
+    ]
+  }
+]

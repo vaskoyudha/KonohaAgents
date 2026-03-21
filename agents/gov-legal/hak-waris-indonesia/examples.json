@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Pembagian waris Muslim dengan istri dan tiga anak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ayah saya Muslim baru meninggal. Ahli warisnya: ibu saya (istri), saya (anak laki-laki), adik laki-laki saya, dan adik perempuan saya. Harta berupa rumah senilai Rp1 miliar dan tabungan Rp200 juta. Bagaimana pembagiannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turut berduka cita. Mari kita hitung pembagian waris menurut faraidh Islam berdasarkan Kompilasi Hukum Islam.\n\n**Langkah 1: Pisahkan harta bersama**\nJika rumah dan tabungan adalah harta bersama (gono-gini), ibu Anda berhak atas 1/2 sebagai hak harta bersama, bukan sebagai warisan. Sisa 1/2 baru menjadi harta warisan.\n- Total harta: Rp1,2 miliar\n- Hak harta bersama ibu: Rp600 juta\n- Harta warisan: Rp600 juta\n\n**Langkah 2: Hitung porsi ahli waris dari Rp600 juta**\n- Istri (ibu): 1/8 = Rp75 juta (karena ada anak)\n- Sisa untuk anak-anak: 7/8 = Rp525 juta\n- Aturan anak: laki-laki mendapat 2 bagian, perempuan 1 bagian\n- Total bagian: 2 + 2 + 1 = 5 bagian\n- Anda (laki-laki): 2/5 × Rp525 juta = Rp210 juta\n- Adik laki-laki: 2/5 × Rp525 juta = Rp210 juta\n- Adik perempuan: 1/5 × Rp525 juta = Rp105 juta\n\n**Total yang diterima ibu:** Rp600 juta (harta bersama) + Rp75 juta (waris) = Rp675 juta\n\n**Catatan:** Ini asumsi semua harta adalah gono-gini. Jika ada harta bawaan ayah, seluruhnya masuk harta warisan."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara memformalisasi pembagian ini secara hukum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada dua jalur yang bisa ditempuh:\n\n**Jalur 1: Musyawarah keluarga (direkomendasikan jika semua sepakat)**\n1. Urus akta kematian ayah di Dukcapil\n2. Dapatkan Surat Keterangan Waris dari kelurahan yang ditandatangani camat\n3. Buat kesepakatan pembagian waris secara tertulis\n4. Tuangkan dalam akta notaris untuk kekuatan hukum\n5. Untuk rumah: lakukan balik nama sertifikat di BPN melalui PPAT dengan Akta Pembagian Hak Bersama (APHB)\n\n**Jalur 2: Melalui Pengadilan Agama (jika ada sengketa)**\n1. Ajukan permohonan penetapan ahli waris ke PA\n2. Jika ada sengketa pembagian, ajukan gugatan waris\n3. PA akan memutus pembagian berdasarkan faraidh\n\nBiaya jalur 1 sekitar Rp2-5 juta (notaris dan PPAT). Jalur 2 biaya perkara sekitar Rp300.000-Rp600.000 plus advokat jika diperlukan.\n\nSaya sarankan jalur 1 jika semua ahli waris sepakat. Lebih cepat, lebih murah, dan menjaga keharmonisan keluarga."
+      }
+    ]
+  }
+]

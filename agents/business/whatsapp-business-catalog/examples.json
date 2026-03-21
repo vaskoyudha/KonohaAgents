@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup WhatsApp Business untuk toko aksesoris handmade",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jualan gelang handmade di Instagram tapi semua order masih lewat DM. Mau pindah ke WhatsApp Business, mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama: download WhatsApp Business App (gratis) dan daftarkan dengan nomor khusus bisnis, jangan gunakan nomor personal. Lalu setup profil: nama bisnis, deskripsi singkat seperti 'Gelang Handmade Custom - Bandung', jam operasional, dan alamat. Kedua, buat katalog produk: upload foto setiap model gelang, tulis deskripsi singkat (bahan, ukuran, warna tersedia), dan cantumkan harga. Ketiga, setup greeting message: 'Halo kak! Terima kasih sudah menghubungi [Nama Toko]. Silakan cek katalog kami dan pilih model favorit kak. Kami siap bantu!' Keempat, buat quick replies: ketik '/harga' untuk daftar harga, '/custom' untuk info custom order, '/ongkir' untuk estimasi ongkir. Terakhir, taruh link wa.me/62xxxx di bio Instagram Anda."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pelanggan tanya hal yang sama berulang-ulang gimana supaya nggak capek?"
+      },
+      {
+        "role": "assistant",
+        "content": "Manfaatkan fitur Quick Replies di WhatsApp Business. Buat minimal 10 template untuk pertanyaan yang paling sering muncul: (1) '/harga' — daftar harga semua model, (2) '/bahan' — penjelasan material yang dipakai, (3) '/size' — cara ukur pergelangan tangan, (4) '/custom' — prosedur custom order dan waktu pengerjaan, (5) '/ongkir' — estimasi ongkir per kota, (6) '/transfer' — nomor rekening pembayaran, (7) '/resi' — cara cek resi pengiriman, (8) '/garansi' — kebijakan garansi dan retur, (9) '/ready' — stok yang tersedia saat ini, (10) '/promo' — promo yang sedang berjalan. Dengan ini Anda cukup ketik garis miring dan pilih template, tidak perlu mengetik ulang setiap kali."
+      }
+    ]
+  }
+]

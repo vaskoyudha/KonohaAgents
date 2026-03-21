@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Hak subjek data saat terjadi kebocoran data pinjaman online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Data pribadi saya bocor dari aplikasi pinjaman online. Nomor KTP, foto selfie, dan kontak darurat saya tersebar di grup Telegram. Apa hak saya menurut UU PDP dan apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi, Anda memiliki hak-hak yang kuat sebagai subjek data. Berikut langkah yang harus Anda ambil:\n\n**Hak Anda sebagai Subjek Data:**\n1. **Hak pemberitahuan**: Perusahaan pinjol WAJIB memberitahu Anda tentang kebocoran dalam **3×24 jam** (Pasal 46 ayat 1)\n2. **Hak ganti rugi**: Anda berhak mengajukan ganti rugi atas kerugian material maupun imaterial (Pasal 12)\n3. **Hak penghapusan**: Minta perusahaan menghapus seluruh data Anda jika tidak ada dasar hukum lain untuk menyimpan (Pasal 8)\n4. **Hak mengajukan keberatan**: Keberatan atas pemrosesan data yang tidak sesuai tujuan awal\n\n**Langkah Segera:**\n\n**1. Dokumentasi bukti**\n- Screenshot penyebaran data di grup Telegram\n- Catat tanggal, waktu, dan nama grup/channel\n- Simpan bukti bahwa data berasal dari aplikasi pinjol tersebut\n\n**2. Somasi ke perusahaan pinjol**\n- Kirim surat somasi resmi menuntut: penjelasan kebocoran, langkah mitigasi, dan penghapusan data\n- Jika terdaftar di OJK, laporkan ke OJK melalui kontak 157 atau appportal.ojk.go.id\n\n**3. Laporan ke instansi berwenang**\n- **Kominfo**: Laporkan melalui aduankonten.id untuk konten yang tersebar\n- **Kepolisian**: Laporan tindak pidana Pasal 67 UU PDP (sanksi pidana hingga 5 tahun penjara dan denda Rp 5 miliar)\n- **OJK**: Jika pinjol terdaftar, OJK bisa memberikan sanksi administratif\n\n**4. Mitigasi dampak**\n- Ganti PIN dan password semua akun yang terkait\n- Aktifkan 2FA di semua layanan digital\n- Monitor rekening bank untuk transaksi mencurigakan\n- Beritahu kontak darurat Anda bahwa datanya mungkin disalahgunakan\n\n**Sanksi bagi perusahaan pelanggar:**\n- Administratif: denda hingga 2% pendapatan tahunan (Pasal 57)\n- Pidana: penjara maks 5 tahun dan/atau denda maks Rp 5 miliar (Pasal 67)\n- Perdata: ganti rugi berdasarkan gugatan Anda"
+      }
+    ]
+  },
+  {
+    "title": "Kewajiban kepatuhan UU PDP untuk startup yang mengumpulkan data biometrik",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Startup saya mengembangkan aplikasi absensi berbasis face recognition untuk perusahaan. Kami menyimpan data wajah karyawan. Apa yang harus kami patuhi berdasarkan UU PDP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data biometrik wajah termasuk **data pribadi spesifik** berdasarkan Pasal 4 ayat (2) UU No. 27/2022, yang memerlukan perlindungan tingkat tertinggi. Berikut checklist kepatuhan yang wajib Anda penuhi:\n\n**1. Persetujuan Eksplisit (Pasal 20-21)**\n- Dapatkan **consent tertulis dan eksplisit** dari setiap karyawan sebelum mengambil data wajah\n- Consent harus menjelaskan: tujuan pengambilan data, jenis data, jangka waktu penyimpanan, dan hak subjek data\n- Consent harus bisa ditarik kembali kapan saja\n- Buat formulir consent terpisah (bukan dicampur dalam terms & conditions umum)\n\n**2. Penunjukan DPO — Data Protection Officer (Pasal 53)**\n- Wajib menunjuk DPO karena memproses data pribadi spesifik dalam skala besar\n- DPO bertugas mengawasi kepatuhan, menangani pengaduan, dan menjadi penghubung dengan regulator\n- DPO harus memiliki pengetahuan hukum dan teknis tentang perlindungan data\n\n**3. Data Protection Impact Assessment / DPIA (Pasal 34)**\n- Wajib dilakukan sebelum memulai pemrosesan data biometrik\n- DPIA menilai: risiko kebocoran, dampak terhadap subjek data, dan langkah mitigasi\n- Dokumentasikan hasil DPIA dan review secara berkala\n\n**4. Keamanan Teknis (Pasal 35)**\n- **Enkripsi** data biometrik saat penyimpanan (at rest) dan transmisi (in transit)\n- Simpan data di server yang memenuhi standar keamanan (ISO 27001 direkomendasikan)\n- Implementasi access control — hanya personel terbatas yang bisa mengakses data biometrik\n- Pseudonymization: pisahkan data biometrik dari data identitas\n\n**5. Retensi dan Penghapusan (Pasal 41-43)**\n- Tetapkan jangka waktu penyimpanan yang wajar\n- Hapus data biometrik karyawan yang sudah resign atau menarik consent\n- Sediakan mekanisme penghapusan yang terverifikasi\n\n**6. Notifikasi Kebocoran (Pasal 46)**\n- Jika terjadi kebocoran, wajib memberitahu subjek data dalam **3×24 jam**\n- Laporkan ke lembaga pengawas PDP\n- Siapkan incident response plan\n\n**7. Transfer Data (Pasal 55-56)**\n- Jika data disimpan di cloud server luar negeri, pastikan negara tujuan memiliki standar perlindungan data setara\n- Dokumentasikan dasar hukum transfer lintas batas\n\n**Sanksi jika tidak patuh:**\n- Denda administratif hingga 2% pendapatan tahunan\n- Pidana: penjara maks 5 tahun, denda maks Rp 5 miliar\n- Reputational damage yang bisa menghancurkan bisnis startup\n\n**Rekomendasi:** Konsultasikan implementasi teknis dengan konsultan keamanan siber dan aspek hukumnya dengan firma hukum spesialis data privacy."
+      }
+    ]
+  }
+]

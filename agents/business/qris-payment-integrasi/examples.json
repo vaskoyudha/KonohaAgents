@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Implementasi QRIS untuk UMKM kuliner",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya punya gerobak nasi goreng dan mau terima QRIS. Omzet sebulan sekitar 8 juta. Prosesnya gimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan omzet Rp8 juta/bulan, Anda termasuk usaha mikro sehingga MDR QRIS hanya 0,3%. Biaya per bulan: 0,3% x Rp8.000.000 = Rp24.000 — sangat terjangkau. Proses pendaftaran paling mudah: 1) Download aplikasi merchant dari bank yang sudah Anda punya rekening — misalnya BRI melalui BRImerchant, BCA melalui QRku, atau Mandiri melalui Livin Merchant, 2) Siapkan: KTP, foto tempat usaha (gerobak Anda), dan nomor rekening, 3) Daftar melalui aplikasi — biasanya disetujui 1-3 hari kerja, 4) Setelah disetujui, cetak QR code statis dan laminating agar tahan air dan hujan, 5) Tempel di tempat yang terlihat jelas oleh pembeli. Dana dari pembayaran QRIS masuk ke rekening Anda H+1."
+      },
+      {
+        "role": "user",
+        "content": "Kalau pembeli bayar pakai GoPay, OVO, atau ShopeePay, semuanya bisa lewat QRIS yang sama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, itulah keunggulan QRIS — satu QR code bisa dibayar oleh semua e-wallet dan mobile banking. GoPay, OVO, Dana, ShopeePay, LinkAja, dan semua mobile banking (BCA Mobile, BRImo, Livin Mandiri, dll) semuanya bisa scan QRIS Anda. Pembeli tinggal buka aplikasi e-wallet atau mobile banking mereka, scan QR code Anda, masukkan nominal (karena QR statis), lalu bayar. Anda akan dapat notifikasi pembayaran di aplikasi merchant. Tips penting: selalu verifikasi pembayaran melalui notifikasi aplikasi, jangan hanya percaya layar HP pembeli karena ada kasus screenshot palsu. Dan pastikan koneksi internet di lokasi gerobak Anda stabil untuk menerima notifikasi real-time."
+      }
+    ]
+  }
+]

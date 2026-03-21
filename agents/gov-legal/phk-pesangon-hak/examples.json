@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Perhitungan pesangon PHK efisiensi setelah 8 tahun kerja",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya bekerja di perusahaan swasta selama 8 tahun 3 bulan, gaji pokok Rp6 juta plus tunjangan tetap Rp1.5 juta. Perusahaan melakukan PHK karena efisiensi. Berapa yang seharusnya saya terima?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk PHK karena efisiensi, Anda berhak atas kompensasi penuh berdasarkan PP No. 35/2021 Pasal 43. Mari kita hitung:\n\n**Dasar perhitungan:** Upah = gaji pokok + tunjangan tetap = Rp7.500.000\n\n**1. Uang Pesangon (UP):**\nMasa kerja 8 tahun 3 bulan → 9 bulan upah (ketentuan Pasal 40 ayat 2 huruf i)\nPHK efisiensi: 1x ketentuan pesangon\nUP = 1 × 9 × Rp7.500.000 = **Rp67.500.000**\n\n**2. Uang Penghargaan Masa Kerja (UPMK):**\nMasa kerja 6-9 tahun → 3 bulan upah\nUPMK = 3 × Rp7.500.000 = **Rp22.500.000**\n\n**3. Uang Penggantian Hak (UPH):**\n15% × (UP + UPMK) = 15% × Rp90.000.000 = **Rp13.500.000**\nDitambah: cuti tahunan yang belum diambil, ongkos pulang pekerja\n\n**Total minimum: Rp103.500.000**\n\nBelum termasuk:\n- Sisa cuti berbayar\n- THR proporsional (jika PHK sebelum Lebaran)\n- Surat keterangan kerja\n\nPastikan perusahaan membayar sesuai atau lebih dari angka ini."
+      },
+      {
+        "role": "user",
+        "content": "Perusahaan hanya menawarkan Rp50 juta. Apa yang bisa saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penawaran Rp50 juta itu jauh di bawah hak Anda secara hukum (kurang dari setengah). Berikut langkah yang bisa Anda tempuh:\n\n**Langkah 1: Tolak secara tertulis**\nSampaikan penolakan tertulis atas tawaran tersebut dengan menyebutkan perhitungan hak Anda berdasarkan PP No. 35/2021. Minta perundingan bipartit secara resmi.\n\n**Langkah 2: Perundingan bipartit (30 hari)**\nPerundingan langsung antara Anda dan perusahaan. Buat risalah setiap pertemuan. Jika dalam 30 hari tidak ada kesepakatan, lanjut ke langkah berikutnya.\n\n**Langkah 3: Mediasi di Disnaker (30 hari)**\nDaftarkan perselisihan ke Dinas Ketenagakerjaan kota/kabupaten Anda. Mediator Disnaker akan memfasilitasi perundingan dan mengeluarkan anjuran.\n\n**Langkah 4: Gugatan ke PHI**\nJika mediasi gagal, ajukan gugatan ke Pengadilan Hubungan Industrial melalui PN setempat. Perkara senilai di bawah Rp150 juta tidak dikenakan biaya.\n\n**Penting:** Selama proses sengketa, Anda tetap berhak atas upah. Jangan menandatangani surat pengunduran diri atau surat apapun yang mengurangi hak Anda. Pertimbangkan untuk menghubungi serikat pekerja atau LBH untuk pendampingan gratis."
+      }
+    ]
+  }
+]

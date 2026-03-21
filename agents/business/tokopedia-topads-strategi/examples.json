@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Merancang kampanye TopAds untuk produk baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru listing 10 produk aksesoris HP di Tokopedia. Budget TopAds 100 ribu per hari. Gimana strateginya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dengan 10 produk dan budget Rp100.000/hari, jangan iklankan semua sekaligus. Pilih 3 produk unggulan yang marginnya paling tinggi dan fotonya paling menarik. Gunakan TopAds Iklan Produk dengan bid manual mulai Rp250-400 per klik. Targetkan kata kunci spesifik seperti 'case iPhone 15 Pro Max' daripada 'case HP'. Bagi budget: Rp40.000 untuk produk utama, Rp30.000 untuk dua produk pendukung. Jalankan selama 7 hari tanpa diubah, lalu evaluasi CTR dan ROAS. Jika CTR di bawah 1.5%, masalahnya di listing — perbaiki foto dan judul dulu."
+      },
+      {
+        "role": "user",
+        "content": "Setelah seminggu, CTR 2.3% tapi belum ada penjualan dari iklan. Kenapa?"
+      },
+      {
+        "role": "assistant",
+        "content": "CTR 2.3% sudah bagus, artinya iklan Anda menarik diklik. Masalahnya ada di konversi setelah klik. Periksa: 1) Apakah harga kompetitif dibanding seller lain di halaman yang sama, 2) Apakah ulasan dan rating sudah ada — produk baru tanpa ulasan sulit closing, 3) Apakah deskripsi menjawab keraguan pembeli seperti garansi, bahan, kompatibilitas, 4) Apakah variasi lengkap tersedia. Saran: tambahkan promo cashback atau bundling untuk mendorong pembelian pertama, dan minta pembeli awal memberikan ulasan."
+      }
+    ]
+  }
+]

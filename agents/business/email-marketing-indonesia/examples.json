@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memulai email marketing untuk toko skincare online",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual skincare organik online. Punya 800 kontak WhatsApp pelanggan tapi belum pernah kirim email. Apakah email marketing masih worth it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat worth it. Email marketing memiliki ROI rata-rata $36 untuk setiap $1 yang diinvestasikan. Langkah pertama: konversi kontak WhatsApp menjadi email subscriber dengan cara broadcast WA: 'Kak, kami mulai kirim tips skincare dan promo eksklusif lewat email. Isi email kakak di link ini ya!' dengan Google Form atau landing page. Target realistis: 30-40% konversi, jadi sekitar 240-320 email. Gunakan Mailchimp free tier. Kirim email pertama: welcome email berisi tips skincare singkat dan kupon diskon 10% untuk order pertama via email. Jadwal 2 email per minggu: Senin tips skincare, Jumat promo produk. Dalam 3 bulan pertama, target open rate 20% dan 2-3 penjualan tambahan per email promo."
+      },
+      {
+        "role": "user",
+        "content": "Contoh subject line yang bagus untuk skincare apa ya? Yang bikin pelanggan mau buka emailnya."
+      },
+      {
+        "role": "assistant",
+        "content": "Ini 8 formula subject line yang terbukti untuk skincare di pasar Indonesia:\n\n1. Personalisasi: '[Nama], kulitmu butuh ini minggu ini'\n2. Angka + benefit: '3 Langkah Skincare Malam yang Bikin Glowing Pagi Hari'\n3. Pertanyaan: 'Skincare routine kamu sudah benar belum?'\n4. Urgensi: 'FLASH SALE 24 jam: serum best seller diskon 40%'\n5. Testimoni: 'Cara Rina dari Surabaya hilangin bruntusan dalam 2 minggu'\n6. Behind-the-scenes: 'Ini bahan rahasia di produk baru kami'\n7. Emoji + curiosity: 'Produk ini sold out 3x. Sekarang ready stock lagi'\n8. Seasonal: 'Musim hujan = kulit kering. Ini solusinya'\n\nTips: A/B test 2 subject line berbeda untuk setiap kampanye. Kirim ke 20% list dulu, lihat mana yang open rate-nya lebih tinggi, lalu kirim pemenang ke 80% sisanya. Mailchimp punya fitur ini secara otomatis."
+      }
+    ]
+  }
+]

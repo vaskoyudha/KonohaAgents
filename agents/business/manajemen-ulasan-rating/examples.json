@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Merespons ulasan negatif soal pengiriman lambat",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pembeli kasih bintang 2 dengan komentar: 'Pesan hari Senin baru sampai hari Jumat. Lama banget, padahal ada janji 2-3 hari.' Saya harus balas apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Respons yang disarankan: 'Halo Kak, terima kasih sudah berbelanja di toko kami. Kami mohon maaf atas keterlambatan pengiriman yang Kakak alami. Kami memahami betapa tidak nyamannya menunggu lebih lama dari estimasi. Pesanan Kakak telah kami proses dalam 1 hari kerja, namun ada keterlambatan di pihak ekspedisi yang di luar kendali kami. Kami sudah mengevaluasi dan mempertimbangkan opsi kurir yang lebih cepat untuk pengiriman ke area Kakak. Jika ada kendala lain, jangan ragu menghubungi kami via chat. Terima kasih atas feedbacknya yang sangat berharga.' Respons ini menunjukkan empati, menjelaskan tanpa menyalahkan, dan menunjukkan tindakan perbaikan. Setelah membalas, evaluasi internal: apakah perlu menambah opsi kurir atau mengubah estimasi pengiriman di listing."
+      },
+      {
+        "role": "user",
+        "content": "Apakah pembeli bisa mengubah ulasannya setelah saya merespons dan menyelesaikan masalahnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di Tokopedia, pembeli bisa mengedit ulasan dan rating dalam batas waktu tertentu setelah ulasan pertama ditulis. Di Shopee, fitur edit ulasan juga tersedia. Strateginya: setelah merespons di ulasan publik, hubungi pembeli via chat pribadi. Selesaikan masalahnya — misalnya voucher diskon untuk pembelian berikutnya atau kompensasi ongkir. Setelah pembeli merasa puas dengan penyelesaian, sampaikan dengan sopan: 'Kak, jika berkenan, kami sangat menghargai jika Kakak bisa mengupdate ulasannya. Terima kasih banyak.' Jangan memaksa — jadikan ini permintaan, bukan tuntutan. Dari pengalaman, sekitar 30-40% pembeli yang masalahnya terselesaikan bersedia mengupdate ulasan mereka."
+      }
+    ]
+  }
+]

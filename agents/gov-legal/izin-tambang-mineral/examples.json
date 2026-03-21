@@ -1,0 +1,44 @@
+[
+  {
+    "title": "IUP penambangan pasir untuk konstruksi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau menambang pasir di sungai daerah Bogor untuk dijual ke proyek konstruksi. Bagaimana prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penambangan pasir sungai termasuk mineral bukan logam. Prosesnya: 1) Pastikan lokasi masuk dalam Wilayah Pertambangan (WP) yang ditetapkan Pemerintah Provinsi Jawa Barat — cek di Dinas ESDM Provinsi. 2) Ajukan permohonan WIUP (Wilayah Izin Usaha Pertambangan) ke Pemerintah Provinsi. 3) Setelah WIUP ditetapkan, ajukan IUP Eksplorasi: lakukan survey dan studi kelayakan deposit pasir. 4) Dengan hasil eksplorasi, ajukan IUP Operasi Produksi. 5) Wajib susun dokumen lingkungan — untuk penambangan pasir sungai umumnya UKL-UPL, tapi bisa AMDAL jika skala besar. 6) Karena di sungai, Anda perlu koordinasi dengan Balai Besar Wilayah Sungai terkait izin pengambilan material di badan sungai. 7) Susun RKAB tahunan dan tempatkan dana jaminan reklamasi."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama proses IUP dan berapa biaya dana jaminan reklamasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimasi waktu: IUP Eksplorasi untuk mineral bukan logam berlaku 3 tahun dan bisa diperpanjang 1 tahun. Proses penerbitan WIUP dan IUP Eksplorasi: 2-6 bulan tergantung kesiapan dokumen dan kondisi tata ruang. IUP Operasi Produksi mineral bukan logam berlaku 10 tahun dan bisa diperpanjang 5 tahun. Dana jaminan reklamasi: dihitung berdasarkan rencana reklamasi dalam RKAB — meliputi biaya penataan lahan, revegetasi, dan pengendalian erosi. Untuk tambang pasir skala menengah, dana jaminan bisa berkisar Rp50-200 juta tergantung luas area. Bentuk jaminan: deposito berjangka di bank pemerintah, jaminan bank, atau cadangan akuntansi (untuk perusahaan tertentu). Dana jaminan pascatambang terpisah dan dihitung berdasarkan rencana pascatambang yang disetujui."
+      }
+    ]
+  },
+  {
+    "title": "Perizinan tambang batu andesit",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan kami ingin membuka quarry batu andesit di Kabupaten Sukabumi. Apa saja persyaratannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Batu andesit termasuk kategori batuan. Persyaratan quarry andesit di Sukabumi: 1) Verifikasi lokasi berada di Wilayah Pertambangan Rakyat (WPR) atau Wilayah Usaha Pertambangan (WUP) yang ditetapkan. 2) Cek kesesuaian dengan RTRW Kabupaten Sukabumi — quarry tidak boleh di kawasan lindung, hutan konservasi, atau area resapan air. 3) Ajukan WIUP ke Pemerintah Provinsi Jawa Barat (sejak UU 3/2020, kewenangan di provinsi). 4) Dokumen permohonan: profil perusahaan, peta lokasi, bukti penguasaan lahan, rencana kegiatan, dan studi lingkungan. 5) AMDAL wajib untuk quarry skala besar (biasanya luas >5 hektar), UKL-UPL untuk skala lebih kecil. 6) Persetujuan masyarakat sekitar dan sosialisasi dampak kegiatan. 7) Setelah IUP terbit, susun RKAB dan tempatkan dana jaminan reklamasi serta pascatambang."
+      },
+      {
+        "role": "user",
+        "content": "Apa kewajiban kami selama operasi dan setelah tambang selesai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kewajiban selama operasi: 1) Melaksanakan kegiatan sesuai RKAB yang disetujui — jika ada perubahan harus mengajukan revisi. 2) Reklamasi progresif: lahan yang sudah selesai ditambang harus segera direklamasi (penataan lereng, pengendalian erosi, revegetasi). 3) Pelaporan triwulanan dan tahunan ke Dinas ESDM: produksi, penjualan, tenaga kerja, keselamatan. 4) Keselamatan pertambangan: menunjuk Kepala Teknik Tambang bersertifikat, menerapkan Sistem Manajemen K3 Pertambangan. 5) Pembayaran royalti (iuran produksi) dan pajak. Kewajiban pascatambang: setelah kegiatan selesai, lahan harus dikembalikan sesuai peruntukan — misalnya quarry bisa diubah menjadi danau buatan, area pertanian, atau kawasan wisata. Rencana pascatambang harus sudah disiapkan sejak awal dan disetujui oleh Dinas ESDM. Dana jaminan pascatambang dicairkan bertahap sesuai kemajuan pelaksanaan."
+      }
+    ]
+  }
+]

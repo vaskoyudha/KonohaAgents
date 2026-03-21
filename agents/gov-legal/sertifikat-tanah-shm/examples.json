@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Proses balik nama sertifikat setelah beli rumah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru beli rumah di Depok seharga Rp800 juta, NJOP Rp500 juta. Sertifikatnya SHM atas nama penjual. Bagaimana proses dan biaya balik nama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas pembelian rumah barunya! Berikut proses dan estimasi biaya balik nama SHM:\n\n**Proses:**\n1. **Verifikasi sertifikat** di BPN Kota Depok — pastikan sertifikat asli dan tidak dalam sengketa.\n2. **Bayar pajak**:\n   - PPh final (ditanggung penjual): 2.5% × Rp800 juta = Rp20 juta\n   - BPHTB (ditanggung pembeli): 5% × (Rp800 juta - Rp80 juta NPOPTKP Depok) = Rp36 juta\n3. **Buat AJB di PPAT**: Datang bersama penjual ke PPAT yang berwenang di wilayah Depok. PPAT akan membuat Akta Jual Beli.\n4. **PPAT mendaftarkan ke BPN** dalam 7 hari kerja.\n5. **BPN memproses balik nama**: 5-14 hari kerja, sertifikat baru atas nama Anda.\n\n**Estimasi biaya:**\n- BPHTB: Rp36 juta\n- Biaya PPAT: sekitar Rp4-8 juta (0.5-1% dari transaksi)\n- Biaya BPN balik nama: sekitar Rp50.000 (berdasarkan formula resmi)\n- Total estimasi Anda: sekitar Rp40-44 juta\n\n**Catatan:** NPOPTKP Depok bisa berbeda, cek ke Bapenda setempat. PPh ditanggung penjual, bukan Anda."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama seluruh proses dari awal sampai sertifikat jadi atas nama saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut estimasi timeline lengkap:\n\n| Tahap | Durasi |\n|---|---|\n| Verifikasi sertifikat di BPN | 3-7 hari kerja |\n| Pembayaran PPh dan BPHTB | 1-3 hari (setelah validasi) |\n| Pembuatan AJB di PPAT | 1 hari (jika dokumen lengkap) |\n| Pendaftaran AJB ke BPN oleh PPAT | Maksimal 7 hari kerja |\n| Proses balik nama di BPN | 5-14 hari kerja |\n\n**Total estimasi: 2-5 minggu** dari verifikasi awal sampai sertifikat baru terbit.\n\nTips mempercepat:\n- Pastikan semua dokumen lengkap sebelum ke PPAT\n- Bayar pajak segera setelah validasi BPHTB\n- Pilih PPAT yang responsif dan berpengalaman di wilayah Depok\n- Pantau progres di BPN secara berkala\n\nSetelah sertifikat jadi, pastikan Anda juga memperbarui SPPT PBB ke atas nama Anda di kantor pajak daerah."
+      }
+    ]
+  }
+]

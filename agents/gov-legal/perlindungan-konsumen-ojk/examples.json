@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Barang online palsu dan penolakan refund",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya beli sepatu branded di marketplace seharga Rp2 juta, ternyata palsu. Penjual menolak refund dan bilang sudah dikirim sesuai pesanan. Chat sudah saya screenshot semua."
+      },
+      {
+        "role": "assistant",
+        "content": "Anda jelas dirugikan dan memiliki hak hukum yang kuat. Berdasarkan UU No. 8/1999:\n- Pasal 8 ayat (1) huruf (a): dilarang memperdagangkan barang yang tidak sesuai dengan yang dijanjikan\n- Pasal 9 ayat (1) huruf (e): dilarang menawarkan dengan informasi yang menyesatkan tentang kondisi barang\n- Pasal 19: pelaku usaha wajib memberikan ganti rugi\n\n**Langkah yang saya rekomendasikan:**\n\n1. **Ajukan komplain di marketplace**: Gunakan fitur resolusi sengketa di platform. Upload foto barang asli vs deskripsi, screenshot chat, dan bukti pembayaran. Marketplace biasanya memihak pembeli jika bukti kuat.\n\n2. **Jika marketplace tidak menyelesaikan**: Kirim somasi tertulis ke penjual via email/chat, minta refund penuh dalam 7 hari. Sebutkan Pasal 19 UU No. 8/1999.\n\n3. **Laporkan ke YLKI**: Hubungi YLKI di (021) 7981858 atau email pengaduan@ylki.or.id. Mereka akan membantu memediasi.\n\n4. **Adukan ke BPSK**: Jika nilai di bawah Rp200 juta, BPSK bisa menyelesaikan secara gratis melalui mediasi, konsiliasi, atau arbitrase.\n\n5. **Laporan pidana**: Jika ada unsur penipuan (menjual barang palsu sebagai asli), Anda bisa melapor ke polisi berdasarkan Pasal 378 KUHP atau Pasal 28 ayat (1) UU ITE.\n\nBukti screenshot chat sangat berharga — simpan baik-baik."
+      },
+      {
+        "role": "user",
+        "content": "Apa itu BPSK dan bagaimana prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "BPSK (Badan Penyelesaian Sengketa Konsumen) adalah lembaga resmi yang dibentuk berdasarkan UU No. 8/1999 untuk menyelesaikan sengketa konsumen di luar pengadilan.\n\n**Keunggulan BPSK:**\n- Gratis (tidak ada biaya perkara)\n- Proses cepat: maksimal 21 hari kerja dari pengaduan\n- Putusan bersifat final dan mengikat\n- Tersedia di setiap kabupaten/kota\n\n**Proses di BPSK:**\n1. **Pengaduan**: Datang ke sekretariat BPSK di kota Anda dengan membawa bukti (kwitansi, foto barang, screenshot chat)\n2. **Pemilihan mekanisme**: mediasi (difasilitasi BPSK), konsiliasi (BPSK sebagai penengah), atau arbitrase (BPSK memutuskan)\n3. **Sidang**: Kedua pihak dihadirkan, bukti diperiksa\n4. **Putusan**: BPSK mengeluarkan putusan yang wajib dilaksanakan pelaku usaha\n5. **Jika pelaku usaha tidak patuh**: Putusan BPSK bisa dimintakan eksekusi ke Pengadilan Negeri\n\nUntuk kasus Anda (sepatu palsu Rp2 juta), BPSK adalah jalur yang tepat karena cepat, gratis, dan efektif."
+      }
+    ]
+  }
+]

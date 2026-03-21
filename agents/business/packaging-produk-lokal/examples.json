@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Kemasan untuk cookies homemade yang dikirim via kurir",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual cookies homemade dan sering kirim pakai kurir. Masalahnya cookies sering remuk sampai di pelanggan. Mau ganti kemasan yang lebih aman tapi nggak mahal."
+      },
+      {
+        "role": "assistant",
+        "content": "Masalah cookies remuk saat pengiriman ada di dua lapis kemasan. Lapis pertama (primer): gunakan toples plastik PP food grade dengan tutup rapat, bukan plastik OPP yang tipis. Ukuran toples sesuai jumlah cookies agar tidak bergerak di dalam. Alternatif hemat: tray aluminium foil dengan tutup snap. Lapis kedua (sekunder): kotak karton corrugated yang lebih kuat dari kardus biasa, tambahkan bubble wrap atau kertas kraft remuk sebagai bantalan. Estimasi biaya: toples PP Rp2.000-3.500/pc (MOQ 100), box corrugated custom Rp3.000-5.000/pc (MOQ 200), bubble wrap Rp500/pc. Total kemasan per produk sekitar Rp6.000-9.000. Pastikan ada stiker 'FRAGILE' di luar box."
+      },
+      {
+        "role": "user",
+        "content": "Kalau mau bikin label yang benar di toples, informasi apa saja yang harus ada?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produk pangan rumahan dengan izin PIRT, label wajib memuat: (1) Nama produk: 'Cookies Cokelat Chip Premium', (2) Daftar bahan diurutkan dari terbanyak: tepung terigu, mentega, gula, cokelat chip, telur, baking soda, garam, (3) Berat bersih: contoh 150g, (4) Tanggal produksi dan kedaluwarsa: format DD-MM-YYYY, (5) Nama dan alamat produsen lengkap, (6) Nomor PIRT dari Dinas Kesehatan, (7) Kode produksi jika ada batch berbeda, (8) Petunjuk penyimpanan: 'Simpan di tempat kering dan sejuk', (9) Logo halal jika sudah tersertifikasi. Ukuran stiker label minimal 5x8 cm agar semua informasi terbaca. Cetak stiker di vendor digital printing lokal sekitar Rp300-500 per stiker untuk MOQ 500 lembar."
+      }
+    ]
+  }
+]

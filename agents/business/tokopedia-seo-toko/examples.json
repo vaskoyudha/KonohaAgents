@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Optimasi judul listing produk fashion di Tokopedia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya jual kemeja pria di Tokopedia. Judul saya sekarang cuma 'Kemeja Pria Murah'. Impression sangat rendah, gimana cara perbaikinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Judul 'Kemeja Pria Murah' terlalu pendek dan tidak mengandung kata kunci spesifik yang dicari pembeli. Mari kita perbaiki dengan struktur: Brand + Tipe Produk + Bahan/Spesifikasi + Kata Kunci Tambahan. Contoh perbaikan: 'Kemeja Pria Lengan Panjang Katun Premium Slim Fit Formal Casual Size M-XXL'. Judul baru ini menangkap pencarian 'kemeja pria lengan panjang', 'kemeja katun premium', 'kemeja slim fit', dan 'kemeja formal casual'. Pastikan juga Anda mengisi semua atribut produk: bahan, ukuran, warna, motif, dan jenis lengan. Atribut lengkap membuat produk muncul saat pembeli menggunakan filter di Tokopedia."
+      },
+      {
+        "role": "user",
+        "content": "Kalau deskripsi produknya gimana? Sekarang cuma tulis spesifikasi singkat."
+      },
+      {
+        "role": "assistant",
+        "content": "Deskripsi yang efektif di Tokopedia harus memiliki tiga bagian: pembuka yang menarik, detail spesifikasi, dan informasi tambahan. Contoh struktur: Paragraf pertama — jelaskan keunggulan produk dalam 2-3 kalimat yang mengandung kata kunci utama secara natural. Bagian kedua — gunakan format poin untuk spesifikasi: bahan katun 100%, jahitan rapi, tersedia 5 warna, ukuran M sampai XXL. Bagian ketiga — tambahkan panduan ukuran, instruksi perawatan, dan kebijakan retur. Hindari menulis seluruh deskripsi dalam huruf kapital atau menjejalkan kata kunci berulang karena pembeli akan menganggapnya spam dan hal ini tidak meningkatkan ranking."
+      }
+    ]
+  }
+]

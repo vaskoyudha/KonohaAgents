@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Mengatasi NIB yang stuck di status menunggu verifikasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "NIB saya statusnya 'menunggu verifikasi' sudah 2 minggu lebih. Tidak ada email atau notifikasi apapun. Harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Status tertunda selama 2 minggu memerlukan pengecekan bertahap. Pertama: login ke OSS RBA, buka dashboard, dan cek apakah ada notifikasi atau catatan dari sistem yang meminta data tambahan. Kedua: periksa email yang terdaftar di akun OSS (termasuk folder spam) untuk korespondensi dari instansi terkait. Ketiga: pastikan semua data di profil pelaku usaha lengkap dan konsisten — inkonsistensi alamat atau data sering menjadi penyebab tertunda. Jika semua sudah benar dan tidak ada permintaan tambahan, hubungi helpdesk OSS di 1500-042 dengan menyebutkan: nama pelaku usaha, NIK penanggung jawab, dan nomor tracking permohonan. Mereka bisa mengecek status internal."
+      },
+      {
+        "role": "user",
+        "content": "Saya cek di dashboard, ada tulisan 'data lokasi memerlukan verifikasi DPMPTSP'. Apa artinya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Artinya DPMPTSP daerah di lokasi usaha Anda perlu memverifikasi kesesuaian data lokasi kegiatan. Ini biasanya terjadi untuk usaha risiko menengah tinggi atau jika lokasi berada di zona yang memerlukan kesesuaian tata ruang. Langkah: 1) Hubungi DPMPTSP kabupaten/kota tempat lokasi usaha Anda terdaftar, 2) Tanyakan apakah ada dokumen tambahan yang perlu dilengkapi untuk verifikasi lokasi, 3) Siapkan bukti kepemilikan/sewa lokasi, foto lokasi, dan denah sederhana jika diminta. Setelah DPMPTSP memverifikasi, status di OSS akan berubah otomatis. Proses verifikasi DPMPTSP biasanya 3-7 hari kerja tergantung daerah."
+      }
+    ]
+  },
+  {
+    "title": "Tombol tambah KBLI tidak aktif di portal OSS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Mau tambah KBLI baru di profil OSS tapi tombol 'Tambah Kegiatan Usaha' abu-abu dan tidak bisa diklik. Kenapa ya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tombol yang tidak aktif (greyed out) biasanya disebabkan salah satu dari ini: 1) Ada proses permohonan yang sedang berjalan — sistem mengunci perubahan sampai proses selesai. Cek di dashboard apakah ada permohonan aktif. 2) Profil pelaku usaha belum lengkap — pastikan semua field wajib terisi. 3) Masalah cache browser — clear cache dan cookies, lalu login ulang. Coba langkah ini berurutan: pertama, periksa proses aktif di dashboard. Kedua, pastikan profil 100% lengkap. Ketiga, clear cache browser atau coba browser Chrome incognito mode. Keempat, jika masih tidak aktif, coba akses dari perangkat berbeda."
+      },
+      {
+        "role": "user",
+        "content": "Ternyata ada permohonan yang statusnya 'draft'. Bagaimana cara menghapusnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Permohonan berstatus 'draft' bisa dihapus atau dibatalkan dari dashboard OSS. Caranya: 1) Masuk ke menu 'Permohonan Saya' atau 'Daftar Permohonan', 2) Cari permohonan berstatus draft, 3) Klik permohonan tersebut, lalu cari tombol 'Hapus' atau 'Batalkan'. Jika tidak ada opsi hapus yang terlihat, coba klik ikon titik tiga atau menu aksi di samping permohonan. Setelah draft dihapus, tunggu beberapa menit lalu refresh halaman — tombol 'Tambah Kegiatan Usaha' seharusnya sudah aktif kembali. Jika opsi hapus tidak tersedia, kemungkinan status permohonan sudah berubah dari draft ke tahap selanjutnya dan perlu penanganan berbeda."
+      }
+    ]
+  }
+]

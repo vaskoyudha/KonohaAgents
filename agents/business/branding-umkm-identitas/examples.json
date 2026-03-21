@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Membangun brand dari nol untuk usaha makanan frozen",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau mulai usaha frozen food rumahan di Jakarta. Produknya dimsum. Belum punya nama brand, logo, apa-apa. Bingung mulai dari mana."
+      },
+      {
+        "role": "assistant",
+        "content": "Mari kita bangun dari fondasi. Pertama, jawab 3 pertanyaan: (1) Apa yang membuat dimsum Anda berbeda? Misal resep keluarga, bahan premium, atau tanpa MSG. (2) Siapa target utama? Ibu rumah tangga, anak kos, atau reseller? (3) Kesan apa yang ingin ditimbulkan? Premium, homemade autentik, atau affordable sehari-hari? Dari jawaban ini kita bisa menentukan positioning. Misalnya positioning Anda adalah 'dimsum premium homemade tanpa MSG untuk keluarga Jakarta', maka nama brand harus mencerminkan: kualitas, kehangatan rumah, dan Chinese food heritage. Beberapa opsi nama: 'HaoSum' (Hao = bagus dalam Mandarin + dimsum), 'Dimsum Mama' (kesan homemade maternal), atau 'SumHaus' (modern, catchy). Cek ketersediaan di Instagram dan domain sebelum memilih."
+      },
+      {
+        "role": "user",
+        "content": "Saya suka nama Dimsum Mama. Lalu untuk warna dan logo bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dimsum Mama punya kesan hangat dan terpercaya. Untuk identitas visual: Palet warna utama merah tua (kesan Chinese food dan selera makan) dengan krem atau off-white (kesan homemade dan bersih). Aksen emas untuk elemen premium. Tipografi: pilih font rounded yang ramah seperti Nunito untuk kesan motherly, hindari font terlalu formal. Logo: konsep sederhana — ikon kukusan bambu atau dimsum stilasi dengan tipografi 'Dimsum Mama' di bawahnya. Buat di Canva dengan prinsip: harus terlihat jelas di foto profil Instagram ukuran 110x110 pixel dan di stiker kemasan. Warna merah dan krem ini harus konsisten di: kemasan, label, media sosial, stiker pengiriman, dan kartu ucapan terima kasih di setiap pesanan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pengurusan API-U untuk impor bahan baku tekstil",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Perusahaan trading saya mau mulai impor kain dari China untuk dijual ke pabrik garmen lokal. Izin apa yang perlu diurus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Karena Anda mengimpor kain untuk dijual kembali (bukan untuk produksi sendiri), Anda memerlukan API-U (Angka Pengenal Importir Umum). Prasyarat utama: NIB aktif melalui OSS RBA. Jika NIB sudah ada, langkah selanjutnya: 1) Akses OSS RBA, masuk ke menu perizinan sektoral perdagangan, 2) Pilih permohonan API-U, 3) Isi data komoditas berdasarkan kode HS untuk kain tekstil, 4) Lampirkan NPWP, referensi bank, dan bukti domisili usaha, 5) Submit dan tunggu verifikasi. Perhatikan juga apakah jenis kain yang akan Anda impor termasuk Lartas yang memerlukan Persetujuan Impor (PI) dari Kemendag."
+      },
+      {
+        "role": "user",
+        "content": "Setelah API-U terbit, ada kewajiban pelaporan apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setelah API-U terbit, Anda wajib melaporkan realisasi impor secara berkala melalui sistem yang ditetapkan Kemendag. Laporan mencakup: jenis dan volume barang yang diimpor, negara asal, nilai impor, dan pelabuhan masuk. Kewajiban ini harus dipenuhi meskipun dalam periode tertentu Anda tidak melakukan impor (lapor nihil). Sanksi ketidakpatuhan: pembekuan API-U hingga pencabutan. Selain itu, jika ada perubahan data perusahaan (alamat, pengurus, komoditas), API-U harus diperbarui melalui OSS RBA. API-U berlaku selama NIB masih aktif."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan API-U dan API-P",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Pabrik saya mau impor mesin produksi dan bahan baku sekaligus jual bahan baku sisa ke perusahaan lain. Pakai API-U atau API-P?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda memerlukan keduanya. API-P untuk mengimpor mesin produksi dan bahan baku yang digunakan dalam proses produksi sendiri. API-U untuk mengimpor barang yang akan dijual kembali ke perusahaan lain. Satu perusahaan boleh memiliki API-U dan API-P sekaligus. Namun perlu diperhatikan: barang yang diimpor dengan API-P tidak boleh dijual kembali dalam kondisi asli tanpa diolah terlebih dahulu. Jika Anda menjual bahan baku sisa yang belum diolah, gunakan API-U untuk impor bahan baku tersebut. Proses permohonan keduanya melalui OSS RBA dengan dokumen yang serupa."
+      },
+      {
+        "role": "user",
+        "content": "Kalau saya hanya pakai API-P tapi ternyata ada bahan baku yang saya jual lagi, apa risikonya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Risikonya serius. Menjual kembali barang impor yang diimpor menggunakan API-P merupakan pelanggaran yang dapat berujung pada: 1) Pembekuan API-P, 2) Pencabutan API-P, 3) Sanksi administratif berupa denda, 4) Dalam kasus berat, bisa berimplikasi pidana di bidang perdagangan. Kemendag dan DJBC melakukan pengawasan terhadap realisasi impor dan kesesuaian penggunaan barang. Solusi: ajukan API-U tambahan untuk komoditas yang akan dijual kembali, sehingga Anda memiliki jalur impor yang sesuai untuk masing-masing tujuan penggunaan."
+      }
+    ]
+  }
+]

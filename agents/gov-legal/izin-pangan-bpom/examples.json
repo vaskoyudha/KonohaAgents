@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Izin edar sambal kemasan produksi rumahan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya produksi sambal botolan di rumah, sudah jual di marketplace. Teman saya bilang harus punya izin BPOM. Apa yang harus saya urus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produksi sambal skala rumahan, Anda perlu SPP-IRT (Sertifikat Produksi Pangan Industri Rumah Tangga) yang dikeluarkan Dinas Kesehatan kabupaten/kota Anda, bukan langsung dari BPOM. Prosesnya: 1) Hubungi Dinas Kesehatan setempat untuk jadwal penyuluhan keamanan pangan — ini wajib diikuti. 2) Siapkan sampel produk, foto lokasi produksi, dan label kemasan yang memuat: nama produk, komposisi, berat bersih, tanggal kedaluwarsa, nama dan alamat produsen. 3) Setelah penyuluhan, ajukan permohonan SPP-IRT. 4) Petugas akan meninjau kelayakan produksi. SPP-IRT berlaku 5 tahun. Catatan: sambal termasuk produk yang boleh dibuat industri rumah tangga selama proses produksinya memenuhi standar higiene."
+      },
+      {
+        "role": "user",
+        "content": "Kalau nanti produksi saya berkembang dan mau masuk supermarket, perlu upgrade ke MD?"
+      },
+      {
+        "role": "assistant",
+        "content": "Betul. Supermarket dan retail modern umumnya mensyaratkan nomor registrasi MD dari BPOM. Untuk upgrade: 1) Tingkatkan fasilitas produksi agar memenuhi standar CPPOB (Cara Produksi Pangan Olahan yang Baik), 2) Lakukan uji laboratorium produk di lab terakreditasi KAN untuk parameter keamanan dan mutu, 3) Daftarkan produk melalui e-registration BPOM di ereg.bpom.go.id, 4) Lampirkan dokumen: hasil uji lab, sertifikat CPPOB, label produk, dan dokumen legalitas usaha. Proses evaluasi BPOM sekitar 30-60 hari kerja. Biaya PNBP pendaftaran bervariasi tergantung kategori produk. Nomor MD berlaku 5 tahun."
+      }
+    ]
+  },
+  {
+    "title": "Perbedaan MD dan ML untuk produk pangan impor",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau impor snack dari Jepang untuk dijual di Indonesia. Izin edarnya pakai MD atau ML?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk produk pangan impor, Anda memerlukan nomor registrasi ML (Makanan Luar negeri) dari BPOM. ML diajukan oleh perusahaan yang bertindak sebagai importir atau distributor resmi di Indonesia. Persyaratan: 1) Surat penunjukan dari produsen/pemilik merek di Jepang, 2) Sertifikat kesehatan atau free sale certificate dari otoritas berwenang di Jepang, 3) Komposisi dan spesifikasi produk, 4) Hasil uji laboratorium, 5) Contoh label asli dan rancangan label Indonesia yang memuat informasi wajib dalam Bahasa Indonesia. Proses melalui e-registration BPOM dengan evaluasi keamanan dan mutu."
+      },
+      {
+        "role": "user",
+        "content": "Berapa lama proses pendaftaran ML dan berapa biayanya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Proses pendaftaran ML di BPOM umumnya memakan waktu 30-90 hari kerja tergantung kelengkapan dokumen dan kompleksitas produk. Jika ada kekurangan data, BPOM akan mengeluarkan surat permintaan tambahan yang memperpanjang waktu. Biaya PNBP: bervariasi per produk, umumnya berkisar Rp 500.000 - Rp 2.000.000 tergantung kategori pangan. Belum termasuk biaya uji laboratorium yang bisa Rp 1-5 juta per parameter tergantung jenis pengujian. Tips: pastikan semua dokumen lengkap dan label sudah sesuai ketentuan BPOM sebelum mengajukan untuk menghindari bolak-balik revisi."
+      }
+    ]
+  }
+]

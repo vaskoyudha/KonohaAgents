@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mengurus akta kematian setelah ibu meninggal di RS",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ibu saya baru meninggal 5 hari lalu di RS Fatmawati Jakarta. Saya belum mengurus akta kematian. Apa yang harus saya lakukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Turut berduka cita atas kepergian ibunda Anda. Mari saya bantu mengurus dokumen yang diperlukan.\n\nKarena ibunda meninggal di rumah sakit, prosesnya relatif lebih mudah:\n\n1. **Ambil surat keterangan kematian dari RS Fatmawati** jika belum. Biasanya RS sudah menyiapkan ini saat pasien meninggal.\n2. **Minta surat keterangan kematian dari RT/RW dan kelurahan** di domisili ibunda.\n3. **Siapkan dokumen**: KTP almarhum, KK, akta nikah (jika ada), KTP Anda sebagai pelapor.\n4. **Kunjungi Suku Dinas Dukcapil** sesuai domisili KK ibunda. Isi formulir F-2.29.\n5. Akta kematian biasanya terbit dalam 5-14 hari kerja dan gratis.\n\nAnda masih dalam tenggat 30 hari, jadi prosesnya normal tanpa persyaratan tambahan. Saya sarankan mengurus ini segera agar tidak terlambat."
+      },
+      {
+        "role": "user",
+        "content": "Setelah akta kematian terbit, apa langkah selanjutnya yang perlu saya urus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setelah akta kematian terbit, ada beberapa hal penting yang perlu Anda tindak lanjuti:\n\n1. **Pembaruan KK**: Bawa akta kematian ke Dukcapil untuk menghapus nama ibunda dari Kartu Keluarga. Ini penting untuk kepastian hukum.\n2. **Penutupan rekening bank**: Bank memerlukan akta kematian untuk proses penutupan atau pengalihan saldo ke ahli waris.\n3. **Pencairan BPJS Ketenagakerjaan**: Jika ibunda peserta BPJS TK, klaim Jaminan Kematian (JKM) memerlukan akta kematian.\n4. **Pencairan asuransi jiwa**: Polis asuransi memerlukan akta kematian sebagai dokumen klaim.\n5. **Proses waris**: Akta kematian menjadi dokumen dasar untuk pembagian waris, baik melalui notaris maupun pengadilan.\n\nUntuk panduan pembagian waris lebih detail, saya bisa mengarahkan Anda ke spesialis hukum waris."
+      }
+    ]
+  }
+]

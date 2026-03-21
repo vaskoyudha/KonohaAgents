@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Setup program affiliate TikTok Shop untuk produk skincare",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya mau coba program Affiliate TikTok Shop untuk brand skincare saya. Produk hero harga Rp89.000, margin 50%. Gimana setupnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skincare di TikTok Shop sangat cocok untuk affiliate karena kreator beauty kontennya banyak dan engagement tinggi. Setup: 1) Masuk ke TikTok Shop Seller Center > Affiliate > Buat Open Plan untuk produk hero Anda, 2) Komisi: untuk skincare harga Rp89.000 margin 50% (Rp44.500), set komisi 15% (Rp13.350) — ini menarik untuk kreator dan Anda masih profit Rp31.150 per unit sebelum biaya admin TikTok, 3) Siapkan materi: brief singkat tentang keunggulan produk, key claims yang boleh disebutkan (pastikan sesuai izin BPOM), dan foto/video produk yang boleh dipakai kreator, 4) Buat juga Targeted Plan 20% untuk 5-10 kreator pilihan yang Anda kirimkan sampel — komisi lebih tinggi untuk kreator yang sudah terverifikasi kualitasnya. Mulai dengan budget 20 sampel produk (20 x Rp44.500 HPP = Rp890.000) sebagai investasi awal."
+      },
+      {
+        "role": "user",
+        "content": "Dari mana saya tahu kreator mana yang performanya bagus untuk produk saya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pantau melalui dashboard Affiliate di Seller Center — TikTok menyediakan data per kreator: jumlah konten yang dibuat, total views, klik ke produk, dan konversi penjualan. Metrik yang harus diperhatikan: 1) Conversion Rate — kreator yang views-nya 50.000 tapi menghasilkan 10 penjualan (0.02%) masih lebih baik dari yang views 500.000 tapi 0 penjualan, 2) Content Quality — tonton konten mereka, apakah review jujur dan meyakinkan atau asal-asalan, 3) Audience Fit — apakah followers mereka target market skincare Anda (wanita 18-35), 4) Consistency — kreator yang rutin posting tentang produk Anda lebih baik dari one-shot content. Setelah 2 minggu, ranking kreator berdasarkan ROI: penjualan yang dihasilkan dibagi nilai sampel dan komisi. Top 5 kreator, ajak kerja sama jangka panjang dengan exclusive deal."
+      }
+    ]
+  }
+]

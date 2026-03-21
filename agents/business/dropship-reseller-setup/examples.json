@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Memulai bisnis dropship produk kecantikan di Shopee",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ibu rumah tangga mau mulai dropship produk kecantikan di Shopee. Modal cuma 500 ribu. Bisa tidak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, tapi dengan ekspektasi yang realistis. Modal Rp500.000 cukup untuk: 1) Beli 2-3 sampel produk dari supplier untuk cek kualitas (Rp100.000-200.000) — ini penting, jangan jual produk yang belum pernah Anda pegang sendiri, 2) Sisanya untuk biaya kuota internet dan iklan ringan. Langkah awal: cari supplier kecantikan yang sudah punya BPOM — ini wajib karena produk kecantikan tanpa izin BPOM bisa membuat listing diturunkan. Pilih 10-15 produk yang paling laris dari supplier tersebut. Mulai dengan produk murah Rp30.000-80.000 karena lebih mudah closing untuk toko baru. Fokus 2 minggu pertama hanya pada listing yang rapi: foto bagus, deskripsi lengkap dengan informasi BPOM, dan harga kompetitif."
+      },
+      {
+        "role": "user",
+        "content": "Gimana caranya biar beda dari dropshipper lain yang jual produk sama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Diferensiasi adalah kunci karena Anda akan bersaing dengan ratusan dropshipper yang jual produk identik. Strategi: 1) Respons chat super cepat — banyak dropshipper lambat merespons, jadikan kecepatan sebagai keunggulan Anda, 2) Buat konten foto sendiri jika memungkinkan — jangan pakai foto supplier yang sama dengan ribuan seller lain, 3) Tulis deskripsi unik yang menjawab pertanyaan umum pembeli kecantikan: 'Cocok untuk kulit berminyak', 'Cara pakai untuk pemula', 4) Buat bundling — misalnya paket skincare pemula yang dikurasi oleh Anda, 5) Follow-up pembeli setelah pengiriman: tanyakan hasilnya, ini membangun loyalitas dan mendorong repeat order. Jangka panjang: bangun personal brand di media sosial sebagai beauty advisor, bukan sekadar penjual produk."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Persiapan mediasi wajib sebagai tergugat dalam kasus wanprestasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya digugat wanprestasi oleh mantan rekan bisnis senilai Rp 500 juta. Sidang pertama minggu depan dan hakim pasti akan mewajibkan mediasi. Apa yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan PERMA No. 1/2016, mediasi wajib dilakukan sebelum pemeriksaan pokok perkara. Berikut persiapan yang perlu Anda lakukan:\n\n**1. Kehadiran (Kritis)**\n- Anda **wajib hadir** pada sidang pertama. Ketidakhadiran tergugat 2 kali berturut-turut bisa berakibat putusan verstek (putusan tanpa pembelaan Anda)\n- Jika diwakilkan advokat, bawa surat kuasa khusus yang mencantumkan kewenangan untuk bermediasi dan membuat kesepakatan\n\n**2. Siapkan Resume Perkara (5 hari setelah mediator ditunjuk)**\nIsi resume perkara:\n- Kronologi hubungan bisnis dan perjanjian yang menjadi dasar gugatan\n- Dalil bantahan Anda: mengapa Anda tidak wanprestasi, atau mengapa nilai tuntutan tidak wajar\n- Bukti pendukung: kontrak/perjanjian, bukti pembayaran, korespondensi, saksi\n- Posisi Anda: apa yang bersedia Anda tawarkan dalam mediasi\n\n**3. Strategi Negosiasi**\n- **BATNA (opsi terbaik jika mediasi gagal)**: Apakah Anda punya bukti kuat untuk menang di persidangan? Jika ya, posisi tawar Anda kuat\n- **WATNA (skenario terburuk)**: Jika kalah di persidangan, Anda harus bayar Rp 500 juta plus bunga dan biaya perkara\n- **ZOPA**: Identifikasi angka minimum yang Anda bersedia bayar dan bandingkan dengan tuntutan penggugat\n\n**4. Pilih Mediator**\n- Dalam 2 hari setelah sidang pertama, Anda dan penggugat harus sepakat memilih mediator\n- Opsi: hakim mediator (gratis) atau mediator non-hakim bersertifikat (biaya ditanggung bersama)\n- Mediator non-hakim biasanya lebih fleksibel waktu dan pendekatan\n\n**5. Sikap dalam Mediasi**\n- Datang dengan itikad baik — ini bukan sidang, tidak ada pihak yang \"menang\" atau \"kalah\"\n- Dengarkan posisi penggugat, lalu sampaikan posisi Anda dengan tenang\n- Manfaatkan sesi caucus (pertemuan terpisah) untuk menyampaikan hal sensitif ke mediator\n\nMediasi berlangsung maksimal 30 hari kerja, bisa diperpanjang 30 hari. Jika berhasil, hasilnya dituangkan dalam akta perdamaian yang berkekuatan eksekutorial."
+      }
+    ]
+  },
+  {
+    "title": "Kekuatan hukum hasil mediasi dan risiko ingkar janji",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Mediasi kami berhasil dan ada kesepakatan: pihak lawan akan membayar Rp 200 juta dalam 3 bulan. Tapi saya khawatir dia tidak menepati. Apa jaminannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kesepakatan mediasi di pengadilan memiliki kekuatan hukum yang sangat kuat. Berdasarkan PERMA No. 1/2016 dan KUH Perdata Pasal 1851-1864:\n\n**Kekuatan akta perdamaian (acte van dading):**\n1. Kesepakatan ditandatangani kedua pihak dan mediator, lalu dikuatkan oleh **putusan hakim**\n2. Putusan ini setara dengan putusan yang berkekuatan hukum tetap (inkracht van gewijsde)\n3. **Tidak bisa diajukan banding, kasasi, atau peninjauan kembali**\n4. **Langsung dapat dieksekusi** jika pihak lawan ingkar janji\n\n**Langkah pengamanan dalam penyusunan kesepakatan:**\n- Pastikan jumlah (Rp 200 juta), jadwal pembayaran (tenggat 3 bulan), dan mekanisme pembayaran (transfer ke rekening X) tertulis jelas dan spesifik\n- Cantumkan klausul denda keterlambatan, misalnya bunga 1% per bulan jika lewat tenggat\n- Cantumkan klausul bahwa jika cicilan tertentu terlambat, seluruh sisa menjadi jatuh tempo sekaligus\n- Minta tanda tangan di hadapan mediator dan pastikan hakim mengukuhkan menjadi putusan\n\n**Jika pihak lawan ingkar janji:**\n1. Ajukan **permohonan eksekusi** (aanmaning) ke Ketua Pengadilan Negeri\n2. Ketua PN memanggil pihak lawan untuk ditegur (aanmaning) dalam 8 hari\n3. Jika tetap tidak membayar, PN menerbitkan **penetapan sita eksekusi** atas harta pihak lawan\n4. Harta disita dan dilelang untuk membayar kewajiban\n\nKesimpulan: akta perdamaian dari mediasi pengadilan adalah instrumen hukum yang paling kuat dalam penyelesaian sengketa perdata. Pastikan redaksi kesepakatan lengkap dan detail sebelum ditandatangani."
+      }
+    ]
+  }
+]

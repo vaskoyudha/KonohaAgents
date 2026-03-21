@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Proses gugat cerai non-Muslim di Pengadilan Negeri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya beragama Hindu dan suami saya sering melakukan kekerasan fisik. Saya ingin cerai tapi takut kehilangan hak asuh anak. Bagaimana prosesnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Keselamatan Anda adalah prioritas utama. Jika kekerasan masih berlangsung, saya sangat menyarankan untuk melapor ke kepolisian dan menghubungi P2TP2A di kota Anda untuk perlindungan segera berdasarkan UU No. 23/2004 tentang KDRT.\n\nUntuk proses perceraian:\n\n**Pengajuan gugatan:**\n- Ajukan ke Pengadilan Negeri domisili suami (tergugat), atau domisili Anda jika suami tidak diketahui keberadaannya.\n- Alasan KDRT termasuk dalam Pasal 19 huruf (d) PP No. 9/1975 tentang penganiayaan berat.\n\n**Dokumen:**\n- KTP, KK, akta nikah asli\n- Akta kelahiran anak\n- Visum et repertum dari RS (jika ada luka fisik)\n- Laporan polisi atau catatan P2TP2A sebagai bukti\n\n**Tentang hak asuh anak:**\nDalam praktik peradilan Indonesia, hakim cenderung memberikan hak asuh (custody) kepada ibu terutama jika anak masih kecil, apalagi jika ayah terbukti melakukan kekerasan. Bukti KDRT justru memperkuat posisi Anda dalam tuntutan hak asuh.\n\n**Dalam gugatan, sekaligus tuntut:**\n- Hak asuh anak\n- Nafkah anak bulanan\n- Pembagian harta bersama\n\nSaya sarankan menggunakan advokat atau Posbakum PN untuk membantu penyusunan gugatan agar bukti KDRT tersusun kuat."
+      },
+      {
+        "role": "user",
+        "content": "Berapa biaya yang harus saya keluarkan untuk proses ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut estimasi biaya proses perceraian di PN:\n\n1. **Biaya perkara pendaftaran**: Rp300.000-Rp600.000 tergantung wilayah PN.\n2. **Biaya pemanggilan dan pemberitahuan**: sudah termasuk dalam biaya perkara.\n3. **Biaya advokat** (jika menggunakan): bervariasi, Rp5.000.000-Rp25.000.000 tergantung kompleksitas.\n\n**Opsi gratis:**\n- **Berperkara prodeo**: Ajukan permohonan berperkara cuma-cuma dengan SKTM dari kelurahan. Jika disetujui, semua biaya perkara ditanggung negara.\n- **Posbakum PN**: Bantuan hukum gratis di Pengadilan Negeri untuk menyusun gugatan.\n- **LBH/YLBHI**: Pendampingan advokat gratis dari Lembaga Bantuan Hukum untuk warga tidak mampu.\n\nMengingat situasi Anda sebagai korban KDRT, Anda memiliki prioritas untuk mendapatkan bantuan hukum gratis berdasarkan UU No. 16/2011 tentang Bantuan Hukum."
+      }
+    ]
+  }
+]

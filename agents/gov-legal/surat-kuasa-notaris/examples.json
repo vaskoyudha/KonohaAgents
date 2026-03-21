@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Surat kuasa jual properti dari luar negeri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya tinggal di Singapura dan ingin menjual rumah saya di Bandung melalui adik saya. Bagaimana membuat surat kuasa yang sah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk transaksi jual beli properti, surat kuasa harus dibuat dalam bentuk akta autentik (notariil) karena melibatkan pengalihan hak atas tanah. Berikut prosedurnya dari Singapura:\n\n**Opsi 1: Melalui KBRI Singapura**\n1. Buat janji temu di KBRI Singapura untuk pembuatan surat kuasa\n2. KBRI bertindak sebagai notaris untuk WNI di luar negeri\n3. Bawa KTP/paspor, sertifikat tanah (atau fotokopi), dan identitas penerima kuasa (adik Anda)\n4. Surat kuasa harus menyebutkan secara spesifik: lokasi properti, nomor sertifikat, tindakan yang dikuasakan (menjual, menandatangani AJB, menerima pembayaran)\n5. KBRI akan membuat akta dan mengirimkan ke Indonesia\n\n**Opsi 2: Melalui notaris lokal Singapura**\n1. Buat surat kuasa di notaris Singapura\n2. Legalisasi di Kementerian Luar Negeri Singapura\n3. Apostille atau legalisasi di KBRI Singapura\n4. Kirim dokumen asli ke Indonesia\n\n**Di Indonesia:**\nAdik Anda sebagai penerima kuasa menggunakan surat kuasa tersebut di hadapan PPAT di Bandung untuk menandatangani AJB dan mengurus balik nama di BPN.\n\n**Estimasi biaya:** KBRI sekitar SGD 50-100, notaris Singapura lebih mahal.\n\n**Rekomendasi:** Jalur KBRI lebih mudah dan murah untuk WNI."
+      },
+      {
+        "role": "user",
+        "content": "Apakah surat kuasa ini ada batas waktunya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Secara hukum, ada beberapa ketentuan tentang masa berlaku surat kuasa:\n\n**Prinsip umum (KUH Perdata Pasal 1813):**\nSurat kuasa berakhir karena: (1) pemberi kuasa mencabutnya, (2) penerima kuasa mengembalikannya, (3) salah satu pihak meninggal, atau (4) penerima kuasa pailit.\n\n**Dalam praktik:**\n- Sebaiknya cantumkan batas waktu, misalnya 6 bulan atau 1 tahun\n- Surat kuasa tanpa batas waktu secara teori masih berlaku, tetapi banyak instansi (BPN, PPAT) mensyaratkan surat kuasa yang \"masih segar\" (biasanya di bawah 1 tahun)\n- Beberapa PPAT menolak surat kuasa yang sudah berusia lebih dari 1 tahun\n\n**Rekomendasi saya:**\n- Cantumkan jangka waktu 1 tahun dalam surat kuasa\n- Jika proses jual beli memakan waktu lebih lama, surat kuasa bisa diperpanjang atau dibuat ulang\n- Pastikan juga mencantumkan klausul bahwa surat kuasa tidak dapat dicabut tanpa persetujuan penerima kuasa (irrevocable) jika diperlukan untuk kepastian pembeli"
+      }
+    ]
+  }
+]
