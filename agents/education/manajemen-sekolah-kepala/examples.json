@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Perencanaan manajemen sekolah untuk kepala sekolah baru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru menjadi kepala sekolah. Apa langkah awal yang perlu saya lakukan untuk membangun manajemen sekolah yang baik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selamat atas penugasan Anda. Berikut langkah awal yang perlu dilakukan secara berurutan. Pertama, lakukan analisis komprehensif terhadap profil sekolah meliputi jumlah siswa, guru, rombel, fasilitas, dan status akreditasi saat ini. Kedua, pelajari dokumen manajemen yang sudah ada seperti RKAS, laporan akreditasi, dan evaluasi diri sekolah untuk memahami kondisi riil. Ketiga, bentuk tim manajemen sekolah dengan struktur organisasi yang jelas dan tetapkan tugas pokok fungsi setiap unit. Keempat, ajak seluruh stakeholder dalam forum rapat untuk mengidentifikasi kekuatan, kelemahan, peluang, dan ancaman sekolah. Kelima, susun visi-misi sekolah bersama komunitas yang aspiratif namun realistis. Keenam, buat rencana kerja lima tahunan yang terstruktur dengan target nyata dan indikator keberhasilan. Ketujuh, tetapkan KPI untuk guru, staf, dan sekolah secara keseluruhan dengan mekanisme monitoring bulanan. Kedelapan, mulai analisis kesenjangan terhadap standar nasional pendidikan untuk mempersiapkan akreditasi. Dengan urutan ini, Anda membangun fondasi manajemen yang solid dan transparansi kepemimpinan."
+      },
+      {
+        "role": "user",
+        "content": "Saya kesulitan menyusun RKAS yang mengutamakan pembelajaran. Bagaimana caranya?"
+      },
+      {
+        "role": "assistant",
+        "content": "RKAS yang baik harus berangkat dari kebutuhan riil sekolah bukan sekadar alokasi rutin. Berikut panduan praktisnya. Pertama, identifikasi prioritas peningkatan mutu pembelajaran berdasarkan hasil analisis hasil belajar siswa tiga tahun terakhir, apalagi jika ada mata pelajaran dengan nilai rendah. Kedua, petakan kebutuhan pengembangan SDM guru melalui analisis kompetensi dan rencana pelatihan yang terukur. Ketiga, identifikasi kekurangan sarana pembelajaran seperti buku, media, alat peraga, atau lab yang menjadi penghambat kualitas mengajar. Keempat, susun program peningkatan prestasi siswa dalam dan luar akademik dengan alokasi dana khusus. Kelima, tetapkan biaya operasional rutin berdasarkan standar minimal termasuk gaji penunjang guru, listrik, air, dan pemeliharaan. Keenam, alokasikan dana BOS sesuai regulasi PMK 119/2020 dengan komposisi yang tepat: gaji penunjang maksimal 50 persen, operasional 30 persen, pengembangan 20 persen. Ketujuh, susun RKAS dalam format tabel yang jelas dengan program, justifikasi kebutuhan, indikator output, dan PIC pelaksana. Kedelapan, sosialisasikan RKAS ke guru, komite sekolah, dan orang tua agar transparan dan mendapat dukungan. Dengan pola ini, setiap rupiah BOS benar-benar mendukung peningkatan pembelajaran siswa."
+      }
+    ]
+  },
+  {
+    "title": "Persiapan akreditasi dan analisis gap standar nasional pendidikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sekolah saya akan diakreditasi dalam lima bulan. Dokumen dan bukti apa saja yang harus saya siapkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lima bulan cukup untuk persiapan jika Anda terstruktur sejak sekarang. Dokumen dan bukti yang harus disiapkan mencakup delapan standar nasional pendidikan. Standar Pertama, Standar Isi: silabus, RPP, kalender akademik, dan beban belajar siswa yang sesuai. Standar Kedua, Standar Proses: bukti pembelajaran aktif di kelas, penggunaan media, asesmen berkala, dan remedial program. Standar Ketiga, Standar Kompetensi Lulusan: dokumen SKL sekolah, hasil ujian akhir tiga tahun, dan portofolio pencapaian siswa. Standar Keempat, Standar Pendidik dan Tenaga Kependidikan: dokumen kepangkatan, sertifikat, ijazah guru, dan bukti pelatihan berkelanjutan. Standar Kelima, Standar Sarana dan Prasarana: daftar inventaris, foto fasilitas, ruang belajar yang layak, perpustakaan, dan lab. Standar Keenam, Standar Pengelolaan: struktur organisasi, RKAS dua tahun, bukti transparansi keuangan, laporan audit, dan SOP sekolah. Standar Ketujuh, Standar Pembiayaan: laporan keuangan audit, bukti penggunaan dana BOS, APBD, sumber lain, dan keterlibatan komite dalam perencanaan. Standar Kedelapan, Standar Penilaian: bukti asesmen formatif dan sumatif guru, analisis hasil belajar, dan program perbaikan. Siapkan borang evaluasi diri sekolah sebagai ringkasan dengan tingkat pencapaian masing-masing standar."
+      },
+      {
+        "role": "user",
+        "content": "Dari delapan standar itu, mana yang paling kritis untuk saya perbaiki duluan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Berdasarkan pengalaman akreditasi, empat standar biasanya menjadi fokus asesor pertama kali. Standar Proses adalah yang paling kritis karena mencerminkan kualitas pembelajaran di kelas: guru harus menunjukkan bukti rencana mengajar matang, penguasaan materi, penggunaan media interaktif, dan asesmen yang terukur. Jika standar ini lemah, maka output pendidikan juga tidak optimal. Standar Pendidik dan Tenaga Kependidikan adalah prioritas kedua karena guru adalah kunci utama: pastikan semua guru memiliki ijazah minimal, sertifikat mengajar lengkap, dan bukti pelatihan berkelanjutan minimal dua tahun terakhir. Standar Pengelolaan adalah prioritas ketiga karena mencerminkan profesionalisme dan transparansi sekolah: siapkan struktur organisasi yang jelas, RKAS yang rinci dan berbasis kebutuhan, bukti implementasi SOP, dan rekam jejak pengambilan keputusan melibatkan komite. Standar Sarana Prasarana adalah prioritas keempat namun praktis: data inventaris lengkap, foto ruang belajar, perpustakaan yang fungsional, dan perawatan rutin terdokumentasi. Jadi mulai tiga bulan pertama fokus pada Standar Proses dengan pelatihan guru tentang pembelajaran aktif dan asesmen. Bulan kedua perkuat Standar Pendidik melalui verifikasi kelengkapan dokumen guru. Bulan ketiga finalisasi Standar Pengelolaan dan Sarana. Bulan keempat hingga kelima lakukan simulasi audit dan perbaikan detail terakhir sebelum asesor datang."
+      }
+    ]
+  }
+]
