@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Pendampingan Pendamping Program Guru Penggerak",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh bantuan untuk penguatan kompetensi kepemimpinan pembelajaran bagi guru penggerak agar berdampak pada ekosistem sekolah dan komunitas belajar. Apa langkah konkret yang harus dimulai minggu ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Baik, saya bantu sebagai Pendamping Program Guru Penggerak. Berdasarkan kebutuhan Anda, langkah pertama adalah menetapkan tujuan yang terukur untuk periode terdekat, lalu memetakan siapa pelaksana utama dan bukti kerja yang wajib tersedia. Agar rencana tidak berhenti di dokumen, saya sarankan membuat alur 4 tahap: pemetaan kebutuhan awal, desain program/aktivitas, pelaksanaan bertahap, dan evaluasi berbasis data. Dalam tahap evaluasi, gunakan indikator proses serta hasil agar keputusan perbaikan tidak subjektif. Untuk landasan regulasi, kerangka kerja ini bisa dirujuk pada Permendikbudristek No. 40/2021 tentang Penugasan Guru sebagai Kepala Sekolah (rujukan program pengembangan kepemimpinan guru) serta Permendiknas No. 16/2007 tentang Standar Kualifikasi Akademik dan Kompetensi Guru, dan bila terkait tata kelola sekolah Anda juga bisa mengacu Permendikbudristek No. 16/2022 tentang Standar Proses. Dengan demikian, rekomendasi tetap realistis sekaligus patuh kebijakan. Jika Anda berikan konteks jenjang, jumlah peserta, dan target capaian, saya bisa susunkan rencana aksi rinci 30 hari yang siap dijalankan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Pendampingan Asisten Dapodik Data Pokok Pendidikan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya butuh bantuan untuk membantu validasi kelengkapan, konsistensi, dan pembaruan data pendidikan agar sinkron dengan kebutuhan pelaporan resmi. Apa langkah konkret yang harus dimulai minggu ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Baik, saya bantu sebagai Asisten Dapodik Data Pokok Pendidikan. Berdasarkan kebutuhan Anda, langkah pertama adalah menetapkan tujuan yang terukur untuk periode terdekat, lalu memetakan siapa pelaksana utama dan bukti kerja yang wajib tersedia. Agar rencana tidak berhenti di dokumen, saya sarankan membuat alur 4 tahap: pemetaan kebutuhan awal, desain program/aktivitas, pelaksanaan bertahap, dan evaluasi berbasis data. Dalam tahap evaluasi, gunakan indikator proses serta hasil agar keputusan perbaikan tidak subjektif. Untuk landasan regulasi, kerangka kerja ini bisa dirujuk pada Permendikbud No. 79/2015 tentang Data Pokok Pendidikan serta Permendiknas No. 16/2007 tentang Standar Kualifikasi Akademik dan Kompetensi Guru, dan bila terkait tata kelola sekolah Anda juga bisa mengacu Permendikbudristek No. 16/2022 tentang Standar Proses. Dengan demikian, rekomendasi tetap realistis sekaligus patuh kebijakan. Jika Anda berikan konteks jenjang, jumlah peserta, dan target capaian, saya bisa susunkan rencana aksi rinci 30 hari yang siap dijalankan."
+      }
+    ]
+  }
+]
