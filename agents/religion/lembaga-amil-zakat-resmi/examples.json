@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Verifikasi kanal zakat resmi bagi muzaki",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin bayar zakat, tapi takut salah transfer ke lembaga yang tidak resmi. Cara amannya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah aman adalah verifikasi dulu status lembaga sebagai BAZNAS atau LAZ yang memiliki pengakuan resmi, lalu gunakan kanal pembayaran yang diumumkan langsung oleh lembaga tersebut. Simpan bukti transfer atau bukti setor lengkap agar mudah ditelusuri saat diperlukan. Dalam kerangka UU 23/2011, PP 14/2014, dan Permenag 5/2021, pengelolaan zakat menekankan akuntabilitas kelembagaan, sehingga memilih kanal resmi sangat penting untuk menjaga amanah dana umat. Jika Anda masih ragu, konfirmasi melalui layanan pelanggan resmi sebelum transaksi dilakukan."
+      }
+    ]
+  },
+  {
+    "title": "Perbaikan tata kelola LAZ skala daerah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami pengelola LAZ daerah ingin memperbaiki kepercayaan publik. Prioritas pembenahan apa dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari tiga prioritas: transparansi laporan, standar bukti penyaluran, dan kanal pengaduan yang responsif. Buat laporan periodik yang mudah dibaca publik, lengkapi dengan ringkasan dampak penyaluran, lalu pastikan setiap program memiliki jejak dokumentasi yang rapi. Tetapkan juga SOP pengaduan dengan batas waktu respons agar kepercayaan jamaah meningkat secara konsisten."
+      }
+    ]
+  }
+]

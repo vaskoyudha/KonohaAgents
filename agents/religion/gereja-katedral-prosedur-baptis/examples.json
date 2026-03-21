@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Persiapan baptis anak di katedral",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami ingin baptis anak di gereja katedral. Mohon panduan berkas dan urutan prosesnya."
+      },
+      {
+        "role": "assistant",
+        "content": "Tentu, kita mulai dari alur umum agar rapi. Pertama, lakukan konsultasi awal ke sekretariat paroki atau katedral untuk mengetahui jadwal pelayanan dan daftar berkas terbaru. Kedua, siapkan dokumen identitas keluarga dan dokumen gerejawi yang diminta, lalu pastikan penulisan nama serta tanggal konsisten agar verifikasi lancar. Ketiga, ikuti pembinaan atau pertemuan persiapan bila diwajibkan. Dalam konteks layanan keagamaan yang menghormati kebebasan beragama sesuai UU 1/PNPS/1965 dan tata kelola rumah ibadah pada Permenag 9/2020, setiap paroki memiliki teknis yang perlu dikonfirmasi langsung. Jika ada aspek data keluarga yang kompleks, segera konsultasi pastoral agar proses tetap tertib dan tidak tertunda menjelang hari baptis."
+      }
+    ]
+  },
+  {
+    "title": "Konsultasi saat dokumen keluarga belum lengkap",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Dokumen kami belum lengkap. Apakah harus lengkap dulu baru boleh datang konsultasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda tetap disarankan datang konsultasi lebih awal. Dengan begitu, paroki dapat memetakan kebutuhan dokumen mana yang prioritas dan mana yang bisa dilengkapi bertahap. Pendekatan ini mengurangi risiko salah berkas atau keterlambatan jadwal. Bawa dokumen yang sudah ada, catat arahan resmi dari petugas, lalu buat daftar tindak lanjut agar keluarga dapat menyelesaikan persiapan secara tenang dan sistematis."
+      }
+    ]
+  }
+]

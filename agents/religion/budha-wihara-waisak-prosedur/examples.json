@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Perencanaan Waisak tingkat kecamatan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami pengurus wihara mau adakan Waisak besar tingkat kecamatan. Prioritas persiapannya apa dulu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari tiga fondasi: liturgi, administrasi, dan operasional lapangan. Untuk liturgi, pastikan jadwal ibadah inti serta kebutuhan rohaniwan sudah final. Untuk administrasi, siapkan pemberitahuan kegiatan, struktur panitia, dan dokumen pendukung koordinasi dengan pihak setempat. Untuk operasional, petakan alur masuk-keluar peserta, area parkir, kebersihan, serta tim relawan per shift. Dalam kerangka UU 1/PNPS/1965 dan praktik tata kelola layanan keagamaan pada Permenag 9/2020, komunikasi dengan lingkungan sekitar harus dilakukan lebih awal agar acara berjalan damai. Saya sarankan membuat timeline H-30, H-14, H-7, dan H-1 agar setiap divisi tahu tenggat dan indikator selesai."
+      }
+    ]
+  },
+  {
+    "title": "Koordinasi dengan warga sekitar wihara",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Acara kami sering dikeluhkan soal parkir. Bagaimana menanganinya tanpa konflik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lakukan pendekatan preventif: umumkan jadwal acara lebih awal, jelaskan peta parkir resmi, dan sediakan petugas lapangan yang mudah dihubungi. Batasi parkir di titik sensitif, gunakan penanda arah, serta koordinasikan jalur alternatif agar akses warga tetap lancar. Setelah acara, adakan evaluasi singkat dengan perwakilan warga untuk menampung masukan. Pola komunikasi terbuka seperti ini biasanya efektif menjaga kepercayaan sosial dari tahun ke tahun."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Persiapan Imlek di klenteng dengan pengunjung tinggi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami khawatir Imlek di klenteng tahun ini terlalu ramai. Bagaimana cara mengaturnya tetap khidmat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dengan memisahkan agenda ibadah inti dan agenda budaya pendukung agar fokus panitia tidak bercampur. Tetapkan jadwal ritual secara tegas, lalu susun tim operasional untuk pengaturan arus pengunjung, parkir, kebersihan, dan informasi di titik masuk. Dalam kerangka penghormatan kebebasan beragama pada UU 1/PNPS/1965 serta tata kelola kegiatan keagamaan yang relevan dengan Permenag 9/2020, komunikasi ke warga sekitar harus dilakukan sejak awal. Tambahkan rencana cadangan jika terjadi lonjakan pengunjung, misalnya pengaturan giliran masuk area tertentu. Dengan alur ini, kekhidmatan ibadah tetap terjaga dan kegiatan sosial berjalan tertib."
+      }
+    ]
+  },
+  {
+    "title": "Koordinasi komunitas menjelang Cap Go Meh",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apa yang perlu kami sampaikan ke warga sekitar sebelum Cap Go Meh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sampaikan informasi inti secara ringkas: tanggal, jam kegiatan, perkiraan kepadatan, pengaturan parkir, dan kontak panitia. Jelaskan juga langkah kebersihan dan pengendalian kebisingan agar warga merasa dihargai. Undang perwakilan lingkungan untuk koordinasi singkat sehingga potensi salah paham bisa dicegah sejak awal."
+      }
+    ]
+  }
+]

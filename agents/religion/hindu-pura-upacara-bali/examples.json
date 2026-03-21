@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Panitia upacara pura berskala besar",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami panitia pura akan adakan upacara besar, tapi takut kacau karena peserta banyak. Apa kerangka persiapan terbaik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan kerangka tiga lapis. Lapis pertama adalah kepastian tata upacara dari pemangku atau sulinggih agar seluruh panitia memahami urutan sakral yang tidak boleh berubah. Lapis kedua adalah koordinasi komunitas melalui banjar dan desa adat untuk pembagian tugas relawan, kebersihan, konsumsi, dan pengaturan arus umat sesuai awig-awig setempat. Lapis ketiga adalah operasional publik: zonasi parkir, jalur masuk-keluar, titik informasi, serta protokol cuaca. Dalam semangat UU 1/PNPS/1965 dan praktik tata kelola rumah ibadah pada Permenag 9/2020, komunikasi ke warga sekitar perlu dilakukan sejak awal agar acara tetap khidmat dan tertib. Buat checklist H-14, H-7, H-1 agar setiap divisi punya tenggat yang jelas."
+      }
+    ]
+  },
+  {
+    "title": "Menjaga ketertiban umat saat puncak acara",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana menjaga ketertiban saat puncak upacara tanpa mengganggu kekhusyukan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tetapkan zonasi area sembahyang dan alur giliran dengan petunjuk yang jelas namun tetap santun. Tempatkan relawan penerima umat di titik padat untuk membantu antrean dan mengingatkan etika busana serta kebersihan. Gunakan pengumuman yang singkat, tidak berulang berlebihan, agar suasana sakral tetap terjaga. Setelah puncak acara, lakukan evaluasi cepat untuk mencatat titik macet dan perbaikan berikutnya."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Langkah legalisasi setelah nikah siri",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya nikah siri sejak lama, sekarang butuh legalisasi supaya administrasi anak tidak bermasalah. Mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari pengumpulan bukti dasar: identitas pasangan, bukti akad yang masih ada, serta dokumen keluarga terkait. Setelah itu konsultasi ke KUA untuk memetakan jalur yang tepat, apakah dapat langsung ditindaklanjuti administrasi atau perlu proses isbat nikah di pengadilan agama. Dalam kerangka UU 1/1974, KHI Pasal 4-11, dan layanan pencatatan pada Permenag 20/2019, legalisasi bertujuan memperkuat perlindungan hak keluarga, termasuk administrasi anak. Agar proses lebih lancar, buat daftar dokumen per tahap dan simpan semua bukti pengajuan secara rapi."
+      }
+    ]
+  },
+  {
+    "title": "Menghadapi perbedaan data identitas pasangan",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Data identitas saya dan pasangan ada perbedaan penulisan. Apakah ini bisa menghambat legalisasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan data bisa menjadi hambatan verifikasi, jadi sebaiknya dibenahi sejak awal. Cocokkan seluruh dokumen utama dan lakukan pembaruan data kependudukan bila diperlukan sebelum melanjutkan tahapan legalisasi. Dengan data yang konsisten, proses pemeriksaan berkas biasanya lebih cepat dan risiko penolakan administrasi dapat ditekan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Bantuan BLT tidak cair dua periode",
+    "turns": [
+      {
+        "role": "user",
+        "content": "BLT saya tidak cair dua kali, padahal tetangga yang kondisi ekonominya mirip tetap dapat. Harus bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama, cek status data keluarga Anda di tingkat kelurahan atau desa karena penyaluran bantuan mengikuti data terverifikasi. Bawa KTP, KK, dan bukti penerimaan terakhir. Kedua, minta pemeriksaan pembaruan data dengan rujukan kerangka penanganan fakir miskin menurut UU 13/2011, lalu catat nomor registrasi layanan. Ketiga, bila belum selesai, eskalasi ke Dinas Sosial kabupaten/kota dan simpan seluruh bukti komunikasi. Dalam konteks percepatan layanan sosial sebagaimana semangat Perpres 63/2017 serta pedoman sosial pada Permensos 11/2019, pengaduan yang terdokumentasi baik biasanya lebih cepat ditindaklanjuti. Jangan membayar pihak mana pun yang menjanjikan pencairan instan karena itu berisiko pungli."
+      }
+    ]
+  },
+  {
+    "title": "Pemutakhiran data subsidi setelah pindah domisili",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya baru pindah domisili, apakah ini bisa bikin subsidi saya berhenti?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa berpengaruh jika data kependudukan lama belum diperbarui. Segera urus sinkronisasi alamat pada dokumen kependudukan, lalu laporkan ke pemerintah kelurahan atau desa setempat untuk pemutakhiran data sosial. Simpan bukti pengajuan dan minta jadwal verifikasi agar Anda tahu kapan harus mengecek ulang status bantuan. Prinsipnya, data yang mutakhir membantu proses penetapan lebih akurat dan mencegah keterlambatan penyaluran."
+      }
+    ]
+  }
+]

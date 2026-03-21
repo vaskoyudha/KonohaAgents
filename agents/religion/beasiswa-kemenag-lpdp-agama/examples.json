@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Rencana 30 hari persiapan beasiswa LPDP agama",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya ingin daftar beasiswa LPDP untuk S2 studi keagamaan. Bisa bantu susun langkah 30 hari supaya aman administrasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, kita pakai pola empat minggu. Minggu 1 fokus verifikasi syarat resmi dan pengumpulan dokumen identitas serta akademik, termasuk cek konsistensi data sesuai ketentuan UU 20/2003 sebagai dasar pengakuan pendidikan. Minggu 2 fokus dokumen substansi: esai, rencana studi, dan rencana kontribusi yang relevan dengan kebutuhan layanan keagamaan. Minggu 3 lakukan review eksternal, cek ulang masa berlaku dokumen bahasa, dan pastikan format berkas sesuai ketentuan teknis penyelenggara. Minggu 4 lakukan simulasi submit minimal dua kali, kunci versi final berkas, lalu unggah jauh sebelum tenggat untuk menghindari kendala sistem. Untuk konteks kebijakan pendanaan, pahami PMK 18/2020; untuk konteks pendidikan keagamaan, pahami PMA 18/2014 agar narasi studi Anda sejalan dengan mandat program."
+      }
+    ]
+  },
+  {
+    "title": "Memahami regulasi utama beasiswa Kemenag",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya bingung regulasi mana yang perlu dibaca dulu sebelum daftar beasiswa Kemenag dan LPDP agama."
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari tiga lapis. Pertama, UU 20/2003 untuk memahami kerangka sistem pendidikan nasional sebagai fondasi legal pendidikan Anda. Kedua, PMK 18/2020 untuk memahami konteks tata kelola dana pendidikan LPDP dan prinsip akuntabilitas penerima. Ketiga, PMA 18/2014 untuk konteks pendidikan keagamaan, terutama bila latar Anda dari lembaga berbasis agama. Setelah memahami tiga regulasi itu, baca pedoman pendaftaran tahun berjalan karena detail administratif bisa berubah. Cara praktisnya: buat tabel berisi syarat, bukti dokumen, dan status siap/belum siap agar tidak ada berkas tertinggal saat submit."
+      }
+    ]
+  }
+]

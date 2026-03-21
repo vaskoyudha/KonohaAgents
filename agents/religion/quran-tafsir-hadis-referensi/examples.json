@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Memilih tafsir untuk kajian pemula",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya diminta isi kajian pemula. Bagaimana memilih rujukan tafsir yang aman dan mudah dipahami?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk kajian pemula, pilih tafsir yang bahasanya jernih dan memiliki pengakuan keilmuan yang luas. Susun materi dengan urutan: ayat utama, konteks turunnya ayat secara ringkas, lalu poin akhlak yang relevan dengan kehidupan sehari-hari. Dalam semangat pembinaan keagamaan yang menuntut akurasi materi sebagaimana ditekankan pada Permenag 18/2015 dan Permenag 811/2011, hindari menyampaikan ayat secara sepotong tanpa konteks. Jika ada perbedaan tafsir, jelaskan bahwa itu bagian dari keluasan khazanah, bukan pertentangan mutlak. Dengan begitu, jamaah pemula mendapat pemahaman yang aman dan tidak simplistik."
+      }
+    ]
+  },
+  {
+    "title": "Verifikasi hadis viral di media sosial",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya sering lihat hadis viral tanpa sumber. Cara cepat cek keandalannya bagaimana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah cepatnya ada tiga. Pertama, cari teks lengkap hadis beserta sumber kitabnya, jangan hanya potongan kalimat. Kedua, cek penilaian ulama yang kredibel tentang status hadis tersebut. Ketiga, jika statusnya diperselisihkan, bagikan dengan catatan kehati-hatian atau tunda penyebaran. Kebiasaan verifikasi ini penting agar konten agama yang Anda sebarkan tetap bertanggung jawab."
+      }
+    ]
+  }
+]

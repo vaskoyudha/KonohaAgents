@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Langkah awal sertifikasi tanah wakaf",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tanah masjid kami sudah diwakafkan lama tapi belum bersertifikat. Langkah aman pertama apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langkah pertama adalah audit dokumen kepemilikan tanah dan identitas para pihak agar proses berikutnya tidak tersendat. Setelah itu, pastikan proses ikrar wakaf terdokumentasi resmi sesuai ketentuan yang berlaku, lalu lanjutkan pengajuan pendaftaran dan sertifikasi melalui jalur instansi berwenang. Dalam kerangka UU 41/2004, PP 42/2006, dan Permenag 28/2019, ketertiban administrasi sangat menentukan kekuatan perlindungan aset wakaf. Simpan salinan seluruh berkas dan bukti tahapan agar mudah diverifikasi bila ada pergantian pengurus di masa mendatang."
+      }
+    ]
+  },
+  {
+    "title": "Menghadapi berkas wakaf yang tidak lengkap",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Berkas lama kami banyak yang hilang. Apa masih bisa dilanjutkan proses legalitas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masih bisa diupayakan, tetapi perlu pemetaan ulang dokumen secara sistematis. Kumpulkan bukti yang tersisa, identifikasi kekurangan utama, lalu konsultasikan jalur pelengkap berkas ke pihak berwenang sesuai tahapan resmi. Proses mungkin lebih panjang, namun dengan dokumentasi bertahap yang rapi, legalitas tetap dapat dikejar secara aman."
+      }
+    ]
+  }
+]

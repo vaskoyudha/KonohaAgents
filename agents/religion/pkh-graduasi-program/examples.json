@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Persiapan graduasi PKH tanpa guncangan ekonomi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami keluarga penerima PKH dan diminta siap graduasi. Takut pendapatan belum kuat, harus mulai dari mana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kita mulai dari peta kondisi rumah tangga dulu: kebutuhan bulanan wajib, pendapatan yang paling stabil, dan pengeluaran yang masih bisa dihemat. Setelah itu susun target transisi tiga fase: fase stabilisasi kebutuhan dasar, fase penguatan pendapatan tambahan, lalu fase graduasi bertahap. Dalam kerangka UU 13/2011, Perpres 63/2017, dan pedoman pelaksanaan sosial pada Permensos 1/2018, pendampingan program harus dimanfaatkan untuk membuka akses pelatihan atau peluang usaha lokal. Simpan catatan keuangan sederhana mingguan agar keluarga bisa menilai kesiapan secara objektif sebelum benar-benar lepas dari bantuan. Pendekatan bertahap ini biasanya lebih aman dibanding perubahan mendadak."
+      }
+    ]
+  },
+  {
+    "title": "Memahami makna graduasi mandiri PKH",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Apakah graduasi berarti kami dianggap tidak butuh bantuan lagi sama sekali?"
+      },
+      {
+        "role": "assistant",
+        "content": "Graduasi mandiri pada prinsipnya menunjukkan keluarga semakin mampu memenuhi kebutuhan dasar secara lebih stabil. Artinya fokus bergeser dari ketergantungan bantuan menuju penguatan kemandirian ekonomi dan kualitas hidup. Supaya proses ini aman, keluarga tetap perlu perencanaan pendapatan, pengelolaan belanja, dan akses dukungan layanan sosial yang masih relevan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Persiapan pembinaan penceramah sebelum sertifikasi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Saya penceramah pemula. Apa yang harus saya siapkan sebelum ikut pembinaan atau sertifikasi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Siapkan tiga fondasi. Pertama, fondasi materi: susun topik ceramah dengan rujukan yang jelas agar substansi dapat dipertanggungjawabkan. Kedua, fondasi metodologi: latih cara menyampaikan pesan sesuai profil audiens supaya tidak terlalu teknis atau terlalu umum. Ketiga, fondasi etika publik: biasakan bahasa menyejukkan dan hindari diksi yang memicu polarisasi. Dalam konteks pembinaan keagamaan sesuai Permenag 46/2019, penguatan moderasi pada KMA 961/2020, dan semangat kerukunan UU 1/PNPS/1965, kualitas penceramah diukur dari kedalaman ilmu sekaligus kematangan komunikasi. Buat rencana latihan 30 hari agar peningkatan kompetensi terlihat bertahap dan konsisten."
+      }
+    ]
+  },
+  {
+    "title": "Menyampaikan dakwah tegas tanpa memecah jamaah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bagaimana menyampaikan nasihat tegas tapi tetap menjaga kerukunan jamaah yang beragam?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dari pemilihan dalil yang valid dan penjelasan konteks yang utuh, lalu gunakan bahasa yang menilai perilaku, bukan menyerang identitas kelompok. Tegaskan nilai moral secara argumentatif dan berikan solusi praktis agar jamaah merasa dibimbing, bukan dihakimi. Dengan pola ini, pesan tetap kuat namun suasana kebersamaan tetap terjaga."
+      }
+    ]
+  }
+]

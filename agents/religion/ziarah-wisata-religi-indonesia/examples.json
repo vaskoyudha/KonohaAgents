@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Rencana ziarah antarkota untuk rombongan campuran usia",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kami ingin ziarah antar kota dengan peserta ada lansia dan anak. Bagaimana susun jadwal supaya tidak kelelahan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Susun rute berdasarkan kedekatan lokasi agar waktu di perjalanan tidak terlalu panjang, lalu batasi jumlah kunjungan per hari agar peserta tetap bugar. Tetapkan jeda istirahat terjadwal, termasuk waktu makan dan ibadah, terutama untuk lansia. Dalam kerangka tata kelola perjalanan sesuai UU 10/2009 dan perencanaan pariwisata pada PP 50/2011, itinerary yang realistis lebih aman daripada jadwal padat. Sebelum kunjungan, briefing adab lokasi berdasarkan ketentuan pengelola dan semangat layanan keagamaan yang tertib sebagaimana relevan dengan Permenag 12/2020. Dengan kombinasi ini, perjalanan tetap bermakna tanpa membebani peserta rentan."
+      }
+    ]
+  },
+  {
+    "title": "Adab kunjungan lintas tradisi religi",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kalau saya ziarah ke situs religi tradisi lain, sikap apa yang wajib saya jaga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jaga kesopanan berpakaian, ketenangan suara, serta ikuti seluruh tata tertib yang ditetapkan pengelola situs. Hindari perilaku yang bisa dianggap mengganggu ritual, termasuk mengambil dokumentasi di area terlarang. Tunjukkan sikap belajar dan hormat agar kunjungan menjadi pengalaman lintas budaya yang positif serta memperkuat kerukunan."
+      }
+    ]
+  }
+]

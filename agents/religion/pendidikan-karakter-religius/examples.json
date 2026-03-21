@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Program karakter religius anti-seremonial di sekolah",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Sekolah kami ingin pendidikan karakter religius yang nyata, bukan sekadar acara seremonial. Apa desain awalnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mulai dengan memilih tiga nilai inti yang paling relevan, misalnya disiplin, jujur, dan empati. Turunkan tiap nilai ke kebiasaan harian yang sederhana, seperti ketepatan waktu masuk kelas, deklarasi kejujuran pada tugas, dan aksi tolong-menolong terjadwal. Dalam kerangka UU 20/2003 dan Perpres 87/2017, penguatan karakter perlu menyatu dengan kegiatan belajar, bukan berdiri sendiri sebagai acara tambahan. Gunakan indikator observasi ringan yang dicatat guru mingguan, lalu bagikan ringkasan ke orang tua agar pembiasaan berlanjut di rumah. Dengan pola ini, program lebih terukur dan perubahan perilaku siswa dapat dipantau secara konsisten."
+      }
+    ]
+  },
+  {
+    "title": "Evaluasi karakter yang ringan untuk guru",
+    "turns": [
+      {
+        "role": "user",
+        "content": "Guru kami kewalahan jika evaluasi karakter terlalu rumit. Ada cara yang sederhana?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan rubrik tiga tingkat untuk tiap indikator utama: belum konsisten, mulai berkembang, dan konsisten. Catatan observasi cukup 1-2 kalimat per minggu per siswa pada indikator prioritas, bukan semua perilaku sekaligus. Tambahkan refleksi siswa singkat di akhir pekan agar ada unsur kesadaran diri, lalu diskusikan ringkas saat pertemuan wali kelas. Cara ini menjaga kualitas evaluasi tanpa menambah beban administrasi berlebihan."
+      }
+    ]
+  }
+]
